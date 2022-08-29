@@ -1,7 +1,8 @@
 import csv
 import nltk
+import glob
 import os
-import sys
+import ssl
 import spacy
 from dotenv import load_dotenv
 from pathlib import Path
@@ -10,20 +11,48 @@ from classes.hsen_document import HsenDocument
 
 class Application(object):
     def __init__(self):
-        self.nlp = spacy.load("en_core_web_lg")
-        self.words = set(nltk.corpus.words.words())
         load_dotenv('.env')
-        self.IN_FOLDER = os.getenv('IN_FOLDER')
-        self.OUT_FOLDER = os.getenv('OUT_FOLDER')
-        self.TEXT_FOLDER = os.getenv('TEXT_FOLDER')
-        self.WEIGHTED_TEXT_FOLDER = os.getenv('WEIGHTED_TEXT_FOLDER')
-        self.TEMPLATE_FILE = os.getenv('TEMPLATE_FILE')
+
+        self.create_ssl_unverified_context()
+        self.get_folders()
+
+        self.template_file = os.path.join(self.resource_folder, "99 template", "template.docx")
         self.SEARCH_TERM_FILE = os.getenv('SEARCH_TERM_FILE')
 
+        self.setup_nlp()
+
+    def setup_nlp(self):
+        self.nlp = spacy.load("en_core_web_lg")
+        nltk.download('words')
+        self.words = set(nltk.corpus.words.words())
+
+    def create_ssl_unverified_context(self):
+        ssl._create_default_https_context = ssl._create_unverified_context
+
+    def get_folders(self):
+        self.resource_folder = os.path.join(os.getcwd(), "resources")
+        self.make_folder(self.resource_folder)
+
+        self.hsen_source_folder = os.path.join(self.resource_folder, "01 hsen source")
+        self.make_folder(self.hsen_source_folder)
+
+        self.processed_hsen_folder = os.path.join(self.resource_folder, "02 processed hsen")
+        self.make_folder(self.processed_hsen_folder)
+
+        self.word_folder = os.path.join(self.resource_folder, "03 words")
+        self.make_folder(self.word_folder)
+
+        self.weighted_word_folder = os.path.join(self.resource_folder, "04 weighted words")
+        self.make_folder(self.weighted_word_folder)
+
+    def make_folder(self, folder):
+        if not os.path.exists(folder):
+            os.mkdir(folder)
+
     def process_documents(self):
-        files = Path(self.IN_FOLDER).glob('*.docx')
         self.hsen_documents = []
-        for file in files:
+        os.chdir(self.hsen_source_folder)
+        for file in glob.glob("*.docx"):
             self.hsen_documents.append(file)
 
         self.hsen_documents = sorted(self.hsen_documents)
@@ -35,7 +64,7 @@ class Application(object):
 
     def extract_documents(self):
         self.document_terms = []
-        files = Path(self.IN_FOLDER).glob('*.docx')
+        files = Path(self.hsen_source_folder).glob('*.docx')
         self.hsen_documents = []
         for file in files:
             self.hsen_documents.append(file)

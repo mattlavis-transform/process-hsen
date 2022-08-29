@@ -1,7 +1,6 @@
-# Generate misc data extracts for Single Trade Window
+# Generate vocabulary from HSEN documentation
 
-## Implementation steps
-
+## Initial setup
 - Create and activate a virtual environment, e.g.
 
   `python3 -m venv venv/`
@@ -11,7 +10,9 @@
 
   via `pip3 install -r requirements.txt`
 
-## Usage
 
-### To create the extract
-`xxx`
+## Format / process HSEN documents
+
+- Run `01 process_hsen_documents.py`
+- Adds formatting to otherwise flat documents
+

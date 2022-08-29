@@ -9,13 +9,14 @@ import classes.globals as g
 
 
 class HsenDocument(object):
-    def __init__(self, filepath_in):
-        self.filepath_in = filepath_in  # Posix path
-        self.filename_in = self.filepath_in.name
-        self.filename_out = "Processed " + self.filename_in
-        self.filepath_out = os.path.join(g.app.OUT_FOLDER, self.filename_out)
-        self.textpath_out = os.path.join(g.app.TEXT_FOLDER, self.filename_in.replace("docx", "txt"))
-        self.textpath_out_weighted = os.path.join(g.app.WEIGHTED_TEXT_FOLDER, self.filename_in.replace("docx", "txt"))
+    def __init__(self, source_file):
+        self.source_file = source_file
+        self.source_file_path = os.path.join(g.app.hsen_source_folder, self.source_file)
+
+        self.filename_out = "Processed " + self.source_file
+        self.filepath_out = os.path.join(g.app.processed_hsen_folder, self.filename_out)
+        self.textpath_out = os.path.join(g.app.word_folder, self.source_file.replace("docx", "txt"))
+        self.textpath_out_weighted = os.path.join(g.app.weighted_word_folder, self.source_file.replace("docx", "txt"))
 
     def open(self):
         self.document = Document(self.filepath_out)
@@ -25,14 +26,14 @@ class HsenDocument(object):
         pass
 
     def merge(self):
-        master = Document(g.app.TEMPLATE_FILE)
+        master = Document(g.app.template_file)
         composer = Composer(master)
-        doc1 = Document(self.filepath_in)
+        doc1 = Document(self.source_file_path)
         composer.append(doc1)
         composer.save(self.filepath_out)
 
     def process(self):
-        print("Processing file '{filename}'".format(filename=self.filename_in))
+        print("Processing file '{filename}'".format(filename=self.source_file))
         self.merge()
         self.open()
         styles = self.document.styles
@@ -52,7 +53,7 @@ class HsenDocument(object):
                 para.style = self.document.styles['Heading 3']
 
     def extract(self, nlp):
-        self.text = docx2txt.process(self.filepath_in)
+        self.text = docx2txt.process(self.source_file_path)
         doc = nlp(self.text)
         # for chunk in doc.noun_chunks:
         #     print(chunk.text, chunk.root.text, chunk.root.dep_, chunk.root.head.text)
