@@ -39,11 +39,14 @@ class Application(object):
         self.processed_hsen_folder = os.path.join(self.resource_folder, "02 processed hsen")
         self.make_folder(self.processed_hsen_folder)
 
-        self.word_folder = os.path.join(self.resource_folder, "03 words")
-        self.make_folder(self.word_folder)
+        self.text_version_folder = os.path.join(self.resource_folder, "03 text version")
+        self.make_folder(self.text_version_folder)
 
-        self.weighted_word_folder = os.path.join(self.resource_folder, "04 weighted words")
-        self.make_folder(self.weighted_word_folder)
+        self.terms_folder = os.path.join(self.resource_folder, "04 terms")
+        self.make_folder(self.terms_folder)
+
+        self.weighted_terms_folder = os.path.join(self.resource_folder, "05 weighted terms")
+        self.make_folder(self.weighted_terms_folder)
 
     def make_folder(self, folder):
         if not os.path.exists(folder):
@@ -58,15 +61,14 @@ class Application(object):
         self.hsen_documents = sorted(self.hsen_documents)
         for filename in self.hsen_documents:
             hsen_document = HsenDocument(filename)
-            # hsen_document.open()
             hsen_document.process()
             hsen_document.save()
 
-    def extract_documents(self):
-        self.document_terms = []
-        files = Path(self.hsen_source_folder).glob('*.docx')
+    def extract_textual_terms(self):
         self.hsen_documents = []
-        for file in files:
+        self.document_terms = []
+        os.chdir(self.hsen_source_folder)
+        for file in glob.glob("*.docx"):
             self.hsen_documents.append(file)
 
         self.hsen_documents = sorted(self.hsen_documents)
@@ -74,7 +76,7 @@ class Application(object):
         for filename in self.hsen_documents:
             index += 1
             hsen_document = HsenDocument(filename)
-            returned_terms, returned_term_dict = hsen_document.extract(self.nlp)
+            returned_terms, returned_term_dict = hsen_document.convert_document_to_text_only(self.nlp)
             self.document_terms += returned_terms
             if index > 2:
                 break

@@ -1,6 +1,6 @@
 import os
 import re
-import string
+import collections
 import docx2txt
 import sys
 from docx import Document
@@ -15,8 +15,9 @@ class HsenDocument(object):
 
         self.filename_out = "Processed " + self.source_file
         self.filepath_out = os.path.join(g.app.processed_hsen_folder, self.filename_out)
-        self.textpath_out = os.path.join(g.app.word_folder, self.source_file.replace("docx", "txt"))
-        self.textpath_out_weighted = os.path.join(g.app.weighted_word_folder, self.source_file.replace("docx", "txt"))
+        self.text_version_file_path = os.path.join(g.app.text_version_folder, self.source_file.replace("docx", "txt"))
+        self.terms_file_path = os.path.join(g.app.terms_folder, self.source_file.replace("docx", "txt"))
+        self.weighted_terms_file_path = os.path.join(g.app.weighted_terms_folder, self.source_file.replace("docx", "txt"))
 
     def open(self):
         self.document = Document(self.filepath_out)
@@ -52,17 +53,15 @@ class HsenDocument(object):
             elif re.match("^[0-9]{2}.[0-9]{2} ", text):
                 para.style = self.document.styles['Heading 3']
 
-    def extract(self, nlp):
+    def convert_document_to_text_only(self, nlp):
+        print("Extracting terms from file '{filename}'".format(filename=self.source_file))
         self.text = docx2txt.process(self.source_file_path)
         doc = nlp(self.text)
-        # for chunk in doc.noun_chunks:
-        #     print(chunk.text, chunk.root.text, chunk.root.dep_, chunk.root.head.text)
         terms = []
         term_dict = {}
         for token in doc:
             if token.pos_ in ("NOUN", "PROPN"):
                 value = token.lemma_.lower().replace(".", "")
-                # value = value.translate(str.maketrans('', '', string.punctuation))
                 if not value.isnumeric():
                     if len(value) > 1:
                         if value not in terms:
@@ -73,8 +72,24 @@ class HsenDocument(object):
                         else:
                             term_dict[value] += 1
 
-            print(token.text, token.pos_, token.lemma_, token.dep_)
-        f = open(self.textpath_out_weighted, "w")
+        # Write the text-only version
+        f = open(self.text_version_file_path, "w")
         f.write(self.text)
         f.close()
+
+        # Write the list of terms
+        f = open(self.terms_file_path, "w")
+        terms.sort()
+        for term in terms:
+            f.write(term + "\n")
+        f.close()
+
+        # Write the weighted list of terms
+        term_dict_sorted = collections.OrderedDict(sorted(term_dict.items()))
+        with open(self.weighted_terms_file_path, 'w') as f:
+            for term in term_dict_sorted:
+                line = '"{term}",{count}\n'.format(term=term, count=term_dict_sorted[term])
+                f.write(line)
+        f.close()
+
         return terms, term_dict
