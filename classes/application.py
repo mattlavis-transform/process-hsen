@@ -1,3 +1,4 @@
+import collections
 import csv
 import nltk
 import glob
@@ -48,6 +49,9 @@ class Application(object):
         self.weighted_terms_folder = os.path.join(self.resource_folder, "05 weighted terms")
         self.make_folder(self.weighted_terms_folder)
 
+        self.all_terms_folder = os.path.join(self.resource_folder, "06 all terms")
+        self.make_folder(self.all_terms_folder)
+
     def make_folder(self, folder):
         if not os.path.exists(folder):
             os.mkdir(folder)
@@ -67,6 +71,8 @@ class Application(object):
     def extract_textual_terms(self):
         self.hsen_documents = []
         self.document_terms = []
+        self.weighted_document_terms = {}
+
         os.chdir(self.hsen_source_folder)
         for file in glob.glob("*.docx"):
             self.hsen_documents.append(file)
@@ -76,16 +82,38 @@ class Application(object):
         for filename in self.hsen_documents:
             index += 1
             hsen_document = HsenDocument(filename)
-            returned_terms, returned_term_dict = hsen_document.convert_document_to_text_only(self.nlp)
+            returned_terms, weighted_term_dict = hsen_document.convert_document_to_text_only(self.nlp)
+            self.append_weighted_terms(weighted_term_dict)
             self.document_terms += returned_terms
-            if index > 2:
+            if index > 200:
                 break
 
+        # Write all terms
         self.document_terms = list(set(self.document_terms))
         self.document_terms = sorted(self.document_terms)
-        with open('your_file.txt', 'w') as f:
+        filename = os.path.join(self.all_terms_folder, "all_terms.txt")
+        with open(filename, 'w') as f:
             for item in self.document_terms:
                 f.write("%s\n" % item)
+        f.close()
+
+        # Write all weighted terms
+        filename = os.path.join(self.all_terms_folder, "all_weighted_terms.txt")
+        weighted_document_terms_sorted = collections.OrderedDict(sorted(self.weighted_document_terms.items()))
+        with open(filename, 'w') as f:
+            for term in weighted_document_terms_sorted:
+                line = '"{term}",{count}\n'.format(term=term, count=self.weighted_document_terms[term])
+                f.write(line)
+        f.close()
+
+    def append_weighted_terms(self, additional_terms):
+        self.weighted_document_terms = {}
+        for additional_term in additional_terms:
+            if additional_term in self.weighted_document_terms:
+                self.weighted_document_terms[additional_term] += additional_terms[additional_term]
+            else:
+                self.weighted_document_terms[additional_term] = additional_terms[additional_term]
+        a = 1
 
     def process_search_terms(self):
         file = open(self.SEARCH_TERM_FILE)
