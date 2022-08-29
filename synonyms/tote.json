@@ -1,0 +1,1574 @@
+{
+    "term": "tote",
+    "means_like": [
+        {
+            "word": "carryall",
+            "score": 84834,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tote bag",
+            "score": 83510,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "lug",
+            "score": 82767,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "holdall",
+            "score": 76748,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tug",
+            "score": 72515,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 65678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purse",
+            "score": 64426,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 64058,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 63866,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbag",
+            "score": 62228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "schlep",
+            "score": 62163,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "haul",
+            "score": 60242,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sack",
+            "score": 59099,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gate",
+            "score": 58493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "take",
+            "score": 56146,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sac",
+            "score": 55051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawstring bag",
+            "score": 51364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel",
+            "score": 51362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gunny sack",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel bag",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wristlet",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saddlebag",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookbag",
+            "score": 51356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pocket",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valise",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strap",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoulder bag",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pack",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monogrammed",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clutch bag",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satchel",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gripsack",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baglike",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purseful",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rollaway",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purses",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gamebag",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sickbag",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foldover",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satchels",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bags",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gladstone bag",
+            "score": 51333,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pickpurse",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luggage",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suitcase",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bursiform",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rucksack",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overnight bag",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basket weave",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mutuel",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouch",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fanny pack",
+            "score": 51320,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouchlike",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoulder strap",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "schoolbag",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attache case",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "golf bag",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trifold",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ziploc",
+            "score": 51311,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hobo",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knapsack",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vanity case",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "superfecta",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inseams",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vacuum bag",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilcloth",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dime bag",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saddlecloth",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bin liner",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vanning",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knapsacks",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ditty bag",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealable",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shag rug",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pocketfuls",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carts",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bisaccate",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballpoints",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bagwash",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stow",
+            "score": 51290,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packboard",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "racks",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sawbuck",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haversack",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mochila",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermos",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrycot",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hefting",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packable",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pyxidium",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duckie",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "money belt",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exactor",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sawhorse",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keychain",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collapsible",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "tote",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "toat",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "toet",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tight",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "taught",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "tit",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toad",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toot",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tot",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tat",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tate",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tut",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taut",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "teet",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tout",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "teat",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "towed",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tite",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tet",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toed",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tait",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tete",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tatt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tutt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toght",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tode",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toit",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "titt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tuit",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taite",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tott",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ttt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brk",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tiet",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tuite",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tbt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tyt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taitt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "titte",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tttt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tett",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tiit",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ttg",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "teeoff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taat",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tdt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tuet",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tewt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "dote",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dought",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "doet",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "toes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toast",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tide",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ted",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tied",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "todd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tad",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tod",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tid",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tose",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stoat",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "teed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tost",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tead",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toas",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toked",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tade",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toste",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tedd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "taod",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stote",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tadd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toped",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tidd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tiede",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tolt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toea",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "toe-in",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tede",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toetoe",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "toah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "taed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dted",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "teide",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "thoa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tidde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "toe toe",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tdd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "teaed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tofte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "htd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "taad",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tawed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tewed",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "tote",
+            "score": 1255
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "totes",
+            "score": 1833
+        },
+        {
+            "word": "parimutuel",
+            "score": 1754
+        },
+        {
+            "word": "tante",
+            "score": 1728
+        },
+        {
+            "word": "trifecta",
+            "score": 1717
+        },
+        {
+            "word": "betting",
+            "score": 1682
+        },
+        {
+            "word": "bookmaker",
+            "score": 1664
+        },
+        {
+            "word": "bags",
+            "score": 1644
+        },
+        {
+            "word": "bets",
+            "score": 1592
+        },
+        {
+            "word": "dividend",
+            "score": 1587
+        },
+        {
+            "word": "bag",
+            "score": 1554
+        },
+        {
+            "word": "payout",
+            "score": 1547
+        },
+        {
+            "word": "scoop",
+            "score": 1537
+        },
+        {
+            "word": "turnover",
+            "score": 1528
+        },
+        {
+            "word": "hurdle",
+            "score": 1522
+        },
+        {
+            "word": "greyhound",
+            "score": 1520
+        },
+        {
+            "word": "jackpot",
+            "score": 1511
+        },
+        {
+            "word": "weary",
+            "score": 1503
+        },
+        {
+            "word": "spade",
+            "score": 1492
+        },
+        {
+            "word": "bet",
+            "score": 1479
+        },
+        {
+            "word": "milne",
+            "score": 1449
+        },
+        {
+            "word": "hose",
+            "score": 1435
+        },
+        {
+            "word": "handicap",
+            "score": 1411
+        },
+        {
+            "word": "racecourse",
+            "score": 1409
+        },
+        {
+            "word": "harness",
+            "score": 1406
+        },
+        {
+            "word": "odds",
+            "score": 1390
+        },
+        {
+            "word": "tasmania",
+            "score": 1382
+        },
+        {
+            "word": "maritime",
+            "score": 1326
+        },
+        {
+            "word": "venue",
+            "score": 1323
+        },
+        {
+            "word": "container",
+            "score": 1318
+        },
+        {
+            "word": "handled",
+            "score": 1312
+        },
+        {
+            "word": "racing",
+            "score": 1308
+        },
+        {
+            "word": "crow",
+            "score": 1307
+        },
+        {
+            "word": "plastic",
+            "score": 1300
+        },
+        {
+            "word": "jockey",
+            "score": 1298
+        },
+        {
+            "word": "boards",
+            "score": 1296
+        },
+        {
+            "word": "runners",
+            "score": 1292
+        },
+        {
+            "word": "hotel",
+            "score": 1288
+        },
+        {
+            "word": "melbourne",
+            "score": 1285
+        },
+        {
+            "word": "stakes",
+            "score": 1282
+        },
+        {
+            "word": "trophy",
+            "score": 1278
+        },
+        {
+            "word": "chase",
+            "score": 1274
+        },
+        {
+            "word": "sponsorship",
+            "score": 1273
+        },
+        {
+            "word": "pub",
+            "score": 1270
+        },
+        {
+            "word": "trainer",
+            "score": 1268
+        },
+        {
+            "word": "theatre",
+            "score": 1266
+        },
+        {
+            "word": "toys",
+            "score": 1264
+        },
+        {
+            "word": "leather",
+            "score": 1257
+        },
+        {
+            "word": "kate",
+            "score": 1252
+        },
+        {
+            "word": "hamburg",
+            "score": 1243
+        },
+        {
+            "word": "proceeds",
+            "score": 1231
+        },
+        {
+            "word": "horse",
+            "score": 1229
+        },
+        {
+            "word": "closure",
+            "score": 1226
+        },
+        {
+            "word": "die",
+            "score": 1222
+        },
+        {
+            "word": "load",
+            "score": 1220
+        },
+        {
+            "word": "pool",
+            "score": 1216
+        },
+        {
+            "word": "abc",
+            "score": 1215
+        },
+        {
+            "word": "der",
+            "score": 1208
+        },
+        {
+            "word": "shipping",
+            "score": 1206
+        },
+        {
+            "word": "items",
+            "score": 1203
+        },
+        {
+            "word": "sponsored",
+            "score": 1200
+        },
+        {
+            "word": "drink",
+            "score": 1197
+        },
+        {
+            "word": "board",
+            "score": 1184
+        },
+        {
+            "word": "derby",
+            "score": 1181
+        },
+        {
+            "word": "track",
+            "score": 1179
+        },
+        {
+            "word": "dead",
+            "score": 1178
+        },
+        {
+            "word": "opera",
+            "score": 1172
+        },
+        {
+            "word": "sang",
+            "score": 1159
+        },
+        {
+            "word": "sport",
+            "score": 1156
+        },
+        {
+            "word": "bid",
+            "score": 1155
+        },
+        {
+            "word": "race",
+            "score": 1152
+        },
+        {
+            "word": "sydney",
+            "score": 1149
+        },
+        {
+            "word": "operator",
+            "score": 1148
+        },
+        {
+            "word": "customers",
+            "score": 1138
+        },
+        {
+            "word": "display",
+            "score": 1136
+        },
+        {
+            "word": "hurricane",
+            "score": 1131
+        },
+        {
+            "word": "trail",
+            "score": 1127
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "tote",
+            "score": 1255
+        },
+        {
+            "word": "totem",
+            "score": 897
+        },
+        {
+            "word": "totemic",
+            "score": 606
+        },
+        {
+            "word": "totes",
+            "score": 258
+        },
+        {
+            "word": "toter",
+            "score": 253
+        },
+        {
+            "word": "totemism",
+            "score": 175
+        },
+        {
+            "word": "tote bag",
+            "score": 164
+        },
+        {
+            "word": "toted",
+            "score": 122
+        },
+        {
+            "word": "totem pole",
+            "score": 88
+        },
+        {
+            "word": "totems",
+            "score": 80
+        }
+    ]
+}

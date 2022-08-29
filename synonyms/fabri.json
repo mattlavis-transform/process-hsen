@@ -1,0 +1,595 @@
+{
+    "term": "fabri",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "fabry",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabbri",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "faberge",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "farry",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibro",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "foppery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "fibra",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fairy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabric",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fiber",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fiery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "phoebe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibber",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faerie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faber",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibres",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phebe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fari",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faery",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fairie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferri",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferrie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "foree",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fieri",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fairey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibbers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabrice",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "forry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phobie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "feri",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fubby",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "furi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fieber",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabris",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabrik",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabrique",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "firry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fori",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "febre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faubert",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faggery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "fobi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "feirie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabriek",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibered",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fibor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fuori",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "labrie",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "cabri",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "fab",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "fabio",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "farah",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "farrow",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "farrah",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "feathery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "fera",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabel",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "faro",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "feebly",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fara",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "febrile",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferro",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "fero",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "f.b.i",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferra",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fahey",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferber",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "farro",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabia",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "fabien",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "farra",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "febres",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "farai",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "faroe",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fby",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fiba",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "faba",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "febo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "faira",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "faurot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "febrero",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "faru",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "feba",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabbed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "feira",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ffp",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fabbing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "febril",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "abri",
+            "score": 247
+        },
+        {
+            "word": "fabre",
+            "score": 103
+        },
+        {
+            "word": "fabi",
+            "score": 42
+        },
+        {
+            "word": "fari",
+            "score": 35
+        },
+        {
+            "word": "cabri",
+            "score": 31
+        },
+        {
+            "word": "fabry",
+            "score": 27
+        },
+        {
+            "word": "febri",
+            "score": 25
+        },
+        {
+            "word": "labri",
+            "score": 23
+        },
+        {
+            "word": "fabbri",
+            "score": 11
+        },
+        {
+            "word": "sabri",
+            "score": 5
+        },
+        {
+            "word": "gabri",
+            "score": 2
+        },
+        {
+            "word": "fabii",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "fabric",
+            "score": 66003
+        },
+        {
+            "word": "fabricate",
+            "score": 65519
+        },
+        {
+            "word": "fabrication",
+            "score": 65224
+        },
+        {
+            "word": "fabricated",
+            "score": 64930
+        },
+        {
+            "word": "fabricator",
+            "score": 64834
+        },
+        {
+            "word": "fabrics",
+            "score": 64782
+        },
+        {
+            "word": "fabricius",
+            "score": 64756
+        },
+        {
+            "word": "fabricating",
+            "score": 64751
+        },
+        {
+            "word": "fabrik",
+            "score": 64734
+        },
+        {
+            "word": "fabrile",
+            "score": 64721
+        }
+    ]
+}

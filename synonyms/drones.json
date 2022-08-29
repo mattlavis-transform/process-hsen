@@ -1,0 +1,1588 @@
+{
+    "term": "drones",
+    "means_like": [
+        {
+            "word": "pilotless aircraft",
+            "score": 74744,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "monotone",
+            "score": 66037,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "dawdler",
+            "score": 62385,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "laggard",
+            "score": 58169,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bourdon",
+            "score": 58088,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "drone on",
+            "score": 57037,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "drone pipe",
+            "score": 57037,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "radio-controlled aircraft",
+            "score": 57037,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "planes",
+            "score": 48904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jets",
+            "score": 48541,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aircraft",
+            "score": 46821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumblebees",
+            "score": 41892,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stingless",
+            "score": 41160,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "uav",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copters",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choppers",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helicopters",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pilotless",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awacs",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satellites",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airplanes",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gunship",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "missiles",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rockets",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stealth bomber",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radars",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copter",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airships",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helicopter gunship",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerostats",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obscurant",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "robots",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spaceships",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elint",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weaponry",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incursions",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "warplane",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stealth fighter",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reconnaissance",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counterfire",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jdam",
+            "score": 31308,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "electronic warfare",
+            "score": 31307,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "airliners",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacecraft",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whirlybirds",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stealth",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "missle",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sigint",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airfields",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manpad",
+            "score": 31299,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sorties",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "submarines",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "warships",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vtol",
+            "score": 31295,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cruise missile",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multirole",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airspace",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flyboys",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "missions",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strafes",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bombsight",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airpower",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comint",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aircrews",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airforce",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "darpa",
+            "score": 31283,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dirigibles",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hostiles",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antimissile",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squadrons",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subsonic",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nukes",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "warheads",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interceptor",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spy satellite",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "payloads",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pterodactyls",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jammers",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbojet",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbojet engine",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiaircraft fire",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hypersonic",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housefly",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "usaf",
+            "score": 31265,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mercs",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airbase",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hummers",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "borderlands",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "missile defense system",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornithopter",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autorotation",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bombers",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sensors",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbofan engine",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waziristan",
+            "score": 31254,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "intercontinental ballistic missile",
+            "score": 31253,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flyswatter",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mirvs",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stealthiness",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gliders",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "drones",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "drains",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "drowns",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "trones",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dreams",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "drums",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "drone",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "drams",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dros",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "droney",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "droze",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dirhams",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "droner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "drony",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "doans",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "trends",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trains",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trans",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trons",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "terrains",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "trans-",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trines",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "dry eyes",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "drown",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "downs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drain",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drawn",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "draws",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dunes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drench",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dawns",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dens",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dren",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dries",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drome",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dons",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "domes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "danes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "duran",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "deans",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drowse",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dines",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dans",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drin",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drews",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dones",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drainer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "drees",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dins",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "droned",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drane",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "draine",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dran",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drys",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "duns",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "downes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drowner",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "druze",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "denz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "danz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "druse",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "derms",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "droz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dreese",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drent",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "deigns",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "denes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "deens",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dorina",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "dynes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drez",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drays",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "donze",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drogues",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drainers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "doons",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "durrani",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "drewes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drolls",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "durain",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dreys",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "deines",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dnes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drenche",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dryas",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "drehen",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drenthe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "donnes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "drein",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "deanes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "dnz",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tern",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "arens",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ahrens",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "drms",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "orans",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ternes",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "arenz",
+            "score": 83,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "drones",
+            "score": 64854
+        },
+        {
+            "word": "drone",
+            "score": 2175
+        },
+        {
+            "word": "droves",
+            "score": 248
+        },
+        {
+            "word": "droned",
+            "score": 112
+        },
+        {
+            "word": "droner",
+            "score": 87
+        },
+        {
+            "word": "crones",
+            "score": 84
+        },
+        {
+            "word": "trones",
+            "score": 63
+        },
+        {
+            "word": "rones",
+            "score": 57
+        },
+        {
+            "word": "droney",
+            "score": 51
+        },
+        {
+            "word": "dones",
+            "score": 33
+        },
+        {
+            "word": "krones",
+            "score": 13
+        },
+        {
+            "word": "diones",
+            "score": 5
+        },
+        {
+            "word": "dromes",
+            "score": 5
+        },
+        {
+            "word": "irones",
+            "score": 2
+        },
+        {
+            "word": "drone'",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "chanter",
+            "score": 1692
+        },
+        {
+            "word": "drone",
+            "score": 1687
+        },
+        {
+            "word": "haploid",
+            "score": 1592
+        },
+        {
+            "word": "hive",
+            "score": 1528
+        },
+        {
+            "word": "diploid",
+            "score": 1512
+        },
+        {
+            "word": "unmanned",
+            "score": 1507
+        },
+        {
+            "word": "borg",
+            "score": 1485
+        },
+        {
+            "word": "mating",
+            "score": 1449
+        },
+        {
+            "word": "bees",
+            "score": 1440
+        },
+        {
+            "word": "faa",
+            "score": 1404
+        },
+        {
+            "word": "airspace",
+            "score": 1398
+        },
+        {
+            "word": "queens",
+            "score": 1391
+        },
+        {
+            "word": "surveillance",
+            "score": 1387
+        },
+        {
+            "word": "aerial",
+            "score": 1376
+        },
+        {
+            "word": "yemen",
+            "score": 1371
+        },
+        {
+            "word": "tuned",
+            "score": 1354
+        },
+        {
+            "word": "mate",
+            "score": 1345
+        },
+        {
+            "word": "reconnaissance",
+            "score": 1318
+        },
+        {
+            "word": "manned",
+            "score": 1310
+        },
+        {
+            "word": "robot",
+            "score": 1297
+        },
+        {
+            "word": "missile",
+            "score": 1294
+        },
+        {
+            "word": "fly",
+            "score": 1281
+        },
+        {
+            "word": "flown",
+            "score": 1275
+        },
+        {
+            "word": "eggs",
+            "score": 1272
+        },
+        {
+            "word": "bag",
+            "score": 1261
+        },
+        {
+            "word": "worker",
+            "score": 1259
+        },
+        {
+            "word": "percussion",
+            "score": 1257
+        },
+        {
+            "word": "nest",
+            "score": 1256
+        },
+        {
+            "word": "targeted",
+            "score": 1255
+        },
+        {
+            "word": "planes",
+            "score": 1251
+        },
+        {
+            "word": "queen",
+            "score": 1246
+        },
+        {
+            "word": "strikes",
+            "score": 1235
+        },
+        {
+            "word": "cia",
+            "score": 1234
+        },
+        {
+            "word": "autonomous",
+            "score": 1230
+        },
+        {
+            "word": "monitor",
+            "score": 1229
+        },
+        {
+            "word": "deployed",
+            "score": 1224
+        },
+        {
+            "word": "remote",
+            "score": 1219
+        },
+        {
+            "word": "missions",
+            "score": 1215
+        },
+        {
+            "word": "warfare",
+            "score": 1212
+        },
+        {
+            "word": "capable",
+            "score": 1208
+        },
+        {
+            "word": "colonies",
+            "score": 1206
+        },
+        {
+            "word": "destroy",
+            "score": 1202
+        },
+        {
+            "word": "colony",
+            "score": 1200
+        },
+        {
+            "word": "alien",
+            "score": 1199
+        },
+        {
+            "word": "afghanistan",
+            "score": 1197
+        },
+        {
+            "word": "vehicles",
+            "score": 1190
+        },
+        {
+            "word": "aircraft",
+            "score": 1188
+        },
+        {
+            "word": "flying",
+            "score": 1181
+        },
+        {
+            "word": "weapons",
+            "score": 1180
+        },
+        {
+            "word": "virgin",
+            "score": 1177
+        },
+        {
+            "word": "enemies",
+            "score": 1176
+        },
+        {
+            "word": "target",
+            "score": 1175
+        },
+        {
+            "word": "equipped",
+            "score": 1169
+        },
+        {
+            "word": "pakistan",
+            "score": 1163
+        },
+        {
+            "word": "radar",
+            "score": 1162
+        },
+        {
+            "word": "congregation",
+            "score": 1159
+        },
+        {
+            "word": "israeli",
+            "score": 1157
+        },
+        {
+            "word": "kill",
+            "score": 1154
+        },
+        {
+            "word": "intelligence",
+            "score": 1150
+        },
+        {
+            "word": "killing",
+            "score": 1147
+        },
+        {
+            "word": "combat",
+            "score": 1145
+        },
+        {
+            "word": "instrument",
+            "score": 1143
+        },
+        {
+            "word": "civilian",
+            "score": 1140
+        },
+        {
+            "word": "weapon",
+            "score": 1138
+        },
+        {
+            "word": "aviation",
+            "score": 1137
+        },
+        {
+            "word": "powered",
+            "score": 1136
+        },
+        {
+            "word": "flight",
+            "score": 1134
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "drones",
+            "score": 64854
+        },
+        {
+            "word": "drone",
+            "score": 2175
+        },
+        {
+            "word": "dryness",
+            "score": 307
+        },
+        {
+            "word": "droves",
+            "score": 248
+        },
+        {
+            "word": "droned",
+            "score": 112
+        },
+        {
+            "word": "drone pipe",
+            "score": 94
+        },
+        {
+            "word": "droner",
+            "score": 87
+        },
+        {
+            "word": "crones",
+            "score": 84
+        },
+        {
+            "word": "dronish",
+            "score": 79
+        },
+        {
+            "word": "trones",
+            "score": 63
+        }
+    ]
+}

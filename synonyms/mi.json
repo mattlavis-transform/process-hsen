@@ -1,0 +1,1334 @@
+{
+    "term": "mi",
+    "means_like": [
+        {
+            "word": "myocardial infarct",
+            "score": 50272,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mile",
+            "score": 49878,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "nautical mile",
+            "score": 47213,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "myocardial infarction",
+            "score": 43704,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "knot",
+            "score": 42171,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "admiralty mile",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "air mile",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "geographical mile",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "international nautical mile",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "land mile",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "naut mi",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "stat mi",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "statute mile",
+            "score": 41234,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tama",
+            "score": 41233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kami",
+            "score": 38880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemin",
+            "score": 36562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "careme",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ftir",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pronoun",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aare",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "abkhazia",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "abstemious",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "acre",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adige",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "afton",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aisne",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "allen",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "allier",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alps",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "amur",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "andes",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "angara",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ann",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "antarctica",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apalachicola",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apennines",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arauca",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arbor",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arezzo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "argentina",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arno",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "atchafalaya",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aube",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avon",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "azores",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "babylon",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "baikal",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "benelux",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "benin",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blunger",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bohemian",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "boise",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brahmaputra",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brazos",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brisbane",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "broadway",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "caloosahatchee",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carmel",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cash",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "changjiang",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "charente",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "chari",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chattahoochee",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cher",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiasmus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chu",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cimarron",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clyde",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coatzacoalcos",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coco",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colombia",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "colorado",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coosa",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "danube",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dee",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "deer",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "degree",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinero",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disomus",
+            "score": 6364
+        },
+        {
+            "word": "dnieper",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dniester",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "doon",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dordogne",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "doubs",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "douro",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "downs",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drava",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drina",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drogheda",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dunkirk",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "east",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "eastmain",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ebro",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "elbe",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ems",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "essequibo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "euphrates",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "falcon",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "me",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mee",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mi",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mea",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mne",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mwe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mii",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "miy",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "msr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "meeh",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mhi",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mhr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "may",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "my",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ma",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mow",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "meh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mao",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "muh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mowe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "meaux",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "myh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bma",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "muu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "myy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "miw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mauw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mawe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mis-",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maaa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "miee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "knee",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ne",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nee",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ni",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nie",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nea",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "neah",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "neagh",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "amy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "marie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "emmy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "maui",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ami",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "emy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aimee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "amie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "emi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "emmie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "m e",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "maree",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "emmi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "imi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "imy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ammi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "amey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "amee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "amiee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gmy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "immi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "almy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "maoi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aimi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "eame",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aami",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "maese",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mdic",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aomi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "m.i",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ahmi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hcm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eimi",
+            "score": 90,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "mi",
+            "score": 810
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "mind",
+            "score": 4821
+        },
+        {
+            "word": "misogyny",
+            "score": 4466
+        },
+        {
+            "word": "mitigate",
+            "score": 3338
+        },
+        {
+            "word": "mill",
+            "score": 2605
+        },
+        {
+            "word": "minute",
+            "score": 2337
+        },
+        {
+            "word": "miss",
+            "score": 2309
+        },
+        {
+            "word": "milk",
+            "score": 2199
+        },
+        {
+            "word": "mindset",
+            "score": 2196
+        },
+        {
+            "word": "mize",
+            "score": 2079
+        },
+        {
+            "word": "mission",
+            "score": 2072
+        }
+    ]
+}

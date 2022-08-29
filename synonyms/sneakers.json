@@ -1,0 +1,1793 @@
+{
+    "term": "sneakers",
+    "means_like": [
+        {
+            "word": "gym shoe",
+            "score": 76229,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tennis shoe",
+            "score": 76229,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "shoes",
+            "score": 76228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boots",
+            "score": 70486,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 69312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unlaced",
+            "score": 66439,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 63738,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trainers",
+            "score": 59446,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baskets",
+            "score": 58559,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sneaks",
+            "score": 57818,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "infiltrators",
+            "score": 53406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hackers",
+            "score": 52698,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intruders",
+            "score": 52214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illegals",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nikes",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socks",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleats",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandals",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loafers",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatpants",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat pants",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxfords",
+            "score": 51225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keds",
+            "score": 51224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plimsolls",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirts",
+            "score": 51222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pants",
+            "score": 51220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jerseys",
+            "score": 51219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galoshes",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slippers",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laces",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bluejeans",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basketballs",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booties",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "khakis",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatsuit",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mary janes",
+            "score": 51209,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "togs",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skates",
+            "score": 51207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatshirt",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capri pants",
+            "score": 51204,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uniforms",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoelaces",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insoles",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stilettos",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue jean",
+            "score": 51198,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dungarees",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglasses",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slacks",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoodie",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shorts",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowboy boots",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pajamas",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slingbacks",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soles",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stonewashed",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brogans",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracksuit",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patent leather",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rollerblades",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweaters",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oakleys",
+            "score": 51179,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "undershirts",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jordans",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothing",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "espadrille",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazers",
+            "score": 51173,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headband",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "resole",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crewneck",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy duke",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panties",
+            "score": 51168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 51167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat shirt",
+            "score": 51166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gloves",
+            "score": 51165,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capris",
+            "score": 51164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantyhose",
+            "score": 51163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermudas",
+            "score": 51162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polo shirt",
+            "score": 51161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thongs",
+            "score": 51160,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coats",
+            "score": 51159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckties",
+            "score": 51158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 51157,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "headphones",
+            "score": 51156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxer shorts",
+            "score": 51155,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leotards",
+            "score": 51154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brogues",
+            "score": 51153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "singlet",
+            "score": 51152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windbreaker",
+            "score": 51151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coveralls",
+            "score": 51150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spandex",
+            "score": 51149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undies",
+            "score": 51148,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "sneakers",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "snickers",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "snackers",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "snookers",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneaker",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "seekers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "smokers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "smackers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "snicker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "suckers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snores",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneaks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snooker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snares",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneers",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snacker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snatchers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snake eyes",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "soakers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sucres",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneezers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "seegers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sakers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "segers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "succors",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "seegars",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneeze",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "snakes",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "snacks",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneaky",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "speakers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneak",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "smoker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "seeker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stickers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smores",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "seizures",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "slackers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stalkers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smacker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snickered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneek",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "snags",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "smears",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneaked",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "smucker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "slickers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smokies",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "secre",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stackers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smoocher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snooks",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "snugs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "squeakers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snuggies",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sniggers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "swaggers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snogs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "sinkers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snagger",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snookered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snuggs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "stockers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snuggery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "snax",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "sniffers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneakier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "snicks",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "siggers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snugger",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crz",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snockered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snoozers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "saggers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stokers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snogger",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snickersnee",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "snorers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snix",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "secours",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "segars",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snuffers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smackeroo",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "smicker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "snigs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "snecks",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "incurs",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "snickering",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "knickers",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knockers",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "caesars",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cires",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knackers",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cnas",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "cirs",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "csrs",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cegar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cycas",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nakers",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "sneakers",
+            "score": 129656
+        },
+        {
+            "word": "sneaker",
+            "score": 65088
+        },
+        {
+            "word": "speakers",
+            "score": 64756
+        },
+        {
+            "word": "speaker",
+            "score": 717
+        },
+        {
+            "word": "snakes",
+            "score": 263
+        },
+        {
+            "word": "breakers",
+            "score": 258
+        },
+        {
+            "word": "shakers",
+            "score": 183
+        },
+        {
+            "word": "sneaked",
+            "score": 142
+        },
+        {
+            "word": "snickers",
+            "score": 117
+        },
+        {
+            "word": "leakers",
+            "score": 98
+        },
+        {
+            "word": "seekers",
+            "score": 88
+        },
+        {
+            "word": "steamers",
+            "score": 81
+        },
+        {
+            "word": "beakers",
+            "score": 72
+        },
+        {
+            "word": "sweaters",
+            "score": 59
+        },
+        {
+            "word": "sneers",
+            "score": 58
+        },
+        {
+            "word": "sneaks",
+            "score": 55
+        },
+        {
+            "word": "squeakers",
+            "score": 42
+        },
+        {
+            "word": "sealers",
+            "score": 32
+        },
+        {
+            "word": "snarers",
+            "score": 28
+        },
+        {
+            "word": "sneakier",
+            "score": 28
+        },
+        {
+            "word": "stealers",
+            "score": 28
+        },
+        {
+            "word": "tweakers",
+            "score": 25
+        },
+        {
+            "word": "nakers",
+            "score": 23
+        },
+        {
+            "word": "shearers",
+            "score": 21
+        },
+        {
+            "word": "soakers",
+            "score": 21
+        },
+        {
+            "word": "sakers",
+            "score": 19
+        },
+        {
+            "word": "snookers",
+            "score": 17
+        },
+        {
+            "word": "seamers",
+            "score": 16
+        },
+        {
+            "word": "wreakers",
+            "score": 15
+        },
+        {
+            "word": "smearers",
+            "score": 14
+        },
+        {
+            "word": "swearers",
+            "score": 14
+        },
+        {
+            "word": "snackers",
+            "score": 12
+        },
+        {
+            "word": "sneezers",
+            "score": 10
+        },
+        {
+            "word": "neckers",
+            "score": 9
+        },
+        {
+            "word": "streakers",
+            "score": 8
+        },
+        {
+            "word": "sneerers",
+            "score": 6
+        },
+        {
+            "word": "kneaders",
+            "score": 4
+        },
+        {
+            "word": "snaker",
+            "score": 4
+        },
+        {
+            "word": "sneakered",
+            "score": 4
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "sneaker",
+            "score": 1749
+        },
+        {
+            "word": "haircuts",
+            "score": 1675
+        },
+        {
+            "word": "laces",
+            "score": 1661
+        },
+        {
+            "word": "velcro",
+            "score": 1637
+        },
+        {
+            "word": "leggings",
+            "score": 1617
+        },
+        {
+            "word": "adidas",
+            "score": 1615
+        },
+        {
+            "word": "sandals",
+            "score": 1580
+        },
+        {
+            "word": "soles",
+            "score": 1572
+        },
+        {
+            "word": "nike",
+            "score": 1558
+        },
+        {
+            "word": "socks",
+            "score": 1556
+        },
+        {
+            "word": "footwear",
+            "score": 1555
+        },
+        {
+            "word": "shoes",
+            "score": 1550
+        },
+        {
+            "word": "reebok",
+            "score": 1546
+        },
+        {
+            "word": "jeans",
+            "score": 1540
+        },
+        {
+            "word": "converse",
+            "score": 1522
+        },
+        {
+            "word": "goggles",
+            "score": 1498
+        },
+        {
+            "word": "genie",
+            "score": 1485
+        },
+        {
+            "word": "shoe",
+            "score": 1468
+        },
+        {
+            "word": "pants",
+            "score": 1462
+        },
+        {
+            "word": "icy",
+            "score": 1449
+        },
+        {
+            "word": "footing",
+            "score": 1437
+        },
+        {
+            "word": "boots",
+            "score": 1433
+        },
+        {
+            "word": "shirts",
+            "score": 1430
+        },
+        {
+            "word": "wore",
+            "score": 1420
+        },
+        {
+            "word": "wears",
+            "score": 1412
+        },
+        {
+            "word": "trainers",
+            "score": 1394
+        },
+        {
+            "word": "cheating",
+            "score": 1389
+        },
+        {
+            "word": "heel",
+            "score": 1371
+        },
+        {
+            "word": "kicks",
+            "score": 1369
+        },
+        {
+            "word": "paired",
+            "score": 1360
+        },
+        {
+            "word": "sperm",
+            "score": 1359
+        },
+        {
+            "word": "fashionable",
+            "score": 1345
+        },
+        {
+            "word": "skate",
+            "score": 1342
+        },
+        {
+            "word": "jacket",
+            "score": 1338
+        },
+        {
+            "word": "traction",
+            "score": 1332
+        },
+        {
+            "word": "accessories",
+            "score": 1327
+        },
+        {
+            "word": "shorts",
+            "score": 1326
+        },
+        {
+            "word": "casual",
+            "score": 1316
+        },
+        {
+            "word": "clothing",
+            "score": 1311
+        },
+        {
+            "word": "mascot",
+            "score": 1307
+        },
+        {
+            "word": "dress",
+            "score": 1302
+        },
+        {
+            "word": "hardcore",
+            "score": 1297
+        },
+        {
+            "word": "outfit",
+            "score": 1296
+        },
+        {
+            "word": "suits",
+            "score": 1294
+        },
+        {
+            "word": "giants",
+            "score": 1288
+        },
+        {
+            "word": "wearing",
+            "score": 1286
+        },
+        {
+            "word": "worn",
+            "score": 1285
+        },
+        {
+            "word": "rubber",
+            "score": 1276
+        },
+        {
+            "word": "jordan",
+            "score": 1272
+        },
+        {
+            "word": "wear",
+            "score": 1270
+        },
+        {
+            "word": "clothes",
+            "score": 1264
+        },
+        {
+            "word": "stan",
+            "score": 1263
+        },
+        {
+            "word": "leather",
+            "score": 1257
+        },
+        {
+            "word": "chuck",
+            "score": 1256
+        },
+        {
+            "word": "homer",
+            "score": 1251
+        },
+        {
+            "word": "endorsed",
+            "score": 1248
+        },
+        {
+            "word": "shirt",
+            "score": 1246
+        },
+        {
+            "word": "gym",
+            "score": 1243
+        },
+        {
+            "word": "dimension",
+            "score": 1241
+        },
+        {
+            "word": "bag",
+            "score": 1239
+        },
+        {
+            "word": "tucker",
+            "score": 1237
+        },
+        {
+            "word": "trend",
+            "score": 1235
+        },
+        {
+            "word": "brands",
+            "score": 1229
+        },
+        {
+            "word": "hair",
+            "score": 1227
+        },
+        {
+            "word": "fashion",
+            "score": 1222
+        },
+        {
+            "word": "caps",
+            "score": 1219
+        },
+        {
+            "word": "rap",
+            "score": 1209
+        },
+        {
+            "word": "pairs",
+            "score": 1206
+        },
+        {
+            "word": "polo",
+            "score": 1204
+        },
+        {
+            "word": "bears",
+            "score": 1200
+        },
+        {
+            "word": "tennis",
+            "score": 1196
+        },
+        {
+            "word": "nba",
+            "score": 1194
+        },
+        {
+            "word": "colors",
+            "score": 1190
+        },
+        {
+            "word": "signature",
+            "score": 1187
+        },
+        {
+            "word": "uniform",
+            "score": 1183
+        },
+        {
+            "word": "cap",
+            "score": 1175
+        },
+        {
+            "word": "items",
+            "score": 1169
+        },
+        {
+            "word": "tommy",
+            "score": 1165
+        },
+        {
+            "word": "athletic",
+            "score": 1159
+        },
+        {
+            "word": "brand",
+            "score": 1150
+        },
+        {
+            "word": "taylor",
+            "score": 1147
+        },
+        {
+            "word": "cool",
+            "score": 1145
+        },
+        {
+            "word": "pink",
+            "score": 1143
+        },
+        {
+            "word": "phil",
+            "score": 1139
+        },
+        {
+            "word": "robinson",
+            "score": 1134
+        },
+        {
+            "word": "eggs",
+            "score": 1132
+        },
+        {
+            "word": "pair",
+            "score": 1127
+        },
+        {
+            "word": "blues",
+            "score": 1124
+        },
+        {
+            "word": "gift",
+            "score": 1123
+        },
+        {
+            "word": "collective",
+            "score": 1118
+        },
+        {
+            "word": "basketball",
+            "score": 1115
+        },
+        {
+            "word": "blue",
+            "score": 1112
+        },
+        {
+            "word": "girls",
+            "score": 1110
+        },
+        {
+            "word": "stores",
+            "score": 1108
+        },
+        {
+            "word": "max",
+            "score": 1106
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "sneakers",
+            "score": 129656
+        },
+        {
+            "word": "sneaker",
+            "score": 65088
+        },
+        {
+            "word": "speakers",
+            "score": 64756
+        },
+        {
+            "word": "speakership",
+            "score": 64697
+        },
+        {
+            "word": "sneakernet",
+            "score": 64696
+        },
+        {
+            "word": "sneakerhead",
+            "score": 64672
+        },
+        {
+            "word": "sneakered",
+            "score": 64663
+        },
+        {
+            "word": "speakeasy",
+            "score": 781
+        },
+        {
+            "word": "speaker",
+            "score": 717
+        },
+        {
+            "word": "snakes",
+            "score": 263
+        }
+    ]
+}

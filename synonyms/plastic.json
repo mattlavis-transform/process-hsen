@@ -1,0 +1,1894 @@
+{
+    "term": "plastic",
+    "means_like": [
+        {
+            "word": "moldable",
+            "score": 83619,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "elastic",
+            "score": 81019,
+            "tags": [
+                "syn",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "pliant",
+            "score": 75486,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "impressionable",
+            "score": 74129,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "integrative",
+            "score": 71700,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "fictile",
+            "score": 69883,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "nylon",
+            "score": 69146,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "thermoplastic",
+            "score": 66755,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pvc",
+            "score": 66704,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "rubber",
+            "score": 65352,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "vinyl",
+            "score": 64896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rubbery",
+            "score": 64504,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "glue",
+            "score": 63946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetic",
+            "score": 62919,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plastique",
+            "score": 62718,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 62374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gum",
+            "score": 62248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 61770,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "semtex",
+            "score": 61432,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "synthetic",
+            "score": 61210,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "interlayer",
+            "score": 61171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mulch",
+            "score": 60868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mallet",
+            "score": 60365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surgical",
+            "score": 59851,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "surgery",
+            "score": 59139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aesthetic",
+            "score": 58915,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "esthetic",
+            "score": 58179,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "stick",
+            "score": 57391,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sculpture",
+            "score": 57290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beauty",
+            "score": 56229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballistic",
+            "score": 56123,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 56058,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "mammary",
+            "score": 56056,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "surgeon",
+            "score": 56009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "layer",
+            "score": 55959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plasticity",
+            "score": 55086,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "film",
+            "score": 54056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammer",
+            "score": 53902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetology",
+            "score": 53347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "makeover",
+            "score": 53129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fine",
+            "score": 52867,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "visual",
+            "score": 52048,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "creative",
+            "score": 51133,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "balance",
+            "score": 50542,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chirurgie",
+            "score": 50525,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "three-dimensional",
+            "score": 50525,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "styrofoam",
+            "score": 50524,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "polystyrene",
+            "score": 50523,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "cardboard",
+            "score": 50522,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "polyethylene",
+            "score": 50521,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "silicone",
+            "score": 50520,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "polycarbonate",
+            "score": 50519,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polypropylene",
+            "score": 50518,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fiberglass",
+            "score": 50515,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "corrugate",
+            "score": 50514,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "biodegradable",
+            "score": 50513,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "silicone rubber",
+            "score": 50512,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "recyclable",
+            "score": 50511,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "resin",
+            "score": 50510,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "polyvinyl chloride",
+            "score": 50509,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "metal",
+            "score": 50508,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive tape",
+            "score": 50507,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "acrylic",
+            "score": 50506,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "perspex",
+            "score": 50504,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polythene",
+            "score": 50503,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polyvinyl",
+            "score": 50502,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aluminum",
+            "score": 50501,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive",
+            "score": 50500,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "plastic explosive",
+            "score": 50498,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "xyloplastic",
+            "score": 50497,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cellophane",
+            "score": 50496,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "aluminum foil",
+            "score": 50495,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stainless steel",
+            "score": 50494,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "greaseproof",
+            "score": 50493,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "embroidery hoop",
+            "score": 50492,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tin foil",
+            "score": 50491,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thermoform",
+            "score": 50490,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nonabsorbent",
+            "score": 50489,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pressboard",
+            "score": 50488,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "saran wrap",
+            "score": 50487,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plyboard",
+            "score": 50486,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "scotch tape",
+            "score": 50485,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polyester",
+            "score": 50484,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "peelable",
+            "score": 50483,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "incased",
+            "score": 50482,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ceramic",
+            "score": 50481,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polyvinyl resin",
+            "score": 50480,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rubberlike",
+            "score": 50479,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "clingfilm",
+            "score": 50478,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "corrugated cardboard",
+            "score": 50477,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polymer",
+            "score": 50476,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "fiberfill",
+            "score": 50475,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 50474,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "colanders",
+            "score": 50473,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cylindrical",
+            "score": 50472,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "metallic",
+            "score": 50471,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ziplock",
+            "score": 50470,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "superglue",
+            "score": 50469,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "latex",
+            "score": 50468,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "plastic bag",
+            "score": 50467,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "plastic",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastique",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastik",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "blastic",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastics",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasticky",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "aplastic",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "polo stick",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "elastic",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "black stick",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaster",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "spastic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plast",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clastic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pool stick",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "place kick",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "piss take",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "post oak",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitstick",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastical",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "piss-take",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "palatic",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "blasting",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ballistic",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "blast it",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "blasty",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bostic",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bostick",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "blasto",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bluetick",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "blackstock",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "billystick",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "bestick",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "patak",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasach",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "poetic",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "placed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "plateau",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "politic",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pasty",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasters",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasto",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "glowstick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastering",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pogo stick",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pastille",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "passaic",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasterer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "blasta",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "politik",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pastis",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "politick",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastids",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "postiche",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "platea",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plaisted",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasmatic",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "postdoc",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pratic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plassey",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "penstock",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "apolaustic",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "bistec",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasig",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "platting",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lustic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "picic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pietistic",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "past it",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasok",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "aplitic",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plain stitch",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "glue stick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "placit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "blast",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "blasted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blaster",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blasts",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "blastoff",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blast off",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bostock",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blast-off",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "boom stick",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "elastica",
+            "score": 73,
+            "numSyllables": 4
+        },
+        {
+            "word": "blu tack",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blue streak",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bloodstock",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blu-tack",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "chiastic",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "-blast",
+            "score": 73,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "plastic",
+            "score": 130311
+        },
+        {
+            "word": "elastic",
+            "score": 65493
+        },
+        {
+            "word": "blastic",
+            "score": 64855
+        },
+        {
+            "word": "clastic",
+            "score": 64844
+        },
+        {
+            "word": "aplastic",
+            "score": 64824
+        },
+        {
+            "word": "plastid",
+            "score": 64799
+        },
+        {
+            "word": "plasmic",
+            "score": 64706
+        },
+        {
+            "word": "plastin",
+            "score": 64704
+        },
+        {
+            "word": "-plastic",
+            "score": 64692
+        },
+        {
+            "word": "plastik",
+            "score": 64688
+        },
+        {
+            "word": "platic",
+            "score": 64665
+        },
+        {
+            "word": "classic",
+            "score": 1876
+        },
+        {
+            "word": "plaster",
+            "score": 1131
+        },
+        {
+            "word": "drastic",
+            "score": 1089
+        },
+        {
+            "word": "mastic",
+            "score": 652
+        },
+        {
+            "word": "phatic",
+            "score": 415
+        },
+        {
+            "word": "spastic",
+            "score": 405
+        },
+        {
+            "word": "plast",
+            "score": 395
+        },
+        {
+            "word": "elastin",
+            "score": 373
+        },
+        {
+            "word": "pastis",
+            "score": 311
+        },
+        {
+            "word": "phasic",
+            "score": 246
+        },
+        {
+            "word": "plasty",
+            "score": 241
+        },
+        {
+            "word": "plasmid",
+            "score": 238
+        },
+        {
+            "word": "palatic",
+            "score": 228
+        },
+        {
+            "word": "lactic",
+            "score": 208
+        },
+        {
+            "word": "nastic",
+            "score": 187
+        },
+        {
+            "word": "silastic",
+            "score": 168
+        },
+        {
+            "word": "plastics",
+            "score": 164
+        },
+        {
+            "word": "gelastic",
+            "score": 139
+        },
+        {
+            "word": "aclastic",
+            "score": 138
+        },
+        {
+            "word": "euplastic",
+            "score": 130
+        },
+        {
+            "word": "pastie",
+            "score": 98
+        },
+        {
+            "word": "pastil",
+            "score": 94
+        },
+        {
+            "word": "tastic",
+            "score": 93
+        },
+        {
+            "word": "blastie",
+            "score": 89
+        },
+        {
+            "word": "pistic",
+            "score": 84
+        },
+        {
+            "word": "lustic",
+            "score": 83
+        },
+        {
+            "word": "emplastic",
+            "score": 82
+        },
+        {
+            "word": "plasia",
+            "score": 80
+        },
+        {
+            "word": "plasmatic",
+            "score": 76
+        },
+        {
+            "word": "pelasgic",
+            "score": 73
+        },
+        {
+            "word": "plastide",
+            "score": 69
+        },
+        {
+            "word": "practic",
+            "score": 69
+        },
+        {
+            "word": "platin",
+            "score": 62
+        },
+        {
+            "word": "planetic",
+            "score": 51
+        },
+        {
+            "word": "plasmin",
+            "score": 51
+        },
+        {
+            "word": "plantin",
+            "score": 49
+        },
+        {
+            "word": "plastids",
+            "score": 46
+        },
+        {
+            "word": "postic",
+            "score": 45
+        },
+        {
+            "word": "-blastic",
+            "score": 37
+        },
+        {
+            "word": "pratic",
+            "score": 32
+        },
+        {
+            "word": "pasic",
+            "score": 30
+        },
+        {
+            "word": "pepastic",
+            "score": 29
+        },
+        {
+            "word": "-nastic",
+            "score": 18
+        },
+        {
+            "word": "astic",
+            "score": 18
+        },
+        {
+            "word": "planktic",
+            "score": 14
+        },
+        {
+            "word": "vlasic",
+            "score": 14
+        },
+        {
+            "word": "blastid",
+            "score": 12
+        },
+        {
+            "word": "pasti",
+            "score": 10
+        },
+        {
+            "word": "blastin",
+            "score": 9
+        },
+        {
+            "word": "plastein",
+            "score": 7
+        },
+        {
+            "word": "pantic",
+            "score": 6
+        },
+        {
+            "word": "-clastic",
+            "score": 5
+        },
+        {
+            "word": "lasic",
+            "score": 4
+        },
+        {
+            "word": "-tastic",
+            "score": 3
+        },
+        {
+            "word": "lasti",
+            "score": 3
+        },
+        {
+            "word": "plastify",
+            "score": 3
+        },
+        {
+            "word": "vlasti",
+            "score": 3
+        },
+        {
+            "word": "plastica",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "bags",
+            "score": 1558
+        },
+        {
+            "word": "sheeting",
+            "score": 1536
+        },
+        {
+            "word": "ono",
+            "score": 1531
+        },
+        {
+            "word": "deformation",
+            "score": 1525
+        },
+        {
+            "word": "polyethylene",
+            "score": 1512
+        },
+        {
+            "word": "molding",
+            "score": 1502
+        },
+        {
+            "word": "pvc",
+            "score": 1500
+        },
+        {
+            "word": "plastics",
+            "score": 1487
+        },
+        {
+            "word": "bag",
+            "score": 1469
+        },
+        {
+            "word": "molded",
+            "score": 1462
+        },
+        {
+            "word": "surgery",
+            "score": 1456
+        },
+        {
+            "word": "cardboard",
+            "score": 1434
+        },
+        {
+            "word": "fiberglass",
+            "score": 1430
+        },
+        {
+            "word": "surgeon",
+            "score": 1422
+        },
+        {
+            "word": "wrap",
+            "score": 1415
+        },
+        {
+            "word": "resin",
+            "score": 1402
+        },
+        {
+            "word": "foam",
+            "score": 1401
+        },
+        {
+            "word": "cans",
+            "score": 1384
+        },
+        {
+            "word": "packaging",
+            "score": 1382
+        },
+        {
+            "word": "cosmetic",
+            "score": 1374
+        },
+        {
+            "word": "recycled",
+            "score": 1368
+        },
+        {
+            "word": "recycling",
+            "score": 1365
+        },
+        {
+            "word": "bottle",
+            "score": 1356
+        },
+        {
+            "word": "kits",
+            "score": 1347
+        },
+        {
+            "word": "mold",
+            "score": 1346
+        },
+        {
+            "word": "toys",
+            "score": 1344
+        },
+        {
+            "word": "polymer",
+            "score": 1342
+        },
+        {
+            "word": "rubber",
+            "score": 1334
+        },
+        {
+            "word": "aluminum",
+            "score": 1332
+        },
+        {
+            "word": "container",
+            "score": 1325
+        },
+        {
+            "word": "injection",
+            "score": 1314
+        },
+        {
+            "word": "sheets",
+            "score": 1309
+        },
+        {
+            "word": "toy",
+            "score": 1302
+        },
+        {
+            "word": "cups",
+            "score": 1295
+        },
+        {
+            "word": "lenses",
+            "score": 1289
+        },
+        {
+            "word": "explosive",
+            "score": 1286
+        },
+        {
+            "word": "bullets",
+            "score": 1282
+        },
+        {
+            "word": "aluminium",
+            "score": 1281
+        },
+        {
+            "word": "debris",
+            "score": 1279
+        },
+        {
+            "word": "composite",
+            "score": 1277
+        },
+        {
+            "word": "sheet",
+            "score": 1272
+        },
+        {
+            "word": "pipes",
+            "score": 1270
+        },
+        {
+            "word": "boxes",
+            "score": 1269
+        },
+        {
+            "word": "metal",
+            "score": 1262
+        },
+        {
+            "word": "fiber",
+            "score": 1257
+        },
+        {
+            "word": "waste",
+            "score": 1242
+        },
+        {
+            "word": "flexible",
+            "score": 1236
+        },
+        {
+            "word": "materials",
+            "score": 1234
+        },
+        {
+            "word": "tube",
+            "score": 1232
+        },
+        {
+            "word": "pipe",
+            "score": 1226
+        },
+        {
+            "word": "surgical",
+            "score": 1224
+        },
+        {
+            "word": "fabric",
+            "score": 1222
+        },
+        {
+            "word": "strain",
+            "score": 1220
+        },
+        {
+            "word": "glass",
+            "score": 1219
+        },
+        {
+            "word": "leather",
+            "score": 1212
+        },
+        {
+            "word": "balls",
+            "score": 1206
+        },
+        {
+            "word": "lens",
+            "score": 1201
+        },
+        {
+            "word": "panels",
+            "score": 1199
+        },
+        {
+            "word": "kit",
+            "score": 1196
+        },
+        {
+            "word": "manufactured",
+            "score": 1193
+        },
+        {
+            "word": "tape",
+            "score": 1190
+        },
+        {
+            "word": "wheels",
+            "score": 1185
+        },
+        {
+            "word": "pollution",
+            "score": 1184
+        },
+        {
+            "word": "wire",
+            "score": 1182
+        },
+        {
+            "word": "material",
+            "score": 1179
+        },
+        {
+            "word": "steel",
+            "score": 1178
+        },
+        {
+            "word": "nose",
+            "score": 1175
+        },
+        {
+            "word": "breast",
+            "score": 1174
+        },
+        {
+            "word": "vinyl",
+            "score": 1166
+        },
+        {
+            "word": "models",
+            "score": 1162
+        },
+        {
+            "word": "wooden",
+            "score": 1160
+        },
+        {
+            "word": "thin",
+            "score": 1157
+        },
+        {
+            "word": "card",
+            "score": 1155
+        },
+        {
+            "word": "plates",
+            "score": 1153
+        },
+        {
+            "word": "handle",
+            "score": 1149
+        },
+        {
+            "word": "paper",
+            "score": 1145
+        },
+        {
+            "word": "wood",
+            "score": 1144
+        },
+        {
+            "word": "products",
+            "score": 1142
+        },
+        {
+            "word": "soft",
+            "score": 1139
+        },
+        {
+            "word": "liquid",
+            "score": 1136
+        },
+        {
+            "word": "manufacturer",
+            "score": 1129
+        },
+        {
+            "word": "paint",
+            "score": 1125
+        },
+        {
+            "word": "procedures",
+            "score": 1123
+        },
+        {
+            "word": "attached",
+            "score": 1121
+        },
+        {
+            "word": "wheel",
+            "score": 1117
+        },
+        {
+            "word": "components",
+            "score": 1115
+        },
+        {
+            "word": "cards",
+            "score": 1114
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "plastic",
+            "score": 130311
+        },
+        {
+            "word": "plasticity",
+            "score": 129778
+        },
+        {
+            "word": "plasticine",
+            "score": 129588
+        },
+        {
+            "word": "plastics",
+            "score": 129482
+        },
+        {
+            "word": "plasticizer",
+            "score": 129450
+        },
+        {
+            "word": "plastic surgery",
+            "score": 129433
+        },
+        {
+            "word": "plastic deformation",
+            "score": 129421
+        },
+        {
+            "word": "plasticize",
+            "score": 129421
+        },
+        {
+            "word": "plasticky",
+            "score": 129402
+        },
+        {
+            "word": "plastic wrap",
+            "score": 129399
+        }
+    ]
+}

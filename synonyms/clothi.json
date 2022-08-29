@@ -1,0 +1,567 @@
+{
+    "term": "clothi",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "clotho",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kld",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothes",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "chloe",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothe",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "clothed",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "clouthier",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "clutha",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloudy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "clammy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "cliffy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "claudie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemmie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemmy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloddy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "claffey",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "clodo",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "classy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloth",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "clothing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloths",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kathy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clingy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clooney",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleary",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clary",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clowney",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kathie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kathi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "classi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cluny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "couthie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clichy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clarey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kluth",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cathi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clari",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "couthy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clayey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cludgie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kludgy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "klischee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "class c",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleri",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "closure",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "olathe",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "clusia",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cody",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clove",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "cofee",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "kody",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "kofi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloche",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "codi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clowder",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "codey",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clima",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothier",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "komi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "claddagh",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "comi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "coady",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "codee",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "klima",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemo",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "comae",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clamo",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "climo",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clauda",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "cofi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "cliche",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloak",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clara",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloe",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clea",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clio",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "claro",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathay",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clee",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "chloro",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clitheroe",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "catha",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clippie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clia",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "claggy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "catho",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clavi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clino",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clero",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clethra",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clione",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cloacae",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "clear eye",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloete",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "class a",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "clothe",
+            "score": 2499
+        },
+        {
+            "word": "cloth",
+            "score": 1938
+        },
+        {
+            "word": "clotho",
+            "score": 234
+        },
+        {
+            "word": "cloths",
+            "score": 206
+        },
+        {
+            "word": "clothy",
+            "score": 5
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "clothing",
+            "score": 65867
+        },
+        {
+            "word": "clothier",
+            "score": 64857
+        },
+        {
+            "word": "clothiers",
+            "score": 64705
+        },
+        {
+            "word": "clothing store",
+            "score": 64695
+        },
+        {
+            "word": "clothings",
+            "score": 64676
+        },
+        {
+            "word": "clothing label",
+            "score": 64668
+        },
+        {
+            "word": "clothing optional",
+            "score": 64667
+        },
+        {
+            "word": "clothilde",
+            "score": 64660
+        },
+        {
+            "word": "clothe",
+            "score": 2499
+        },
+        {
+            "word": "cloth",
+            "score": 1938
+        }
+    ]
+}

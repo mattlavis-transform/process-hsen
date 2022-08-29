@@ -1,0 +1,1619 @@
+{
+    "term": "poster",
+    "means_like": [
+        {
+            "word": "placard",
+            "score": 90480,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 80949,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "notice",
+            "score": 78291,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bill",
+            "score": 76766,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "post horse",
+            "score": 73963,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "billboard",
+            "score": 68786,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flier",
+            "score": 67955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banner",
+            "score": 67890,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flyer",
+            "score": 67602,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banners",
+            "score": 66685,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picture",
+            "score": 65898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photo",
+            "score": 65291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advertisement",
+            "score": 65130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sticker",
+            "score": 64575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sign",
+            "score": 63181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signboard",
+            "score": 62896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signs",
+            "score": 62594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signage",
+            "score": 61197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display",
+            "score": 60628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "displays",
+            "score": 60500,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "manifesto",
+            "score": 60146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diagram",
+            "score": 60058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "displayed",
+            "score": 59945,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "drawing",
+            "score": 58757,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhibits",
+            "score": 58461,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "postings",
+            "score": 58451,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advertising",
+            "score": 58233,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "post",
+            "score": 58128,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "marquee",
+            "score": 57975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notices",
+            "score": 57906,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demonstration",
+            "score": 57836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posting",
+            "score": 57560,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhibited",
+            "score": 57285,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "showcase",
+            "score": 57075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posted",
+            "score": 56936,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "view",
+            "score": 56332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "star",
+            "score": 56236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mailing",
+            "score": 56127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appear",
+            "score": 55231,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "posts",
+            "score": 55176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slate",
+            "score": 55027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broadside",
+            "score": 54900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "show",
+            "score": 54472,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notification",
+            "score": 54348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "showed",
+            "score": 53996,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "announcement",
+            "score": 53947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sender",
+            "score": 53695,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avis",
+            "score": 52578,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "opinion",
+            "score": 52295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contents",
+            "score": 52118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mail",
+            "score": 52082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opinions",
+            "score": 51919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartel",
+            "score": 51481,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advisories",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line-up",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "value-added",
+            "score": 51031,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "advice",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "postcard",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbill",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mural",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photograph",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "standee",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artwork",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pamphlet",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brochure",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illustration",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portrait",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decal",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "logo",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lithograph",
+            "score": 51010,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "slogan",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leaflet",
+            "score": 51007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collage",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stencil",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silkscreen",
+            "score": 51003,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "booklet",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardboard",
+            "score": 51001,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "advert",
+            "score": 51000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pictorial representation",
+            "score": 50999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billposter",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bill sticker",
+            "score": 50997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caption",
+            "score": 50996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posterboard",
+            "score": 50995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stickers",
+            "score": 50994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lifesize",
+            "score": 50993,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookplate",
+            "score": 50992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulletin board",
+            "score": 50991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phototypography",
+            "score": 50990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figurine",
+            "score": 50989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mugshot",
+            "score": 50988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumper sticker",
+            "score": 50987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddy bear",
+            "score": 50986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye chart",
+            "score": 50985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bannerlike",
+            "score": 50984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 50983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 50982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emblem",
+            "score": 50981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imprimery",
+            "score": 50980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crayon",
+            "score": 50979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheet of paper",
+            "score": 50978,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "poster",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "postre",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastor",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pester",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "paster",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pistor",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "boaster",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "post",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "posters",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "postie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "posta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pollster",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poste",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "polster",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "post-",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "posti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "buster",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "booster",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "baster",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoster",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bester",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bestir",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "boster",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bastar",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bister",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bistre",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "boyster",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "past",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "passed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasta",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pissed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pest",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "paste",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "poser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasture",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaster",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "patter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paced",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pacer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pist",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "passer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pisser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "piste",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pastie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pater",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastors",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pieced",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "popstar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pesty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "petter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasteur",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "poseur",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pooter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pestered",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peaced",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "petr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "poder",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pieter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "piter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pacesetter",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "pista",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "posser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "petar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pesters",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "petre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pesta",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "piotr",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "posto",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "patr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastore",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "piecer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "popster",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasgt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pitre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "postern",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasters",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peste",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pastern",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paiste",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pesterer",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "pastored",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "piastre",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "poeder",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pace setter",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "peest",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pacier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "palster",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "piaster",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "patre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitar",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "poster",
+            "score": 65375
+        },
+        {
+            "word": "foster",
+            "score": 2858
+        },
+        {
+            "word": "roster",
+            "score": 1501
+        },
+        {
+            "word": "porter",
+            "score": 1195
+        },
+        {
+            "word": "pester",
+            "score": 839
+        },
+        {
+            "word": "potter",
+            "score": 728
+        },
+        {
+            "word": "poser",
+            "score": 678
+        },
+        {
+            "word": "zoster",
+            "score": 430
+        },
+        {
+            "word": "pooter",
+            "score": 377
+        },
+        {
+            "word": "posted",
+            "score": 368
+        },
+        {
+            "word": "coster",
+            "score": 255
+        },
+        {
+            "word": "pouter",
+            "score": 249
+        },
+        {
+            "word": "oster",
+            "score": 214
+        },
+        {
+            "word": "paster",
+            "score": 181
+        },
+        {
+            "word": "hoster",
+            "score": 180
+        },
+        {
+            "word": "poste",
+            "score": 147
+        },
+        {
+            "word": "posher",
+            "score": 102
+        },
+        {
+            "word": "boster",
+            "score": 100
+        },
+        {
+            "word": "noster",
+            "score": 87
+        },
+        {
+            "word": "postea",
+            "score": 85
+        },
+        {
+            "word": "polster",
+            "score": 67
+        },
+        {
+            "word": "doster",
+            "score": 61
+        },
+        {
+            "word": "postel",
+            "score": 57
+        },
+        {
+            "word": "powter",
+            "score": 57
+        },
+        {
+            "word": "posten",
+            "score": 48
+        },
+        {
+            "word": "poter",
+            "score": 48
+        },
+        {
+            "word": "posner",
+            "score": 47
+        },
+        {
+            "word": "koster",
+            "score": 41
+        },
+        {
+            "word": "moster",
+            "score": 37
+        },
+        {
+            "word": "popster",
+            "score": 27
+        },
+        {
+            "word": "posser",
+            "score": 25
+        },
+        {
+            "word": "pomster",
+            "score": 21
+        },
+        {
+            "word": "polter",
+            "score": 14
+        },
+        {
+            "word": "goster",
+            "score": 4
+        },
+        {
+            "word": "loster",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "tagline",
+            "score": 1488
+        },
+        {
+            "word": "teaser",
+            "score": 1471
+        },
+        {
+            "word": "trailer",
+            "score": 1432
+        },
+        {
+            "word": "booklet",
+            "score": 1400
+        },
+        {
+            "word": "artwork",
+            "score": 1344
+        },
+        {
+            "word": "illustration",
+            "score": 1338
+        },
+        {
+            "word": "slogan",
+            "score": 1334
+        },
+        {
+            "word": "advertising",
+            "score": 1325
+        },
+        {
+            "word": "depicting",
+            "score": 1318
+        },
+        {
+            "word": "illustrator",
+            "score": 1317
+        },
+        {
+            "word": "photograph",
+            "score": 1311
+        },
+        {
+            "word": "graphic",
+            "score": 1306
+        },
+        {
+            "word": "unveiled",
+            "score": 1304
+        },
+        {
+            "word": "bedroom",
+            "score": 1303
+        },
+        {
+            "word": "advertisement",
+            "score": 1298
+        },
+        {
+            "word": "depicts",
+            "score": 1294
+        },
+        {
+            "word": "designer",
+            "score": 1292
+        },
+        {
+            "word": "iconic",
+            "score": 1279
+        },
+        {
+            "word": "advertisements",
+            "score": 1277
+        },
+        {
+            "word": "photo",
+            "score": 1274
+        },
+        {
+            "word": "prints",
+            "score": 1266
+        },
+        {
+            "word": "presentation",
+            "score": 1258
+        },
+        {
+            "word": "featuring",
+            "score": 1254
+        },
+        {
+            "word": "logo",
+            "score": 1251
+        },
+        {
+            "word": "image",
+            "score": 1249
+        },
+        {
+            "word": "photos",
+            "score": 1243
+        },
+        {
+            "word": "theatrical",
+            "score": 1239
+        },
+        {
+            "word": "artist",
+            "score": 1238
+        },
+        {
+            "word": "boy",
+            "score": 1236
+        },
+        {
+            "word": "promotional",
+            "score": 1234
+        },
+        {
+            "word": "printed",
+            "score": 1232
+        },
+        {
+            "word": "depicted",
+            "score": 1231
+        },
+        {
+            "word": "bonus",
+            "score": 1229
+        },
+        {
+            "word": "displayed",
+            "score": 1223
+        },
+        {
+            "word": "designs",
+            "score": 1220
+        },
+        {
+            "word": "exhibition",
+            "score": 1218
+        },
+        {
+            "word": "sessions",
+            "score": 1214
+        },
+        {
+            "word": "propaganda",
+            "score": 1211
+        },
+        {
+            "word": "showing",
+            "score": 1206
+        },
+        {
+            "word": "reads",
+            "score": 1205
+        },
+        {
+            "word": "cover",
+            "score": 1196
+        },
+        {
+            "word": "illustrated",
+            "score": 1194
+        },
+        {
+            "word": "art",
+            "score": 1191
+        },
+        {
+            "word": "print",
+            "score": 1186
+        },
+        {
+            "word": "dvd",
+            "score": 1184
+        },
+        {
+            "word": "picture",
+            "score": 1181
+        },
+        {
+            "word": "wall",
+            "score": 1179
+        },
+        {
+            "word": "movie",
+            "score": 1174
+        },
+        {
+            "word": "paint",
+            "score": 1170
+        },
+        {
+            "word": "images",
+            "score": 1167
+        },
+        {
+            "word": "girl",
+            "score": 1163
+        },
+        {
+            "word": "wearing",
+            "score": 1156
+        },
+        {
+            "word": "contest",
+            "score": 1150
+        },
+        {
+            "word": "campaign",
+            "score": 1149
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "poster",
+            "score": 65375
+        },
+        {
+            "word": "posterity",
+            "score": 66085
+        },
+        {
+            "word": "posterior",
+            "score": 65563
+        },
+        {
+            "word": "postern",
+            "score": 65137
+        },
+        {
+            "word": "posteriori",
+            "score": 64996
+        },
+        {
+            "word": "posteriorly",
+            "score": 64821
+        },
+        {
+            "word": "posteroanterior",
+            "score": 64801
+        },
+        {
+            "word": "poster child",
+            "score": 64793
+        },
+        {
+            "word": "posterboard",
+            "score": 64782
+        },
+        {
+            "word": "posterize",
+            "score": 64774
+        }
+    ]
+}

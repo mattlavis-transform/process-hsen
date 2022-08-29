@@ -1,0 +1,774 @@
+{
+    "term": "motorcycle parts",
+    "means_like": [
+        {
+            "word": "machine",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fairing",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cycle",
+            "score": 14923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gun",
+            "score": 14923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leather",
+            "score": 14923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 14923,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "saddle",
+            "score": 14923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filter",
+            "score": 14882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monkey",
+            "score": 14882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moped",
+            "score": 14872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scooter",
+            "score": 14872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sidecar",
+            "score": 14872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combination",
+            "score": 14373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ramp",
+            "score": 14333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indian",
+            "score": 14322,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "handlebars",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmet",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hof",
+            "score": 13903,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hog",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mudguard",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressed",
+            "score": 13903,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "saddlebag",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "speedway",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spider",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splash-guard",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splash guard",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velodrome",
+            "score": 13903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "derby",
+            "score": 13862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filtered",
+            "score": 13862,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "filtering",
+            "score": 13862,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "mono",
+            "score": 13862,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "pannier",
+            "score": 13862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rider",
+            "score": 13862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrambler",
+            "score": 13862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandidos",
+            "score": 13312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chief",
+            "score": 13312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fire",
+            "score": 13312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aberration",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accusative",
+            "score": 12824,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "act",
+            "score": 12824,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "acy",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "align",
+            "score": 12824,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "allowance",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anatomy",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arm",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arms",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "articulation",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemblage",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemble",
+            "score": 12824,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "assembler",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assembling",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assembly",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backlash",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balance",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balancing",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrel",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bearing",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binding",
+            "score": 12824,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "biogeochemical",
+            "score": 12824,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boy",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breeching",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridle",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridled",
+            "score": 12824,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "brush",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bucket",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumper",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannibalize",
+            "score": 12824,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cape",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carriage",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrot",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 12824,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "center",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chatter",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 12824,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 12824,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cheek",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chuck",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circle",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clearance",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clip",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clock",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cogs",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commutator",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "condensation",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "constrain",
+            "score": 12824,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "constraining",
+            "score": 12824,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "construction",
+            "score": 12824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coordinate",
+            "score": 12824,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "motorcyclists",
+            "score": 70,
+            "numSyllables": 5
+        },
+        {
+            "word": "motorcyclist",
+            "score": 62,
+            "numSyllables": 5
+        },
+        {
+            "word": "motorcycles",
+            "score": 57,
+            "numSyllables": 4
+        },
+        {
+            "word": "motorcycle",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "motor cycle",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "martial arts",
+            "score": 48,
+            "numSyllables": 3
+        },
+        {
+            "word": "watersports",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "water sports",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "water sport",
+            "score": 30,
+            "numSyllables": 3
+        },
+        {
+            "word": "serial port",
+            "score": 30,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

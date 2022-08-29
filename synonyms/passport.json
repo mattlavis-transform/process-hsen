@@ -1,0 +1,1661 @@
+{
+    "term": "passport",
+    "means_like": [
+        {
+            "word": "pass",
+            "score": 83894,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 65550,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carnet",
+            "score": 63056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ticket",
+            "score": 62720,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "travel",
+            "score": 62420,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "document",
+            "score": 60335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inadmissibility",
+            "score": 58259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booklet",
+            "score": 57299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "authorisation",
+            "score": 57247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "list",
+            "score": 54401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stead",
+            "score": 53780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grapes",
+            "score": 53213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "step",
+            "score": 53174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "permissibility",
+            "score": 51582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "e-passport",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laissez-passer",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visa",
+            "score": 51059,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "citizenship",
+            "score": 51058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "identity card",
+            "score": 51057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naturalization",
+            "score": 51056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consular",
+            "score": 51055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photocopy",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apostille",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immigration",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "identification",
+            "score": 51051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laissez passer",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "certificate",
+            "score": 51049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "identity",
+            "score": 51047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consulate",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "passbook",
+            "score": 51045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nationality",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luggage",
+            "score": 51043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credential",
+            "score": 51042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xerox copy",
+            "score": 51041,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "registration",
+            "score": 51040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notarization",
+            "score": 51039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperwork",
+            "score": 51038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naturalisation",
+            "score": 51037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "traveler",
+            "score": 51036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embassy",
+            "score": 51035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foreigner",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suitcase",
+            "score": 51032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counterfoil",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bankbook",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baggage",
+            "score": 51029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notary",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 51026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birth certificate",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deportation",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asylum",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fingerprints",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "license",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "personal identification number",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "driving licence",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "residency",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stamps",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deportee",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biographic",
+            "score": 51015,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cashcard",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "residencia",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "extradition",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "absentee ballot",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thumbprint",
+            "score": 51010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "official document",
+            "score": 51009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debit card",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refugee",
+            "score": 51007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "id card",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machine readable",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banknotes",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nationals",
+            "score": 51003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "customs",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vice consul",
+            "score": 51001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ration card",
+            "score": 51000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "postmark",
+            "score": 50999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "positive identification",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printout",
+            "score": 50997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "documents",
+            "score": 50996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "license plate",
+            "score": 50995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arrest warrant",
+            "score": 50994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forgery",
+            "score": 50993,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "military attache",
+            "score": 50992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iris scanning",
+            "score": 50990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waybill",
+            "score": 50989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noncitizen",
+            "score": 50988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biometrics",
+            "score": 50987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "detainer",
+            "score": 50986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papers",
+            "score": 50985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "citizen",
+            "score": 50984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit card",
+            "score": 50983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stock certificate",
+            "score": 50982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interpol",
+            "score": 50981,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "payslip",
+            "score": 50980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diploma",
+            "score": 50979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recognisance",
+            "score": 50978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deductor",
+            "score": 50977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ticket stub",
+            "score": 50976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amah",
+            "score": 50975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surname",
+            "score": 50974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "franking machine",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aliases",
+            "score": 50972,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "passport",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "passports",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bass part",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "spaceport",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pop art",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "popart",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "pisspot",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "piss pot",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "purport",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "perspired",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "massport",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "piesporter",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "piss-poor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "piss poor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasaporte",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "baseboard",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bayport",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass out",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "passout",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass-out",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "passe-partout",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "password",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass word",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "perspire",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "passat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "disport",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "perspires",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pastore",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "spoilsport",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "best part",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bossart",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gosport",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastora",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pastored",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "presort",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "desport",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pressboard",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "export",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "westport",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "base pair",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "pop tart",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "passed out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pie chart",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pop out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "dispart",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasar",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pick apart",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pull apart",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pissarro",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "popout",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "poop out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pace out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pesaro",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "voice part",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "play a part",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pop-out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass through",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "past",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "passed",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "pampered",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papper",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passer",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passover",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paster",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papist",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papr",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass by",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papered",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passant",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "house party",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "papir",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass over",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pasgt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "papeete",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasters",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "basstard",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papyri",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "passero",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "high spot",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papst",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "bit part",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ex parte",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bossard",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastier",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pacier",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "past it",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass water",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "busbar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasp",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "passade",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passovers",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pasteboard",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "passport",
+            "score": 129955
+        },
+        {
+            "word": "massport",
+            "score": 64692
+        },
+        {
+            "word": "passwort",
+            "score": 64666
+        },
+        {
+            "word": "passeport",
+            "score": 64665
+        },
+        {
+            "word": "password",
+            "score": 382
+        },
+        {
+            "word": "assort",
+            "score": 377
+        },
+        {
+            "word": "pass out",
+            "score": 252
+        },
+        {
+            "word": "passout",
+            "score": 52
+        },
+        {
+            "word": "passports",
+            "score": 46
+        },
+        {
+            "word": "eastport",
+            "score": 29
+        },
+        {
+            "word": "pisspot",
+            "score": 29
+        },
+        {
+            "word": "pass-out",
+            "score": 25
+        },
+        {
+            "word": "passmore",
+            "score": 20
+        },
+        {
+            "word": "e-passport",
+            "score": 13
+        },
+        {
+            "word": "jansport",
+            "score": 13
+        },
+        {
+            "word": "e passport",
+            "score": 5
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "biometric",
+            "score": 1653
+        },
+        {
+            "word": "visa",
+            "score": 1596
+        },
+        {
+            "word": "pimlico",
+            "score": 1559
+        },
+        {
+            "word": "readable",
+            "score": 1498
+        },
+        {
+            "word": "issuance",
+            "score": 1475
+        },
+        {
+            "word": "validity",
+            "score": 1473
+        },
+        {
+            "word": "stamped",
+            "score": 1447
+        },
+        {
+            "word": "valid",
+            "score": 1442
+        },
+        {
+            "word": "consular",
+            "score": 1431
+        },
+        {
+            "word": "bearer",
+            "score": 1428
+        },
+        {
+            "word": "nationality",
+            "score": 1421
+        },
+        {
+            "word": "revoked",
+            "score": 1418
+        },
+        {
+            "word": "citizenship",
+            "score": 1396
+        },
+        {
+            "word": "restrictions",
+            "score": 1390
+        },
+        {
+            "word": "issuing",
+            "score": 1384
+        },
+        {
+            "word": "travel",
+            "score": 1381
+        },
+        {
+            "word": "holder",
+            "score": 1380
+        },
+        {
+            "word": "stamp",
+            "score": 1378
+        },
+        {
+            "word": "confiscated",
+            "score": 1373
+        },
+        {
+            "word": "consulate",
+            "score": 1368
+        },
+        {
+            "word": "citizens",
+            "score": 1365
+        },
+        {
+            "word": "document",
+            "score": 1364
+        },
+        {
+            "word": "issued",
+            "score": 1360
+        },
+        {
+            "word": "checks",
+            "score": 1347
+        },
+        {
+            "word": "booklet",
+            "score": 1337
+        },
+        {
+            "word": "card",
+            "score": 1331
+        },
+        {
+            "word": "blank",
+            "score": 1328
+        },
+        {
+            "word": "stamps",
+            "score": 1325
+        },
+        {
+            "word": "citizen",
+            "score": 1322
+        },
+        {
+            "word": "immigration",
+            "score": 1319
+        },
+        {
+            "word": "identification",
+            "score": 1312
+        },
+        {
+            "word": "identity",
+            "score": 1304
+        },
+        {
+            "word": "diplomatic",
+            "score": 1301
+        },
+        {
+            "word": "index",
+            "score": 1300
+        },
+        {
+            "word": "pages",
+            "score": 1288
+        },
+        {
+            "word": "certificate",
+            "score": 1285
+        },
+        {
+            "word": "chip",
+            "score": 1280
+        },
+        {
+            "word": "expired",
+            "score": 1276
+        },
+        {
+            "word": "arrival",
+            "score": 1272
+        },
+        {
+            "word": "proof",
+            "score": 1269
+        },
+        {
+            "word": "permit",
+            "score": 1262
+        },
+        {
+            "word": "abroad",
+            "score": 1260
+        },
+        {
+            "word": "travelling",
+            "score": 1252
+        },
+        {
+            "word": "photograph",
+            "score": 1246
+        },
+        {
+            "word": "fake",
+            "score": 1243
+        },
+        {
+            "word": "page",
+            "score": 1242
+        },
+        {
+            "word": "photo",
+            "score": 1240
+        },
+        {
+            "word": "embassy",
+            "score": 1236
+        },
+        {
+            "word": "enter",
+            "score": 1235
+        },
+        {
+            "word": "fraud",
+            "score": 1231
+        },
+        {
+            "word": "registration",
+            "score": 1229
+        },
+        {
+            "word": "documents",
+            "score": 1223
+        },
+        {
+            "word": "overseas",
+            "score": 1219
+        },
+        {
+            "word": "eligible",
+            "score": 1211
+        },
+        {
+            "word": "check",
+            "score": 1209
+        },
+        {
+            "word": "hong",
+            "score": 1207
+        },
+        {
+            "word": "traveling",
+            "score": 1205
+        },
+        {
+            "word": "entry",
+            "score": 1202
+        },
+        {
+            "word": "licence",
+            "score": 1201
+        },
+        {
+            "word": "countries",
+            "score": 1198
+        },
+        {
+            "word": "apply",
+            "score": 1197
+        },
+        {
+            "word": "printed",
+            "score": 1196
+        },
+        {
+            "word": "customs",
+            "score": 1194
+        },
+        {
+            "word": "territories",
+            "score": 1191
+        },
+        {
+            "word": "kong",
+            "score": 1187
+        },
+        {
+            "word": "ticket",
+            "score": 1186
+        },
+        {
+            "word": "stolen",
+            "score": 1184
+        },
+        {
+            "word": "application",
+            "score": 1183
+        },
+        {
+            "word": "cards",
+            "score": 1178
+        },
+        {
+            "word": "obtain",
+            "score": 1176
+        },
+        {
+            "word": "fee",
+            "score": 1171
+        },
+        {
+            "word": "tied",
+            "score": 1169
+        },
+        {
+            "word": "ordinary",
+            "score": 1167
+        },
+        {
+            "word": "photos",
+            "score": 1165
+        },
+        {
+            "word": "requirements",
+            "score": 1162
+        },
+        {
+            "word": "birth",
+            "score": 1161
+        },
+        {
+            "word": "authorities",
+            "score": 1158
+        },
+        {
+            "word": "coat",
+            "score": 1157
+        },
+        {
+            "word": "requirement",
+            "score": 1155
+        },
+        {
+            "word": "saudi",
+            "score": 1154
+        },
+        {
+            "word": "lebanon",
+            "score": 1152
+        },
+        {
+            "word": "israeli",
+            "score": 1148
+        },
+        {
+            "word": "visit",
+            "score": 1141
+        },
+        {
+            "word": "residence",
+            "score": 1136
+        },
+        {
+            "word": "israel",
+            "score": 1134
+        },
+        {
+            "word": "exit",
+            "score": 1133
+        },
+        {
+            "word": "dual",
+            "score": 1130
+        },
+        {
+            "word": "controls",
+            "score": 1126
+        },
+        {
+            "word": "stay",
+            "score": 1121
+        },
+        {
+            "word": "mainland",
+            "score": 1118
+        },
+        {
+            "word": "applications",
+            "score": 1116
+        },
+        {
+            "word": "require",
+            "score": 1113
+        },
+        {
+            "word": "republic",
+            "score": 1110
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "passport",
+            "score": 129955
+        },
+        {
+            "word": "passports",
+            "score": 129364
+        },
+        {
+            "word": "passport control",
+            "score": 129322
+        },
+        {
+            "word": "passport office",
+            "score": 129321
+        },
+        {
+            "word": "passport photo",
+            "score": 129321
+        },
+        {
+            "word": "massport",
+            "score": 64692
+        },
+        {
+            "word": "passwort",
+            "score": 64666
+        },
+        {
+            "word": "passeport",
+            "score": 64665
+        },
+        {
+            "word": "passaporto",
+            "score": 64663
+        },
+        {
+            "word": "pasaporte",
+            "score": 64661
+        }
+    ]
+}

@@ -1,0 +1,1563 @@
+{
+    "term": "nappy",
+    "means_like": [
+        {
+            "word": "diaper",
+            "score": 99275,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "frizzy",
+            "score": 85964,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "kinky",
+            "score": 84379,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "napkin",
+            "score": 84055,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "curly",
+            "score": 83107,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "crisp",
+            "score": 76287,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "frizzly",
+            "score": 75607,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "fuzzy",
+            "score": 55724,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "potty",
+            "score": 51391,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "newborn",
+            "score": 51390,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "infant",
+            "score": 51389,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "washable",
+            "score": 51388,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "knicker",
+            "score": 51387,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "unbrushed",
+            "score": 51386,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "willy",
+            "score": 51385,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "bluey",
+            "score": 51384,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 51383,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "face cloth",
+            "score": 51382,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pooh",
+            "score": 51381,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "unironed",
+            "score": 51380,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sanitary towel",
+            "score": 51379,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "podge",
+            "score": 51378,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "diapered",
+            "score": 51377,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "paedo",
+            "score": 51376,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "piece of cloth",
+            "score": 51375,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "eww",
+            "score": 51374,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "handcloth",
+            "score": 51373,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "foetid",
+            "score": 51372,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shammy",
+            "score": 51371,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "muslinet",
+            "score": 51370,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sarplier",
+            "score": 51369,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hand towel",
+            "score": 51368,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "absorbent cotton",
+            "score": 51367,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tutted",
+            "score": 51366,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "coochie",
+            "score": 51365,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "baby carriage",
+            "score": 51364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "litterbox",
+            "score": 51363,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "workshy",
+            "score": 51362,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pleb",
+            "score": 51361,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tutting",
+            "score": 51360,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "roller towel",
+            "score": 51359,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "loofah",
+            "score": 51358,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bladdered",
+            "score": 51357,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nascal",
+            "score": 51356,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nighty",
+            "score": 51355,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "colicky",
+            "score": 51354,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sicky",
+            "score": 51353,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bin liner",
+            "score": 51352,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pouchy",
+            "score": 51351,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gambison",
+            "score": 51350,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tightfitting",
+            "score": 51349,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "woggle",
+            "score": 51348,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "spongiopilin",
+            "score": 51347,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "babyship",
+            "score": 51346,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wee",
+            "score": 51345,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stamin",
+            "score": 51344,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "elasticated",
+            "score": 51343,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "toilet roll",
+            "score": 51342,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "flyblown",
+            "score": 51341,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sanitary napkin",
+            "score": 51340,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "turkish towel",
+            "score": 51339,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bibless",
+            "score": 51338,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gabarage",
+            "score": 51337,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bath towel",
+            "score": 51336,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cotton cloth",
+            "score": 51335,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thibet cloth",
+            "score": 51334,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "bath oil",
+            "score": 51333,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "toilinette",
+            "score": 51332,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ditty bag",
+            "score": 51331,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cradle cap",
+            "score": 51330,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cassinette",
+            "score": 51329,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "noggen",
+            "score": 51328,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pullicate",
+            "score": 51327,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cambrasine",
+            "score": 51326,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "disposable",
+            "score": 51325,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "unswaddle",
+            "score": 51324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hoddengray",
+            "score": 51323,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "overnight bag",
+            "score": 51322,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "galyak",
+            "score": 51321,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tea cloth",
+            "score": 51320,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "small person",
+            "score": 51319,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "camp bed",
+            "score": 51318,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sarplar",
+            "score": 51317,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "flushable",
+            "score": 51316,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "drabbet",
+            "score": 51315,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plant fiber",
+            "score": 51314,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "crumbcloth",
+            "score": 51313,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wash leather",
+            "score": 51312,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cappadine",
+            "score": 51311,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "candroy",
+            "score": 51310,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "drop cloth",
+            "score": 51309,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "money belt",
+            "score": 51308,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "diaper rash",
+            "score": 51307,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "newborn baby",
+            "score": 51306,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "terry cloth",
+            "score": 51305,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "smicket",
+            "score": 51304,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wellington boot",
+            "score": 51303,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "sickbag",
+            "score": 51302,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sponge down",
+            "score": 51301,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wipe up",
+            "score": 51300,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "nappy",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "nappie",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "nappi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "knappy",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "nippy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "napa",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "nappa",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "napi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "nappo",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "nopi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "mapi",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "nap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "naps",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "snappy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "newbie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "napped",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nappies",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "napper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "newby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "knobby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "noobie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nabil",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nabi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "napp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nobby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nubby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nepa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nobi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nappier",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "napo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nappe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nopa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nipa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nepo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nabu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "napps",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "knapped",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nlp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "napt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nebi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nibi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nubi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nopo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gnap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "knappe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "knaps",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "knubby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "happy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hapy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "chappy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mopey",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "chappie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yappy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "m.i.a",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mopy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "moppy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "happi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mabee",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mabie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mabby",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mpe",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mappa",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yappie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mopi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "nab",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "nabbed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "naboo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nabs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "nabber",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nabb",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knape",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knab",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knoop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knopf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knipe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "naba",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knopp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kneip",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knepper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapping",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knipp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knepp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knip",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "nabo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knipper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapik",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nambi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "naoi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gnatty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nahe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knops",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "naip",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "knee piece",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kneipe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "naffi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "napco",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "nappy",
+            "score": 65362
+        },
+        {
+            "word": "happy",
+            "score": 3346
+        },
+        {
+            "word": "snappy",
+            "score": 698
+        },
+        {
+            "word": "sappy",
+            "score": 619
+        },
+        {
+            "word": "nippy",
+            "score": 409
+        },
+        {
+            "word": "zappy",
+            "score": 397
+        },
+        {
+            "word": "yappy",
+            "score": 384
+        },
+        {
+            "word": "pappy",
+            "score": 318
+        },
+        {
+            "word": "nappe",
+            "score": 314
+        },
+        {
+            "word": "gappy",
+            "score": 307
+        },
+        {
+            "word": "tappy",
+            "score": 181
+        },
+        {
+            "word": "cappy",
+            "score": 172
+        },
+        {
+            "word": "nappa",
+            "score": 158
+        },
+        {
+            "word": "appy",
+            "score": 138
+        },
+        {
+            "word": "knappy",
+            "score": 100
+        },
+        {
+            "word": "napp",
+            "score": 93
+        },
+        {
+            "word": "dappy",
+            "score": 71
+        },
+        {
+            "word": "nappi",
+            "score": 50
+        },
+        {
+            "word": "lappy",
+            "score": 48
+        },
+        {
+            "word": "nappo",
+            "score": 22
+        },
+        {
+            "word": "napps",
+            "score": 12
+        },
+        {
+            "word": "mappy",
+            "score": 4
+        },
+        {
+            "word": "jappy",
+            "score": 3
+        },
+        {
+            "word": "neppy",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "diaper",
+            "score": 1718
+        },
+        {
+            "word": "watermelon",
+            "score": 1661
+        },
+        {
+            "word": "rash",
+            "score": 1589
+        },
+        {
+            "word": "roots",
+            "score": 1583
+        },
+        {
+            "word": "folks",
+            "score": 1567
+        },
+        {
+            "word": "hair",
+            "score": 1468
+        },
+        {
+            "word": "lil",
+            "score": 1465
+        },
+        {
+            "word": "prophet",
+            "score": 1450
+        },
+        {
+            "word": "pin",
+            "score": 1449
+        },
+        {
+            "word": "boy",
+            "score": 1417
+        },
+        {
+            "word": "cloth",
+            "score": 1414
+        },
+        {
+            "word": "tired",
+            "score": 1413
+        },
+        {
+            "word": "edges",
+            "score": 1405
+        },
+        {
+            "word": "trumpet",
+            "score": 1398
+        },
+        {
+            "word": "chicken",
+            "score": 1390
+        },
+        {
+            "word": "dot",
+            "score": 1381
+        },
+        {
+            "word": "remix",
+            "score": 1361
+        },
+        {
+            "word": "entertainment",
+            "score": 1355
+        },
+        {
+            "word": "rap",
+            "score": 1349
+        },
+        {
+            "word": "org",
+            "score": 1344
+        },
+        {
+            "word": "baby",
+            "score": 1337
+        },
+        {
+            "word": "leather",
+            "score": 1333
+        },
+        {
+            "word": "brown",
+            "score": 1326
+        },
+        {
+            "word": "heads",
+            "score": 1317
+        },
+        {
+            "word": "kentucky",
+            "score": 1311
+        },
+        {
+            "word": "eddie",
+            "score": 1307
+        },
+        {
+            "word": "blues",
+            "score": 1297
+        },
+        {
+            "word": "cash",
+            "score": 1278
+        },
+        {
+            "word": "anthony",
+            "score": 1276
+        },
+        {
+            "word": "label",
+            "score": 1264
+        },
+        {
+            "word": "ray",
+            "score": 1260
+        },
+        {
+            "word": "billboard",
+            "score": 1256
+        },
+        {
+            "word": "headed",
+            "score": 1244
+        },
+        {
+            "word": "beautiful",
+            "score": 1233
+        },
+        {
+            "word": "wooden",
+            "score": 1224
+        },
+        {
+            "word": "changing",
+            "score": 1222
+        },
+        {
+            "word": "fox",
+            "score": 1220
+        },
+        {
+            "word": "journey",
+            "score": 1216
+        },
+        {
+            "word": "jazz",
+            "score": 1213
+        },
+        {
+            "word": "hamilton",
+            "score": 1207
+        },
+        {
+            "word": "atlantic",
+            "score": 1195
+        },
+        {
+            "word": "tom",
+            "score": 1188
+        },
+        {
+            "word": "hot",
+            "score": 1174
+        },
+        {
+            "word": "records",
+            "score": 1169
+        },
+        {
+            "word": "artist",
+            "score": 1168
+        },
+        {
+            "word": "bob",
+            "score": 1166
+        },
+        {
+            "word": "guitar",
+            "score": 1161
+        },
+        {
+            "word": "featuring",
+            "score": 1159
+        },
+        {
+            "word": "alternative",
+            "score": 1153
+        },
+        {
+            "word": "featured",
+            "score": 1152
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "nappy",
+            "score": 65362
+        },
+        {
+            "word": "nappy rash",
+            "score": 64662
+        },
+        {
+            "word": "happy",
+            "score": 3346
+        },
+        {
+            "word": "snappy",
+            "score": 698
+        },
+        {
+            "word": "sappy",
+            "score": 619
+        },
+        {
+            "word": "nippy",
+            "score": 409
+        },
+        {
+            "word": "zappy",
+            "score": 397
+        },
+        {
+            "word": "yappy",
+            "score": 384
+        },
+        {
+            "word": "pappy",
+            "score": 318
+        },
+        {
+            "word": "nappiness",
+            "score": 317
+        }
+    ]
+}

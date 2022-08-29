@@ -1,0 +1,785 @@
+{
+    "term": "kitchen utensils",
+    "means_like": [
+        {
+            "word": "tinware",
+            "score": 48195,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "kitchenware",
+            "score": 30195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scullery",
+            "score": 29744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardware",
+            "score": 28995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housewares",
+            "score": 28995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresser",
+            "score": 28595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pewter",
+            "score": 28595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackguard",
+            "score": 28544,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinning",
+            "score": 28482,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tongs",
+            "score": 28195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utensil",
+            "score": 28195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yard sale",
+            "score": 28195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwater",
+            "score": 28144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teflon",
+            "score": 28144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "battery",
+            "score": 28132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aluminium",
+            "score": 28082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solder",
+            "score": 28082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soldered",
+            "score": 28082,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "tea towel",
+            "score": 28082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookware",
+            "score": 11795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupboard",
+            "score": 11795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enamelware",
+            "score": 11795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantry",
+            "score": 11795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverware",
+            "score": 11795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slice",
+            "score": 11795,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "flour",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchener",
+            "score": 11542,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flatware",
+            "score": 11530,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apartment",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bowl",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broiler",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caboose",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colander",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooker",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooking utensil",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corer",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dicer",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dumbwaiter",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eggbeater",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frypan",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galley",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grater",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatch",
+            "score": 10694,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "housework",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kettle",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knife",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ladle",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandolin",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mess",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mincer",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mincing machine",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olla",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opener",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pan",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parer",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ricer",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roaster",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rooms",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salamander",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saucepan",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scoop",
+            "score": 10694,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shaker",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sieve",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sifter",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spatula",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spider",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steward",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strainer",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea ball",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teapot",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinfoil",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toaster",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turner",
+            "score": 10694,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "whip",
+            "score": 10694,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "wok",
+            "score": 10694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canteen",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chopstick",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closet",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cutlery",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "griddle",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironware",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metalware",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polytetrafluoroethylene",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pottery",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "service",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "services",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "servicing",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinker",
+            "score": 10670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amana",
+            "score": 10631,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beater",
+            "score": 10631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheese cutter",
+            "score": 10631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookie cutter",
+            "score": 10631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishpan",
+            "score": 10631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "joiner",
+            "score": 10631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchen tea",
+            "score": 10631
+        },
+        {
+            "word": "masher",
+            "score": 10631,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cooking utensil",
+            "score": 67,
+            "numSyllables": 5
+        },
+        {
+            "word": "coincidences",
+            "score": 48,
+            "numSyllables": 5
+        },
+        {
+            "word": "coincidentally",
+            "score": 44,
+            "numSyllables": 6
+        },
+        {
+            "word": "condenses",
+            "score": 44,
+            "numSyllables": 3
+        },
+        {
+            "word": "conveyances",
+            "score": 39,
+            "numSyllables": 4
+        },
+        {
+            "word": "consistences",
+            "score": 39,
+            "numSyllables": 4
+        },
+        {
+            "word": "consistencies",
+            "score": 39,
+            "numSyllables": 4
+        },
+        {
+            "word": "consensus",
+            "score": 37,
+            "numSyllables": 3
+        },
+        {
+            "word": "concensus",
+            "score": 37,
+            "numSyllables": 3
+        },
+        {
+            "word": "contentions",
+            "score": 37,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "kitchen utensils",
+            "score": 129320
+        },
+        {
+            "word": "kitchen utensil",
+            "score": 64695
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "kitchen utensils",
+            "score": 129320
+        },
+        {
+            "word": "kitchen utensil",
+            "score": 64695
+        }
+    ]
+}

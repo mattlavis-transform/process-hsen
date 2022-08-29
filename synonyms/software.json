@@ -1,0 +1,1590 @@
+{
+    "term": "software",
+    "means_like": [
+        {
+            "word": "software system",
+            "score": 92074,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "hardware",
+            "score": 92073,
+            "tags": [
+                "n",
+                "ant"
+            ]
+        },
+        {
+            "word": "computer",
+            "score": 89190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firmware",
+            "score": 88036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computing",
+            "score": 87258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applications",
+            "score": 86884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tool",
+            "score": 84238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "application",
+            "score": 83990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "informatics",
+            "score": 83547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compute",
+            "score": 80485,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "programming",
+            "score": 79753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "programs",
+            "score": 79020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packages",
+            "score": 78889,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adobe",
+            "score": 78027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acrobat",
+            "score": 77910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "source",
+            "score": 77454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "package",
+            "score": 77389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oss",
+            "score": 77348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "program",
+            "score": 76613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "programmes",
+            "score": 76289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reader",
+            "score": 74636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "programme",
+            "score": 74628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft",
+            "score": 73835,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "word",
+            "score": 73720,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "agenda",
+            "score": 72620,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courseware",
+            "score": 71501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "open-source",
+            "score": 71501,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ready-made",
+            "score": 71501,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "srx",
+            "score": 71501,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shareware",
+            "score": 71498,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "antivirus",
+            "score": 71497,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "desktop",
+            "score": 71496,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "isogon",
+            "score": 71495,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "groupware",
+            "score": 71494,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automation",
+            "score": 71493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apps",
+            "score": 71492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malware",
+            "score": 71491,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linux",
+            "score": 71489,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mainframe",
+            "score": 71488,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enterprise",
+            "score": 71487,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toolkit",
+            "score": 71486,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ecos",
+            "score": 71485,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "synapta",
+            "score": 71484,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "technology",
+            "score": 71483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relational database",
+            "score": 71482,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agentry",
+            "score": 71481,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "programmers",
+            "score": 71480,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "user interface",
+            "score": 71479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coding",
+            "score": 71478,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "systems",
+            "score": 71477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "server",
+            "score": 71476,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "functionality",
+            "score": 71475,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avast",
+            "score": 71474,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "browser",
+            "score": 71473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyanea",
+            "score": 71472,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autonomics",
+            "score": 71471,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nessus",
+            "score": 71470,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "software package",
+            "score": 71469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disassembler",
+            "score": 71468,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "extensible",
+            "score": 71467,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plugins",
+            "score": 71466,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coreid",
+            "score": 71465,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spooler",
+            "score": 71464,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plugin",
+            "score": 71463,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gantt chart",
+            "score": 71462,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "summarizer",
+            "score": 71461,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trace program",
+            "score": 71460,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applets",
+            "score": 71459,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utility program",
+            "score": 71458,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acclivity",
+            "score": 71457,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ebcdic",
+            "score": 71455,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "migrator",
+            "score": 71454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recode",
+            "score": 71453,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belight",
+            "score": 71452,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "web browser",
+            "score": 71450,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assentor",
+            "score": 71449,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphical user interface",
+            "score": 71448,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workstation",
+            "score": 71447,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insp",
+            "score": 71446,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "encryption",
+            "score": 71445,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wordprocessing",
+            "score": 71444,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "propylon",
+            "score": 71443,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analytics",
+            "score": 71442,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tools",
+            "score": 71441,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "database management system",
+            "score": 71440,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "algorithms",
+            "score": 71439,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workflow",
+            "score": 71438,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cinematize",
+            "score": 71437,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metadata",
+            "score": 71436,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terminal emulation",
+            "score": 71435,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undelete",
+            "score": 71434,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alpha test",
+            "score": 71433,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microcode",
+            "score": 71432,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyebeam",
+            "score": 71431,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freeware",
+            "score": 71430,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "debugging",
+            "score": 71429,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "databases",
+            "score": 71428,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adrem",
+            "score": 71427,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "app",
+            "score": 71426,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prebuilt",
+            "score": 71425,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "software",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft water",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "softer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "softner",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "softwood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "giftware",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "softish",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft core",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft wheat",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "softly",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "softy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "softie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sifter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sauter",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "softies",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "self aware",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "softhead",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sophomore",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "softness",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "satr",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sightseer",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "safar",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sight-seer",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "safta",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "softa",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft shell",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft toy",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft porn",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sight seer",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft shoe",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "saltaire",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft sell",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft-shoe",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft toys",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sfr",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft roe",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "stare",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "square",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "safety",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swear",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "stair",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "somewhere",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sapphire",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "saftey",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "satire",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "c4",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "safty",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "saphire",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sware",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "saltwater",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sitar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "softener",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "safire",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "salt water",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sautter",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "so far",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sea floor",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "soffer",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sofar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "safeties",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sterr",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "saltier",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "hotwire",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "saffire",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "saltire",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "softcore",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "softs",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "hot wire",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sterre",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "stehr",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "hot war",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sudhir",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "safflower",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sitwell",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "soutar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "softeners",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "side chair",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "safe water",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "salt-water",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "soufriere",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "software",
+            "score": 130973
+        },
+        {
+            "word": "giftware",
+            "score": 69
+        },
+        {
+            "word": "softcore",
+            "score": 47
+        },
+        {
+            "word": "softwares",
+            "score": 7
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "saas",
+            "score": 1532
+        },
+        {
+            "word": "gnu",
+            "score": 1499
+        },
+        {
+            "word": "linux",
+            "score": 1407
+        },
+        {
+            "word": "hardware",
+            "score": 1405
+        },
+        {
+            "word": "macintosh",
+            "score": 1377
+        },
+        {
+            "word": "vendors",
+            "score": 1373
+        },
+        {
+            "word": "desktop",
+            "score": 1368
+        },
+        {
+            "word": "unix",
+            "score": 1366
+        },
+        {
+            "word": "microsoft",
+            "score": 1365
+        },
+        {
+            "word": "proprietary",
+            "score": 1364
+        },
+        {
+            "word": "adobe",
+            "score": 1356
+        },
+        {
+            "word": "developer",
+            "score": 1350
+        },
+        {
+            "word": "automation",
+            "score": 1339
+        },
+        {
+            "word": "ibm",
+            "score": 1333
+        },
+        {
+            "word": "package",
+            "score": 1331
+        },
+        {
+            "word": "functionality",
+            "score": 1327
+        },
+        {
+            "word": "browser",
+            "score": 1322
+        },
+        {
+            "word": "license",
+            "score": 1320
+        },
+        {
+            "word": "server",
+            "score": 1318
+        },
+        {
+            "word": "tools",
+            "score": 1316
+        },
+        {
+            "word": "oracle",
+            "score": 1315
+        },
+        {
+            "word": "suite",
+            "score": 1311
+        },
+        {
+            "word": "applications",
+            "score": 1306
+        },
+        {
+            "word": "updates",
+            "score": 1304
+        },
+        {
+            "word": "computers",
+            "score": 1299
+        },
+        {
+            "word": "interface",
+            "score": 1298
+        },
+        {
+            "word": "solutions",
+            "score": 1293
+        },
+        {
+            "word": "user",
+            "score": 1291
+        },
+        {
+            "word": "computing",
+            "score": 1289
+        },
+        {
+            "word": "compatible",
+            "score": 1282
+        },
+        {
+            "word": "simulation",
+            "score": 1274
+        },
+        {
+            "word": "computer",
+            "score": 1272
+        },
+        {
+            "word": "android",
+            "score": 1270
+        },
+        {
+            "word": "application",
+            "score": 1268
+        },
+        {
+            "word": "files",
+            "score": 1264
+        },
+        {
+            "word": "modeling",
+            "score": 1262
+        },
+        {
+            "word": "enables",
+            "score": 1260
+        },
+        {
+            "word": "tool",
+            "score": 1259
+        },
+        {
+            "word": "database",
+            "score": 1251
+        },
+        {
+            "word": "apple",
+            "score": 1250
+        },
+        {
+            "word": "web",
+            "score": 1249
+        },
+        {
+            "word": "documentation",
+            "score": 1247
+        },
+        {
+            "word": "windows",
+            "score": 1246
+        },
+        {
+            "word": "update",
+            "score": 1244
+        },
+        {
+            "word": "patents",
+            "score": 1243
+        },
+        {
+            "word": "embedded",
+            "score": 1240
+        },
+        {
+            "word": "client",
+            "score": 1238
+        },
+        {
+            "word": "virtual",
+            "score": 1235
+        },
+        {
+            "word": "java",
+            "score": 1230
+        },
+        {
+            "word": "provider",
+            "score": 1227
+        },
+        {
+            "word": "cloud",
+            "score": 1225
+        },
+        {
+            "word": "product",
+            "score": 1222
+        },
+        {
+            "word": "engineering",
+            "score": 1218
+        },
+        {
+            "word": "disk",
+            "score": 1217
+        },
+        {
+            "word": "mac",
+            "score": 1215
+        },
+        {
+            "word": "testing",
+            "score": 1213
+        },
+        {
+            "word": "graphics",
+            "score": 1212
+        },
+        {
+            "word": "enterprise",
+            "score": 1210
+        },
+        {
+            "word": "file",
+            "score": 1208
+        },
+        {
+            "word": "interactive",
+            "score": 1206
+        },
+        {
+            "word": "google",
+            "score": 1204
+        },
+        {
+            "word": "systems",
+            "score": 1201
+        },
+        {
+            "word": "technologies",
+            "score": 1199
+        },
+        {
+            "word": "customer",
+            "score": 1193
+        },
+        {
+            "word": "app",
+            "score": 1192
+        },
+        {
+            "word": "nintendo",
+            "score": 1191
+        },
+        {
+            "word": "copyright",
+            "score": 1189
+        },
+        {
+            "word": "products",
+            "score": 1186
+        },
+        {
+            "word": "data",
+            "score": 1183
+        },
+        {
+            "word": "download",
+            "score": 1181
+        },
+        {
+            "word": "platform",
+            "score": 1176
+        },
+        {
+            "word": "code",
+            "score": 1175
+        },
+        {
+            "word": "components",
+            "score": 1174
+        },
+        {
+            "word": "integration",
+            "score": 1173
+        },
+        {
+            "word": "platforms",
+            "score": 1172
+        },
+        {
+            "word": "capabilities",
+            "score": 1170
+        },
+        {
+            "word": "devices",
+            "score": 1169
+        },
+        {
+            "word": "automatically",
+            "score": 1165
+        },
+        {
+            "word": "programming",
+            "score": 1164
+        },
+        {
+            "word": "manage",
+            "score": 1160
+        },
+        {
+            "word": "allows",
+            "score": 1159
+        },
+        {
+            "word": "implementation",
+            "score": 1157
+        },
+        {
+            "word": "operating",
+            "score": 1155
+        },
+        {
+            "word": "libraries",
+            "score": 1154
+        },
+        {
+            "word": "mobile",
+            "score": 1153
+        },
+        {
+            "word": "source",
+            "score": 1150
+        },
+        {
+            "word": "configuration",
+            "score": 1148
+        },
+        {
+            "word": "supports",
+            "score": 1147
+        },
+        {
+            "word": "framework",
+            "score": 1145
+        },
+        {
+            "word": "internet",
+            "score": 1143
+        },
+        {
+            "word": "inc",
+            "score": 1142
+        },
+        {
+            "word": "integrated",
+            "score": 1141
+        },
+        {
+            "word": "audio",
+            "score": 1137
+        },
+        {
+            "word": "licensed",
+            "score": 1136
+        },
+        {
+            "word": "management",
+            "score": 1134
+        },
+        {
+            "word": "development",
+            "score": 1133
+        },
+        {
+            "word": "distributed",
+            "score": 1132
+        },
+        {
+            "word": "processing",
+            "score": 1130
+        },
+        {
+            "word": "enable",
+            "score": 1128
+        },
+        {
+            "word": "protocol",
+            "score": 1123
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "software",
+            "score": 130973
+        },
+        {
+            "word": "software engineer",
+            "score": 129374
+        },
+        {
+            "word": "software engineering",
+            "score": 129373
+        },
+        {
+            "word": "software piracy",
+            "score": 129358
+        },
+        {
+            "word": "software system",
+            "score": 129358
+        },
+        {
+            "word": "software package",
+            "score": 129351
+        },
+        {
+            "word": "software documentation",
+            "score": 129346
+        },
+        {
+            "word": "software backplane",
+            "score": 129340
+        },
+        {
+            "word": "software reliability",
+            "score": 129336
+        },
+        {
+            "word": "software error",
+            "score": 129333
+        }
+    ]
+}

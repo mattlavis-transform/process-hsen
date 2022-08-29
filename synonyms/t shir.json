@@ -1,0 +1,823 @@
+{
+    "term": "t shir",
+    "means_like": [
+        {
+            "word": "shirt",
+            "score": 100000,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 99000,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 98000,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "aba",
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "abbas",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "afghan",
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "aliya",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aliyah",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "am",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "an",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anal",
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "anglo",
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arete",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arrows",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basal",
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "basque",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baton",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blinds",
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bordello",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow",
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "brothel",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burro",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cathouse",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cher",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crap",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dammit"
+        },
+        {
+            "word": "damn",
+            "tags": [
+                "adj",
+                "v",
+                "adv"
+            ]
+        },
+        {
+            "word": "frak",
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "goddammit"
+        },
+        {
+            "word": "goddamn",
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "goddamnit",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hell",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeez",
+            "tags": [
+                "adv",
+                "n"
+            ]
+        },
+        {
+            "word": "jesus",
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "medina",
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "merde",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mess",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ran",
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "saber",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scher",
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sher",
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shire",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shite",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whorehouse",
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "teacher",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "tischer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "tauscher",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "teuscher",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "tosher",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "teaser",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teeter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "toucher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teether",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tee shirt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "todger",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teeshirt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teater",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teisha",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "t shirt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teazer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tiare",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tee-shirt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tiesha",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tadger",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dasher",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "disher",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "doscher",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "discher",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "tear",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "teach",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "terror",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "taylor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teachers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "taller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tailor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tether",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "taser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tater",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tash",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tasha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tare",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tatter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tator",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tayler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "terr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tere",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "teir",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tair",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "terre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teache",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tailer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teare",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tesh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "talor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teamer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "taler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aare",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "taur",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tarr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tatar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tearer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teener",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teur",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "teej",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "terrer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tetter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tashia",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "taisha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tesha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tauter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "qre",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "taher",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "taire",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "temer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tiar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tesch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "teler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tasch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "talar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tasche",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tauer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tgi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "taar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tahr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tawer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "teemer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ticer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tensure",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tarre",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "terrar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tasr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teuer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "telar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tallar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "terreur",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tailler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tausch",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "t shirt",
+            "score": 64742
+        },
+        {
+            "word": "t shirts",
+            "score": 64673
+        },
+        {
+            "word": "t shirt dye",
+            "score": 64660
+        },
+        {
+            "word": "t-shirt",
+            "score": 715
+        },
+        {
+            "word": "tshirt",
+            "score": 116
+        },
+        {
+            "word": "t-shirts",
+            "score": 42
+        },
+        {
+            "word": "tashiro",
+            "score": 7
+        },
+        {
+            "word": "toshiro mifune",
+            "score": 4
+        },
+        {
+            "word": "toshiro",
+            "score": 1
+        }
+    ]
+}

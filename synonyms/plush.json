@@ -1,0 +1,1713 @@
+{
+    "term": "plush",
+    "means_like": [
+        {
+            "word": "plushy",
+            "score": 92045,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "lush",
+            "score": 88038,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "lavish",
+            "score": 87158,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "rich",
+            "score": 80780,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "lucullan",
+            "score": 72882,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "luxurious",
+            "score": 72881,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "posh",
+            "score": 71761,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "luxury",
+            "score": 67661,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffed",
+            "score": 63614,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "cute",
+            "score": 63330,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "soft",
+            "score": 61834,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "teddy",
+            "score": 61537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "irish",
+            "score": 52498,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "velveteen",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velvet",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deluxe",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fluffy",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shag rug",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "huggable",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velvety",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleecy",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suede",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duvet",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambskin",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sofas",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swank",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "de luxe",
+            "score": 51316,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "luxe",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "divans",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snug",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naugahyde",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armchairs",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaises",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lounges",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cushiony",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mews",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bijou",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loges",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaises longues",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "settees",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swish",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaise longue",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leather",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ultrasuede",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anterooms",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mockado",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sable coat",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opulence",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "villas",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leatherette",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penthouse",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banquette",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "regal",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabana",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pillow",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suites",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playroom",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mansions",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouffe",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chintz",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kipping",
+            "score": 51282,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lounger",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pampers",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spartan",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trundle bed",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eau de nil",
+            "score": 51277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chenille",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batiste",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rumpus room",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrycot",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "throw pillow",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pillows",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roomette",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zebrawood",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couches",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napery",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilded",
+            "score": 51266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "velour",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hideaway",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dcor",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambswool",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terry cloth",
+            "score": 51261,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pink",
+            "score": 51260,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ottomans",
+            "score": 51259,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shagreen",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loll",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedding",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airy",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argyles",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosset",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carryalls",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "berber",
+            "score": 51251,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "posher",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "damask",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacuzzis",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mod cons",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taupe",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tony",
+            "score": 51245,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clawfoot",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidskin",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "plush",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "plesh",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "plash",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pluche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "blush",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pledge",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "plus",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "plauge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plage",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plushie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pluss",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "blish",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pleach",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plut",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pll",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pluge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "blesh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pusch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plusher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plauche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plodge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bludge",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "blash",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "polish",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "pish",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "ples",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "pesh",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "plit",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "plet",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "pless",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "plis",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "plitt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "palish",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "plett",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "pesch",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "pliss",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "plisse",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "pluie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "place",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "play",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "please",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plate",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "player",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plot",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plea",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plays",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plight",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "playa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pleas",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plee",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pleat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pla",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plier",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plait",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plies",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pash",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plie",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plese",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "platt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plas",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plase",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plaice",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plo",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "platte",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plete",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "blitch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plore",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pley",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plass",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ploce",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plai",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plew",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pli",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plaw",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "owlish",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasse",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plah",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plor",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plaut",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peluche",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ploo",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "playte",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plote",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pleo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaise",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plos",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plaa",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plaas",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plashy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ploss",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pleut",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plei",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pasche",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plio",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plewa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plashed",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "plush",
+            "score": 65612
+        },
+        {
+            "word": "flush",
+            "score": 2301
+        },
+        {
+            "word": "plus",
+            "score": 1842
+        },
+        {
+            "word": "push",
+            "score": 1554
+        },
+        {
+            "word": "lush",
+            "score": 1489
+        },
+        {
+            "word": "blush",
+            "score": 991
+        },
+        {
+            "word": "slush",
+            "score": 722
+        },
+        {
+            "word": "plash",
+            "score": 348
+        },
+        {
+            "word": "plesh",
+            "score": 331
+        },
+        {
+            "word": "clush",
+            "score": 173
+        },
+        {
+            "word": "pluss",
+            "score": 48
+        },
+        {
+            "word": "plugh",
+            "score": 20
+        },
+        {
+            "word": "alush",
+            "score": 16
+        },
+        {
+            "word": "glush",
+            "score": 5
+        },
+        {
+            "word": "poush",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "lops",
+            "score": 1885
+        },
+        {
+            "word": "carpeting",
+            "score": 1714
+        },
+        {
+            "word": "lop",
+            "score": 1696
+        },
+        {
+            "word": "velour",
+            "score": 1694
+        },
+        {
+            "word": "toys",
+            "score": 1671
+        },
+        {
+            "word": "toy",
+            "score": 1592
+        },
+        {
+            "word": "stuffed",
+            "score": 1537
+        },
+        {
+            "word": "doll",
+            "score": 1529
+        },
+        {
+            "word": "upholstery",
+            "score": 1526
+        },
+        {
+            "word": "collectibles",
+            "score": 1514
+        },
+        {
+            "word": "pillow",
+            "score": 1477
+        },
+        {
+            "word": "collectible",
+            "score": 1458
+        },
+        {
+            "word": "velvet",
+            "score": 1445
+        },
+        {
+            "word": "furnishings",
+            "score": 1440
+        },
+        {
+            "word": "teddy",
+            "score": 1434
+        },
+        {
+            "word": "panda",
+            "score": 1419
+        },
+        {
+            "word": "chairs",
+            "score": 1417
+        },
+        {
+            "word": "merchandise",
+            "score": 1414
+        },
+        {
+            "word": "carpet",
+            "score": 1412
+        },
+        {
+            "word": "pile",
+            "score": 1394
+        },
+        {
+            "word": "pets",
+            "score": 1390
+        },
+        {
+            "word": "rabbit",
+            "score": 1387
+        },
+        {
+            "word": "hats",
+            "score": 1385
+        },
+        {
+            "word": "mon",
+            "score": 1384
+        },
+        {
+            "word": "apparel",
+            "score": 1382
+        },
+        {
+            "word": "bunny",
+            "score": 1362
+        },
+        {
+            "word": "novelty",
+            "score": 1360
+        },
+        {
+            "word": "interiors",
+            "score": 1354
+        },
+        {
+            "word": "seating",
+            "score": 1348
+        },
+        {
+            "word": "leather",
+            "score": 1342
+        },
+        {
+            "word": "trim",
+            "score": 1337
+        },
+        {
+            "word": "accessories",
+            "score": 1336
+        },
+        {
+            "word": "fur",
+            "score": 1327
+        },
+        {
+            "word": "fabric",
+            "score": 1325
+        },
+        {
+            "word": "chains",
+            "score": 1318
+        },
+        {
+            "word": "rex",
+            "score": 1310
+        },
+        {
+            "word": "bear",
+            "score": 1307
+        },
+        {
+            "word": "bears",
+            "score": 1305
+        },
+        {
+            "word": "pet",
+            "score": 1302
+        },
+        {
+            "word": "babies",
+            "score": 1290
+        },
+        {
+            "word": "coat",
+            "score": 1289
+        },
+        {
+            "word": "vinyl",
+            "score": 1288
+        },
+        {
+            "word": "manga",
+            "score": 1286
+        },
+        {
+            "word": "mascot",
+            "score": 1283
+        },
+        {
+            "word": "cloth",
+            "score": 1280
+        },
+        {
+            "word": "silk",
+            "score": 1278
+        },
+        {
+            "word": "furniture",
+            "score": 1276
+        },
+        {
+            "word": "soft",
+            "score": 1269
+        },
+        {
+            "word": "anime",
+            "score": 1267
+        },
+        {
+            "word": "lounge",
+            "score": 1261
+        },
+        {
+            "word": "seats",
+            "score": 1255
+        },
+        {
+            "word": "hat",
+            "score": 1246
+        },
+        {
+            "word": "figures",
+            "score": 1241
+        },
+        {
+            "word": "clothing",
+            "score": 1233
+        },
+        {
+            "word": "interior",
+            "score": 1231
+        },
+        {
+            "word": "breed",
+            "score": 1230
+        },
+        {
+            "word": "trading",
+            "score": 1228
+        },
+        {
+            "word": "animals",
+            "score": 1218
+        },
+        {
+            "word": "warner",
+            "score": 1213
+        },
+        {
+            "word": "valve",
+            "score": 1209
+        },
+        {
+            "word": "costume",
+            "score": 1208
+        },
+        {
+            "word": "nintendo",
+            "score": 1201
+        },
+        {
+            "word": "apartment",
+            "score": 1198
+        },
+        {
+            "word": "cats",
+            "score": 1197
+        },
+        {
+            "word": "welcome",
+            "score": 1194
+        },
+        {
+            "word": "dining",
+            "score": 1193
+        },
+        {
+            "word": "luxury",
+            "score": 1190
+        },
+        {
+            "word": "hart",
+            "score": 1188
+        },
+        {
+            "word": "disney",
+            "score": 1186
+        },
+        {
+            "word": "plastic",
+            "score": 1184
+        },
+        {
+            "word": "items",
+            "score": 1182
+        },
+        {
+            "word": "exclusive",
+            "score": 1178
+        },
+        {
+            "word": "characters",
+            "score": 1177
+        },
+        {
+            "word": "room",
+            "score": 1172
+        },
+        {
+            "word": "pink",
+            "score": 1162
+        },
+        {
+            "word": "card",
+            "score": 1160
+        },
+        {
+            "word": "manufactured",
+            "score": 1157
+        },
+        {
+            "word": "animated",
+            "score": 1153
+        },
+        {
+            "word": "designer",
+            "score": 1151
+        },
+        {
+            "word": "brands",
+            "score": 1147
+        },
+        {
+            "word": "stores",
+            "score": 1145
+        },
+        {
+            "word": "animal",
+            "score": 1143
+        },
+        {
+            "word": "purple",
+            "score": 1142
+        },
+        {
+            "word": "oregon",
+            "score": 1138
+        },
+        {
+            "word": "featuring",
+            "score": 1136
+        },
+        {
+            "word": "wheels",
+            "score": 1134
+        },
+        {
+            "word": "cat",
+            "score": 1133
+        },
+        {
+            "word": "mansion",
+            "score": 1131
+        },
+        {
+            "word": "distinctive",
+            "score": 1128
+        },
+        {
+            "word": "licensed",
+            "score": 1125
+        },
+        {
+            "word": "cards",
+            "score": 1121
+        },
+        {
+            "word": "options",
+            "score": 1117
+        },
+        {
+            "word": "dogs",
+            "score": 1113
+        },
+        {
+            "word": "character",
+            "score": 1112
+        },
+        {
+            "word": "kids",
+            "score": 1111
+        },
+        {
+            "word": "dvd",
+            "score": 1109
+        },
+        {
+            "word": "franchise",
+            "score": 1104
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "plush",
+            "score": 65612
+        },
+        {
+            "word": "plushy",
+            "score": 64785
+        },
+        {
+            "word": "plushier",
+            "score": 64765
+        },
+        {
+            "word": "plusher",
+            "score": 64711
+        },
+        {
+            "word": "plushest",
+            "score": 64703
+        },
+        {
+            "word": "plushness",
+            "score": 64690
+        },
+        {
+            "word": "plushly",
+            "score": 64683
+        },
+        {
+            "word": "plushophilia",
+            "score": 64683
+        },
+        {
+            "word": "plushiest",
+            "score": 64682
+        },
+        {
+            "word": "plushie",
+            "score": 64674
+        }
+    ]
+}

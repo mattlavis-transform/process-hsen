@@ -1,0 +1,1663 @@
+{
+    "term": "candy",
+    "means_like": [
+        {
+            "word": "glaze",
+            "score": 83093,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "sugarcoat",
+            "score": 79702,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "sweets",
+            "score": 73221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate",
+            "score": 71597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollipop",
+            "score": 68821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confectionary",
+            "score": 68714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gum",
+            "score": 66594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confectionery",
+            "score": 66288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confection",
+            "score": 66109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taffy",
+            "score": 66003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 65964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marshmallow",
+            "score": 65779,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cake",
+            "score": 65399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mints",
+            "score": 65277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dessert",
+            "score": 64518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pastry",
+            "score": 63401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetie",
+            "score": 62148,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweet",
+            "score": 62064,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pacifier",
+            "score": 62016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweety",
+            "score": 61697,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetener",
+            "score": 61177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mint",
+            "score": 60963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetness",
+            "score": 60409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treat",
+            "score": 59097,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "trick",
+            "score": 59083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delicacy",
+            "score": 58018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bowl",
+            "score": 57657,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gun",
+            "score": 56518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 55718,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gentleness",
+            "score": 55439,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bundle",
+            "score": 55054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reward",
+            "score": 55017,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fireball",
+            "score": 54781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ball",
+            "score": 54716,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barley",
+            "score": 54518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icy",
+            "score": 54340,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "alien",
+            "score": 54174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sucre",
+            "score": 53630,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chest",
+            "score": 52522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beard",
+            "score": 52380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cull",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helm",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "max",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sg",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy cane",
+            "score": 50954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jellybeans",
+            "score": 50953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popcorn",
+            "score": 50951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gumdrop",
+            "score": 50949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice cream",
+            "score": 50948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramel apple",
+            "score": 50947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peanut brittle",
+            "score": 50946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toffee",
+            "score": 50945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popsicle",
+            "score": 50944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheesecake",
+            "score": 50943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marzipan",
+            "score": 50942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rock candy",
+            "score": 50940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollipops",
+            "score": 50939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bubble gum",
+            "score": 50938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollies",
+            "score": 50937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confections",
+            "score": 50936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snacks",
+            "score": 50935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda",
+            "score": 50934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jawbreakers",
+            "score": 50933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peppermint candy",
+            "score": 50932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "succade",
+            "score": 50931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donuts",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookies",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda pop",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brownies",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupcakes",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweet shop",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lolly",
+            "score": 50921,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chewing gum",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candied apple",
+            "score": 50919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotton candy",
+            "score": 50918,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate candy",
+            "score": 50917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugarless",
+            "score": 50916,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "hardbake",
+            "score": 50915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramels",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "christmas cake",
+            "score": 50913,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "biscotin",
+            "score": 50912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gummies",
+            "score": 50911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy corn",
+            "score": 50910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bubblegum",
+            "score": 50909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marshmallows",
+            "score": 50908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollypop",
+            "score": 50907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pulpatoon",
+            "score": 50906,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goodies",
+            "score": 50905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocs",
+            "score": 50904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orangeat",
+            "score": 50903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonbon",
+            "score": 50902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinkets",
+            "score": 50901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valentines",
+            "score": 50900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poundcake",
+            "score": 50899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gumball",
+            "score": 50898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramel",
+            "score": 50896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "licorice",
+            "score": 50895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crayons",
+            "score": 50894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cakes",
+            "score": 50893,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "candy",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "candie",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "candi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kandy",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kandi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "candee",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "canda",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kindy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "canty",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cando",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "candu",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kanda",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "condie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "condi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "condy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cundy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "can-do",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "can do",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kundi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cantey",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kanti",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "canti",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kando",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "khanda",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "khanty",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "gandi",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "gandy",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "gandee",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "county",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "condo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caddy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "candies",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kinda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "candor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "canned",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "canny",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caddie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cand",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "canto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "candour",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kendo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "conti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "candys",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "conda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "candied",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cantu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coned",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kanto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kand",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cadie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "canta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caddi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kunda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kondo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cande",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kenda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kanta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaunda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "candia",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "cannady",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "cadee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "contee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "countee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "eye-candy",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "canned heat",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coontie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kande",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kindu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "eye candy",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "handy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghandi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gandhi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ganda",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gundy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gondi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "handi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "chandi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gindi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gundi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gando",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "can tho",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "canada",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "cana",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "candace",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cami",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cady",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cammy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cadi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cammie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caddo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "canady",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "canaa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "canarie",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "caddow",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "camey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "canaday",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "camd",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cadu",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "candy",
+            "score": 66415
+        },
+        {
+            "word": "dandy",
+            "score": 1207
+        },
+        {
+            "word": "handy",
+            "score": 1049
+        },
+        {
+            "word": "canny",
+            "score": 852
+        },
+        {
+            "word": "bandy",
+            "score": 770
+        },
+        {
+            "word": "caddy",
+            "score": 713
+        },
+        {
+            "word": "randy",
+            "score": 621
+        },
+        {
+            "word": "sandy",
+            "score": 440
+        },
+        {
+            "word": "andy",
+            "score": 410
+        },
+        {
+            "word": "tandy",
+            "score": 228
+        },
+        {
+            "word": "cindy",
+            "score": 222
+        },
+        {
+            "word": "canty",
+            "score": 168
+        },
+        {
+            "word": "cany",
+            "score": 146
+        },
+        {
+            "word": "kandy",
+            "score": 137
+        },
+        {
+            "word": "mandy",
+            "score": 133
+        },
+        {
+            "word": "cand",
+            "score": 127
+        },
+        {
+            "word": "pandy",
+            "score": 114
+        },
+        {
+            "word": "cady",
+            "score": 111
+        },
+        {
+            "word": "vandy",
+            "score": 87
+        },
+        {
+            "word": "landy",
+            "score": 84
+        },
+        {
+            "word": "cardy",
+            "score": 71
+        },
+        {
+            "word": "cando",
+            "score": 68
+        },
+        {
+            "word": "gandy",
+            "score": 61
+        },
+        {
+            "word": "caney",
+            "score": 57
+        },
+        {
+            "word": "candi",
+            "score": 55
+        },
+        {
+            "word": "wandy",
+            "score": 53
+        },
+        {
+            "word": "candu",
+            "score": 49
+        },
+        {
+            "word": "cundy",
+            "score": 44
+        },
+        {
+            "word": "canby",
+            "score": 26
+        },
+        {
+            "word": "nandy",
+            "score": 18
+        },
+        {
+            "word": "canda",
+            "score": 14
+        },
+        {
+            "word": "cawdy",
+            "score": 13
+        },
+        {
+            "word": "canady",
+            "score": 12
+        },
+        {
+            "word": "canedy",
+            "score": 12
+        },
+        {
+            "word": "cande",
+            "score": 10
+        },
+        {
+            "word": "condy",
+            "score": 10
+        },
+        {
+            "word": "canoy",
+            "score": 7
+        },
+        {
+            "word": "chandy",
+            "score": 3
+        },
+        {
+            "word": "cyndy",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "candies",
+            "score": 1672
+        },
+        {
+            "word": "canes",
+            "score": 1611
+        },
+        {
+            "word": "floss",
+            "score": 1581
+        },
+        {
+            "word": "caramel",
+            "score": 1572
+        },
+        {
+            "word": "confectionery",
+            "score": 1561
+        },
+        {
+            "word": "marshmallow",
+            "score": 1557
+        },
+        {
+            "word": "peanut",
+            "score": 1484
+        },
+        {
+            "word": "jelly",
+            "score": 1481
+        },
+        {
+            "word": "chocolate",
+            "score": 1479
+        },
+        {
+            "word": "sweets",
+            "score": 1477
+        },
+        {
+            "word": "hershey",
+            "score": 1471
+        },
+        {
+            "word": "snacks",
+            "score": 1434
+        },
+        {
+            "word": "syrup",
+            "score": 1427
+        },
+        {
+            "word": "cane",
+            "score": 1423
+        },
+        {
+            "word": "peanuts",
+            "score": 1417
+        },
+        {
+            "word": "gum",
+            "score": 1407
+        },
+        {
+            "word": "crush",
+            "score": 1393
+        },
+        {
+            "word": "soda",
+            "score": 1389
+        },
+        {
+            "word": "apples",
+            "score": 1376
+        },
+        {
+            "word": "saga",
+            "score": 1373
+        },
+        {
+            "word": "sour",
+            "score": 1370
+        },
+        {
+            "word": "coated",
+            "score": 1367
+        },
+        {
+            "word": "coconut",
+            "score": 1364
+        },
+        {
+            "word": "bars",
+            "score": 1361
+        },
+        {
+            "word": "butter",
+            "score": 1351
+        },
+        {
+            "word": "darling",
+            "score": 1341
+        },
+        {
+            "word": "halloween",
+            "score": 1331
+        },
+        {
+            "word": "sugar",
+            "score": 1329
+        },
+        {
+            "word": "flavor",
+            "score": 1327
+        },
+        {
+            "word": "cream",
+            "score": 1324
+        },
+        {
+            "word": "corn",
+            "score": 1321
+        },
+        {
+            "word": "nuts",
+            "score": 1307
+        },
+        {
+            "word": "bar",
+            "score": 1299
+        },
+        {
+            "word": "cake",
+            "score": 1288
+        },
+        {
+            "word": "desk",
+            "score": 1286
+        },
+        {
+            "word": "shop",
+            "score": 1274
+        },
+        {
+            "word": "sweet",
+            "score": 1271
+        },
+        {
+            "word": "stick",
+            "score": 1268
+        },
+        {
+            "word": "maker",
+            "score": 1266
+        },
+        {
+            "word": "store",
+            "score": 1258
+        },
+        {
+            "word": "apple",
+            "score": 1256
+        },
+        {
+            "word": "madonna",
+            "score": 1253
+        },
+        {
+            "word": "ingredients",
+            "score": 1251
+        },
+        {
+            "word": "drinks",
+            "score": 1249
+        },
+        {
+            "word": "factory",
+            "score": 1244
+        },
+        {
+            "word": "toys",
+            "score": 1241
+        },
+        {
+            "word": "milk",
+            "score": 1233
+        },
+        {
+            "word": "carol",
+            "score": 1226
+        },
+        {
+            "word": "manufactured",
+            "score": 1217
+        },
+        {
+            "word": "brands",
+            "score": 1215
+        },
+        {
+            "word": "foods",
+            "score": 1214
+        },
+        {
+            "word": "soft",
+            "score": 1211
+        },
+        {
+            "word": "reynolds",
+            "score": 1204
+        },
+        {
+            "word": "manufacturer",
+            "score": 1200
+        },
+        {
+            "word": "fruit",
+            "score": 1190
+        },
+        {
+            "word": "stores",
+            "score": 1188
+        },
+        {
+            "word": "mars",
+            "score": 1181
+        },
+        {
+            "word": "kitchen",
+            "score": 1174
+        },
+        {
+            "word": "brand",
+            "score": 1171
+        },
+        {
+            "word": "invented",
+            "score": 1158
+        },
+        {
+            "word": "kids",
+            "score": 1156
+        },
+        {
+            "word": "girl",
+            "score": 1146
+        },
+        {
+            "word": "christmas",
+            "score": 1145
+        },
+        {
+            "word": "cotton",
+            "score": 1141
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "candy",
+            "score": 66415
+        },
+        {
+            "word": "candytuft",
+            "score": 64864
+        },
+        {
+            "word": "candyfloss",
+            "score": 64814
+        },
+        {
+            "word": "candy corn",
+            "score": 64800
+        },
+        {
+            "word": "candy striper",
+            "score": 64768
+        },
+        {
+            "word": "candy store",
+            "score": 64762
+        },
+        {
+            "word": "candy cane",
+            "score": 64740
+        },
+        {
+            "word": "candymaker",
+            "score": 64736
+        },
+        {
+            "word": "candyweed",
+            "score": 64735
+        },
+        {
+            "word": "candy bar",
+            "score": 64726
+        }
+    ]
+}

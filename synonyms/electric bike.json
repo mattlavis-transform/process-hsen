@@ -1,0 +1,839 @@
+{
+    "term": "electric bike",
+    "means_like": [
+        {
+            "word": "e-bike",
+            "score": 112612,
+            "tags": [
+                "syn"
+            ]
+        },
+        {
+            "word": "cycle",
+            "score": 12612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scooter",
+            "score": 12612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tricycle",
+            "score": 12612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bell",
+            "score": 12369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "psi",
+            "score": 12369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tube",
+            "score": 12369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fender",
+            "score": 12308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axle",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bicycle",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brake",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coast",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gears",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harley",
+            "score": 11490,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "machine",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machinery",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moped",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motion",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motorcycle",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedal",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 11490,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "alternator",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amperage",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appliance",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armature",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barred",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brush",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "car",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cart",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cataphoresis",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 11273,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "circuit",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clock",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coasting",
+            "score": 11273,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "commutator",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conduction",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "controller",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "converter",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupling",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "current",
+            "score": 11273,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "dead",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "diesel",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "differential",
+            "score": 11273,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "dimmer",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drop",
+            "score": 11273,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dryer",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duty",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dynamo",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dynamotor",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrical",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "electro-dynamics",
+            "score": 11273
+        },
+        {
+            "word": "electro-motive",
+            "score": 11273
+        },
+        {
+            "word": "electrode",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrodynamics",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrolysis",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electromagnetic",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "electromotive",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "electron",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrophoresis",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "excite",
+            "score": 11273,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "excited",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "exciter",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fan",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fanned",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fanning",
+            "score": 11273,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "feedback",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feeder",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field coil",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field winding",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fireman",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flash",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galvanism",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gas",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gramme machine",
+            "score": 11273
+        },
+        {
+            "word": "hybrid",
+            "score": 11273,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "hydroelectric",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "impedance",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inductive",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "input",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironclad",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 11273,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jacked",
+            "score": 11273,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "jacking",
+            "score": 11273,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "jacks",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jigger",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 11273,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 11273,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "live",
+            "score": 11273,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "load",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locomotive",
+            "score": 11273,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "low",
+            "score": 11273,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "magneto",
+            "score": 11273,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "electric pig",
+            "score": 85,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric eye",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric blue",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric bill",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric shock",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric arc",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric power",
+            "score": 75,
+            "numSyllables": 5
+        },
+        {
+            "word": "electric",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "electrical",
+            "score": 72,
+            "numSyllables": 4
+        },
+        {
+            "word": "electrics",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "electrically",
+            "score": 70,
+            "numSyllables": 5
+        },
+        {
+            "word": "electric eel",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "electric ray",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "electrico",
+            "score": 70,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "electric fire",
+            "score": 38
+        },
+        {
+            "word": "electric bill",
+            "score": 29
+        },
+        {
+            "word": "electric blue",
+            "score": 20
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "electric field",
+            "score": 54
+        },
+        {
+            "word": "electric fire",
+            "score": 38
+        },
+        {
+            "word": "electric bill",
+            "score": 29
+        },
+        {
+            "word": "electric blue",
+            "score": 20
+        },
+        {
+            "word": "electric mixer",
+            "score": 18
+        },
+        {
+            "word": "electric field strength",
+            "score": 12
+        },
+        {
+            "word": "electric bell",
+            "score": 11
+        },
+        {
+            "word": "electric fires",
+            "score": 6
+        },
+        {
+            "word": "electric field intensity",
+            "score": 5
+        },
+        {
+            "word": "electric boiler",
+            "score": 4
+        }
+    ]
+}

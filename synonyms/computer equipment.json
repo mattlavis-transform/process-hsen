@@ -1,0 +1,783 @@
+{
+    "term": "computer equipment",
+    "means_like": [
+        {
+            "word": "hardware",
+            "score": 48868,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "software",
+            "score": 48468,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "computers",
+            "score": 48068,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "ict",
+            "score": 48068,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "material",
+            "score": 48068,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "materials",
+            "score": 48068,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pcs",
+            "score": 48068,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "teams",
+            "score": 48068,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "retrofit",
+            "score": 28468,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "terminal",
+            "score": 28468,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "lan",
+            "score": 28438,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peripheral",
+            "score": 28438,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "awacs",
+            "score": 28068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bionics",
+            "score": 28068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 28068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compatible",
+            "score": 28068,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "interface",
+            "score": 28068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peripheral device",
+            "score": 28068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "port",
+            "score": 28068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retrofitted",
+            "score": 28068,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "switch",
+            "score": 28068,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "computer peripheral",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "local area network",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "memex",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oem",
+            "score": 28038,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "storage device",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "administrate",
+            "score": 28003,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "diagnostic program",
+            "score": 27973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plug-compatible",
+            "score": 27973
+        },
+        {
+            "word": "appliance",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ascii",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automation",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black box",
+            "score": 11668,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blip",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartridge",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "channel",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "channelling",
+            "score": 11668,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "channels",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chip",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clicker",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console",
+            "score": 11668,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "controller",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 11668,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cybernation",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desk",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downtime",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hose",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "input",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interoperability",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 11668,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 11668,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "load",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machine",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machined",
+            "score": 11668,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monitor",
+            "score": 11668,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "monitoring",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pick",
+            "score": 11668,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redundancy",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "remote",
+            "score": 11668,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rig",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screen",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "simulator",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "team",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "technology",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teleconference",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teleconferencing",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "text",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tool",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunk",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "upgrade",
+            "score": 11668,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "utility",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "webcam",
+            "score": 11668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cisco",
+            "score": 11638,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "input/output",
+            "score": 11638
+        },
+        {
+            "word": "video",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connect",
+            "score": 11548,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fic",
+            "score": 11548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fix",
+            "score": 11548,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "footprint",
+            "score": 11548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "install",
+            "score": 11548,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "payload",
+            "score": 11548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "platform",
+            "score": 11548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refresh",
+            "score": 11548,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tractor",
+            "score": 11548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arrow",
+            "score": 11518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cathode-ray tube",
+            "score": 11518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cracker",
+            "score": 11518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "developer",
+            "score": 11518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electronic",
+            "score": 11518,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cricket equipment",
+            "score": 45,
+            "numSyllables": 5
+        },
+        {
+            "word": "computerization",
+            "score": 40,
+            "numSyllables": 6
+        },
+        {
+            "word": "computer screen",
+            "score": 35,
+            "numSyllables": 4
+        },
+        {
+            "word": "computer keyboard",
+            "score": 35,
+            "numSyllables": 5
+        },
+        {
+            "word": "computer games",
+            "score": 32,
+            "numSyllables": 4
+        },
+        {
+            "word": "computer game",
+            "score": 30,
+            "numSyllables": 4
+        },
+        {
+            "word": "computer monitor",
+            "score": 30,
+            "numSyllables": 6
+        },
+        {
+            "word": "completement",
+            "score": 27,
+            "numSyllables": 3
+        },
+        {
+            "word": "sports equipment",
+            "score": 23,
+            "numSyllables": 4
+        },
+        {
+            "word": "support payment",
+            "score": 3,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "computer hardware",
+            "score": 125
+        }
+    ]
+}

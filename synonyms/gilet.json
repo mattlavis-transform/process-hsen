@@ -1,0 +1,1387 @@
+{
+    "term": "gilet",
+    "means_like": [
+        {
+            "word": "duffel coat",
+            "score": 51363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 51362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waistcoat",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouson",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windcheater",
+            "score": 51359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandarin collar",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twinset",
+            "score": 51356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crewneck",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raglan",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gabardine",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtdress",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kaftan",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plimsolls",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle coat",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambswool",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breeks",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellingtons",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broderie anglaise",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lurex",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandeau",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salopettes",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mary janes",
+            "score": 51339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "babydoll",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "espadrille",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loden",
+            "score": 51335,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dogtooth",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 51333,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilskin",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleecy",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheepskin coat",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplex",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cossie",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drapey",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ripstop",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nubuck",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jodhpur",
+            "score": 51322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shearling",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellington boots",
+            "score": 51320,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cagoule",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trews",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidskin",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tweed",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chambray",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slingbacks",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voile",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grosgrain",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stonewashed",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper suit",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "titfer",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "culotte",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambskin",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "softshell",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lippie",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunhat",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burberry",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astrakhan",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trilby",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairband",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boucle",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woollies",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankini",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillette",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surplice",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charmeuse",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mackintosh",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camis",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terrycloth",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermudas",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capri",
+            "score": 51286,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chemises",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloche",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mohican",
+            "score": 51283,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jabot",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinafore dress",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "henley",
+            "score": 51279,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wellies",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouffe",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batiste",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinafore",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamois",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nappa",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellington boot",
+            "score": 51271,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "glen plaid",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrunchie",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suedes",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gaiter",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lycra",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boilersuit",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gilet",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "galette",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullet",
+            "score": 99,
+            "numSyllables": 2
+        },
+        {
+            "word": "guillet",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "galoot",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "goulet",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "gallate",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "goulette",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullette",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelate",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "gillet",
+            "score": 94,
+            "numSyllables": 2
+        },
+        {
+            "word": "collette",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "gallet",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullett",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "galit",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "galut",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "golet",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "gult",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cullet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullied",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "galloot",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilets",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelid",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "collate",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "colette",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "callout",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "callate",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "cull out",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "calotte",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "guilt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "glut",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gilt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gelt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gilead",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gimlet",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "glit",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gullah",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulla",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "kellett",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelert",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullets",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gellert",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gutshot",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "guilmette",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gill net",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gillette",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gully",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "khaled",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gazette",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glute",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gulped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gulley",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "collet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "galt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cool it",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glot",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "galosh",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullies",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gleet",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gault",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glatt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gulfed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "collett",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glout",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gled",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "guld",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gulled",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "collat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "goleta",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "callet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "golt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "galois",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "goyette",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "egalite",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "galletta",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "galoshe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulleys",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "galletti",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "kalat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "galoots",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "guyette",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kolat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "goodlett",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilla",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "giglet",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "joliette",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "giglot",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "call-out",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "caillouet",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "caleche",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ballette",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "calade",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "call at",
+            "score": 83,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gilet",
+            "score": 65031
+        },
+        {
+            "word": "gilt",
+            "score": 977
+        },
+        {
+            "word": "gimlet",
+            "score": 800
+        },
+        {
+            "word": "filet",
+            "score": 603
+        },
+        {
+            "word": "gile",
+            "score": 401
+        },
+        {
+            "word": "giblet",
+            "score": 253
+        },
+        {
+            "word": "giles",
+            "score": 242
+        },
+        {
+            "word": "gillet",
+            "score": 204
+        },
+        {
+            "word": "giglet",
+            "score": 106
+        },
+        {
+            "word": "giet",
+            "score": 69
+        },
+        {
+            "word": "golet",
+            "score": 60
+        },
+        {
+            "word": "ilet",
+            "score": 52
+        },
+        {
+            "word": "galet",
+            "score": 33
+        },
+        {
+            "word": "bilet",
+            "score": 24
+        },
+        {
+            "word": "gibet",
+            "score": 13
+        },
+        {
+            "word": "givet",
+            "score": 4
+        },
+        {
+            "word": "milet",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "sleeveless",
+            "score": 1899
+        },
+        {
+            "word": "waistcoat",
+            "score": 1835
+        },
+        {
+            "word": "denise",
+            "score": 1723
+        },
+        {
+            "word": "lucas",
+            "score": 1620
+        },
+        {
+            "word": "jacket",
+            "score": 1599
+        },
+        {
+            "word": "jesse",
+            "score": 1585
+        },
+        {
+            "word": "told",
+            "score": 1334
+        },
+        {
+            "word": "cast",
+            "score": 1313
+        },
+        {
+            "word": "bbc",
+            "score": 1311
+        },
+        {
+            "word": "character",
+            "score": 1288
+        },
+        {
+            "word": "episode",
+            "score": 1250
+        },
+        {
+            "word": "appeared",
+            "score": 1238
+        },
+        {
+            "word": "having",
+            "score": 1193
+        },
+        {
+            "word": "together",
+            "score": 1188
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "gilet",
+            "score": 65031
+        },
+        {
+            "word": "gilets",
+            "score": 64695
+        },
+        {
+            "word": "gilette",
+            "score": 64663
+        },
+        {
+            "word": "dilettante",
+            "score": 2688
+        },
+        {
+            "word": "gilt",
+            "score": 977
+        },
+        {
+            "word": "gimlet",
+            "score": 800
+        },
+        {
+            "word": "filet",
+            "score": 603
+        },
+        {
+            "word": "gile",
+            "score": 401
+        },
+        {
+            "word": "giblets",
+            "score": 266
+        },
+        {
+            "word": "dilettantism",
+            "score": 263
+        }
+    ]
+}

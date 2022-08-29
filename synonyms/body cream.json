@@ -1,0 +1,943 @@
+{
+    "term": "body cream",
+    "means_like": [
+        {
+            "word": "cosmetic",
+            "score": 28665,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "depilatory",
+            "score": 28665,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue point siamese",
+            "score": 28604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "break",
+            "score": 12404,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cone",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elite",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foundation",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pack",
+            "score": 12404,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ripple",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rise",
+            "score": 12404,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scoop",
+            "score": 12404,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scooping",
+            "score": 12404,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "thick",
+            "score": 12404,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "whip",
+            "score": 12404,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "consistence",
+            "score": 12265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pore",
+            "score": 12265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 12265,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "centrifugal",
+            "score": 12161,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "coupe",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dio",
+            "score": 12161,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dip",
+            "score": 12161,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dips",
+            "score": 12161,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eyes",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feather",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "float",
+            "score": 12161,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "grasshopper",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jerk",
+            "score": 12161,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "lens",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mushroom",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 12161,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "rippled",
+            "score": 12161,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rocks",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spider",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "split",
+            "score": 12161,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "splits",
+            "score": 12161,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "splitting",
+            "score": 12161,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "top",
+            "score": 12161,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "water",
+            "score": 12161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icr",
+            "score": 12100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mocha",
+            "score": 12100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shake",
+            "score": 12100,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "shakes",
+            "score": 12100,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shaking",
+            "score": 12100,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "social",
+            "score": 12100,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "soft",
+            "score": 12100,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "uce",
+            "score": 12100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "band",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cat",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "edge",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "egg",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heaped",
+            "score": 12022,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "paste",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rout",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tube",
+            "score": 12022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleanse",
+            "score": 11961,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "eggbeater",
+            "score": 11961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gelatin",
+            "score": 11961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanolin",
+            "score": 11961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scallop",
+            "score": 11961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toiletry",
+            "score": 11961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agar",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baked alaska",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bitok",
+            "score": 11283,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brick",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burrito",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butter",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buttered",
+            "score": 11283,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "buttermilk",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butters",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheesecake",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "churn",
+            "score": 11283,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocoa powder",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cold cream",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "complement",
+            "score": 11283,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cornet",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cream puff",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamer",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamery",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamy",
+            "score": 11283,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dab",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dairy",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dariole",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dollop",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donut",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doughnut",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elect",
+            "score": 11283,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "emollient",
+            "score": 11283,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "face cream",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foam",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frangipane",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galactometer",
+            "score": 11283
+        },
+        {
+            "word": "ice cream",
+            "score": 11283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lactoscope",
+            "score": 11283
+        },
+        {
+            "word": "lick",
+            "score": 11283,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "licked",
+            "score": 11283,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "buttercream",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "butter cream",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "body con",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "petty crime",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "bad dream",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bodrum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedroom",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bed room",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "backroom",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bodkin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "breadcrumb",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bikram",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bodying",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "body count",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "boudica",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bedframe",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "back room",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "kodachrome",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baedeker",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "body kit",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "body armor",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "body art",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bread crumb",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barkery",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bodhran",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "badura",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "buckram",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "body armour",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "bottle green",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "beet green",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "body hair",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "brylcreem",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bichrome",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "badakshan",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "boedeker",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "sour cream",
+            "score": 53
+        },
+        {
+            "word": "body slam",
+            "score": 35
+        },
+        {
+            "word": "cold cream",
+            "score": 35
+        },
+        {
+            "word": "body check",
+            "score": 33
+        },
+        {
+            "word": "body wrap",
+            "score": 23
+        },
+        {
+            "word": "body coat",
+            "score": 14
+        },
+        {
+            "word": "body heat",
+            "score": 6
+        },
+        {
+            "word": "body press",
+            "score": 4
+        },
+        {
+            "word": "bad dream",
+            "score": 3
+        }
+    ]
+}

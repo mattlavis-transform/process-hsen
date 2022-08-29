@@ -1,0 +1,747 @@
+{
+    "term": "camer",
+    "means_like": [
+        {
+            "word": "autofocus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "camr",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kammer",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "camar",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "calmer",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "comer",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "comber",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "canner",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cummer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "komar",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kummer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "coomer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kimmer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kommer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "comar",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kamer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kemmer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kanner",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "colmer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kangar",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "comor",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "gammer",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "cather",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "camera",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "cam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "connor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "camper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "conner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "clamor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "conor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "camry",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keener",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cami",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "scammer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "clamour",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cammy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "camra",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cams",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "camber",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "conger",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cammie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "clammer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "camphor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kenner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "crammer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kamra",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "camm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "camma",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coiner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cooner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cambre",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kamber",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cunner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kamm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kiner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kinner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kham",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "camey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "klammer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "krammer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "camb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cambers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalmar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cambs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kashmere",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "conar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keiner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "koner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kamb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "camors",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cainer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kammerer",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "kiener",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kuehner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kunar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cnm",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cnr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "congre",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hammer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gamer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ganger",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yammer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gomer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hammar",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gemmer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ganar",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gimmer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamor",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamre",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "geimer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaumer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "goomer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gommer",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "co-author",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": ".com",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "caper",
+            "score": 1354
+        },
+        {
+            "word": "cater",
+            "score": 1341
+        },
+        {
+            "word": "cameo",
+            "score": 1239
+        },
+        {
+            "word": "camfer",
+            "score": 1005
+        },
+        {
+            "word": "camel",
+            "score": 847
+        },
+        {
+            "word": "camber",
+            "score": 714
+        },
+        {
+            "word": "came",
+            "score": 436
+        },
+        {
+            "word": "comer",
+            "score": 422
+        },
+        {
+            "word": "carer",
+            "score": 393
+        },
+        {
+            "word": "camper",
+            "score": 372
+        },
+        {
+            "word": "gamer",
+            "score": 327
+        },
+        {
+            "word": "caber",
+            "score": 323
+        },
+        {
+            "word": "tamer",
+            "score": 306
+        },
+        {
+            "word": "caner",
+            "score": 303
+        },
+        {
+            "word": "amer",
+            "score": 300
+        },
+        {
+            "word": "cager",
+            "score": 257
+        },
+        {
+            "word": "calmer",
+            "score": 245
+        },
+        {
+            "word": "namer",
+            "score": 178
+        },
+        {
+            "word": "lamer",
+            "score": 170
+        },
+        {
+            "word": "caver",
+            "score": 164
+        },
+        {
+            "word": "cader",
+            "score": 122
+        },
+        {
+            "word": "cramer",
+            "score": 92
+        },
+        {
+            "word": "hamer",
+            "score": 90
+        },
+        {
+            "word": "caer",
+            "score": 71
+        },
+        {
+            "word": "caser",
+            "score": 63
+        },
+        {
+            "word": "samer",
+            "score": 61
+        },
+        {
+            "word": "camex",
+            "score": 46
+        },
+        {
+            "word": "ramer",
+            "score": 44
+        },
+        {
+            "word": "cambr",
+            "score": 42
+        },
+        {
+            "word": "cames",
+            "score": 27
+        },
+        {
+            "word": "kamer",
+            "score": 25
+        },
+        {
+            "word": "cafer",
+            "score": 23
+        },
+        {
+            "word": "caler",
+            "score": 23
+        },
+        {
+            "word": "carmer",
+            "score": 22
+        },
+        {
+            "word": "camen",
+            "score": 15
+        },
+        {
+            "word": "cimer",
+            "score": 13
+        },
+        {
+            "word": "famer",
+            "score": 12
+        },
+        {
+            "word": "camar",
+            "score": 11
+        },
+        {
+            "word": "eamer",
+            "score": 10
+        },
+        {
+            "word": "pamer",
+            "score": 8
+        },
+        {
+            "word": "camey",
+            "score": 7
+        },
+        {
+            "word": "camr",
+            "score": 6
+        },
+        {
+            "word": "cmer",
+            "score": 6
+        },
+        {
+            "word": "mamer",
+            "score": 5
+        },
+        {
+            "word": "clamer",
+            "score": 4
+        },
+        {
+            "word": "cayer",
+            "score": 3
+        },
+        {
+            "word": "damer",
+            "score": 2
+        },
+        {
+            "word": "aamer",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "camera",
+            "score": 66537
+        },
+        {
+            "word": "cameron",
+            "score": 65107
+        },
+        {
+            "word": "cameroon",
+            "score": 64941
+        },
+        {
+            "word": "cameras",
+            "score": 64839
+        },
+        {
+            "word": "cameraman",
+            "score": 64835
+        },
+        {
+            "word": "camerae",
+            "score": 64797
+        },
+        {
+            "word": "camera obscura",
+            "score": 64789
+        },
+        {
+            "word": "cameral",
+            "score": 64785
+        },
+        {
+            "word": "camerlengo",
+            "score": 64778
+        },
+        {
+            "word": "cameroun",
+            "score": 64758
+        }
+    ]
+}

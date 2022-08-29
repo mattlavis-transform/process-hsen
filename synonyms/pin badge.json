@@ -1,0 +1,1255 @@
+{
+    "term": "pin badge",
+    "means_like": [
+        {
+            "word": "button",
+            "score": 28149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pib",
+            "score": 28149,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pim",
+            "score": 28149,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinning",
+            "score": 28149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plaque",
+            "score": 28149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stripe",
+            "score": 11749,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eod",
+            "score": 11531,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rod",
+            "score": 11531,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mourning",
+            "score": 11468,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affix",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "away",
+            "score": 10662,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "bayonet",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buckle",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "butt",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butted",
+            "score": 10662,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "candlepin",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 10662,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "clasp",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "clevis",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cup",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curler",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinger",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drift",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drifting",
+            "score": 10662,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "duckpin",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fall",
+            "score": 10662,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "finger",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammer",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammered",
+            "score": 10662,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hammering",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammers",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hang",
+            "score": 10662,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "header",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heads",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hob",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 10662,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jacked",
+            "score": 10662,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "jacking",
+            "score": 10662,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "jacks",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 10662,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "maple",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morpheme",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "number",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "password",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peg",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinnule",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pipe",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pipes",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plugged",
+            "score": 10662,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pocket",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "point",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "points",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prick",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "push",
+            "score": 10662,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "ring",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rings",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rolled",
+            "score": 10662,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "safety",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scissors",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratch",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scratched",
+            "score": 10662,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shank",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spit",
+            "score": 10662,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stick",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sticks",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stops",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stringer",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stud",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "studded",
+            "score": 10662,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "studs",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ten",
+            "score": 10662,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "tenpin",
+            "score": 10662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toggle",
+            "score": 10662,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 10662,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "arms",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badges",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banner",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belt",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue ribbon",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chevron",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "christopher",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cognizance",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "color",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colours",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cordon",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crescent",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crest",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cross",
+            "score": 10623,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "crown",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decoration",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "device",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emblem",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ensign",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fasces",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grade insignia",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "punchbag",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bin bag",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "pumpage",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinball",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "pwnage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "palm beach",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pannage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pownage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawnage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pin bone",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pnb",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "beanbag",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "bean bag",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "punch bag",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bombage",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "punish",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "panache",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "penang",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "penge",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "pen pal",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pumbaa",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "punchbowl",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "penoche",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "penuche",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pemba",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "punchball",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "bumbag",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "bum bag",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinch",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "pimping",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinning",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinny",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ping-pong",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pingpong",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinoy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "spinage",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinna",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "piney",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinche",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "pamby",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ping pong",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinney",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "benbow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pombo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palm bay",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "panoche",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pineo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pineau",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinni",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinho",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinnow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "panj",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "pipage",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pohnpei",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinang",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinnae",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pomba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ptm",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "binge",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "bimbo",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "babbage",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bainbridge",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bnb",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bimba",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bang bang",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "banbridge",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bone ash",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bang-bang",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "win back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bone age",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "penny",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "punch",
+            "score": 72,
+            "numSyllables": 1
+        },
+        {
+            "word": "pumping",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pennie",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penning",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pena",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penney",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "peni",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penni",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pumpy",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penpal",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pember",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penna",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "peno",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penia",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "peonage",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pmp",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pubbing",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pumpa",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penii",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "apanage",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "penpusher",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "peba",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "appanage",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pompeia",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pennae",
+            "score": 72,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "pinnage",
+            "score": 148
+        },
+        {
+            "word": "inbarge",
+            "score": 125
+        },
+        {
+            "word": "pinotage",
+            "score": 59
+        },
+        {
+            "word": "don budge",
+            "score": 20
+        },
+        {
+            "word": "film badge",
+            "score": 18
+        },
+        {
+            "word": "pin bone",
+            "score": 18
+        },
+        {
+            "word": "pin table",
+            "score": 18
+        },
+        {
+            "word": "bin bag",
+            "score": 14
+        },
+        {
+            "word": "in bad",
+            "score": 11
+        },
+        {
+            "word": "pine ridge",
+            "score": 9
+        }
+    ]
+}

@@ -1,0 +1,824 @@
+{
+    "term": "pencil case",
+    "means_like": [
+        {
+            "word": "pencil box",
+            "score": 56316,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pencil",
+            "score": 53643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keep note",
+            "score": 53642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper fastener",
+            "score": 53641,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "light pen",
+            "score": 53640,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballpoint pen",
+            "score": 53639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "letter opener",
+            "score": 53638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clutch bag",
+            "score": 53637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pen",
+            "score": 53636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlebook",
+            "score": 53635,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magic marker",
+            "score": 53634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pencil eraser",
+            "score": 53633,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper knife",
+            "score": 53632,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appointment book",
+            "score": 53631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notepad",
+            "score": 53630,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eraser",
+            "score": 53629,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penwiper",
+            "score": 53628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece of paper",
+            "score": 53627,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overnight bag",
+            "score": 53626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheet of paper",
+            "score": 53625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "personal organizer",
+            "score": 53624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tintack",
+            "score": 53623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crayon",
+            "score": 53622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rubber eraser",
+            "score": 53621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ink bottle",
+            "score": 53620,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legal pad",
+            "score": 53619,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulldog clip",
+            "score": 53618,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portcrayon",
+            "score": 53617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookbag",
+            "score": 53616,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pencil lead",
+            "score": 53615,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper cutter",
+            "score": 53614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stamp pad",
+            "score": 53613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boist",
+            "score": 53612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caligraphy",
+            "score": 53611,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impen",
+            "score": 53610,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharpie",
+            "score": 53609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pasteboard",
+            "score": 53608,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow compass",
+            "score": 53607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elbow pad",
+            "score": 53606,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartridge pen",
+            "score": 53604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stationery",
+            "score": 53603,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlecase",
+            "score": 53602,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardboard",
+            "score": 53601,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attache case",
+            "score": 53600,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperclip",
+            "score": 53599,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ditty bag",
+            "score": 53598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballpoint",
+            "score": 53597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawstring bag",
+            "score": 53596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haversack",
+            "score": 53595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "typewriter ribbon",
+            "score": 53594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seal ring",
+            "score": 53593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penknife",
+            "score": 53592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharpener",
+            "score": 53591,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 53590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "protective garment",
+            "score": 53589,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketchbook",
+            "score": 53588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clasp knife",
+            "score": 53587,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inkstand",
+            "score": 53586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketch pad",
+            "score": 53585,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scissor",
+            "score": 53584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phillips screwdriver",
+            "score": 53583,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "notepaper",
+            "score": 53582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratch paper",
+            "score": 53581,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable wrench",
+            "score": 53580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "schoolbag",
+            "score": 53579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 53578,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tire iron",
+            "score": 53577,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pencraft",
+            "score": 53576,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watch pocket",
+            "score": 53575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase",
+            "score": 53574,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper cup",
+            "score": 53573,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pickpurse",
+            "score": 53572,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pocket",
+            "score": 53571,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knapsack",
+            "score": 53570,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sabretasche",
+            "score": 53569,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "safety pin",
+            "score": 53568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "golf bag",
+            "score": 53567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carbon paper",
+            "score": 53566,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clipboard",
+            "score": 53565,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyclostyle",
+            "score": 53564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 53563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purse",
+            "score": 53562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bursiform",
+            "score": 53561,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stapler",
+            "score": 53560,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "life ring",
+            "score": 53559,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple box",
+            "score": 53558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair slide",
+            "score": 53557,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "india paper",
+            "score": 53556,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jotter",
+            "score": 53555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie tack",
+            "score": 53554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "post office box",
+            "score": 53553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilpaper",
+            "score": 53552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylograph",
+            "score": 53551,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checkbook",
+            "score": 53550,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "type metal",
+            "score": 53549,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embox",
+            "score": 53548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penrack",
+            "score": 53547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workbag",
+            "score": 53546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filofax",
+            "score": 53545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothespin",
+            "score": 53544,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "pencil case",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "pencil cases",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "pencils",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pencil",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "penniless",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "penalize",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pensil",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pendulous",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pencel",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "penalise",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "penciling",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pensel",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pencilling",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pencil in",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pencil box",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pencil eraser",
+            "score": 70,
+            "numSyllables": 5
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "pencil case",
+            "score": 129417
+        },
+        {
+            "word": "pencil cases",
+            "score": 4
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "pencil case",
+            "score": 129417
+        },
+        {
+            "word": "pencil cases",
+            "score": 129322
+        },
+        {
+            "word": "pencil eraser",
+            "score": 51
+        },
+        {
+            "word": "pencil cedar tree",
+            "score": 22
+        },
+        {
+            "word": "pencil cedar",
+            "score": 17
+        }
+    ]
+}

@@ -1,0 +1,1163 @@
+{
+    "term": "toiletries",
+    "means_like": [
+        {
+            "word": "toilet article",
+            "score": 55161,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "washroom",
+            "score": 41713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilet",
+            "score": 40296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "niceties",
+            "score": 37455,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washrooms",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toothbrushes",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diapers",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotions",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deodorant",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blankets",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necessities",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canned goods",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towels",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundry detergent",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towelettes",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundries",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toothpaste",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapstick",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lip balm",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "groceries",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linens",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toothbrush",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essentials",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snacks",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottled water",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canned foods",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundry",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mouthwash",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilet paper",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "layettes",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pillows",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "detergent",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedding",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colognes",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "items",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gels",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed linen",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shaving cream",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dental floss",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toys",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantry",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ointments",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "razors",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soaps",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplies",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tampons",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sewing kit",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "food",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealable",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aftershave",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pillowcases",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beef jerky",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchenware",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bags",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beverages",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gifts",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes closet",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumes",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perishables",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bubble bath",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liquid detergent",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothes",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luggage",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neosporin",
+            "score": 31287,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedspreads",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belongings",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunblock",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tins",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meals",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aftershave lotion",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socks",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carryalls",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fresheners",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stationery",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creams",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwashing detergent",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottles",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolates",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hygiene",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liquids",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothing",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwash",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathrobes",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sachets",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utensils",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napkins",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "huggies",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insect repellent",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mattresses",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suitcases",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "powdered milk",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incidentals",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moisturizer",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "toiletries",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "toiletry",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "toilet rolls",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "toilet roll",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "idolatries",
+            "score": 78,
+            "numSyllables": 4
+        },
+        {
+            "word": "toilets",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "teletubbies",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "toilet seat",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "tulip tree",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "toilet brush",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "militarise",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "helotry",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "zealotry",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "militarize",
+            "score": 73,
+            "numSyllables": 4
+        },
+        {
+            "word": "tetras",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "toilettes",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "tetrose",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "teleri",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "toilet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "territories",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "deliveries",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "telstra",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "toyotas",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "tell the truth",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "talaria",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "toilers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "telomerase",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "autolatry",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "toilet kit",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "tailgaters",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "toileting",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "toiletries",
+            "score": 129851
+        },
+        {
+            "word": "tuileries",
+            "score": 148
+        },
+        {
+            "word": "tileries",
+            "score": 18
+        },
+        {
+            "word": "toilettes",
+            "score": 17
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "shampoo",
+            "score": 1718
+        },
+        {
+            "word": "cosmetics",
+            "score": 1708
+        },
+        {
+            "word": "toothpaste",
+            "score": 1688
+        },
+        {
+            "word": "shaving",
+            "score": 1618
+        },
+        {
+            "word": "fragrance",
+            "score": 1598
+        },
+        {
+            "word": "stationery",
+            "score": 1586
+        },
+        {
+            "word": "perfume",
+            "score": 1525
+        },
+        {
+            "word": "appliances",
+            "score": 1475
+        },
+        {
+            "word": "textiles",
+            "score": 1466
+        },
+        {
+            "word": "cleaning",
+            "score": 1463
+        },
+        {
+            "word": "herbs",
+            "score": 1461
+        },
+        {
+            "word": "dove",
+            "score": 1444
+        },
+        {
+            "word": "pharmaceutical",
+            "score": 1427
+        },
+        {
+            "word": "items",
+            "score": 1406
+        },
+        {
+            "word": "toys",
+            "score": 1404
+        },
+        {
+            "word": "products",
+            "score": 1399
+        },
+        {
+            "word": "packaging",
+            "score": 1392
+        },
+        {
+            "word": "foods",
+            "score": 1380
+        },
+        {
+            "word": "soap",
+            "score": 1376
+        },
+        {
+            "word": "clothing",
+            "score": 1375
+        },
+        {
+            "word": "ingredients",
+            "score": 1371
+        },
+        {
+            "word": "homeless",
+            "score": 1364
+        },
+        {
+            "word": "clothes",
+            "score": 1355
+        },
+        {
+            "word": "gifts",
+            "score": 1353
+        },
+        {
+            "word": "stores",
+            "score": 1349
+        },
+        {
+            "word": "electronics",
+            "score": 1347
+        },
+        {
+            "word": "brands",
+            "score": 1338
+        },
+        {
+            "word": "leather",
+            "score": 1334
+        },
+        {
+            "word": "kitchen",
+            "score": 1330
+        },
+        {
+            "word": "goods",
+            "score": 1327
+        },
+        {
+            "word": "tobacco",
+            "score": 1324
+        },
+        {
+            "word": "cream",
+            "score": 1316
+        },
+        {
+            "word": "brand",
+            "score": 1308
+        },
+        {
+            "word": "manufactured",
+            "score": 1303
+        },
+        {
+            "word": "supplies",
+            "score": 1294
+        },
+        {
+            "word": "bangladesh",
+            "score": 1291
+        },
+        {
+            "word": "clean",
+            "score": 1277
+        },
+        {
+            "word": "etc",
+            "score": 1270
+        },
+        {
+            "word": "care",
+            "score": 1263
+        },
+        {
+            "word": "beauty",
+            "score": 1254
+        },
+        {
+            "word": "consumer",
+            "score": 1251
+        },
+        {
+            "word": "household",
+            "score": 1249
+        },
+        {
+            "word": "skin",
+            "score": 1240
+        },
+        {
+            "word": "food",
+            "score": 1234
+        },
+        {
+            "word": "ltd",
+            "score": 1232
+        },
+        {
+            "word": "personal",
+            "score": 1224
+        },
+        {
+            "word": "hair",
+            "score": 1214
+        },
+        {
+            "word": "medicine",
+            "score": 1212
+        },
+        {
+            "word": "product",
+            "score": 1205
+        },
+        {
+            "word": "sell",
+            "score": 1202
+        },
+        {
+            "word": "manufacturing",
+            "score": 1195
+        },
+        {
+            "word": "factory",
+            "score": 1189
+        },
+        {
+            "word": "animal",
+            "score": 1185
+        },
+        {
+            "word": "animals",
+            "score": 1183
+        },
+        {
+            "word": "room",
+            "score": 1179
+        },
+        {
+            "word": "budget",
+            "score": 1175
+        },
+        {
+            "word": "sold",
+            "score": 1167
+        },
+        {
+            "word": "weekly",
+            "score": 1165
+        },
+        {
+            "word": "aid",
+            "score": 1161
+        },
+        {
+            "word": "brazil",
+            "score": 1159
+        },
+        {
+            "word": "properties",
+            "score": 1155
+        },
+        {
+            "word": "sales",
+            "score": 1146
+        },
+        {
+            "word": "industry",
+            "score": 1140
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "toiletries",
+            "score": 129851
+        },
+        {
+            "word": "tuileries",
+            "score": 148
+        },
+        {
+            "word": "tuileries palace",
+            "score": 45
+        },
+        {
+            "word": "tuileries gardens",
+            "score": 21
+        },
+        {
+            "word": "tileries",
+            "score": 18
+        },
+        {
+            "word": "toilettes",
+            "score": 17
+        }
+    ]
+}

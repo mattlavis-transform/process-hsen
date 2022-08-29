@@ -1,0 +1,1316 @@
+{
+    "term": "dog toy",
+    "means_like": [
+        {
+            "word": "maltese",
+            "score": 49393,
+            "tags": [
+                "syn",
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "poodle",
+            "score": 49393,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "peke",
+            "score": 48993,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 48193,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pomeranian",
+            "score": 28943,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pug",
+            "score": 28593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yip",
+            "score": 28593,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pekinese",
+            "score": 28193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pekingese",
+            "score": 28193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pom",
+            "score": 28193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 28193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affenpinscher",
+            "score": 28143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frisbee",
+            "score": 28131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "italian greyhound",
+            "score": 28080,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mechanical",
+            "score": 28080,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cockapoo",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 11793,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "maltese dog",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pup",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11793,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "terrier",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whelp",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yips",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapdog",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chihuahua",
+            "score": 11592,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "paddling",
+            "score": 11592,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sport",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trick",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanbag",
+            "score": 11542,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breed",
+            "score": 11542,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "detent",
+            "score": 11542,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papillon",
+            "score": 11542,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rex",
+            "score": 11542,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sled",
+            "score": 11542,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stray",
+            "score": 11542,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "worry",
+            "score": 11542,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "yarn",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "akita",
+            "score": 10693,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ape",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ares",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baby",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bark",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barking",
+            "score": 10693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "basset",
+            "score": 10693,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bau",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bay",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baying",
+            "score": 10693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "beagle",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bird",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bird dog",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloodhound",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brat",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bro",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bud",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buddy",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cat",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "champ",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chase",
+            "score": 10693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corgi",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courser",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cunning",
+            "score": 10693,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dachshund",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doggy",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dude",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fella",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fetch",
+            "score": 10693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fielder",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagged",
+            "score": 10693,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "flea",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "follow",
+            "score": 10693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gag",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gagging",
+            "score": 10693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "griffon",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handler",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "horae",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "horse",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hound",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hunt",
+            "score": 10693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hunter",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hunting dog",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lad",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lady",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lassie",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leash",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lurcher",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maid",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "man",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mascot",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mate",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moppet",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "norwegian elkhound",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pal",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pet",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "point",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pointer",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "points",
+            "score": 10693,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "dog day",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog do",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog doo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogday",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "docta",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggie",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogged",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "doughty",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dicta",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog tag",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogtag",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog show",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "doughtie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dagda",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogtown",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogtooth",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dicty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dictu",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "talk to",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hogtie",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dotty",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "docked",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "dottie",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dago",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggo",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dougherty",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "douty",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "doct",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "daga",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "datta",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dato",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dowty",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dto",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dotto",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dati",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "datu",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "datto",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dokdo",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "data",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "deity",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "decoy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ditty",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dawg",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "ditto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "diety",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "decked",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dict",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "digga",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dity",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daty",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "degas",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dita",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dito",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dagga",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "digged",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dicked",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "daggy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "digo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog days",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dega",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "diga",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "doga",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dhoti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "degu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dect",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "deta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dawdy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "do to",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dbt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dact",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "detty",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daut",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "daegu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ditta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "d.t",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "diti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "deto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daigo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "detto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dieta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "diked",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dawt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "deti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "digeo",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "dog it",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daat",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dagged",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "daithi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "deked",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dht",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dicte",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "d t",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "degt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dagu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dga",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ditu",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "dog tag",
+            "score": 77
+        },
+        {
+            "word": "boy toy",
+            "score": 51
+        },
+        {
+            "word": "dog day",
+            "score": 34
+        },
+        {
+            "word": "dog box",
+            "score": 27
+        },
+        {
+            "word": "dog do",
+            "score": 18
+        },
+        {
+            "word": "dog doo",
+            "score": 18
+        },
+        {
+            "word": "dog fox",
+            "score": 12
+        },
+        {
+            "word": "do to",
+            "score": 6
+        },
+        {
+            "word": "dog pox",
+            "score": 5
+        },
+        {
+            "word": "dom tom",
+            "score": 4
+        },
+        {
+            "word": "dog trot",
+            "score": 3
+        },
+        {
+            "word": "toy toy",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "dog tooth",
+            "score": 64672
+        },
+        {
+            "word": "dog tooth spar",
+            "score": 64661
+        },
+        {
+            "word": "dogtooth",
+            "score": 188
+        },
+        {
+            "word": "dog days",
+            "score": 179
+        },
+        {
+            "word": "dog pound",
+            "score": 178
+        },
+        {
+            "word": "dog house",
+            "score": 127
+        },
+        {
+            "word": "dostoyevsky",
+            "score": 90
+        },
+        {
+            "word": "dog tag",
+            "score": 77
+        },
+        {
+            "word": "dog collar",
+            "score": 66
+        },
+        {
+            "word": "dog food",
+            "score": 62
+        }
+    ]
+}

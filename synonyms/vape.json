@@ -1,0 +1,519 @@
+{
+    "term": "vape",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "vape",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "v.i.p",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "veep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vap",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "voip",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vipe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vup",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vop",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vapp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "vibe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vapor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "vey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vib",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vei",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vab",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vais",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "veb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vub",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vpe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ypp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "veio",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "vhh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chape",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "fape",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "wape",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yape",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "vow",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "v",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vase",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vee",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "viper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ve",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vie",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vamp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vo",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vi",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vate",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vous",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vah",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vage",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "voy",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "voo",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vio",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "voie",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "voe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "voi",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vace",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "viw",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vea",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "volpe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "veo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vou",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vapeur",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaugh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vapo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vbs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "veh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vaish",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vga",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "v.p",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vij",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vieau",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "v p",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "v.a",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vesp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vaa",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "verp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "viau",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaw",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "voh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vapa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "evap",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vao",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vih",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vorp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "veau",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vasp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "veps",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vmi",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vca",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "visp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "v.i",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vaps",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vapi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "v e",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vimp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vipr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "veeps",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "veii",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "varp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vemp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vfc",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "vipo",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "vape",
+            "score": 158
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "vape",
+            "score": 158
+        },
+        {
+            "word": "vapeur",
+            "score": 28
+        }
+    ]
+}

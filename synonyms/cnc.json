@@ -1,0 +1,1657 @@
+{
+    "term": "cnc",
+    "means_like": [
+        {
+            "word": "asc",
+            "score": 38450,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cdc",
+            "score": 37603,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nac",
+            "score": 37393,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "numerical",
+            "score": 33709,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "digital",
+            "score": 31506,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ccn",
+            "score": 24976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ciat",
+            "score": 24976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ncc",
+            "score": 24976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ncre",
+            "score": 24976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "netcom",
+            "score": 24976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scc",
+            "score": 24976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tnc",
+            "score": 24976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lathe",
+            "score": 24975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamfer",
+            "score": 24974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwheel",
+            "score": 24973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spindle",
+            "score": 24972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailstock",
+            "score": 24971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splines",
+            "score": 24970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countersink",
+            "score": 24969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cogwheels",
+            "score": 24968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aspx",
+            "score": 24967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drum sander",
+            "score": 24966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voltage divider",
+            "score": 24965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weldment",
+            "score": 24964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commutator",
+            "score": 24963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swaging",
+            "score": 24962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "addr",
+            "score": 24961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandrels",
+            "score": 24960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tachymeter",
+            "score": 24959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "esd",
+            "score": 24958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peening",
+            "score": 24957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multimeter",
+            "score": 24956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imagesetter",
+            "score": 24955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ammeter",
+            "score": 24954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satin stitch",
+            "score": 24953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "platens",
+            "score": 24952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photolithographic",
+            "score": 24951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdrom",
+            "score": 24950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stud finder",
+            "score": 24949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dimensioning",
+            "score": 24948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fletching",
+            "score": 24947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drupal",
+            "score": 24946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microswitch",
+            "score": 24945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bevels",
+            "score": 24944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cermet",
+            "score": 24943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratchpad",
+            "score": 24942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polyphase",
+            "score": 24941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scp",
+            "score": 24940,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "notcher",
+            "score": 24939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eng",
+            "score": 24938,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "warp knitting",
+            "score": 24937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheave",
+            "score": 24936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allen wrench",
+            "score": 24935,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "variable resistor",
+            "score": 24934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bimetal",
+            "score": 24933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roland",
+            "score": 24932,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clic",
+            "score": 24931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creaser",
+            "score": 24930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "totalizer",
+            "score": 24929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "risc",
+            "score": 24928,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "conic",
+            "score": 24927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optimus",
+            "score": 24926,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vernier",
+            "score": 24925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "veneering",
+            "score": 24924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stackup",
+            "score": 24923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reamers",
+            "score": 24922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hexapod",
+            "score": 24921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartesian coordinates",
+            "score": 24920,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tronic",
+            "score": 24919,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "strain gage",
+            "score": 24918,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mathematical notation",
+            "score": 24917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scs",
+            "score": 24916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vbs",
+            "score": 24915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rsh",
+            "score": 24914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zui",
+            "score": 24913,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "machining",
+            "score": 24912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pyrometer",
+            "score": 24911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morse",
+            "score": 24910,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "yantra",
+            "score": 24909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermoform",
+            "score": 24908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intitle",
+            "score": 24907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reciprocating saw",
+            "score": 24906,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "detents",
+            "score": 24905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plumb bob",
+            "score": 24904,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "locknut",
+            "score": 24903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardiograph",
+            "score": 24902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trac",
+            "score": 24901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "numa",
+            "score": 24900,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "spyder",
+            "score": 24899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mdl",
+            "score": 24898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galvo",
+            "score": 24897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disassembler",
+            "score": 24896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spectro",
+            "score": 24895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "htm",
+            "score": 24894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "degauss",
+            "score": 24893,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "volute",
+            "score": 24892,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casio",
+            "score": 24891,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "xyz",
+            "score": 24890,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "out of service",
+            "score": 24889,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bim",
+            "score": 24888,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cnc",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "chunk",
+            "score": 99,
+            "numSyllables": 1
+        },
+        {
+            "word": "chink",
+            "score": 99,
+            "numSyllables": 1
+        },
+        {
+            "word": "chanc",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "chank",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "schenk",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "shenk",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "genk",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "schenck",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "schenke",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "check",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "junk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheque",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "czech",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheng",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chek",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chec",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jink",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shunk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schunk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cek",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "juhnke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "junc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "junque",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cjc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "thnx",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "thq",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shank",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "henk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "lenk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "henke",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "wenk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "janke",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "schank",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "shonk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cenk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "senk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "schanck",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "jahnke",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hnk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "zenk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "wenke",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cenc",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chick",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuck",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chunky",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "ching",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chunks",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chung",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chinky",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "chinks",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chik",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuk",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chinked",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chunked",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chunker",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "chuc",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "chinkie",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "chewink",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "g-funk",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "tchick",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheek",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "choke",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chalk",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chang",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chen",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chong",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "choc",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chock",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chook",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chok",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chien",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "choak",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chennai",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chack",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chak",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chiang",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cien",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceno",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chike",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuang",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chema",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chauk",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chac",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chemie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chng",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chowk",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuuk",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cemi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ciak",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chemmy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cinc",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "choque",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "choung",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheikh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chem-",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheik",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceni",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chaque",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ciac",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "cnc",
+            "score": 335
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "machining",
+            "score": 1801
+        },
+        {
+            "word": "lathe",
+            "score": 1724
+        },
+        {
+            "word": "router",
+            "score": 1709
+        },
+        {
+            "word": "milling",
+            "score": 1695
+        },
+        {
+            "word": "edm",
+            "score": 1614
+        },
+        {
+            "word": "riveting",
+            "score": 1610
+        },
+        {
+            "word": "tooling",
+            "score": 1598
+        },
+        {
+            "word": "cad",
+            "score": 1592
+        },
+        {
+            "word": "servo",
+            "score": 1588
+        },
+        {
+            "word": "constellation",
+            "score": 1565
+        },
+        {
+            "word": "milled",
+            "score": 1537
+        },
+        {
+            "word": "grinding",
+            "score": 1535
+        },
+        {
+            "word": "machines",
+            "score": 1527
+        },
+        {
+            "word": "cam",
+            "score": 1505
+        },
+        {
+            "word": "realigned",
+            "score": 1475
+        },
+        {
+            "word": "spindle",
+            "score": 1465
+        },
+        {
+            "word": "fabrication",
+            "score": 1461
+        },
+        {
+            "word": "welding",
+            "score": 1446
+        },
+        {
+            "word": "machine",
+            "score": 1444
+        },
+        {
+            "word": "screw",
+            "score": 1443
+        },
+        {
+            "word": "axes",
+            "score": 1441
+        },
+        {
+            "word": "cin",
+            "score": 1434
+        },
+        {
+            "word": "numerical",
+            "score": 1431
+        },
+        {
+            "word": "tool",
+            "score": 1430
+        },
+        {
+            "word": "robotics",
+            "score": 1427
+        },
+        {
+            "word": "magnitude",
+            "score": 1426
+        },
+        {
+            "word": "automation",
+            "score": 1423
+        },
+        {
+            "word": "cutter",
+            "score": 1420
+        },
+        {
+            "word": "cutting",
+            "score": 1416
+        },
+        {
+            "word": "bending",
+            "score": 1414
+        },
+        {
+            "word": "turret",
+            "score": 1391
+        },
+        {
+            "word": "tools",
+            "score": 1389
+        },
+        {
+            "word": "plasma",
+            "score": 1387
+        },
+        {
+            "word": "laser",
+            "score": 1375
+        },
+        {
+            "word": "rotary",
+            "score": 1368
+        },
+        {
+            "word": "drilling",
+            "score": 1365
+        },
+        {
+            "word": "precision",
+            "score": 1354
+        },
+        {
+            "word": "machinery",
+            "score": 1347
+        },
+        {
+            "word": "apparent",
+            "score": 1345
+        },
+        {
+            "word": "manufacturing",
+            "score": 1342
+        },
+        {
+            "word": "cylindrical",
+            "score": 1336
+        },
+        {
+            "word": "routing",
+            "score": 1333
+        },
+        {
+            "word": "aluminum",
+            "score": 1331
+        },
+        {
+            "word": "axis",
+            "score": 1327
+        },
+        {
+            "word": "motorsports",
+            "score": 1324
+        },
+        {
+            "word": "proprietary",
+            "score": 1322
+        },
+        {
+            "word": "chevrolet",
+            "score": 1317
+        },
+        {
+            "word": "coordinate",
+            "score": 1310
+        },
+        {
+            "word": "automated",
+            "score": 1306
+        },
+        {
+            "word": "turning",
+            "score": 1301
+        },
+        {
+            "word": "oracle",
+            "score": 1300
+        },
+        {
+            "word": "bach",
+            "score": 1298
+        },
+        {
+            "word": "flexibility",
+            "score": 1292
+        },
+        {
+            "word": "drill",
+            "score": 1288
+        },
+        {
+            "word": "printer",
+            "score": 1286
+        },
+        {
+            "word": "cancer",
+            "score": 1285
+        },
+        {
+            "word": "controller",
+            "score": 1282
+        },
+        {
+            "word": "shapes",
+            "score": 1277
+        },
+        {
+            "word": "manual",
+            "score": 1272
+        },
+        {
+            "word": "centers",
+            "score": 1270
+        },
+        {
+            "word": "punch",
+            "score": 1268
+        },
+        {
+            "word": "controls",
+            "score": 1261
+        },
+        {
+            "word": "trinidad",
+            "score": 1260
+        },
+        {
+            "word": "aerospace",
+            "score": 1257
+        },
+        {
+            "word": "wire",
+            "score": 1256
+        },
+        {
+            "word": "herald",
+            "score": 1241
+        },
+        {
+            "word": "accuracy",
+            "score": 1240
+        },
+        {
+            "word": "binary",
+            "score": 1238
+        },
+        {
+            "word": "manufacture",
+            "score": 1236
+        },
+        {
+            "word": "mills",
+            "score": 1233
+        },
+        {
+            "word": "automatic",
+            "score": 1231
+        },
+        {
+            "word": "lab",
+            "score": 1226
+        },
+        {
+            "word": "vertical",
+            "score": 1224
+        },
+        {
+            "word": "casting",
+            "score": 1223
+        },
+        {
+            "word": "processes",
+            "score": 1221
+        },
+        {
+            "word": "tables",
+            "score": 1220
+        },
+        {
+            "word": "horizontal",
+            "score": 1218
+        },
+        {
+            "word": "racing",
+            "score": 1211
+        },
+        {
+            "word": "software",
+            "score": 1207
+        },
+        {
+            "word": "mechanical",
+            "score": 1204
+        },
+        {
+            "word": "autonomy",
+            "score": 1202
+        },
+        {
+            "word": "controlled",
+            "score": 1201
+        },
+        {
+            "word": "programming",
+            "score": 1199
+        },
+        {
+            "word": "computer",
+            "score": 1194
+        },
+        {
+            "word": "industries",
+            "score": 1192
+        },
+        {
+            "word": "geography",
+            "score": 1191
+        },
+        {
+            "word": "applications",
+            "score": 1188
+        },
+        {
+            "word": "dental",
+            "score": 1185
+        },
+        {
+            "word": "star",
+            "score": 1179
+        },
+        {
+            "word": "components",
+            "score": 1173
+        },
+        {
+            "word": "proteins",
+            "score": 1170
+        },
+        {
+            "word": "capability",
+            "score": 1161
+        },
+        {
+            "word": "mill",
+            "score": 1159
+        },
+        {
+            "word": "edwards",
+            "score": 1155
+        },
+        {
+            "word": "sheet",
+            "score": 1153
+        },
+        {
+            "word": "wireless",
+            "score": 1151
+        },
+        {
+            "word": "equipment",
+            "score": 1150
+        },
+        {
+            "word": "measuring",
+            "score": 1148
+        },
+        {
+            "word": "papers",
+            "score": 1141
+        },
+        {
+            "word": "giant",
+            "score": 1140
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "cnc",
+            "score": 335
+        },
+        {
+            "word": "cnce",
+            "score": 7
+        },
+        {
+            "word": "cnc turning",
+            "score": 4
+        },
+        {
+            "word": "cnca",
+            "score": 4
+        }
+    ]
+}

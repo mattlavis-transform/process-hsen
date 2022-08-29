@@ -1,0 +1,1266 @@
+{
+    "term": "merchandise",
+    "means_like": [
+        {
+            "word": "wares",
+            "score": 84128,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "product",
+            "score": 80368,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "trade",
+            "score": 79119,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "goods",
+            "score": 69389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "promotional",
+            "score": 62864,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gift",
+            "score": 60972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "products",
+            "score": 60690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 59957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "materials",
+            "score": 59226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commodities",
+            "score": 59095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freight",
+            "score": 58972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marketing",
+            "score": 58886,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cargo",
+            "score": 57796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commodity",
+            "score": 57761,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shipment",
+            "score": 57674,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collateral",
+            "score": 57558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "property",
+            "score": 57416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "articles",
+            "score": 57363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stash",
+            "score": 57062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mercantile",
+            "score": 56427,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ware",
+            "score": 56107,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trading",
+            "score": 55716,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thief",
+            "score": 53728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commercial",
+            "score": 53172,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "haulage",
+            "score": 52987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "good",
+            "score": 52522,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stock-in-trade",
+            "score": 50915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "derivatives",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "store",
+            "score": 50913,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "memorabilia",
+            "score": 50912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overstock",
+            "score": 50911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paraphernalia",
+            "score": 50910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 50909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchandize",
+            "score": 50908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closeout",
+            "score": 50907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inventory",
+            "score": 50906,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consignment",
+            "score": 50905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ebay",
+            "score": 50904,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 50903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merch",
+            "score": 50901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collectibles",
+            "score": 50900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchandizing",
+            "score": 50899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchandisers",
+            "score": 50898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "items",
+            "score": 50897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sporting goods",
+            "score": 50896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souvenirs",
+            "score": 50895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 50894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchantry",
+            "score": 50893,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mercantile establishment",
+            "score": 50892,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furnishings",
+            "score": 50891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "promotions",
+            "score": 50890,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housewares",
+            "score": 50889,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 50888,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 50887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jerseys",
+            "score": 50886,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweaters",
+            "score": 50885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 50884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 50883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 50882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinkets",
+            "score": 50881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casualwear",
+            "score": 50880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 50879,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tickets",
+            "score": 50878,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry",
+            "score": 50877,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "article of commerce",
+            "score": 50876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirts",
+            "score": 50875,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toys",
+            "score": 50874,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessories",
+            "score": 50873,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickknacks",
+            "score": 50872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "activewear",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 50870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "markdown",
+            "score": 50869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "head shop",
+            "score": 50868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macys",
+            "score": 50867,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoppers",
+            "score": 50866,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume jewelry",
+            "score": 50865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catalogs",
+            "score": 50864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "markdowns",
+            "score": 50863,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retailers",
+            "score": 50862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 50860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "company store",
+            "score": 50859,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furniture",
+            "score": 50858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tchotchkes",
+            "score": 50857,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vendition",
+            "score": 50856,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retail",
+            "score": 50855,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "software package",
+            "score": 50854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zazzle",
+            "score": 50853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "provedore",
+            "score": 50852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothier",
+            "score": 50851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "variety store",
+            "score": 50850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "groceries",
+            "score": 50849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charlotte russe",
+            "score": 50848,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "commercial activity",
+            "score": 50847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 50846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shop",
+            "score": 50845,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gifts",
+            "score": 50844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundries",
+            "score": 50843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stationery",
+            "score": 50842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swag",
+            "score": 50841,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "merchandise",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "merchandize",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "merchandiser",
+            "score": 90,
+            "numSyllables": 4
+        },
+        {
+            "word": "merchandised",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "merchandized",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "marchandise",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "merchants",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "merchandising",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "merchand",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "mirandize",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "merchandises",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "merchandizing",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "merchandisers",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "merchant",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "mondays",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "merchantry",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "merchanting",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "mendez",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "melendez",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "menendez",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "magentas",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "mercedes",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "miranda",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mercedez",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "maranda",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mercantile",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mechanize",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "meranda",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "marinas",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mertens",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "mundus",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "mechanise",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "melodize",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "haciendas",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "marinos",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mirandas",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mergence",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "melodise",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "melanize",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "merinos",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "merlons",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "mirandized",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "merchandise",
+            "score": 130316
+        },
+        {
+            "word": "merchandize",
+            "score": 64769
+        },
+        {
+            "word": "marchandise",
+            "score": 64662
+        },
+        {
+            "word": "merchandiser",
+            "score": 170
+        },
+        {
+            "word": "mechanise",
+            "score": 77
+        },
+        {
+            "word": "merchandised",
+            "score": 53
+        },
+        {
+            "word": "merchandises",
+            "score": 16
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "plush",
+            "score": 1627
+        },
+        {
+            "word": "apparel",
+            "score": 1501
+        },
+        {
+            "word": "toys",
+            "score": 1474
+        },
+        {
+            "word": "merchandising",
+            "score": 1447
+        },
+        {
+            "word": "mart",
+            "score": 1433
+        },
+        {
+            "word": "likeness",
+            "score": 1424
+        },
+        {
+            "word": "stores",
+            "score": 1380
+        },
+        {
+            "word": "accessories",
+            "score": 1368
+        },
+        {
+            "word": "store",
+            "score": 1363
+        },
+        {
+            "word": "retailer",
+            "score": 1361
+        },
+        {
+            "word": "discount",
+            "score": 1352
+        },
+        {
+            "word": "jewelry",
+            "score": 1348
+        },
+        {
+            "word": "clothing",
+            "score": 1341
+        },
+        {
+            "word": "shirts",
+            "score": 1338
+        },
+        {
+            "word": "items",
+            "score": 1331
+        },
+        {
+            "word": "vendors",
+            "score": 1321
+        },
+        {
+            "word": "wholesale",
+            "score": 1316
+        },
+        {
+            "word": "toy",
+            "score": 1314
+        },
+        {
+            "word": "sales",
+            "score": 1294
+        },
+        {
+            "word": "chains",
+            "score": 1293
+        },
+        {
+            "word": "catalog",
+            "score": 1287
+        },
+        {
+            "word": "retail",
+            "score": 1283
+        },
+        {
+            "word": "goods",
+            "score": 1280
+        },
+        {
+            "word": "warehouse",
+            "score": 1277
+        },
+        {
+            "word": "licensing",
+            "score": 1276
+        },
+        {
+            "word": "cds",
+            "score": 1274
+        },
+        {
+            "word": "promotional",
+            "score": 1269
+        },
+        {
+            "word": "disney",
+            "score": 1263
+        },
+        {
+            "word": "trading",
+            "score": 1255
+        },
+        {
+            "word": "cards",
+            "score": 1253
+        },
+        {
+            "word": "logo",
+            "score": 1246
+        },
+        {
+            "word": "prizes",
+            "score": 1245
+        },
+        {
+            "word": "manga",
+            "score": 1242
+        },
+        {
+            "word": "anime",
+            "score": 1240
+        },
+        {
+            "word": "customers",
+            "score": 1237
+        },
+        {
+            "word": "brands",
+            "score": 1234
+        },
+        {
+            "word": "animated",
+            "score": 1230
+        },
+        {
+            "word": "item",
+            "score": 1227
+        },
+        {
+            "word": "figures",
+            "score": 1226
+        },
+        {
+            "word": "shop",
+            "score": 1222
+        },
+        {
+            "word": "products",
+            "score": 1215
+        },
+        {
+            "word": "shopping",
+            "score": 1210
+        },
+        {
+            "word": "furniture",
+            "score": 1209
+        },
+        {
+            "word": "tickets",
+            "score": 1203
+        },
+        {
+            "word": "comic",
+            "score": 1201
+        },
+        {
+            "word": "consumers",
+            "score": 1200
+        },
+        {
+            "word": "sale",
+            "score": 1194
+        },
+        {
+            "word": "mall",
+            "score": 1191
+        },
+        {
+            "word": "sold",
+            "score": 1183
+        },
+        {
+            "word": "selling",
+            "score": 1181
+        },
+        {
+            "word": "sell",
+            "score": 1179
+        },
+        {
+            "word": "franchise",
+            "score": 1178
+        },
+        {
+            "word": "revenue",
+            "score": 1173
+        },
+        {
+            "word": "customer",
+            "score": 1171
+        },
+        {
+            "word": "cash",
+            "score": 1166
+        },
+        {
+            "word": "purchase",
+            "score": 1155
+        },
+        {
+            "word": "website",
+            "score": 1154
+        },
+        {
+            "word": "gift",
+            "score": 1152
+        },
+        {
+            "word": "comics",
+            "score": 1150
+        },
+        {
+            "word": "chain",
+            "score": 1146
+        },
+        {
+            "word": "licensed",
+            "score": 1145
+        },
+        {
+            "word": "online",
+            "score": 1142
+        },
+        {
+            "word": "brand",
+            "score": 1141
+        },
+        {
+            "word": "buy",
+            "score": 1139
+        },
+        {
+            "word": "billion",
+            "score": 1137
+        },
+        {
+            "word": "manufactured",
+            "score": 1135
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "merchandise",
+            "score": 130316
+        },
+        {
+            "word": "merchandiser",
+            "score": 129488
+        },
+        {
+            "word": "merchandised",
+            "score": 129371
+        },
+        {
+            "word": "merchandisers",
+            "score": 129340
+        },
+        {
+            "word": "merchandises",
+            "score": 129334
+        },
+        {
+            "word": "merchandise to resell",
+            "score": 129322
+        },
+        {
+            "word": "merchandising",
+            "score": 65115
+        },
+        {
+            "word": "merchandize",
+            "score": 64769
+        },
+        {
+            "word": "merchandized",
+            "score": 64721
+        },
+        {
+            "word": "merchandisable",
+            "score": 64670
+        }
+    ]
+}

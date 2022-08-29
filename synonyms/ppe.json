@@ -1,0 +1,1565 @@
+{
+    "term": "ppe",
+    "means_like": [
+        {
+            "word": "epi",
+            "score": 55764,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ipt",
+            "score": 54702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ppm",
+            "score": 54546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soc",
+            "score": 53963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teu",
+            "score": 53896,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eci",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ecp",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eep",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enp",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epp",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "evp",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gpp",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ibd",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ipr",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ips",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jcp",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mpp",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pce",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pse",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sbl",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "upe",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vpd",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wfi",
+            "score": 51386,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alde",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "era",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pep",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spike",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spur",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workwear",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "occupational",
+            "score": 51384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hygiene",
+            "score": 51383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nitrile",
+            "score": 51382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainwear",
+            "score": 51381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "equipment",
+            "score": 51380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 51379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headgear",
+            "score": 51378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyewear",
+            "score": 51377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decontamination",
+            "score": 51376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consumables",
+            "score": 51375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 51374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 51373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wear",
+            "score": 51372,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 51371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothing",
+            "score": 51370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emt",
+            "score": 51369,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "headwear",
+            "score": 51368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footgear",
+            "score": 51367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breathing apparatus",
+            "score": 51366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stof",
+            "score": 51365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overshoes",
+            "score": 51364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earplug",
+            "score": 51363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buzz off",
+            "score": 51362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vests",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanyards",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body armour",
+            "score": 51359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molle",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hvac",
+            "score": 51356,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "long sleeve",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "welding",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loto",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earmuffs",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellington boots",
+            "score": 51351,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "namur",
+            "score": 51350,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ripstop",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fitment",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gaiters",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antisepsis",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multiaxial",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impellers",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crewneck",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmets",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidde",
+            "score": 51340,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "extinguishers",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jackets",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft goods",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washdown",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intubation",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peening",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fdis",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleeving",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toolroom",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carburizing",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermal barrier",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anaesthetics",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harnesses",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fastenings",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fittings",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dunnage",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conspicuity",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arc welding",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemoprophylaxis",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polyisoprene",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "davit",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splinting",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masks",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "topcoats",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hats",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tudung",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "peepee",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "pipi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "pee-pee",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "ppe",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "pppp",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "pee pee",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "p p",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "p.p",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "puppy",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "poppy",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "papi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "poopy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepe",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pappy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "poopie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pippy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pappi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "poppie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "papy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pipa",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "poppi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "popi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pipo",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pipy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pyp",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "p b",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "b.p",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "bcp",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "b p",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "bpe",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "peep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "papa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeps",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "poppa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "popo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "popeye",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ppy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peewee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pappa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pippa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poopoo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "psp",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "popa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeped",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peppa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pvp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "papaw",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawpaw",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paw paw",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "po-po",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "p e",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pepo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pii",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pieper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papay",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pooh-pooh",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poopo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "p.c",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "papu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poo-poo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ppppp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "poppo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "piep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pbe",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pupo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pooh pooh",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plp",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pppppp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pippo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papai",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pppoe",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "powpow",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "piwi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ppr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paw-paw",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pby",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hpa",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "po po",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poo poo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ptm",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pee wee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bebe",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bibi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "beebe",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbb",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "beeby",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbf",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "b b",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bapi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbp",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbv",
+            "score": 88,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "ppe",
+            "score": 252
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "hazmat",
+            "score": 1714
+        },
+        {
+            "word": "synergistic",
+            "score": 1682
+        },
+        {
+            "word": "decontamination",
+            "score": 1642
+        },
+        {
+            "word": "goggles",
+            "score": 1593
+        },
+        {
+            "word": "gloves",
+            "score": 1583
+        },
+        {
+            "word": "wearer",
+            "score": 1546
+        },
+        {
+            "word": "magdalen",
+            "score": 1531
+        },
+        {
+            "word": "hazards",
+            "score": 1525
+        },
+        {
+            "word": "oxford",
+            "score": 1509
+        },
+        {
+            "word": "protective",
+            "score": 1487
+        },
+        {
+            "word": "resin",
+            "score": 1471
+        },
+        {
+            "word": "directive",
+            "score": 1456
+        },
+        {
+            "word": "cores",
+            "score": 1454
+        },
+        {
+            "word": "spray",
+            "score": 1436
+        },
+        {
+            "word": "hazard",
+            "score": 1432
+        },
+        {
+            "word": "processor",
+            "score": 1423
+        },
+        {
+            "word": "hats",
+            "score": 1416
+        },
+        {
+            "word": "boots",
+            "score": 1405
+        },
+        {
+            "word": "cache",
+            "score": 1398
+        },
+        {
+            "word": "hazardous",
+            "score": 1391
+        },
+        {
+            "word": "suits",
+            "score": 1382
+        },
+        {
+            "word": "economics",
+            "score": 1380
+        },
+        {
+            "word": "tutor",
+            "score": 1376
+        },
+        {
+            "word": "corpus",
+            "score": 1372
+        },
+        {
+            "word": "workplace",
+            "score": 1370
+        },
+        {
+            "word": "respiratory",
+            "score": 1366
+        },
+        {
+            "word": "worn",
+            "score": 1356
+        },
+        {
+            "word": "postgraduate",
+            "score": 1353
+        },
+        {
+            "word": "clothing",
+            "score": 1339
+        },
+        {
+            "word": "arc",
+            "score": 1335
+        },
+        {
+            "word": "philosophy",
+            "score": 1333
+        },
+        {
+            "word": "protection",
+            "score": 1315
+        },
+        {
+            "word": "equipment",
+            "score": 1310
+        },
+        {
+            "word": "sociology",
+            "score": 1308
+        },
+        {
+            "word": "eliminate",
+            "score": 1301
+        },
+        {
+            "word": "instructions",
+            "score": 1293
+        },
+        {
+            "word": "politics",
+            "score": 1291
+        },
+        {
+            "word": "lecturer",
+            "score": 1289
+        },
+        {
+            "word": "safety",
+            "score": 1286
+        },
+        {
+            "word": "ibm",
+            "score": 1281
+        },
+        {
+            "word": "regulations",
+            "score": 1273
+        },
+        {
+            "word": "suit",
+            "score": 1266
+        },
+        {
+            "word": "healthcare",
+            "score": 1263
+        },
+        {
+            "word": "execution",
+            "score": 1253
+        },
+        {
+            "word": "flash",
+            "score": 1252
+        },
+        {
+            "word": "gear",
+            "score": 1250
+        },
+        {
+            "word": "exposure",
+            "score": 1247
+        },
+        {
+            "word": "requirements",
+            "score": 1245
+        },
+        {
+            "word": "honours",
+            "score": 1244
+        },
+        {
+            "word": "phd",
+            "score": 1236
+        },
+        {
+            "word": "depending",
+            "score": 1232
+        },
+        {
+            "word": "journalist",
+            "score": 1230
+        },
+        {
+            "word": "processing",
+            "score": 1227
+        },
+        {
+            "word": "skin",
+            "score": 1224
+        },
+        {
+            "word": "harvard",
+            "score": 1217
+        },
+        {
+            "word": "instruction",
+            "score": 1216
+        },
+        {
+            "word": "college",
+            "score": 1211
+        },
+        {
+            "word": "degree",
+            "score": 1208
+        },
+        {
+            "word": "scholarship",
+            "score": 1201
+        },
+        {
+            "word": "protect",
+            "score": 1195
+        },
+        {
+            "word": "memory",
+            "score": 1192
+        },
+        {
+            "word": "psychology",
+            "score": 1189
+        },
+        {
+            "word": "graduated",
+            "score": 1186
+        },
+        {
+            "word": "bachelor",
+            "score": 1183
+        },
+        {
+            "word": "hearing",
+            "score": 1181
+        },
+        {
+            "word": "devices",
+            "score": 1178
+        },
+        {
+            "word": "wear",
+            "score": 1174
+        },
+        {
+            "word": "ensure",
+            "score": 1173
+        },
+        {
+            "word": "core",
+            "score": 1167
+        },
+        {
+            "word": "electrical",
+            "score": 1165
+        },
+        {
+            "word": "studies",
+            "score": 1159
+        },
+        {
+            "word": "gained",
+            "score": 1154
+        },
+        {
+            "word": "heat",
+            "score": 1153
+        },
+        {
+            "word": "rescue",
+            "score": 1151
+        },
+        {
+            "word": "personal",
+            "score": 1149
+        },
+        {
+            "word": "risk",
+            "score": 1135
+        },
+        {
+            "word": "includes",
+            "score": 1128
+        },
+        {
+            "word": "degrees",
+            "score": 1126
+        },
+        {
+            "word": "worked",
+            "score": 1125
+        },
+        {
+            "word": "items",
+            "score": 1121
+        },
+        {
+            "word": "university",
+            "score": 1120
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "ppe",
+            "score": 252
+        },
+        {
+            "word": "ppep",
+            "score": 2
+        }
+    ]
+}

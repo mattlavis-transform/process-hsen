@@ -1,0 +1,730 @@
+{
+    "term": "placemat",
+    "means_like": [
+        {
+            "word": "plastic",
+            "score": 15000,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "put",
+            "score": 14999,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "back",
+            "score": 14998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "edge",
+            "score": 14997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "front",
+            "score": 14996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apron",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aprons",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armbands",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armchair",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badge",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badges",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bags",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloon",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloons",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blinds",
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "boots",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxes",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bracelet",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bucket",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buoy",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buttons",
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "placemat",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "place mat",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "placemats",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "place mats",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "placement",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "playmate",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "placet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "playing at",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasmoid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "placed",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "plummet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placent",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plays out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "playsuit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placeman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placemen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plumate",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "play at",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "playing out",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "placit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "planet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "places",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasma",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "placid",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plast",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "plaint",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "playmates",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "passat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "planit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "placements",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "play out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "planeet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaisted",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plan out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "planate",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pmat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "placide",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaisant",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pace out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pleaseman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "place bet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "place name",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plainte",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "plane seat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bless me",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blissett",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blaze out",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "blossom out",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "place",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plate",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plant",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "paste",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "planted",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "classmate",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plat",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "paced",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "planed",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "placing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "placate",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plait",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plano",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "placer",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "platt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plante",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "pass out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passout",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaice",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "playdate",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "platte",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plastid",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmic",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plained",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "played out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plainest",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "planked",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plasy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "placers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "playlet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmatic",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasmids",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasmas",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "paiste",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "plassey",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "playact",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "placings",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "play date",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaskett",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass-out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "play safe",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "played-out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pallasite",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pamet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "placita",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "placemat",
+            "score": 129494
+        },
+        {
+            "word": "place mat",
+            "score": 64752
+        },
+        {
+            "word": "placeman",
+            "score": 64737
+        },
+        {
+            "word": "placement",
+            "score": 860
+        },
+        {
+            "word": "placet",
+            "score": 211
+        },
+        {
+            "word": "placemen",
+            "score": 28
+        },
+        {
+            "word": "placent",
+            "score": 24
+        },
+        {
+            "word": "laceman",
+            "score": 21
+        },
+        {
+            "word": "placemats",
+            "score": 17
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "placemat",
+            "score": 129494
+        },
+        {
+            "word": "placemats",
+            "score": 129335
+        },
+        {
+            "word": "place mat",
+            "score": 64752
+        },
+        {
+            "word": "placeman",
+            "score": 64737
+        },
+        {
+            "word": "placemaking",
+            "score": 64678
+        },
+        {
+            "word": "place mats",
+            "score": 64669
+        },
+        {
+            "word": "placate",
+            "score": 1531
+        },
+        {
+            "word": "placement",
+            "score": 860
+        },
+        {
+            "word": "pacemaker",
+            "score": 545
+        },
+        {
+            "word": "placenta",
+            "score": 540
+        }
+    ]
+}

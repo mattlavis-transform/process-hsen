@@ -1,0 +1,933 @@
+{
+    "term": "pu",
+    "means_like": [
+        {
+            "word": "plutonium",
+            "score": 23649,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "atomic number 94",
+            "score": 23633,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "kan",
+            "score": 23632,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tai",
+            "score": 22190,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nia",
+            "score": 21273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wu",
+            "score": 20949,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "yi",
+            "score": 19756,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chiao",
+            "score": 16834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lii",
+            "score": 13992,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lat",
+            "score": 12974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mox",
+            "score": 6425,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imputation",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lilliputian",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "manchukuo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "meze",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouf",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puyi",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shanghai",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ar",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chih",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ching",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chu",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chuan",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "e",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fang",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "h",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hsien",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "j",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kuan",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "l",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "li",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lu",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ming",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plutonium 239",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "po",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "s",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "se",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shang",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sheng",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "shih",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "shu",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "su",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ta",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "te",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ti",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tien",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tsu",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tzu",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wen",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ying",
+            "score": 5060,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "yung",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "poo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pooh",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pou",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "peu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "puo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "puu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pay",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "p",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pow",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "po",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "powe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bck",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pcp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "puh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ppp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pao",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pta",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "piy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pto",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ppo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tpy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "peay",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "peh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "puy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ppa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "p.a",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "piw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ppi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pke",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pcr",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ptah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paugh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pough",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paig",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pti",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "peau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ppc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pca",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pwc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pva",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pcc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lpe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pki",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ptp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "fpa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "npy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pbx",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pfo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pauw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pfe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pkk",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pky",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "prf",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "p-a",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paaa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pppo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pvo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pyi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boo",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bou",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "beu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "buu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "booh",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "btu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bhu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "lbw",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bpu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bmu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "peru",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peugh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "appu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dpw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "p.t",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aiu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pbu",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "pu",
+            "score": 467
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "pursue",
+            "score": 3238
+        },
+        {
+            "word": "purpose",
+            "score": 3236
+        },
+        {
+            "word": "put",
+            "score": 3161
+        },
+        {
+            "word": "purview",
+            "score": 3087
+        },
+        {
+            "word": "putative",
+            "score": 2473
+        },
+        {
+            "word": "pump",
+            "score": 2445
+        },
+        {
+            "word": "purge",
+            "score": 2167
+        },
+        {
+            "word": "pulse",
+            "score": 2046
+        },
+        {
+            "word": "pure",
+            "score": 2023
+        },
+        {
+            "word": "punch",
+            "score": 2017
+        }
+    ]
+}

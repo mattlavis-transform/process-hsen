@@ -1,0 +1,1293 @@
+{
+    "term": "gold ring",
+    "means_like": [
+        {
+            "word": "wedding ring",
+            "score": 28434,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bangle",
+            "score": 28414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "band",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earring",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "red",
+            "score": 28034,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "mere",
+            "score": 28014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding band",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nibelung",
+            "score": 27944,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ring of the nibelung",
+            "score": 27944
+        },
+        {
+            "word": "ali",
+            "score": 11634,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apron",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banded",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barred",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bee",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bezel",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brass",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "change",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "coronet",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fillet",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mold",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prize",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rings",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rondel",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rope",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "setting",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleeper",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strike",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "title",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "var",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manilla",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "champ",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 11554,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "peg",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainbow",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tip",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tipped",
+            "score": 11554,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "unit",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carat",
+            "score": 11535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lame",
+            "score": 11535,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "narc",
+            "score": 11535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "won",
+            "score": 11535,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "galo",
+            "score": 11484,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "glory",
+            "score": 11484,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halo",
+            "score": 11484,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olive",
+            "score": 11484,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "lunette",
+            "score": 11464,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accent",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agate",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argonaut",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ascot",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banknote",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "base",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bezant",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bill",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billet",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottom",
+            "score": 10594,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bottoms",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breastplate",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coin",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coining",
+            "score": 10594,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "crown",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dee",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "detonation",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dim",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dimmed",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dimming",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drop",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ecu",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eureka",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filigree",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fine",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fret",
+            "score": 10594,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fretfulness",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fretting",
+            "score": 10594,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "galloon",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilt",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "gilthead",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "gold star",
+            "score": 10594
+        },
+        {
+            "word": "golden",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "gould",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hall-mark",
+            "score": 10594
+        },
+        {
+            "word": "hallmark",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iridium",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iron",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lace",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 10594,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "lode",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "matte",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "medal",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metal",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metals",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meteorite",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "goldring",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "golding",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilding",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelding",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "coldren",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "goulding",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "guilding",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldwyn",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaulding",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shouldering",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "cold drink",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "coldiron",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "cold room",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "kolding",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "golden",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "gold rush",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldrush",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauldron",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coltrane",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "golder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "goading",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "glowering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "guttering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "goering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "moldering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "guilting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "mouldering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gold digging",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "goding",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilderoy",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gold crown",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coloring",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "caldron",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "calderon",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "wildering",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "cool drink",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "golda",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilden",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulden",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "goodrum",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldson",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gudrun",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gildan",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gildon",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gathering",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "guilders",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilders",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "glaring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guiding",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "glittering",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "goldy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "galling",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gooding",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelling",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gearing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guilder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "colden",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cold one",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goreng",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "go wrong",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "godin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaudreau",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gering",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gadding",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gilling",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulling",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldbrick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldish",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gold coin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "geldings",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "godding",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "garing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gehring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guiling",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "glairing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gehling",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goodridge",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goehring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gold brick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "geering",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gauding",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gadarene",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "goalscoring",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "caltrain",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gadroon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "giddying",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "go train",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gold fern",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldline",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goldtone",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "goldring",
+            "score": 64672
+        },
+        {
+            "word": "soldering",
+            "score": 298
+        },
+        {
+            "word": "gold mine",
+            "score": 159
+        },
+        {
+            "word": "moldering",
+            "score": 136
+        },
+        {
+            "word": "golding",
+            "score": 117
+        },
+        {
+            "word": "yoldring",
+            "score": 24
+        },
+        {
+            "word": "god king",
+            "score": 9
+        },
+        {
+            "word": "goldwing",
+            "score": 4
+        },
+        {
+            "word": "gold sting",
+            "score": 2
+        },
+        {
+            "word": "mood ring",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "goldring",
+            "score": 64672
+        },
+        {
+            "word": "soldering",
+            "score": 298
+        },
+        {
+            "word": "gold digger",
+            "score": 195
+        },
+        {
+            "word": "gold mine",
+            "score": 159
+        },
+        {
+            "word": "moldering",
+            "score": 136
+        },
+        {
+            "word": "goldfinger",
+            "score": 117
+        },
+        {
+            "word": "golding",
+            "score": 117
+        },
+        {
+            "word": "soldering iron",
+            "score": 76
+        },
+        {
+            "word": "gold miner",
+            "score": 68
+        },
+        {
+            "word": "yoldring",
+            "score": 24
+        }
+    ]
+}

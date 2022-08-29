@@ -1,0 +1,781 @@
+{
+    "term": "table cloth",
+    "means_like": [
+        {
+            "word": "tablecloth",
+            "score": 150034,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "napkin",
+            "score": 149034,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "nape",
+            "score": 47944,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "billiards",
+            "score": 30414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spread",
+            "score": 30034,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "spreading",
+            "score": 29234,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "baize",
+            "score": 28834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cover",
+            "score": 28434,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "felt",
+            "score": 28434,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "exchequer",
+            "score": 28344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badin",
+            "score": 28034,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "basin",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blanketed",
+            "score": 28034,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "covers",
+            "score": 28034,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "damask",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drape",
+            "score": 28034,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "draping",
+            "score": 28034,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "lay",
+            "score": 28034,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "square",
+            "score": 28034,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "tables",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wipe",
+            "score": 28034,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "crumb",
+            "score": 28014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crumbcloth",
+            "score": 28014
+        },
+        {
+            "word": "crumbs",
+            "score": 28014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overlay",
+            "score": 28014,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "wide",
+            "score": 28014,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "toilette",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray cloth",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wet",
+            "score": 27963,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "grass cloth",
+            "score": 27944
+        },
+        {
+            "word": "snooker",
+            "score": 27944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "board",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comb",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "corporal",
+            "score": 11634,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dish",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figure",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "finish",
+            "score": 11634,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "flap",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fold",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "foot",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frame",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iron",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leg",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "length",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mangle",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilcloth",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pane",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rolled",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "runner",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarf",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seat",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11634,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "size",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skirt",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slop",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slopped",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slops",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "species",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sponge",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tent",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thrum",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilet",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valance",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "age",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyelet",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marker",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mold",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molded",
+            "score": 11614,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tambour",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serviette",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apron",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drop",
+            "score": 11555,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "end",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ended",
+            "score": 11555,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "good",
+            "score": 11555,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "inset",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironed",
+            "score": 11555,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "irons",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pick",
+            "score": 11555,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pile",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rnd",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shears",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stock",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocked",
+            "score": 11555,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stocks",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapis",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tilt",
+            "score": 11555,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tilted",
+            "score": 11555,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "tablecloth",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "table cloth",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "tablecloths",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "double click",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "treble clef",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "table game",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sailcloth",
+            "score": 58,
+            "numSyllables": 2
+        },
+        {
+            "word": "double clinch",
+            "score": 58,
+            "numSyllables": 3
+        },
+        {
+            "word": "stabilise",
+            "score": 55,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "table cloth",
+            "score": 129355
+        },
+        {
+            "word": "tablecloth",
+            "score": 64947
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "table cloth",
+            "score": 129355
+        },
+        {
+            "word": "tablecloth",
+            "score": 64947
+        },
+        {
+            "word": "tablecloths",
+            "score": 64722
+        }
+    ]
+}

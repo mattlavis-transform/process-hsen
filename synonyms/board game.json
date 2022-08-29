@@ -1,0 +1,1300 @@
+{
+    "term": "board game",
+    "means_like": [
+        {
+            "word": "backgammon",
+            "score": 53302,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "chess",
+            "score": 51302,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "halma",
+            "score": 51302,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "clue",
+            "score": 51216,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "parcheesi",
+            "score": 50802,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "scrabble",
+            "score": 50416,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pachisi",
+            "score": 50402,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "monopoly",
+            "score": 50016,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "sorry",
+            "score": 49202,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "darts",
+            "score": 48502,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "lotto",
+            "score": 48102,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "jump",
+            "score": 30502,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "risk",
+            "score": 30502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spinner",
+            "score": 30502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "die",
+            "score": 30102,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bagatelle",
+            "score": 29702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "man",
+            "score": 29702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ludo",
+            "score": 29602,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dartboard",
+            "score": 29302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dice",
+            "score": 29302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solitaire",
+            "score": 29302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spin",
+            "score": 29302,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tile",
+            "score": 29302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "men",
+            "score": 29288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checker",
+            "score": 28902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cribbage",
+            "score": 28902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "move",
+            "score": 28902,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "moves",
+            "score": 28902,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "piece",
+            "score": 28902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scoreboard",
+            "score": 28902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "start",
+            "score": 28902,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "endgame",
+            "score": 28816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pachinko",
+            "score": 28816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 28502,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "dart",
+            "score": 28502,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "deck tennis",
+            "score": 28502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "life",
+            "score": 28502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mate",
+            "score": 28502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morris",
+            "score": 28502,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinball",
+            "score": 28502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 28502,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tivoli",
+            "score": 28502,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shovelboard",
+            "score": 28488,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinese checkers",
+            "score": 28416,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chinese chequers",
+            "score": 28416,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gammon",
+            "score": 28416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goose",
+            "score": 28416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shogi",
+            "score": 28416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timer",
+            "score": 28416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yut",
+            "score": 28416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snakes and ladders",
+            "score": 28402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bat",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "battleship",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bingo",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black",
+            "score": 28102,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "capture",
+            "score": 28102,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checkerboard",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chessboard",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cribbage board",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crown",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cubes",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hand",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hit",
+            "score": 28102,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "jit",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "king",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "newmarket",
+            "score": 28102,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ouija",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packing",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peg",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piecing",
+            "score": 28102,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "pin",
+            "score": 28102,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "play",
+            "score": 28102,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "snake",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweep",
+            "score": 28102,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "table",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tables",
+            "score": 28102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abacus",
+            "score": 28088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bear",
+            "score": 28088,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dart board",
+            "score": 28088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "igo",
+            "score": 28088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reversi",
+            "score": 28088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "end game",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mancala",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinball game",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "punchboard",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ring toss",
+            "score": 28016
+        },
+        {
+            "word": "seaboard",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "see-saw",
+            "score": 28016
+        },
+        {
+            "word": "shove-halfpenny",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shovel board",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telegraph",
+            "score": 28016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiled",
+            "score": 28016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bao",
+            "score": 28002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carom",
+            "score": 28002,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "go game",
+            "score": 28002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hasbro",
+            "score": 28002,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "irish",
+            "score": 28002,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "noughts and crosses",
+            "score": 28002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "othello",
+            "score": 28002,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tic-tac-toe",
+            "score": 28002,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "board game",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "boardgame",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "board games",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "boredom",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "bordom",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bordem",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "boarding",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "borden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "boardroom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "board room",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bordon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "borgen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bordin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bargain",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "barden",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "card game",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardon",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "barding",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardin",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardeen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "barcomb",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "bordeaux",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ballgame",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borken",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bordering",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "brigham",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borges",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ball game",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bourdon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bearden",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bohrium",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "borda",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borton",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "born-again",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bourgogne",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barragan",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bordo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borium",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bear down",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borgo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bearding",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "berrigan",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "borga",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borking",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "court game",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borglum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borghi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "boram",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "border on",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bergum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beardown",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "borago",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "party game",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "short game",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pregame",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "pre game",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "war game",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hired gun",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "head game",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "word game",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "pour down",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "barking",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barton",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bahrain",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardo",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bodkin",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bargo",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barham",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardy",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barga",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardi",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bartram",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bargee",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barten",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barda",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bar room",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barken",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barkan",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barriga",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "bahram",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bar exam",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "became",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barium",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bad guy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beardy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beardie",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedim",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bad name",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beaver dam",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "badam",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bay rum",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bawden",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "baram",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bairam",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beaverdam",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baudouin",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bedamn",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "board game",
+            "score": 129430
+        },
+        {
+            "word": "boardgame",
+            "score": 64673
+        },
+        {
+            "word": "card game",
+            "score": 128
+        },
+        {
+            "word": "word game",
+            "score": 31
+        },
+        {
+            "word": "board games",
+            "score": 22
+        },
+        {
+            "word": "road game",
+            "score": 12
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "board game",
+            "score": 129430
+        },
+        {
+            "word": "board games",
+            "score": 129340
+        },
+        {
+            "word": "boardgame",
+            "score": 64673
+        },
+        {
+            "word": "card game",
+            "score": 128
+        },
+        {
+            "word": "board member",
+            "score": 40
+        },
+        {
+            "word": "board measure",
+            "score": 31
+        },
+        {
+            "word": "word game",
+            "score": 31
+        },
+        {
+            "word": "board meeting",
+            "score": 26
+        },
+        {
+            "word": "card games",
+            "score": 21
+        },
+        {
+            "word": "word games",
+            "score": 13
+        }
+    ]
+}

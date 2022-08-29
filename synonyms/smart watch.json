@@ -1,0 +1,894 @@
+{
+    "term": "smart watch",
+    "means_like": [
+        {
+            "word": "smartwatch",
+            "score": 111679,
+            "tags": [
+                "syn"
+            ]
+        },
+        {
+            "word": "wearable",
+            "score": 110679,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "alert",
+            "score": 11679,
+            "tags": [
+                "adj",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "attentive",
+            "score": 11679,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "careful",
+            "score": 11679,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cautious",
+            "score": 11679,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "look",
+            "score": 11679,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "quick",
+            "score": 11679,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11679,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "spy",
+            "score": 11679,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "vigilant",
+            "score": 11679,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ready",
+            "score": 11607,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "adroit",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "apt",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "astute",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "beat",
+            "score": 10650,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "beats",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bite",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bitter",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brainy",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bright",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brilliant",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brisk",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "burn",
+            "score": 10650,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "canny",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clever",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "clipper",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "control",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cool",
+            "score": 10650,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "dim",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dimmed",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dimming",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dumb",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "elegant",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "enterprising",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fine",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "flash",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flaunt",
+            "score": 10650,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "flaunting",
+            "score": 10650,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "flies",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flippant",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fly",
+            "score": 10650,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "foolish",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "genius",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 10650,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gifted",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "great",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "idiot",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insolent",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "insult",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "intelligent",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "jab",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "knowing",
+            "score": 10650,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "laser",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "learn",
+            "score": 10650,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lick",
+            "score": 10650,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "lip",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mot",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "owl",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedant",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perk",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "poodle",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quip",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rakish",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rattle",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rattled",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rattling",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reflect",
+            "score": 10650,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "robot",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sane",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sass",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saucy",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "senseless",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sensible",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sharp",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shrewd",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "silly",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sly",
+            "score": 10650,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "smack",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "smarting",
+            "score": 10650,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "smarts",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spicy",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sting",
+            "score": 10650,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stupid",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stylish",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sweet",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tasteful",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tidy",
+            "score": 10650,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "tidying",
+            "score": 10650,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tine",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tricky",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "trig",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wau",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wise",
+            "score": 10650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wisecrack",
+            "score": 10650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alarm",
+            "score": 10515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attention",
+            "score": 10515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auditorium",
+            "score": 10515,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "smartwatch",
+            "score": 9,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartish",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarty",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarties",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartie",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartly",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartness",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartass",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarten",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarta",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart-ass",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart ass",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart set",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartle",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart mouth",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartmouth",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "smarter",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarts",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "smartest",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartphone",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarted",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "smarting",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart arse",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart phone",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartarse",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart home",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartens",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "smartwatch",
+            "score": 64681
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "smartwatch",
+            "score": 64681
+        },
+        {
+            "word": "shark watcher",
+            "score": 21
+        }
+    ]
+}

@@ -1,0 +1,1695 @@
+{
+    "term": "lemonade",
+    "means_like": [
+        {
+            "word": "soda",
+            "score": 68448,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fizzy",
+            "score": 64324,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "lime",
+            "score": 62572,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limo",
+            "score": 56117,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weed",
+            "score": 55277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kool-aid",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limeade",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "juice",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popsicle",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice cream",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "margarita",
+            "score": 51213,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "orangeade",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple juice",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sorbet",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sangria",
+            "score": 51209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "martini",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mojito",
+            "score": 51207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "syrup",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cider",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daiquiri",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seltzer",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "granita",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloody mary",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemons",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iced tea",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundaes",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snow cone",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramel apple",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sodas",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smoothies",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milkshakes",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruit cup",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orange juice",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hotdogs",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotton candy",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda pop",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peach ice cream",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frozen custard",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beer",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brownies",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iced coffee",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dessert",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mulled cider",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mojitos",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popcorn",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cokes",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sarsaparilla",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandwiches",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pint",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pretzels",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roy rogers",
+            "score": 51173,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "biscotti",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peaches",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pickles",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "custard",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strawberry ice cream",
+            "score": 51168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple butter",
+            "score": 51167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seltzer water",
+            "score": 51166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gelato",
+            "score": 51165,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soup",
+            "score": 51164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookies",
+            "score": 51163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donuts",
+            "score": 51162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "root beer",
+            "score": 51161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "club soda",
+            "score": 51160,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sherbets",
+            "score": 51159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple jelly",
+            "score": 51158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shortcakes",
+            "score": 51157,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pies",
+            "score": 51156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mint julep",
+            "score": 51155,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupcakes",
+            "score": 51154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camomile tea",
+            "score": 51153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pina colada",
+            "score": 51152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple dumpling",
+            "score": 51151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creme de menthe",
+            "score": 51150,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "snickerdoodle",
+            "score": 51149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pancakes",
+            "score": 51147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malted milk",
+            "score": 51146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shandygaff",
+            "score": 51145,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applesauce",
+            "score": 51144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strawberries",
+            "score": 51143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mulled wine",
+            "score": 51142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flapjacks",
+            "score": 51141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drinks",
+            "score": 51140,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rhubarb pie",
+            "score": 51139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee",
+            "score": 51138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vanilla ice cream",
+            "score": 51137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poundcake",
+            "score": 51136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maple syrup",
+            "score": 51135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mauby",
+            "score": 51134,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollipops",
+            "score": 51133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muffins",
+            "score": 51132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scones",
+            "score": 51131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applesauce cake",
+            "score": 51130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlic bread",
+            "score": 51129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crumb cake",
+            "score": 51128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ginger ale",
+            "score": 51127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon meringue pie",
+            "score": 51126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icebox cake",
+            "score": 51125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheesecake",
+            "score": 51124,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wassail",
+            "score": 51123,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "lemonade",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "limonade",
+            "score": 97,
+            "numSyllables": 3
+        },
+        {
+            "word": "laminate",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "luminate",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemond",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemonades",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "lomond",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "limonite",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemonwood",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "eliminate",
+            "score": 82,
+            "numSyllables": 4
+        },
+        {
+            "word": "lamond",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "limonada",
+            "score": 82,
+            "numSyllables": 4
+        },
+        {
+            "word": "le monde",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "laminae",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemons",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemony",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemmon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamina",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "aluminate",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "laminator",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "lemmons",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chaminade",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "leonid",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemans",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "loment",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemonds",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemon tea",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemon curd",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lament",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamented",
+            "score": 79,
+            "numSyllables": 3
+        },
+        {
+            "word": "hominid",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "geminate",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "homonid",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "hominoid",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "feminate",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "yemenite",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "limited",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "limon",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamont",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "lumina",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "lymph node",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemont",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "limitate",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "limned",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "limone",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "allemand",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "limonata",
+            "score": 77,
+            "numSyllables": 4
+        },
+        {
+            "word": "limina",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "limens",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "legend",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lennon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lenin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "emanate",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "clement",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "layman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lessened",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laminated",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "laymen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lawman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lenon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lehman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "loman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lengthened",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "limen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "illumined",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lanthanide",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lowman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lessoned",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leeman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lehmann",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "latinate",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lamonte",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laymon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leaman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "allemande",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "laminant",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lohman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laminates",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemon pie",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "liman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanthanoid",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemna",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "legement",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "klement",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lionet",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lemoyne",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "loughman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lahman",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lehnen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemon rind",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lohmann",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lormand",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "aluminite",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "geminid",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "laumann",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "lemonade",
+            "score": 129879
+        },
+        {
+            "word": "limonade",
+            "score": 64687
+        },
+        {
+            "word": "lemond",
+            "score": 39
+        },
+        {
+            "word": "remolade",
+            "score": 18
+        },
+        {
+            "word": "lemonades",
+            "score": 17
+        },
+        {
+            "word": "lemonds",
+            "score": 9
+        },
+        {
+            "word": "limonada",
+            "score": 2
+        },
+        {
+            "word": "monade",
+            "score": 2
+        },
+        {
+            "word": "le monde",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "shandy",
+            "score": 1658
+        },
+        {
+            "word": "brownies",
+            "score": 1651
+        },
+        {
+            "word": "carbonated",
+            "score": 1644
+        },
+        {
+            "word": "gigolo",
+            "score": 1617
+        },
+        {
+            "word": "hush",
+            "score": 1605
+        },
+        {
+            "word": "tycoon",
+            "score": 1602
+        },
+        {
+            "word": "raspberry",
+            "score": 1586
+        },
+        {
+            "word": "drinker",
+            "score": 1561
+        },
+        {
+            "word": "vodka",
+            "score": 1556
+        },
+        {
+            "word": "iced",
+            "score": 1549
+        },
+        {
+            "word": "watermelon",
+            "score": 1541
+        },
+        {
+            "word": "lemon",
+            "score": 1538
+        },
+        {
+            "word": "flavored",
+            "score": 1525
+        },
+        {
+            "word": "blueberry",
+            "score": 1519
+        },
+        {
+            "word": "ginger",
+            "score": 1513
+        },
+        {
+            "word": "soda",
+            "score": 1512
+        },
+        {
+            "word": "juice",
+            "score": 1506
+        },
+        {
+            "word": "firefly",
+            "score": 1505
+        },
+        {
+            "word": "cordial",
+            "score": 1497
+        },
+        {
+            "word": "lager",
+            "score": 1486
+        },
+        {
+            "word": "cola",
+            "score": 1482
+        },
+        {
+            "word": "strawberry",
+            "score": 1478
+        },
+        {
+            "word": "drink",
+            "score": 1468
+        },
+        {
+            "word": "drinks",
+            "score": 1460
+        },
+        {
+            "word": "cloudy",
+            "score": 1456
+        },
+        {
+            "word": "mango",
+            "score": 1451
+        },
+        {
+            "word": "mixer",
+            "score": 1448
+        },
+        {
+            "word": "flavor",
+            "score": 1446
+        },
+        {
+            "word": "ale",
+            "score": 1444
+        },
+        {
+            "word": "cocktail",
+            "score": 1442
+        },
+        {
+            "word": "sparkling",
+            "score": 1441
+        },
+        {
+            "word": "pineapple",
+            "score": 1428
+        },
+        {
+            "word": "lime",
+            "score": 1421
+        },
+        {
+            "word": "beverage",
+            "score": 1416
+        },
+        {
+            "word": "syrup",
+            "score": 1412
+        },
+        {
+            "word": "beverages",
+            "score": 1403
+        },
+        {
+            "word": "coco",
+            "score": 1396
+        },
+        {
+            "word": "stand",
+            "score": 1392
+        },
+        {
+            "word": "mouth",
+            "score": 1384
+        },
+        {
+            "word": "recipe",
+            "score": 1376
+        },
+        {
+            "word": "flavour",
+            "score": 1374
+        },
+        {
+            "word": "mama",
+            "score": 1368
+        },
+        {
+            "word": "pediatric",
+            "score": 1367
+        },
+        {
+            "word": "whiskey",
+            "score": 1362
+        },
+        {
+            "word": "alley",
+            "score": 1359
+        },
+        {
+            "word": "sorry",
+            "score": 1357
+        },
+        {
+            "word": "berry",
+            "score": 1355
+        },
+        {
+            "word": "beer",
+            "score": 1351
+        },
+        {
+            "word": "sour",
+            "score": 1346
+        },
+        {
+            "word": "tea",
+            "score": 1341
+        },
+        {
+            "word": "alcoholic",
+            "score": 1340
+        },
+        {
+            "word": "citrus",
+            "score": 1334
+        },
+        {
+            "word": "mint",
+            "score": 1327
+        },
+        {
+            "word": "punch",
+            "score": 1320
+        },
+        {
+            "word": "grape",
+            "score": 1308
+        },
+        {
+            "word": "chocolate",
+            "score": 1302
+        },
+        {
+            "word": "barrett",
+            "score": 1300
+        },
+        {
+            "word": "coconut",
+            "score": 1297
+        },
+        {
+            "word": "cherry",
+            "score": 1295
+        },
+        {
+            "word": "cream",
+            "score": 1291
+        },
+        {
+            "word": "pink",
+            "score": 1284
+        },
+        {
+            "word": "fruit",
+            "score": 1273
+        },
+        {
+            "word": "ingredients",
+            "score": 1268
+        },
+        {
+            "word": "frozen",
+            "score": 1265
+        },
+        {
+            "word": "sugar",
+            "score": 1264
+        },
+        {
+            "word": "sweet",
+            "score": 1261
+        },
+        {
+            "word": "blend",
+            "score": 1258
+        },
+        {
+            "word": "advertisement",
+            "score": 1253
+        },
+        {
+            "word": "apple",
+            "score": 1252
+        },
+        {
+            "word": "soft",
+            "score": 1241
+        },
+        {
+            "word": "orange",
+            "score": 1234
+        },
+        {
+            "word": "varieties",
+            "score": 1232
+        },
+        {
+            "word": "milk",
+            "score": 1230
+        },
+        {
+            "word": "parody",
+            "score": 1224
+        },
+        {
+            "word": "taste",
+            "score": 1222
+        },
+        {
+            "word": "bitter",
+            "score": 1215
+        },
+        {
+            "word": "palmer",
+            "score": 1211
+        },
+        {
+            "word": "consortium",
+            "score": 1207
+        },
+        {
+            "word": "hot",
+            "score": 1200
+        },
+        {
+            "word": "debuted",
+            "score": 1198
+        },
+        {
+            "word": "coffee",
+            "score": 1197
+        },
+        {
+            "word": "hurt",
+            "score": 1195
+        },
+        {
+            "word": "stands",
+            "score": 1192
+        },
+        {
+            "word": "fresh",
+            "score": 1189
+        },
+        {
+            "word": "stakes",
+            "score": 1181
+        },
+        {
+            "word": "billboard",
+            "score": 1178
+        },
+        {
+            "word": "disney",
+            "score": 1176
+        },
+        {
+            "word": "glass",
+            "score": 1173
+        },
+        {
+            "word": "profile",
+            "score": 1172
+        },
+        {
+            "word": "root",
+            "score": 1167
+        },
+        {
+            "word": "alcohol",
+            "score": 1157
+        },
+        {
+            "word": "computing",
+            "score": 1155
+        },
+        {
+            "word": "brand",
+            "score": 1148
+        },
+        {
+            "word": "soundtrack",
+            "score": 1145
+        },
+        {
+            "word": "peaked",
+            "score": 1142
+        },
+        {
+            "word": "variation",
+            "score": 1139
+        },
+        {
+            "word": "ice",
+            "score": 1138
+        },
+        {
+            "word": "voiced",
+            "score": 1136
+        },
+        {
+            "word": "ref",
+            "score": 1131
+        },
+        {
+            "word": "advertising",
+            "score": 1130
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "lemonade",
+            "score": 129879
+        },
+        {
+            "word": "lemonades",
+            "score": 129335
+        },
+        {
+            "word": "lemonade mix",
+            "score": 129331
+        },
+        {
+            "word": "lemonade berry",
+            "score": 129319
+        },
+        {
+            "word": "limonade",
+            "score": 64687
+        },
+        {
+            "word": "lemon drop",
+            "score": 164
+        },
+        {
+            "word": "monadelphia",
+            "score": 90
+        },
+        {
+            "word": "lemanderin",
+            "score": 79
+        },
+        {
+            "word": "monadelphous",
+            "score": 60
+        },
+        {
+            "word": "lemon meringue pie",
+            "score": 52
+        }
+    ]
+}

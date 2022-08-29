@@ -1,0 +1,1589 @@
+{
+    "term": "beanie",
+    "means_like": [
+        {
+            "word": "beany",
+            "score": 79198,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "hat",
+            "score": 70405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bob",
+            "score": 63048,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 62888,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 62601,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noodle",
+            "score": 57664,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bat",
+            "score": 57255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dink",
+            "score": 56551,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hitter",
+            "score": 53093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoodie",
+            "score": 51411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatshirt",
+            "score": 51409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarf",
+            "score": 51408,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandana",
+            "score": 51407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 51406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 51405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balaclava",
+            "score": 51404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toque",
+            "score": 51403,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pullover",
+            "score": 51402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleece",
+            "score": 51401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beret",
+            "score": 51400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunhat",
+            "score": 51399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turtleneck",
+            "score": 51398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parka",
+            "score": 51397,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper suit",
+            "score": 51396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 51395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavalava",
+            "score": 51394,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel coat",
+            "score": 51393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuque",
+            "score": 51392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windbreaker",
+            "score": 51391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 51390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 51389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poncho",
+            "score": 51388,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visor",
+            "score": 51387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headgear",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatpants",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snood",
+            "score": 51384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watch cap",
+            "score": 51383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoody",
+            "score": 51382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earflaps",
+            "score": 51381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windcheater",
+            "score": 51380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panama hat",
+            "score": 51379,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hooded coat",
+            "score": 51378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle coat",
+            "score": 51377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stetson",
+            "score": 51376,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "breeks",
+            "score": 51375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandanna",
+            "score": 51374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 51373,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sweatsuit",
+            "score": 51372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglasses",
+            "score": 51371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilet",
+            "score": 51370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trilby",
+            "score": 51369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snowsuit",
+            "score": 51368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy duke",
+            "score": 51367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earmuffs",
+            "score": 51366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polo shirt",
+            "score": 51365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocking cap",
+            "score": 51364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cape",
+            "score": 51363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski parka",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat shirt",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fedora",
+            "score": 51359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "titfer",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatband",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skullcap",
+            "score": 51356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pants",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyepatch",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mackintosh",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mohawk",
+            "score": 51350,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "porkpie",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plimsolls",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooded cloak",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boilersuit",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oakleys",
+            "score": 51345,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dreadlocks",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hula skirt",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "codpiece",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dungaree",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tshirt",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracksuit",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mittens",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muumuu",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeshade",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckerchief",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowichan sweater",
+            "score": 51333,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "overcoat",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddybear",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tricorn",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moggan",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plaid",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yarmulke",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fur hat",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailcoat",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilskin",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garb",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tattersall",
+            "score": 51322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sheepskin coat",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleecy",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "beanie",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "beany",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "beenie",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "bini",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "bunny",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "bonnie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "benny",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bony",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "boney",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bonny",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "beano",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bunnie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bennie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bino",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bina",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "beni",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bonney",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bany",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bani",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "binny",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "boni",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "beamy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "beena",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "binnie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "benni",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bunni",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "baney",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "binney",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bmc",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bgm",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "banni",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "b.m",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bmy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peny",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "pny",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "pini",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "been",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bean",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beans",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bernie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beaner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "balmy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bein",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "banna",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bien",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beachy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bene",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bona",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bana",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beanies",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bano",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "benet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bima",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beno",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beene",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bena",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bema",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "blini",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "berny",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beane",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "b e",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beaned",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berney",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "benno",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bammy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "benna",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beanery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "beine",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "banu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bemo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bami",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bii",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bnb",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "birney",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "birnie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bni",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "biehn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beechy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "behi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bece",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bomi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "baana",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bici",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "binah",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bhanu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bonneau",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bimmy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bdc",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "biene",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bennu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "benue",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "benoy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bembe",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "biens",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beenz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bienne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "benu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bene-",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "beanie",
+            "score": 65237
+        },
+        {
+            "word": "meanie",
+            "score": 238
+        },
+        {
+            "word": "bernie",
+            "score": 191
+        },
+        {
+            "word": "bennie",
+            "score": 132
+        },
+        {
+            "word": "jeanie",
+            "score": 59
+        },
+        {
+            "word": "beenie",
+            "score": 47
+        },
+        {
+            "word": "beatie",
+            "score": 34
+        },
+        {
+            "word": "beane",
+            "score": 15
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "clubby",
+            "score": 1899
+        },
+        {
+            "word": "bleek",
+            "score": 1868
+        },
+        {
+            "word": "amil",
+            "score": 1793
+        },
+        {
+            "word": "babies",
+            "score": 1740
+        },
+        {
+            "word": "buddies",
+            "score": 1737
+        },
+        {
+            "word": "whoopee",
+            "score": 1732
+        },
+        {
+            "word": "boos",
+            "score": 1699
+        },
+        {
+            "word": "plush",
+            "score": 1621
+        },
+        {
+            "word": "collectibles",
+            "score": 1588
+        },
+        {
+            "word": "tabasco",
+            "score": 1580
+        },
+        {
+            "word": "pals",
+            "score": 1574
+        },
+        {
+            "word": "baby",
+            "score": 1503
+        },
+        {
+            "word": "teddy",
+            "score": 1496
+        },
+        {
+            "word": "buddy",
+            "score": 1475
+        },
+        {
+            "word": "stuffed",
+            "score": 1464
+        },
+        {
+            "word": "wells",
+            "score": 1459
+        },
+        {
+            "word": "freeway",
+            "score": 1453
+        },
+        {
+            "word": "toys",
+            "score": 1446
+        },
+        {
+            "word": "tags",
+            "score": 1440
+        },
+        {
+            "word": "rhymes",
+            "score": 1439
+        },
+        {
+            "word": "bounce",
+            "score": 1433
+        },
+        {
+            "word": "hat",
+            "score": 1429
+        },
+        {
+            "word": "hats",
+            "score": 1428
+        },
+        {
+            "word": "cap",
+            "score": 1426
+        },
+        {
+            "word": "dash",
+            "score": 1418
+        },
+        {
+            "word": "rapper",
+            "score": 1410
+        },
+        {
+            "word": "lil",
+            "score": 1402
+        },
+        {
+            "word": "damon",
+            "score": 1399
+        },
+        {
+            "word": "clue",
+            "score": 1390
+        },
+        {
+            "word": "harper",
+            "score": 1372
+        },
+        {
+            "word": "memphis",
+            "score": 1368
+        },
+        {
+            "word": "toy",
+            "score": 1358
+        },
+        {
+            "word": "modeled",
+            "score": 1355
+        },
+        {
+            "word": "baldwin",
+            "score": 1331
+        },
+        {
+            "word": "bear",
+            "score": 1324
+        },
+        {
+            "word": "mon",
+            "score": 1322
+        },
+        {
+            "word": "touchdown",
+            "score": 1316
+        },
+        {
+            "word": "fabric",
+            "score": 1312
+        },
+        {
+            "word": "warner",
+            "score": 1309
+        },
+        {
+            "word": "bears",
+            "score": 1306
+        },
+        {
+            "word": "styles",
+            "score": 1300
+        },
+        {
+            "word": "kids",
+            "score": 1294
+        },
+        {
+            "word": "remix",
+            "score": 1277
+        },
+        {
+            "word": "rushing",
+            "score": 1273
+        },
+        {
+            "word": "inc",
+            "score": 1270
+        },
+        {
+            "word": "jay",
+            "score": 1260
+        },
+        {
+            "word": "virtual",
+            "score": 1253
+        },
+        {
+            "word": "discontinued",
+            "score": 1249
+        },
+        {
+            "word": "exclusive",
+            "score": 1236
+        },
+        {
+            "word": "tag",
+            "score": 1234
+        },
+        {
+            "word": "inches",
+            "score": 1224
+        },
+        {
+            "word": "wear",
+            "score": 1221
+        },
+        {
+            "word": "alice",
+            "score": 1216
+        },
+        {
+            "word": "mtv",
+            "score": 1215
+        },
+        {
+            "word": "carries",
+            "score": 1203
+        },
+        {
+            "word": "sample",
+            "score": 1200
+        },
+        {
+            "word": "retired",
+            "score": 1198
+        },
+        {
+            "word": "disney",
+            "score": 1194
+        },
+        {
+            "word": "colors",
+            "score": 1192
+        },
+        {
+            "word": "promotion",
+            "score": 1185
+        },
+        {
+            "word": "walker",
+            "score": 1180
+        },
+        {
+            "word": "exclusively",
+            "score": 1178
+        },
+        {
+            "word": "solution",
+            "score": 1176
+        },
+        {
+            "word": "princess",
+            "score": 1168
+        },
+        {
+            "word": "introduced",
+            "score": 1162
+        },
+        {
+            "word": "signing",
+            "score": 1161
+        },
+        {
+            "word": "boy",
+            "score": 1159
+        },
+        {
+            "word": "introduction",
+            "score": 1155
+        },
+        {
+            "word": "chris",
+            "score": 1153
+        },
+        {
+            "word": "property",
+            "score": 1150
+        },
+        {
+            "word": "dog",
+            "score": 1146
+        },
+        {
+            "word": "retirement",
+            "score": 1141
+        },
+        {
+            "word": "featuring",
+            "score": 1136
+        },
+        {
+            "word": "yards",
+            "score": 1134
+        },
+        {
+            "word": "popularity",
+            "score": 1127
+        },
+        {
+            "word": "produced",
+            "score": 1125
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "beanie",
+            "score": 65237
+        },
+        {
+            "word": "beanies",
+            "score": 64724
+        },
+        {
+            "word": "beanie key",
+            "score": 64669
+        },
+        {
+            "word": "meanie",
+            "score": 238
+        },
+        {
+            "word": "bernie",
+            "score": 191
+        },
+        {
+            "word": "beadier",
+            "score": 161
+        },
+        {
+            "word": "beaner",
+            "score": 159
+        },
+        {
+            "word": "beanfeast",
+            "score": 147
+        },
+        {
+            "word": "bennie",
+            "score": 132
+        },
+        {
+            "word": "beanery",
+            "score": 110
+        }
+    ]
+}

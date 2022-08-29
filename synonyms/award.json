@@ -1,0 +1,1579 @@
+{
+    "term": "award",
+    "means_like": [
+        {
+            "word": "accolade",
+            "score": 100167,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "prize",
+            "score": 97265,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "honor",
+            "score": 93512,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "grant",
+            "score": 88326,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "laurels",
+            "score": 86616,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "honour",
+            "score": 84726,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "present",
+            "score": 81331,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "commendation",
+            "score": 67369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trophy",
+            "score": 66289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recognition",
+            "score": 66278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prizes",
+            "score": 66162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "excellence",
+            "score": 65524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recipient",
+            "score": 65387,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "prizewinner",
+            "score": 64424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "category",
+            "score": 64383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oscar",
+            "score": 64372,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scholarship",
+            "score": 64325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bursary",
+            "score": 63917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "citation",
+            "score": 63910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "medal",
+            "score": 63122,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "finalists",
+            "score": 63002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stipend",
+            "score": 62482,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laureates",
+            "score": 62056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fellowships",
+            "score": 61987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bestow",
+            "score": 61980,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "designation",
+            "score": 61916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scholarships",
+            "score": 61902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "winner",
+            "score": 61822,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "laureate",
+            "score": 61762,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contribution",
+            "score": 61521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nobel",
+            "score": 61457,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grants",
+            "score": 61441,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gala",
+            "score": 60826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reward",
+            "score": 60755,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "medals",
+            "score": 60617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contract",
+            "score": 60599,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bonus",
+            "score": 60575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "winning",
+            "score": 60347,
+            "tags": [
+                "adj",
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "jackpot",
+            "score": 60111,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conferment",
+            "score": 59891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invitation",
+            "score": 59726,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rewards",
+            "score": 59679,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "certificate",
+            "score": 59672,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compensation",
+            "score": 59550,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conferral",
+            "score": 59411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "selection",
+            "score": 59379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "won",
+            "score": 59365,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "distinction",
+            "score": 59362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonuses",
+            "score": 59238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sakharov",
+            "score": 59221,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rewarding",
+            "score": 59190,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "presentation",
+            "score": 59147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assignment",
+            "score": 59135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merit",
+            "score": 59040,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fellowship",
+            "score": 58935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arbitration",
+            "score": 58872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decoration",
+            "score": 58650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incentive",
+            "score": 58520,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "honours",
+            "score": 58177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "verdict",
+            "score": 57904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tender",
+            "score": 57743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sum",
+            "score": 57665,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recompense",
+            "score": 57634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bid",
+            "score": 57559,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "extension",
+            "score": 57398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "internship",
+            "score": 57290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indemnity",
+            "score": 57045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rebate",
+            "score": 57017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allowance",
+            "score": 56998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bounty",
+            "score": 56976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "payment",
+            "score": 56860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjudication",
+            "score": 56737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "granted",
+            "score": 56628,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "amount",
+            "score": 56548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emeritus",
+            "score": 56413,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "individual",
+            "score": 56379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concession",
+            "score": 56322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "release",
+            "score": 56308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fee",
+            "score": 56197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "payoff",
+            "score": 56171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allocation",
+            "score": 56135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purse",
+            "score": 56127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjudicated",
+            "score": 56012,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pay",
+            "score": 55970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sentence",
+            "score": 55963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tasking",
+            "score": 55945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allowances",
+            "score": 55860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "distinctions",
+            "score": 55836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reimbursement",
+            "score": 55790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confer",
+            "score": 55772,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "eligibility",
+            "score": 55768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incentives",
+            "score": 55746,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gratuity",
+            "score": 55740,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delivery",
+            "score": 55722,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auction",
+            "score": 55708,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subsidy",
+            "score": 55696,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tendering",
+            "score": 55659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "judgments",
+            "score": 55637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjudicate",
+            "score": 55605,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "indemnification",
+            "score": 55602,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "award",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "awards",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "toward",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "a word",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "awar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "awardee",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "adward",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "awarder",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "sward",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "awad",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "unguard",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "avard",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "aware",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "reward",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "appeared",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "afford",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "adored",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "assured",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aboard",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "accord",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "acquired",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "assort",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aford",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "allured",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "attired",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "abord",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "acord",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "athwart",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aweary",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "siward",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "huard",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "unwired",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "amort",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "unaired",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "awayward",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "quart",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "thwart",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "abhorred",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "swart",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahora",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "zwart",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "quired",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "queered",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "iwar",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apart",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "appart",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fayard",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "the yard",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "assart",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "upward",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "ward",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "await",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "occured",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "occurred",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "towards",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unheard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "abort",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ashore",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "uttered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "awarded",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "ushered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "awarding",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "warred",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "amora",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "afeared",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whored",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "warde",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "the lord",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "awit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "afeard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "uncared",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "anor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "the word",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "a year",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "adjured",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hjort",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unwarned",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "awork",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ahar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unwarmed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unwatered",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "waard",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ward",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "attore",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "uddered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unawed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "asoar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "awardees",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "usured",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "accourt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aomori",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "waarde",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "the sword",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "uncord",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unorder",
+            "score": 80,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "award",
+            "score": 66228
+        },
+        {
+            "word": "ward",
+            "score": 2088
+        },
+        {
+            "word": "aware",
+            "score": 1981
+        },
+        {
+            "word": "sward",
+            "score": 639
+        },
+        {
+            "word": "vaward",
+            "score": 239
+        },
+        {
+            "word": "agard",
+            "score": 107
+        },
+        {
+            "word": "avard",
+            "score": 95
+        },
+        {
+            "word": "-ward",
+            "score": 78
+        },
+        {
+            "word": "alward",
+            "score": 68
+        },
+        {
+            "word": "aard",
+            "score": 62
+        },
+        {
+            "word": "awad",
+            "score": 53
+        },
+        {
+            "word": "awarn",
+            "score": 51
+        },
+        {
+            "word": "awar",
+            "score": 40
+        },
+        {
+            "word": "adward",
+            "score": 31
+        },
+        {
+            "word": "akard",
+            "score": 22
+        },
+        {
+            "word": "awari",
+            "score": 4
+        },
+        {
+            "word": "haward",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "outstanding",
+            "score": 1400
+        },
+        {
+            "word": "excellence",
+            "score": 1394
+        },
+        {
+            "word": "bafta",
+            "score": 1390
+        },
+        {
+            "word": "gallantry",
+            "score": 1364
+        },
+        {
+            "word": "nomination",
+            "score": 1348
+        },
+        {
+            "word": "achievement",
+            "score": 1342
+        },
+        {
+            "word": "finalist",
+            "score": 1336
+        },
+        {
+            "word": "recipients",
+            "score": 1329
+        },
+        {
+            "word": "best",
+            "score": 1327
+        },
+        {
+            "word": "cinematography",
+            "score": 1326
+        },
+        {
+            "word": "awards",
+            "score": 1322
+        },
+        {
+            "word": "emmy",
+            "score": 1321
+        },
+        {
+            "word": "actress",
+            "score": 1309
+        },
+        {
+            "word": "grammy",
+            "score": 1305
+        },
+        {
+            "word": "nominated",
+            "score": 1297
+        },
+        {
+            "word": "merit",
+            "score": 1294
+        },
+        {
+            "word": "recipient",
+            "score": 1286
+        },
+        {
+            "word": "category",
+            "score": 1284
+        },
+        {
+            "word": "annually",
+            "score": 1282
+        },
+        {
+            "word": "screenplay",
+            "score": 1280
+        },
+        {
+            "word": "lifetime",
+            "score": 1276
+        },
+        {
+            "word": "nominee",
+            "score": 1273
+        },
+        {
+            "word": "guild",
+            "score": 1271
+        },
+        {
+            "word": "prize",
+            "score": 1263
+        },
+        {
+            "word": "contribution",
+            "score": 1259
+        },
+        {
+            "word": "presented",
+            "score": 1255
+        },
+        {
+            "word": "actor",
+            "score": 1252
+        },
+        {
+            "word": "contributions",
+            "score": 1249
+        },
+        {
+            "word": "ceremony",
+            "score": 1248
+        },
+        {
+            "word": "achievements",
+            "score": 1244
+        },
+        {
+            "word": "honored",
+            "score": 1235
+        },
+        {
+            "word": "supporting",
+            "score": 1233
+        },
+        {
+            "word": "winner",
+            "score": 1231
+        },
+        {
+            "word": "distinguished",
+            "score": 1227
+        },
+        {
+            "word": "globe",
+            "score": 1224
+        },
+        {
+            "word": "awarded",
+            "score": 1222
+        },
+        {
+            "word": "documentary",
+            "score": 1214
+        },
+        {
+            "word": "fellowship",
+            "score": 1210
+        },
+        {
+            "word": "fiction",
+            "score": 1207
+        },
+        {
+            "word": "journalism",
+            "score": 1206
+        },
+        {
+            "word": "recognition",
+            "score": 1203
+        },
+        {
+            "word": "honor",
+            "score": 1201
+        },
+        {
+            "word": "editing",
+            "score": 1199
+        },
+        {
+            "word": "drama",
+            "score": 1196
+        },
+        {
+            "word": "honorary",
+            "score": 1195
+        },
+        {
+            "word": "inducted",
+            "score": 1194
+        },
+        {
+            "word": "winning",
+            "score": 1189
+        },
+        {
+            "word": "picture",
+            "score": 1188
+        },
+        {
+            "word": "festival",
+            "score": 1182
+        },
+        {
+            "word": "jury",
+            "score": 1181
+        },
+        {
+            "word": "golden",
+            "score": 1179
+        },
+        {
+            "word": "prestigious",
+            "score": 1178
+        },
+        {
+            "word": "honors",
+            "score": 1176
+        },
+        {
+            "word": "recognize",
+            "score": 1173
+        },
+        {
+            "word": "animated",
+            "score": 1171
+        },
+        {
+            "word": "mtv",
+            "score": 1170
+        },
+        {
+            "word": "innovation",
+            "score": 1167
+        },
+        {
+            "word": "honour",
+            "score": 1161
+        },
+        {
+            "word": "categories",
+            "score": 1157
+        },
+        {
+            "word": "performance",
+            "score": 1155
+        },
+        {
+            "word": "comedy",
+            "score": 1153
+        },
+        {
+            "word": "film",
+            "score": 1149
+        },
+        {
+            "word": "academy",
+            "score": 1147
+        },
+        {
+            "word": "given",
+            "score": 1142
+        },
+        {
+            "word": "medal",
+            "score": 1139
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "award",
+            "score": 66228
+        },
+        {
+            "word": "awardee",
+            "score": 64903
+        },
+        {
+            "word": "awarded",
+            "score": 64897
+        },
+        {
+            "word": "awards",
+            "score": 64873
+        },
+        {
+            "word": "award-winning",
+            "score": 64782
+        },
+        {
+            "word": "awarding",
+            "score": 64764
+        },
+        {
+            "word": "awarder",
+            "score": 64761
+        },
+        {
+            "word": "awardees",
+            "score": 64731
+        },
+        {
+            "word": "awardable",
+            "score": 64719
+        },
+        {
+            "word": "award winning",
+            "score": 64690
+        }
+    ]
+}

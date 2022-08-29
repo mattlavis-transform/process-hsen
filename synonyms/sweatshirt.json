@@ -1,0 +1,1555 @@
+{
+    "term": "sweatshirt",
+    "means_like": [
+        {
+            "word": "hoodie",
+            "score": 55336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 53230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 53181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 47576,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 40049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat",
+            "score": 38877,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polo",
+            "score": 36709,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pull",
+            "score": 36206,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pole",
+            "score": 33614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "t-shirt",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat shirt",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pullover",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatpants",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windbreaker",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polo shirt",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanie",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatsuit",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crewneck",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undershirt",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turtleneck",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracksuit",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parka",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandana",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bomber jacket",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windcheater",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "singlet",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarf",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavalava",
+            "score": 31247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel coat",
+            "score": 31246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 31245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panama hat",
+            "score": 31244,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "poncho",
+            "score": 31243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoody",
+            "score": 31242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat pants",
+            "score": 31241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandanna",
+            "score": 31240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocking cap",
+            "score": 31239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooded coat",
+            "score": 31238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski mask",
+            "score": 31237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport coat",
+            "score": 31236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pants",
+            "score": 31235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazer",
+            "score": 31234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bunny hug",
+            "score": 31233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 31232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle bag",
+            "score": 31231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hat",
+            "score": 31230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tee shirt",
+            "score": 31229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tshirt",
+            "score": 31228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overcoat",
+            "score": 31227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski parka",
+            "score": 31226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eton jacket",
+            "score": 31225,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "navy blue",
+            "score": 31224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 31223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moggan",
+            "score": 31222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport jacket",
+            "score": 31221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxer shorts",
+            "score": 31220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathrobe",
+            "score": 31219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "norfolk jacket",
+            "score": 31218,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bath towel",
+            "score": 31217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balaclava",
+            "score": 31216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sneakers",
+            "score": 31215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trench coat",
+            "score": 31214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 31213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watch cap",
+            "score": 31212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgown",
+            "score": 31211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel bag",
+            "score": 31210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raincoat",
+            "score": 31209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy duke",
+            "score": 31208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mess jacket",
+            "score": 31207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatband",
+            "score": 31206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuque",
+            "score": 31205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tote bag",
+            "score": 31204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumpsuit",
+            "score": 31203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 31202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zip up",
+            "score": 31201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peacoat",
+            "score": 31200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yarmulke",
+            "score": 31199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trenchcoat",
+            "score": 31198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "straw hat",
+            "score": 31197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 31196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 31195,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fanny pack",
+            "score": 31194,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "duster coat",
+            "score": 31193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headband",
+            "score": 31192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedspread",
+            "score": 31191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunhat",
+            "score": 31190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raglan",
+            "score": 31189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shorts",
+            "score": 31188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sock",
+            "score": 31187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle coat",
+            "score": 31186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleece",
+            "score": 31185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smock",
+            "score": 31184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monkey jacket",
+            "score": 31183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earflaps",
+            "score": 31182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatband",
+            "score": 31181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtwaister",
+            "score": 31180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawstring bag",
+            "score": 31179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pant",
+            "score": 31178,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "sweatshirt",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweat shirt",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweatshirts",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweatier",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "sweater",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweaters",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "set shot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "swihart",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "swisher",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "swishers",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "swished",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "switzer",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "stuffed shirt",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "switzers",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweeter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweetheart",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swatter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweatshop",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweated",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swart",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "swooshed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweatsuit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweltered",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swatters",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweetser",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swashed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweat suit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweitzer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweet shrub",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swotter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sport shirt",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "switched",
+            "score": 72,
+            "numSyllables": 1
+        },
+        {
+            "word": "stuttered",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "switcher",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sputtered",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "switcheroo",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "stuttgart",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "switchers",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "switch hit",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "swigart",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "swigert",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweaty",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "start",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweat",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "swear",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "setter",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stewart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweats",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "slaughtered",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stuart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "settler",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "settlers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swears",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sware",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sward",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweetener",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cetera",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "setters",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swatted",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stort",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "spattered",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "strt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sprt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sturt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "censured",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "suerte",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "swaggart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "staart",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "stert",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "cetra",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swaraj",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweet shop",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "set out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stirt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "stoddart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stettler",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swear word",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "setzer",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swader",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweet cherry",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "setlers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "settlor",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "suero",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "srd",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smattered",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweat room",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swaddler",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "setser",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "set right",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "setar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "setra",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stetler",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swear to",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "swearers",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "sweatshirt",
+            "score": 129626
+        },
+        {
+            "word": "sweat shirt",
+            "score": 64661
+        },
+        {
+            "word": "sweatsuit",
+            "score": 128
+        },
+        {
+            "word": "sweatshirts",
+            "score": 23
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "sweatpants",
+            "score": 1866
+        },
+        {
+            "word": "veggies",
+            "score": 1838
+        },
+        {
+            "word": "domo",
+            "score": 1801
+        },
+        {
+            "word": "sweater",
+            "score": 1673
+        },
+        {
+            "word": "bronson",
+            "score": 1646
+        },
+        {
+            "word": "blazer",
+            "score": 1626
+        },
+        {
+            "word": "cardigan",
+            "score": 1625
+        },
+        {
+            "word": "taco",
+            "score": 1590
+        },
+        {
+            "word": "trousers",
+            "score": 1574
+        },
+        {
+            "word": "staples",
+            "score": 1563
+        },
+        {
+            "word": "scarf",
+            "score": 1554
+        },
+        {
+            "word": "jeans",
+            "score": 1540
+        },
+        {
+            "word": "skirt",
+            "score": 1533
+        },
+        {
+            "word": "socks",
+            "score": 1529
+        },
+        {
+            "word": "shirt",
+            "score": 1525
+        },
+        {
+            "word": "schoolboy",
+            "score": 1523
+        },
+        {
+            "word": "doris",
+            "score": 1519
+        },
+        {
+            "word": "tyler",
+            "score": 1507
+        },
+        {
+            "word": "pants",
+            "score": 1498
+        },
+        {
+            "word": "jumper",
+            "score": 1491
+        },
+        {
+            "word": "vince",
+            "score": 1474
+        },
+        {
+            "word": "odd",
+            "score": 1473
+        },
+        {
+            "word": "polo",
+            "score": 1470
+        },
+        {
+            "word": "collar",
+            "score": 1461
+        },
+        {
+            "word": "creator",
+            "score": 1452
+        },
+        {
+            "word": "jacket",
+            "score": 1434
+        },
+        {
+            "word": "boots",
+            "score": 1420
+        },
+        {
+            "word": "gloves",
+            "score": 1415
+        },
+        {
+            "word": "shoes",
+            "score": 1404
+        },
+        {
+            "word": "shorts",
+            "score": 1398
+        },
+        {
+            "word": "logo",
+            "score": 1397
+        },
+        {
+            "word": "beats",
+            "score": 1395
+        },
+        {
+            "word": "genesis",
+            "score": 1381
+        },
+        {
+            "word": "tan",
+            "score": 1374
+        },
+        {
+            "word": "lotus",
+            "score": 1371
+        },
+        {
+            "word": "wear",
+            "score": 1370
+        },
+        {
+            "word": "worn",
+            "score": 1365
+        },
+        {
+            "word": "casey",
+            "score": 1360
+        },
+        {
+            "word": "rapper",
+            "score": 1355
+        },
+        {
+            "word": "uniform",
+            "score": 1346
+        },
+        {
+            "word": "badge",
+            "score": 1343
+        },
+        {
+            "word": "wearing",
+            "score": 1324
+        },
+        {
+            "word": "earl",
+            "score": 1322
+        },
+        {
+            "word": "hood",
+            "score": 1320
+        },
+        {
+            "word": "mac",
+            "score": 1310
+        },
+        {
+            "word": "danny",
+            "score": 1305
+        },
+        {
+            "word": "wore",
+            "score": 1299
+        },
+        {
+            "word": "hop",
+            "score": 1292
+        },
+        {
+            "word": "youtube",
+            "score": 1291
+        },
+        {
+            "word": "dress",
+            "score": 1289
+        },
+        {
+            "word": "hip",
+            "score": 1284
+        },
+        {
+            "word": "smoke",
+            "score": 1279
+        },
+        {
+            "word": "cap",
+            "score": 1274
+        },
+        {
+            "word": "grey",
+            "score": 1271
+        },
+        {
+            "word": "miller",
+            "score": 1261
+        },
+        {
+            "word": "scout",
+            "score": 1241
+        },
+        {
+            "word": "wolf",
+            "score": 1234
+        },
+        {
+            "word": "plain",
+            "score": 1233
+        },
+        {
+            "word": "duo",
+            "score": 1230
+        },
+        {
+            "word": "dna",
+            "score": 1228
+        },
+        {
+            "word": "blue",
+            "score": 1227
+        },
+        {
+            "word": "ocean",
+            "score": 1215
+        },
+        {
+            "word": "brain",
+            "score": 1211
+        },
+        {
+            "word": "matt",
+            "score": 1206
+        },
+        {
+            "word": "future",
+            "score": 1200
+        },
+        {
+            "word": "pair",
+            "score": 1193
+        },
+        {
+            "word": "frank",
+            "score": 1188
+        },
+        {
+            "word": "visible",
+            "score": 1184
+        },
+        {
+            "word": "brown",
+            "score": 1172
+        },
+        {
+            "word": "crime",
+            "score": 1166
+        },
+        {
+            "word": "mike",
+            "score": 1163
+        },
+        {
+            "word": "studio",
+            "score": 1160
+        },
+        {
+            "word": "fashion",
+            "score": 1156
+        },
+        {
+            "word": "boys",
+            "score": 1153
+        },
+        {
+            "word": "navy",
+            "score": 1148
+        },
+        {
+            "word": "rich",
+            "score": 1141
+        },
+        {
+            "word": "action",
+            "score": 1136
+        },
+        {
+            "word": "choice",
+            "score": 1134
+        },
+        {
+            "word": "titled",
+            "score": 1132
+        },
+        {
+            "word": "tells",
+            "score": 1131
+        },
+        {
+            "word": "flying",
+            "score": 1128
+        },
+        {
+            "word": "appearances",
+            "score": 1124
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "sweatshirt",
+            "score": 129626
+        },
+        {
+            "word": "sweatshirts",
+            "score": 129341
+        },
+        {
+            "word": "sweat shirt",
+            "score": 64661
+        },
+        {
+            "word": "sweatsuit",
+            "score": 128
+        },
+        {
+            "word": "sweatsuits",
+            "score": 5
+        }
+    ]
+}

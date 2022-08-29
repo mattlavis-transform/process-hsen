@@ -1,0 +1,1317 @@
+{
+    "term": "too",
+    "means_like": [
+        {
+            "word": "overly",
+            "score": 91382,
+            "tags": [
+                "syn",
+                "adv"
+            ]
+        },
+        {
+            "word": "excessively",
+            "score": 91248,
+            "tags": [
+                "syn",
+                "adv"
+            ]
+        },
+        {
+            "word": "also",
+            "score": 80987,
+            "tags": [
+                "syn",
+                "adv"
+            ]
+        },
+        {
+            "word": "likewise",
+            "score": 80936,
+            "tags": [
+                "syn",
+                "adv"
+            ]
+        },
+        {
+            "word": "besides",
+            "score": 79562,
+            "tags": [
+                "syn",
+                "adv"
+            ]
+        },
+        {
+            "word": "as well",
+            "score": 75222,
+            "tags": [
+                "syn",
+                "adv"
+            ]
+        },
+        {
+            "word": "awfully",
+            "score": 71554,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "pretty",
+            "score": 71410,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "very",
+            "score": 71240,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "terribly",
+            "score": 71156,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "enough",
+            "score": 70583,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "quite",
+            "score": 70253,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "exceedingly",
+            "score": 68653,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "really",
+            "score": 68484,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "extremely",
+            "score": 67915,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "not",
+            "score": 67906,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "fairly",
+            "score": 67845,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "little",
+            "score": 67343,
+            "tags": [
+                "adv",
+                "n"
+            ]
+        },
+        {
+            "word": "unnecessarily",
+            "score": 67288,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "even",
+            "score": 67033,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "bit",
+            "score": 66741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "particularly",
+            "score": 66702,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "still",
+            "score": 66609,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "unduly",
+            "score": 65946,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "just",
+            "score": 65945,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "insufficiently",
+            "score": 65604,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "insanely",
+            "score": 65595,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "unrealistically",
+            "score": 65188,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "unreasonably",
+            "score": 64909,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "sufficiently",
+            "score": 64908,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "indeed",
+            "score": 64328,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "much",
+            "score": 64208,
+            "tags": [
+                "adv",
+                "n"
+            ]
+        },
+        {
+            "word": "more",
+            "score": 64098,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "actually",
+            "score": 63996,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "muchness",
+            "score": 63938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "damn",
+            "score": 63619,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "far",
+            "score": 63331,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "prohibitively",
+            "score": 63321,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "rather",
+            "score": 63191,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "similarly",
+            "score": 63139,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "somewhat",
+            "score": 63055,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "that",
+            "score": 63001,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "there",
+            "score": 62979,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "yet",
+            "score": 62905,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "equally",
+            "score": 62815,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "plenty",
+            "score": 62795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "either",
+            "score": 61904,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "already",
+            "score": 61777,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "me",
+            "score": 61728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overreacting",
+            "score": 61695,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "unacceptably",
+            "score": 61647,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "neither",
+            "score": 61560,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "therefore",
+            "score": 61484,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "sure",
+            "score": 61365,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "beyond",
+            "score": 61260,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "disproportionately",
+            "score": 61027,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "long",
+            "score": 60831,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "about",
+            "score": 60680,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "moreover",
+            "score": 60606,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "then",
+            "score": 60561,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "exactly",
+            "score": 60509,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "overboard",
+            "score": 60402,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "thus",
+            "score": 60134,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "myself",
+            "score": 59947,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "well",
+            "score": 59830,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "again",
+            "score": 59759,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "you",
+            "score": 59678,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "totally",
+            "score": 59602,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "all",
+            "score": 59558,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "majorly",
+            "score": 59550,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "highly",
+            "score": 59104,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "yourself",
+            "score": 58603,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "partly",
+            "score": 58377,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "perfectly",
+            "score": 58331,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 58331,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "inappropriately",
+            "score": 57941,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "for",
+            "score": 57839,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "greatly",
+            "score": 57460,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "over",
+            "score": 56623,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "furthermore",
+            "score": 56184,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "further",
+            "score": 56150,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "additionally",
+            "score": 55194,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "plus",
+            "score": 54824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tai",
+            "score": 54623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "yoo",
+            "score": 52690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tae",
+            "score": 52683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alternatively",
+            "score": 52182,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "overpayment",
+            "score": 52103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inclusive",
+            "score": 51597,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "asia-pacific",
+            "score": 51297,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "aussi",
+            "score": 51297,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "and",
+            "score": 51296,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "pacific",
+            "score": 51296,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "anyway",
+            "score": 51287,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "though",
+            "score": 51286,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "because",
+            "score": 51284,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "especially",
+            "score": 51281,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "sometimes",
+            "score": 51279,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "obviously",
+            "score": 51276,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "anymore",
+            "score": 51274,
+            "tags": [
+                "adv"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "too",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "two",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "to",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tue",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tou",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tew",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "thuy",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tuo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "teu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "touw",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ttu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "toux",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "tea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "t",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ty",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tow",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ta",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tay",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "thai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "te",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ti",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tme",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tao",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pty",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "towe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "twi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "twee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tigh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tty",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tuh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "teh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tto",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tke",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tiy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "thn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tte",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tta",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tya",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tti",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tqo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tiw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ttc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tuy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tva",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tvo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pte",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tyee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toe-in",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tve",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tdy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "toah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tcy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "thoa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tpu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tiie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tce",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "taigh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ttha",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tki",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "dtk",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "do",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "due",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dew",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "doo",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "du",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dou",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "doux",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dwe",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "duw",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dwy",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dvo",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dmu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ddu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dtu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ddw",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "atu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "etu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dtv",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "attu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ertu",
+            "score": 90,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "too",
+            "score": 1758
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "costly",
+            "score": 1334
+        },
+        {
+            "word": "expensive",
+            "score": 1319
+        },
+        {
+            "word": "busy",
+            "score": 1307
+        },
+        {
+            "word": "weak",
+            "score": 1290
+        },
+        {
+            "word": "much",
+            "score": 1276
+        },
+        {
+            "word": "dangerous",
+            "score": 1260
+        },
+        {
+            "word": "slow",
+            "score": 1243
+        },
+        {
+            "word": "far",
+            "score": 1240
+        },
+        {
+            "word": "fast",
+            "score": 1217
+        },
+        {
+            "word": "handle",
+            "score": 1208
+        },
+        {
+            "word": "seriously",
+            "score": 1204
+        },
+        {
+            "word": "late",
+            "score": 1201
+        },
+        {
+            "word": "ill",
+            "score": 1197
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "too",
+            "score": 1758
+        },
+        {
+            "word": "tool",
+            "score": 2012
+        },
+        {
+            "word": "tooth",
+            "score": 1479
+        },
+        {
+            "word": "tools",
+            "score": 729
+        },
+        {
+            "word": "toot",
+            "score": 606
+        },
+        {
+            "word": "toolkit",
+            "score": 506
+        },
+        {
+            "word": "took",
+            "score": 505
+        },
+        {
+            "word": "tooling",
+            "score": 452
+        },
+        {
+            "word": "toothsome",
+            "score": 449
+        },
+        {
+            "word": "toon",
+            "score": 436
+        }
+    ]
+}

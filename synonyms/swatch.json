@@ -1,0 +1,1557 @@
+{
+    "term": "swatch",
+    "means_like": [
+        {
+            "word": "sample",
+            "score": 61787,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sampler",
+            "score": 61468,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shows",
+            "score": 54302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabric",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "palette",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilt",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swath",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "selvage",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "expanse",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilcloth",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rickrack",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedcover",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinking shears",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toile",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ultrasuede",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapestry",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidskin",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinafore dress",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedspread",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prints",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pallette",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "placket",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vellum",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onionskin",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coverlet",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accordion pleats",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grease pencil",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tablecloth",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oriental rug",
+            "score": 51302,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "muslin",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slipcover",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shag rug",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cornhusks",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvas",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pen nib",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burnt umber",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embroidery hoop",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "selvedge",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maidenhair fern",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stitchery",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rectangle",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallpaper",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pima cotton",
+            "score": 51288,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "recolor",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillettes",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheerness",
+            "score": 51285,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "crosshatching",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ribbon",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tesserae",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rumple",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checkerboard",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strips",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabochons",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swathe",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotton flannel",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clapboards",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serifs",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mosiac",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "organdy",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sailcloth",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothbound",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "striations",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cordovan",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boucle",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armholes",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gazar",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nailhead",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvases",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plyboard",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamp shade",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shantung",
+            "score": 51259,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mylar",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardstock",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fingernail",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charmeuse",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloodstain",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stipple",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "floorcloth",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doily",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dust ruffle",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saddle stitching",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheets",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weeping beech",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardbound",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinecone",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watchband",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paintbox",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raglan sleeve",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nubuck",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splotch",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stonewash",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reindeer moss",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "welting",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peignoir",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stencil",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foulard",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garter stitch",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "swatch",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "switch",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "swash",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "swosh",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "swan",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "swish",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "swat",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "swoosh",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "suave",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "swa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swathe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swage",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swot",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swann",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "suage",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "suan",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swas",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swatt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swak",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swaz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "suat",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swedge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swatte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "slouch",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "swol",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "swalk",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "smouch",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "stauch",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "swal",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "swass",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "swate",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "souche",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "swown",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweet",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "speech",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "such",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snitch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swell",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sway",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "stitch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "scotch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "squash",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snatch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "suite",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "stich",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smooch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "speach",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "suess",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sways",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "slosh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swayze",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swet",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swang",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swill",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swain",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sitch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swee",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "stach",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swich",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swath",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cya",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swett",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sui",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "suisse",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweatt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swea",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swel",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sich",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smutch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sosh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swale",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swick",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swen",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sache",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "suad",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "stodge",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swad",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "suar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swaine",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "stoich",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swete",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smitch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smatch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swashed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cich",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "slutch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swashy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "suche",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "slatch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "swac",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "suine",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweyn",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saaj",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sweigh",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sleech",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sposh",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "swatch",
+            "score": 65164
+        },
+        {
+            "word": "switch",
+            "score": 2425
+        },
+        {
+            "word": "watch",
+            "score": 2266
+        },
+        {
+            "word": "swath",
+            "score": 1435
+        },
+        {
+            "word": "snatch",
+            "score": 1266
+        },
+        {
+            "word": "slatch",
+            "score": 199
+        },
+        {
+            "word": "scatch",
+            "score": 179
+        },
+        {
+            "word": "smatch",
+            "score": 91
+        },
+        {
+            "word": "satch",
+            "score": 21
+        },
+        {
+            "word": "sawatch",
+            "score": 14
+        },
+        {
+            "word": "gwatch",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "snowboard",
+            "score": 1743
+        },
+        {
+            "word": "eta",
+            "score": 1622
+        },
+        {
+            "word": "watches",
+            "score": 1620
+        },
+        {
+            "word": "chf",
+            "score": 1562
+        },
+        {
+            "word": "omega",
+            "score": 1558
+        },
+        {
+            "word": "yarn",
+            "score": 1547
+        },
+        {
+            "word": "knitting",
+            "score": 1512
+        },
+        {
+            "word": "volleyball",
+            "score": 1501
+        },
+        {
+            "word": "mercedes",
+            "score": 1500
+        },
+        {
+            "word": "nike",
+            "score": 1471
+        },
+        {
+            "word": "decimal",
+            "score": 1466
+        },
+        {
+            "word": "watch",
+            "score": 1465
+        },
+        {
+            "word": "quartz",
+            "score": 1457
+        },
+        {
+            "word": "nicolas",
+            "score": 1445
+        },
+        {
+            "word": "brands",
+            "score": 1421
+        },
+        {
+            "word": "swiss",
+            "score": 1404
+        },
+        {
+            "word": "tour",
+            "score": 1391
+        },
+        {
+            "word": "calvin",
+            "score": 1375
+        },
+        {
+            "word": "smart",
+            "score": 1371
+        },
+        {
+            "word": "beach",
+            "score": 1370
+        },
+        {
+            "word": "spectators",
+            "score": 1369
+        },
+        {
+            "word": "klein",
+            "score": 1367
+        },
+        {
+            "word": "cloth",
+            "score": 1366
+        },
+        {
+            "word": "ernst",
+            "score": 1363
+        },
+        {
+            "word": "slam",
+            "score": 1349
+        },
+        {
+            "word": "fabric",
+            "score": 1344
+        },
+        {
+            "word": "beats",
+            "score": 1341
+        },
+        {
+            "word": "counts",
+            "score": 1324
+        },
+        {
+            "word": "qualification",
+            "score": 1315
+        },
+        {
+            "word": "switzerland",
+            "score": 1314
+        },
+        {
+            "word": "ceo",
+            "score": 1312
+        },
+        {
+            "word": "highlights",
+            "score": 1311
+        },
+        {
+            "word": "brand",
+            "score": 1308
+        },
+        {
+            "word": "pro",
+            "score": 1304
+        },
+        {
+            "word": "manufacturer",
+            "score": 1294
+        },
+        {
+            "word": "internet",
+            "score": 1292
+        },
+        {
+            "word": "recognised",
+            "score": 1289
+        },
+        {
+            "word": "color",
+            "score": 1287
+        },
+        {
+            "word": "gauge",
+            "score": 1283
+        },
+        {
+            "word": "fashion",
+            "score": 1273
+        },
+        {
+            "word": "movements",
+            "score": 1265
+        },
+        {
+            "word": "gender",
+            "score": 1262
+        },
+        {
+            "word": "ticket",
+            "score": 1260
+        },
+        {
+            "word": "continental",
+            "score": 1257
+        },
+        {
+            "word": "group",
+            "score": 1248
+        },
+        {
+            "word": "ltd",
+            "score": 1247
+        },
+        {
+            "word": "mtv",
+            "score": 1242
+        },
+        {
+            "word": "marketing",
+            "score": 1238
+        },
+        {
+            "word": "hamilton",
+            "score": 1234
+        },
+        {
+            "word": "olympic",
+            "score": 1233
+        },
+        {
+            "word": "subsidiary",
+            "score": 1230
+        },
+        {
+            "word": "ride",
+            "score": 1217
+        },
+        {
+            "word": "world",
+            "score": 1215
+        },
+        {
+            "word": "mechanical",
+            "score": 1212
+        },
+        {
+            "word": "card",
+            "score": 1201
+        },
+        {
+            "word": "beat",
+            "score": 1184
+        },
+        {
+            "word": "usa",
+            "score": 1169
+        },
+        {
+            "word": "cards",
+            "score": 1168
+        },
+        {
+            "word": "consists",
+            "score": 1159
+        },
+        {
+            "word": "worldwide",
+            "score": 1152
+        },
+        {
+            "word": "champion",
+            "score": 1148
+        },
+        {
+            "word": "concept",
+            "score": 1145
+        },
+        {
+            "word": "piece",
+            "score": 1142
+        },
+        {
+            "word": "founder",
+            "score": 1138
+        },
+        {
+            "word": "product",
+            "score": 1137
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "swatch",
+            "score": 65164
+        },
+        {
+            "word": "swatches",
+            "score": 64748
+        },
+        {
+            "word": "switch",
+            "score": 2425
+        },
+        {
+            "word": "watch",
+            "score": 2266
+        },
+        {
+            "word": "swath",
+            "score": 1435
+        },
+        {
+            "word": "snatch",
+            "score": 1266
+        },
+        {
+            "word": "swathe",
+            "score": 998
+        },
+        {
+            "word": "satchel",
+            "score": 547
+        },
+        {
+            "word": "watchdog",
+            "score": 546
+        },
+        {
+            "word": "watchword",
+            "score": 481
+        }
+    ]
+}

@@ -1,0 +1,671 @@
+{
+    "term": "winky",
+    "means_like": [
+        {
+            "word": "elf",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teletubbies",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "winkie",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "winkey",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "wonky",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "wanky",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "winco",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "wankie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "wilkie",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "hinky",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "wilkey",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "willkie",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "wink",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "winks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "twinkie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiki",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "winked",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "twinky",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "winker",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wanka",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wicky",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "winx",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "winc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pinky",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yankee",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinkie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hunky",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "chinky",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "linky",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinkey",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rinky",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yankey",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yankie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "zinky",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "chinkie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wenk",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "wenke",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "hanky",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "honky",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "honkey",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "hankie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "hankey",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "wilco",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "honkie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "monkey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiskey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wacky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whisky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chunky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wanker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wank",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "winnie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "winkle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "swanky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "winking",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wakey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiney",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whacky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wookie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whinny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "walkie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "punky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiggy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wonga",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wicca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "winny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wanks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wingo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "winkel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wanke",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wookiee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wanked",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "punkie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "waki",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "waukee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "punkey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whimmy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "swankie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wink at",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "whipkey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "winken",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wynkoop",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wing case",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kinky",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanky",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cinco",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dinky",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "binky",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "panky",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinko",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "manky",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "pink eye",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "pinkeye",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "monkee",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dinkey",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "minka",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "pouncy",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "kinki",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "pnc",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dinkie",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ling ko",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhonchi",
+            "score": 83,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "winky",
+            "score": 64674
+        },
+        {
+            "word": "wonky",
+            "score": 3457
+        },
+        {
+            "word": "wink",
+            "score": 919
+        },
+        {
+            "word": "kinky",
+            "score": 849
+        },
+        {
+            "word": "windy",
+            "score": 632
+        },
+        {
+            "word": "pinky",
+            "score": 493
+        },
+        {
+            "word": "dinky",
+            "score": 394
+        },
+        {
+            "word": "inky",
+            "score": 390
+        },
+        {
+            "word": "hinky",
+            "score": 327
+        },
+        {
+            "word": "winey",
+            "score": 325
+        },
+        {
+            "word": "wingy",
+            "score": 218
+        },
+        {
+            "word": "binky",
+            "score": 188
+        },
+        {
+            "word": "winkey",
+            "score": 161
+        },
+        {
+            "word": "winy",
+            "score": 142
+        },
+        {
+            "word": "winks",
+            "score": 132
+        },
+        {
+            "word": "wanky",
+            "score": 108
+        },
+        {
+            "word": "linky",
+            "score": 88
+        },
+        {
+            "word": "winny",
+            "score": 75
+        },
+        {
+            "word": "zinky",
+            "score": 63
+        },
+        {
+            "word": "twinky",
+            "score": 59
+        },
+        {
+            "word": "rinky",
+            "score": 54
+        },
+        {
+            "word": "wicky",
+            "score": 43
+        },
+        {
+            "word": "minky",
+            "score": 6
+        },
+        {
+            "word": "winsky",
+            "score": 2
+        },
+        {
+            "word": "wisky",
+            "score": 1
+        },
+        {
+            "word": "zwinky",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "winky",
+            "score": 64674
+        },
+        {
+            "word": "wonky",
+            "score": 3457
+        },
+        {
+            "word": "wink",
+            "score": 919
+        },
+        {
+            "word": "kinky",
+            "score": 849
+        },
+        {
+            "word": "windy",
+            "score": 632
+        },
+        {
+            "word": "winkle",
+            "score": 512
+        },
+        {
+            "word": "pinky",
+            "score": 493
+        },
+        {
+            "word": "dinky",
+            "score": 394
+        },
+        {
+            "word": "inky",
+            "score": 390
+        },
+        {
+            "word": "hinky",
+            "score": 327
+        }
+    ]
+}

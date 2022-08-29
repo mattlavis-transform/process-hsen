@@ -1,0 +1,1766 @@
+{
+    "term": "latch",
+    "means_like": [
+        {
+            "word": "lock",
+            "score": 66487,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "coupler",
+            "score": 66297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bolt",
+            "score": 65789,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locking",
+            "score": 64838,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "locks",
+            "score": 64802,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fastener",
+            "score": 64382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lever",
+            "score": 64377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "door",
+            "score": 63778,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hook",
+            "score": 63427,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulkhead",
+            "score": 62055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keyhole",
+            "score": 61891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupling",
+            "score": 61109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caliper",
+            "score": 61038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pin",
+            "score": 60950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seal",
+            "score": 59883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooked",
+            "score": 59513,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "catch",
+            "score": 59270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shutter",
+            "score": 58838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealing",
+            "score": 58404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tensile",
+            "score": 58117,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bezel",
+            "score": 57917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skylight",
+            "score": 57794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hitch",
+            "score": 57659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exit",
+            "score": 57486,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shut",
+            "score": 57288,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shutoff",
+            "score": 57220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 57000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canopy",
+            "score": 56958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stopper",
+            "score": 56769,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lockdown",
+            "score": 55991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closeout",
+            "score": 55891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lockout",
+            "score": 55795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metallic",
+            "score": 55356,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "striker",
+            "score": 55317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shutdown",
+            "score": 55292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closes",
+            "score": 54856,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "clip",
+            "score": 54841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "together",
+            "score": 54656,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "close",
+            "score": 54609,
+            "tags": [
+                "adv",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "end",
+            "score": 54132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abandonment",
+            "score": 54088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closed",
+            "score": 54063,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "closing",
+            "score": 54063,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "whole",
+            "score": 53798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "termination",
+            "score": 53603,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closer",
+            "score": 53470,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "closure",
+            "score": 53338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 53106,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quit",
+            "score": 53063,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cutoff",
+            "score": 52629,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closures",
+            "score": 52510,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "close-out",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cut-off",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decommissioning",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock-in",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock-out",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shut-down",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shut-off",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foreclosure",
+            "score": 51103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hasp",
+            "score": 51102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deadbolt",
+            "score": 51101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "padlock",
+            "score": 51100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knob",
+            "score": 51097,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "detent",
+            "score": 51096,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "actuator",
+            "score": 51095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screw",
+            "score": 51094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hinge",
+            "score": 51093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clasp",
+            "score": 51092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swivel",
+            "score": 51091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rear",
+            "score": 51089,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "pintle",
+            "score": 51088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toggle switch",
+            "score": 51086,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doorknob",
+            "score": 51085,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latchstring",
+            "score": 51084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combination lock",
+            "score": 51083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valve",
+            "score": 51082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inlock",
+            "score": 51081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heelpost",
+            "score": 51079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunk lid",
+            "score": 51078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snap fastener",
+            "score": 51077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fastening",
+            "score": 51076,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ignition switch",
+            "score": 51075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retractor",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agraffe",
+            "score": 51073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabiner",
+            "score": 51072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "car door",
+            "score": 51071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatch",
+            "score": 51070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotter pin",
+            "score": 51069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gearstick",
+            "score": 51068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "straps",
+            "score": 51067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solenoid",
+            "score": 51066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jamb",
+            "score": 51065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slats",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiper motor",
+            "score": 51063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabineer",
+            "score": 51062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liftgate",
+            "score": 51061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stub axle",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clevis",
+            "score": 51059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwheel",
+            "score": 51058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tethers",
+            "score": 51057,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "latch",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "lach",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "lache",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "lash",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "leech",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "leach",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lich",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "luch",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "leche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "louche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lauch",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "letch",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "loach",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lauge",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "leetch",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "loche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "laiche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "leitch",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "liche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "luche",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lasch",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lack",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "leash",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ledge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lass",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lodge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lush",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lan",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lurch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lish",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lat",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "luge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "liege",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lac",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lav",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lige",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lak",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "latched",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lege",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lagh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "laz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "loge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lesh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lage",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lal",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lidge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lanch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lasse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "losh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "loosh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "klatch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "laq",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "flach",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lann",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "latt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lakh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "clatch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lahn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lasd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lej",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lacr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lesch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lerche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "laish",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "klatsch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lyche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "loesch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vlach",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lakke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "laque",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "losch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "slatch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lanl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lacc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "loje",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hatch",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yatch",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hach",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hache",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "louis",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "louie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "lewi",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "lewy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "lewey",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "lowy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "looey",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "laue",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "loewy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "clash",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "bleach",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ly",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cleche",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "-less",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "blitch",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "blash",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "-le",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cletch",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "latch",
+            "score": 65898
+        },
+        {
+            "word": "catch",
+            "score": 3976
+        },
+        {
+            "word": "match",
+            "score": 2753
+        },
+        {
+            "word": "watch",
+            "score": 2266
+        },
+        {
+            "word": "patch",
+            "score": 1932
+        },
+        {
+            "word": "hatch",
+            "score": 1568
+        },
+        {
+            "word": "batch",
+            "score": 1225
+        },
+        {
+            "word": "lath",
+            "score": 877
+        },
+        {
+            "word": "larch",
+            "score": 526
+        },
+        {
+            "word": "natch",
+            "score": 421
+        },
+        {
+            "word": "letch",
+            "score": 286
+        },
+        {
+            "word": "ratch",
+            "score": 253
+        },
+        {
+            "word": "klatch",
+            "score": 247
+        },
+        {
+            "word": "slatch",
+            "score": 199
+        },
+        {
+            "word": "yatch",
+            "score": 190
+        },
+        {
+            "word": "clatch",
+            "score": 126
+        },
+        {
+            "word": "lanch",
+            "score": 116
+        },
+        {
+            "word": "gatch",
+            "score": 98
+        },
+        {
+            "word": "atch",
+            "score": 81
+        },
+        {
+            "word": "lach",
+            "score": 81
+        },
+        {
+            "word": "tatch",
+            "score": 78
+        },
+        {
+            "word": "latah",
+            "score": 71
+        },
+        {
+            "word": "lauch",
+            "score": 67
+        },
+        {
+            "word": "lasch",
+            "score": 54
+        },
+        {
+            "word": "laich",
+            "score": 46
+        },
+        {
+            "word": "satch",
+            "score": 21
+        },
+        {
+            "word": "vatch",
+            "score": 5
+        },
+        {
+            "word": "datch",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "latching",
+            "score": 1714
+        },
+        {
+            "word": "nand",
+            "score": 1654
+        },
+        {
+            "word": "nipple",
+            "score": 1588
+        },
+        {
+            "word": "gated",
+            "score": 1571
+        },
+        {
+            "word": "rug",
+            "score": 1561
+        },
+        {
+            "word": "locking",
+            "score": 1541
+        },
+        {
+            "word": "retract",
+            "score": 1539
+        },
+        {
+            "word": "breech",
+            "score": 1525
+        },
+        {
+            "word": "clocked",
+            "score": 1518
+        },
+        {
+            "word": "hinge",
+            "score": 1513
+        },
+        {
+            "word": "hinged",
+            "score": 1502
+        },
+        {
+            "word": "lever",
+            "score": 1500
+        },
+        {
+            "word": "yarn",
+            "score": 1478
+        },
+        {
+            "word": "bolt",
+            "score": 1475
+        },
+        {
+            "word": "bayonet",
+            "score": 1468
+        },
+        {
+            "word": "hook",
+            "score": 1452
+        },
+        {
+            "word": "pins",
+            "score": 1449
+        },
+        {
+            "word": "trigger",
+            "score": 1447
+        },
+        {
+            "word": "onto",
+            "score": 1444
+        },
+        {
+            "word": "anchors",
+            "score": 1435
+        },
+        {
+            "word": "needle",
+            "score": 1433
+        },
+        {
+            "word": "persist",
+            "score": 1429
+        },
+        {
+            "word": "cam",
+            "score": 1424
+        },
+        {
+            "word": "gills",
+            "score": 1420
+        },
+        {
+            "word": "disclosure",
+            "score": 1411
+        },
+        {
+            "word": "inverted",
+            "score": 1409
+        },
+        {
+            "word": "electrically",
+            "score": 1407
+        },
+        {
+            "word": "lock",
+            "score": 1405
+        },
+        {
+            "word": "sealing",
+            "score": 1396
+        },
+        {
+            "word": "door",
+            "score": 1394
+        },
+        {
+            "word": "barrel",
+            "score": 1387
+        },
+        {
+            "word": "input",
+            "score": 1377
+        },
+        {
+            "word": "locked",
+            "score": 1375
+        },
+        {
+            "word": "kid",
+            "score": 1371
+        },
+        {
+            "word": "pin",
+            "score": 1368
+        },
+        {
+            "word": "plug",
+            "score": 1365
+        },
+        {
+            "word": "handle",
+            "score": 1361
+        },
+        {
+            "word": "manually",
+            "score": 1360
+        },
+        {
+            "word": "handles",
+            "score": 1357
+        },
+        {
+            "word": "hooks",
+            "score": 1356
+        },
+        {
+            "word": "revolver",
+            "score": 1355
+        },
+        {
+            "word": "clock",
+            "score": 1351
+        },
+        {
+            "word": "cylinder",
+            "score": 1349
+        },
+        {
+            "word": "connector",
+            "score": 1346
+        },
+        {
+            "word": "locks",
+            "score": 1336
+        },
+        {
+            "word": "transparent",
+            "score": 1335
+        },
+        {
+            "word": "pull",
+            "score": 1333
+        },
+        {
+            "word": "hood",
+            "score": 1330
+        },
+        {
+            "word": "pulling",
+            "score": 1326
+        },
+        {
+            "word": "mechanism",
+            "score": 1323
+        },
+        {
+            "word": "enable",
+            "score": 1313
+        },
+        {
+            "word": "sliding",
+            "score": 1311
+        },
+        {
+            "word": "coil",
+            "score": 1310
+        },
+        {
+            "word": "gates",
+            "score": 1308
+        },
+        {
+            "word": "folding",
+            "score": 1307
+        },
+        {
+            "word": "screw",
+            "score": 1306
+        },
+        {
+            "word": "processor",
+            "score": 1303
+        },
+        {
+            "word": "output",
+            "score": 1299
+        },
+        {
+            "word": "kits",
+            "score": 1294
+        },
+        {
+            "word": "triggered",
+            "score": 1285
+        },
+        {
+            "word": "bail",
+            "score": 1283
+        },
+        {
+            "word": "canvas",
+            "score": 1282
+        },
+        {
+            "word": "logical",
+            "score": 1272
+        },
+        {
+            "word": "receiver",
+            "score": 1270
+        },
+        {
+            "word": "button",
+            "score": 1266
+        },
+        {
+            "word": "blade",
+            "score": 1261
+        },
+        {
+            "word": "rotating",
+            "score": 1259
+        },
+        {
+            "word": "salmon",
+            "score": 1257
+        },
+        {
+            "word": "doors",
+            "score": 1254
+        },
+        {
+            "word": "signal",
+            "score": 1250
+        },
+        {
+            "word": "logic",
+            "score": 1246
+        },
+        {
+            "word": "loading",
+            "score": 1243
+        },
+        {
+            "word": "swing",
+            "score": 1239
+        },
+        {
+            "word": "hatch",
+            "score": 1238
+        },
+        {
+            "word": "steering",
+            "score": 1235
+        },
+        {
+            "word": "switch",
+            "score": 1232
+        },
+        {
+            "word": "keyboard",
+            "score": 1228
+        },
+        {
+            "word": "gate",
+            "score": 1224
+        },
+        {
+            "word": "incorporating",
+            "score": 1223
+        },
+        {
+            "word": "slam",
+            "score": 1221
+        },
+        {
+            "word": "shaft",
+            "score": 1219
+        },
+        {
+            "word": "configuration",
+            "score": 1214
+        },
+        {
+            "word": "mounted",
+            "score": 1211
+        },
+        {
+            "word": "pulled",
+            "score": 1206
+        },
+        {
+            "word": "pressed",
+            "score": 1205
+        },
+        {
+            "word": "frame",
+            "score": 1203
+        },
+        {
+            "word": "properly",
+            "score": 1199
+        },
+        {
+            "word": "feeding",
+            "score": 1197
+        },
+        {
+            "word": "counter",
+            "score": 1192
+        },
+        {
+            "word": "automatically",
+            "score": 1189
+        },
+        {
+            "word": "weapon",
+            "score": 1185
+        },
+        {
+            "word": "drives",
+            "score": 1182
+        },
+        {
+            "word": "voltage",
+            "score": 1180
+        },
+        {
+            "word": "tool",
+            "score": 1178
+        },
+        {
+            "word": "loose",
+            "score": 1176
+        },
+        {
+            "word": "activated",
+            "score": 1175
+        },
+        {
+            "word": "panel",
+            "score": 1172
+        },
+        {
+            "word": "key",
+            "score": 1170
+        },
+        {
+            "word": "firing",
+            "score": 1168
+        },
+        {
+            "word": "rear",
+            "score": 1167
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "latch",
+            "score": 65898
+        },
+        {
+            "word": "latchkey",
+            "score": 64893
+        },
+        {
+            "word": "latching",
+            "score": 64808
+        },
+        {
+            "word": "latchet",
+            "score": 64807
+        },
+        {
+            "word": "latched",
+            "score": 64779
+        },
+        {
+            "word": "latch on",
+            "score": 64776
+        },
+        {
+            "word": "latches",
+            "score": 64742
+        },
+        {
+            "word": "latchstring",
+            "score": 64718
+        },
+        {
+            "word": "latch onto",
+            "score": 64712
+        },
+        {
+            "word": "latchkey child",
+            "score": 64700
+        }
+    ]
+}

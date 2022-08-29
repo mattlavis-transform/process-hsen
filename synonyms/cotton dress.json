@@ -1,0 +1,822 @@
+{
+    "term": "cotton dress",
+    "means_like": [
+        {
+            "word": "cashmere",
+            "score": 28443,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lint",
+            "score": 28443,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paramatta",
+            "score": 28443,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sateen",
+            "score": 28443,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lace",
+            "score": 28368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silesia",
+            "score": 28368,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "slop",
+            "score": 28368,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gloria",
+            "score": 28043,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hernani",
+            "score": 28043,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mohair",
+            "score": 28043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pledget",
+            "score": 28043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scutch",
+            "score": 28043,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 28043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brushed",
+            "score": 27968,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cheongsam",
+            "score": 27968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "madras",
+            "score": 27968,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pique",
+            "score": 27968,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sari",
+            "score": 27968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "service uniform",
+            "score": 27968
+        },
+        {
+            "word": "slopped",
+            "score": 27968,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slops",
+            "score": 27968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balzarine",
+            "score": 27951
+        },
+        {
+            "word": "lawm",
+            "score": 27951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "melange",
+            "score": 27951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camlet",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comb",
+            "score": 11643,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "combatively",
+            "score": 11643,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "combed",
+            "score": 11643,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "grenadine",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grisaille",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambskin",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muslin",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxford",
+            "score": 11643,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 11643,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rolled",
+            "score": 11643,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shawl",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swans-down",
+            "score": 11643
+        },
+        {
+            "word": "tricot",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voile",
+            "score": 11643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black",
+            "score": 11575,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "delaine",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doff",
+            "score": 11575,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gabardine",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rayon",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sock",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strip",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stripped",
+            "score": 11575,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tail",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wool",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandage",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandaged",
+            "score": 11568,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bandaging",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banian",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caftan",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crepe",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crinoline",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dupatta",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etamine",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "georgette",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ihram",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "izar",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kaftan",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kerchief",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lawn",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nap",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "net",
+            "score": 11568,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "organza",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pajamas",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poplin",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "print",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rag",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ragging",
+            "score": 11568,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sarin",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sarong",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satin",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleeve",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vest",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "band",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banded",
+            "score": 11500,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "banked",
+            "score": 11500,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "belt",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brilliant",
+            "score": 11500,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "broach",
+            "score": 11500,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "broached",
+            "score": 11500,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bundle",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamois",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crush",
+            "score": 11500,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "devil",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "draft",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drafted",
+            "score": 11500,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "footing",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 11500,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gaberdine",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hack",
+            "score": 11500,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hacking",
+            "score": 11500,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "mill",
+            "score": 11500,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cut and dry",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cotton rose",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cat and rat",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cotton grass",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "latendresse",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "crds",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "chitinous",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cassandras",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "coetaneous",
+            "score": 72,
+            "numSyllables": 4
+        },
+        {
+            "word": "qataris",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "contrasts",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cat and mouse",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cocktail dress",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "colanders",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cottoned",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "cotton press",
+            "score": 64660
+        },
+        {
+            "word": "cotton grass",
+            "score": 29
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "cotton press",
+            "score": 64660
+        },
+        {
+            "word": "cotton grass",
+            "score": 29
+        },
+        {
+            "word": "mutton dressed as lamb",
+            "score": 10
+        },
+        {
+            "word": "cotton grasses",
+            "score": 6
+        }
+    ]
+}

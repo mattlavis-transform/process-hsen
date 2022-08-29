@@ -1,0 +1,1586 @@
+{
+    "term": "teapot",
+    "means_like": [
+        {
+            "word": "teacup",
+            "score": 69799,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 64434,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 63489,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vase",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeepot",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tureen",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jug",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porcelain",
+            "score": 51270,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "saucer",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teakettle",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decanter",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earthenware",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "samovar",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stoneware",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demitasse",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pottery",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cruet",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carafe",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ewer",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon squeezer",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figurine",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pepper shaker",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trivet",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaker",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankard",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pewter",
+            "score": 51252,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "creamware",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mason jar",
+            "score": 51250,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flatware",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee mug",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ladle",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enamelware",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "urn",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone china",
+            "score": 51243,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flowerpot",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teacups",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea service",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goblets",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candleholder",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "finial",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea caddy",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brandy snifter",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jardiniere",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea urn",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epergne",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jar",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail shaker",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pots",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloisonne",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bombe",
+            "score": 51226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faience",
+            "score": 51225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chandelier",
+            "score": 51224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperweight",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lantern",
+            "score": 51222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flask",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "china",
+            "score": 51220,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "redware",
+            "score": 51219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demilune",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "majolica",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamer",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water jug",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vermeil",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornament",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wicker basket",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "china cabinet",
+            "score": 51211,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thimble",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underglaze",
+            "score": 51209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphora",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "repousse",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doily",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vitrine",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kettle",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pail",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footstool",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soup ladle",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scepter",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washstand",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potholder",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compote",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spittoon",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chafing dish",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea trolley",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parasol",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea wagon",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steamer",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enameled",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eggcup",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candlesticks",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverplate",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lampshade",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candelabra",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potlid",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alabaster",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inkwell",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermos flask",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea cart",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "teapot",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "tea pot",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "tap out",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "top out",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "tape out",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "tippet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "teapots",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tappet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tippett",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "toupet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "topit",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tippit",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapat",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tebet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapit",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "topete",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tappit",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tipit",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "to put",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapete",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "stewpot",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "teepee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "taped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tibet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "typed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tipped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "topped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tepid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "twp",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tipi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tpe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teepees",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tipo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "two-bit",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "two bit",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "toped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "topknot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dip out",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tosspot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tobit",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "to boot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "towboat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tibbett",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tibit",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tipt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "to beat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ttp",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tupped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tinpot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "toupeed",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "t.p",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "t p",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "teapoy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tvp",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "two part",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "step out",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "trip out",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "stop out",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "teachout",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapped out",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "twat",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "twot",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "teethed",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "hop out",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "taipei",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "steeped",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "tapa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "autobot",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "tapia",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "stop it",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "brk",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "tapi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "t dot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stay put",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "tabooed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "t-bar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "debout",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "keep out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "tabbert",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "tapio",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "tai pei",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ship out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "t bird",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "taat",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "t bar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "tabid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "taipa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "leap out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "t b",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "taipeh",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "teapot",
+            "score": 64985
+        },
+        {
+            "word": "teapoy",
+            "score": 321
+        },
+        {
+            "word": "tea pot",
+            "score": 20
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "teacup",
+            "score": 1791
+        },
+        {
+            "word": "spout",
+            "score": 1738
+        },
+        {
+            "word": "cosy",
+            "score": 1699
+        },
+        {
+            "word": "dome",
+            "score": 1639
+        },
+        {
+            "word": "quince",
+            "score": 1622
+        },
+        {
+            "word": "philosophic",
+            "score": 1601
+        },
+        {
+            "word": "scandal",
+            "score": 1594
+        },
+        {
+            "word": "gong",
+            "score": 1526
+        },
+        {
+            "word": "tea",
+            "score": 1520
+        },
+        {
+            "word": "watergate",
+            "score": 1515
+        },
+        {
+            "word": "jug",
+            "score": 1505
+        },
+        {
+            "word": "harding",
+            "score": 1494
+        },
+        {
+            "word": "pouring",
+            "score": 1490
+        },
+        {
+            "word": "kettle",
+            "score": 1481
+        },
+        {
+            "word": "bribery",
+            "score": 1480
+        },
+        {
+            "word": "sinclair",
+            "score": 1478
+        },
+        {
+            "word": "analogy",
+            "score": 1474
+        },
+        {
+            "word": "lid",
+            "score": 1467
+        },
+        {
+            "word": "coolidge",
+            "score": 1442
+        },
+        {
+            "word": "poured",
+            "score": 1436
+        },
+        {
+            "word": "pots",
+            "score": 1420
+        },
+        {
+            "word": "elk",
+            "score": 1412
+        },
+        {
+            "word": "porcelain",
+            "score": 1407
+        },
+        {
+            "word": "ceramic",
+            "score": 1401
+        },
+        {
+            "word": "cube",
+            "score": 1386
+        },
+        {
+            "word": "wyoming",
+            "score": 1382
+        },
+        {
+            "word": "boiling",
+            "score": 1379
+        },
+        {
+            "word": "pour",
+            "score": 1366
+        },
+        {
+            "word": "brewing",
+            "score": 1359
+        },
+        {
+            "word": "ned",
+            "score": 1351
+        },
+        {
+            "word": "leningrad",
+            "score": 1343
+        },
+        {
+            "word": "ware",
+            "score": 1342
+        },
+        {
+            "word": "burden",
+            "score": 1336
+        },
+        {
+            "word": "ceramics",
+            "score": 1333
+        },
+        {
+            "word": "cups",
+            "score": 1328
+        },
+        {
+            "word": "egg",
+            "score": 1319
+        },
+        {
+            "word": "invisible",
+            "score": 1312
+        },
+        {
+            "word": "handle",
+            "score": 1311
+        },
+        {
+            "word": "coined",
+            "score": 1294
+        },
+        {
+            "word": "petroleum",
+            "score": 1291
+        },
+        {
+            "word": "concentrate",
+            "score": 1287
+        },
+        {
+            "word": "brass",
+            "score": 1281
+        },
+        {
+            "word": "warren",
+            "score": 1278
+        },
+        {
+            "word": "philosopher",
+            "score": 1275
+        },
+        {
+            "word": "pottery",
+            "score": 1254
+        },
+        {
+            "word": "atomic",
+            "score": 1248
+        },
+        {
+            "word": "sugar",
+            "score": 1244
+        },
+        {
+            "word": "chester",
+            "score": 1242
+        },
+        {
+            "word": "casting",
+            "score": 1240
+        },
+        {
+            "word": "oil",
+            "score": 1232
+        },
+        {
+            "word": "nevada",
+            "score": 1231
+        },
+        {
+            "word": "drink",
+            "score": 1229
+        },
+        {
+            "word": "proof",
+            "score": 1225
+        },
+        {
+            "word": "tale",
+            "score": 1222
+        },
+        {
+            "word": "industries",
+            "score": 1215
+        },
+        {
+            "word": "object",
+            "score": 1211
+        },
+        {
+            "word": "shape",
+            "score": 1207
+        },
+        {
+            "word": "alice",
+            "score": 1206
+        },
+        {
+            "word": "graphics",
+            "score": 1201
+        },
+        {
+            "word": "albert",
+            "score": 1198
+        },
+        {
+            "word": "kitchen",
+            "score": 1194
+        },
+        {
+            "word": "coffee",
+            "score": 1190
+        },
+        {
+            "word": "affair",
+            "score": 1185
+        },
+        {
+            "word": "russell",
+            "score": 1177
+        },
+        {
+            "word": "reserves",
+            "score": 1176
+        },
+        {
+            "word": "interior",
+            "score": 1172
+        },
+        {
+            "word": "clay",
+            "score": 1170
+        },
+        {
+            "word": "supposed",
+            "score": 1169
+        },
+        {
+            "word": "reference",
+            "score": 1165
+        },
+        {
+            "word": "bowl",
+            "score": 1162
+        },
+        {
+            "word": "harry",
+            "score": 1155
+        },
+        {
+            "word": "fall",
+            "score": 1154
+        },
+        {
+            "word": "dynasty",
+            "score": 1151
+        },
+        {
+            "word": "diameter",
+            "score": 1147
+        },
+        {
+            "word": "virgin",
+            "score": 1146
+        },
+        {
+            "word": "nuclear",
+            "score": 1143
+        },
+        {
+            "word": "computer",
+            "score": 1142
+        },
+        {
+            "word": "http",
+            "score": 1134
+        },
+        {
+            "word": "www",
+            "score": 1131
+        },
+        {
+            "word": "utah",
+            "score": 1129
+        },
+        {
+            "word": "strategic",
+            "score": 1127
+        },
+        {
+            "word": "something",
+            "score": 1126
+        },
+        {
+            "word": "trophy",
+            "score": 1124
+        },
+        {
+            "word": "tim",
+            "score": 1119
+        },
+        {
+            "word": "existence",
+            "score": 1117
+        },
+        {
+            "word": "administration",
+            "score": 1115
+        },
+        {
+            "word": "flying",
+            "score": 1114
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "teapot",
+            "score": 64985
+        },
+        {
+            "word": "teapots",
+            "score": 64710
+        },
+        {
+            "word": "teapot dome scandal",
+            "score": 64693
+        },
+        {
+            "word": "teapot dome",
+            "score": 64686
+        },
+        {
+            "word": "teapoy",
+            "score": 321
+        },
+        {
+            "word": "tapotement",
+            "score": 73
+        },
+        {
+            "word": "tea pot",
+            "score": 20
+        },
+        {
+            "word": "teapoys",
+            "score": 20
+        },
+        {
+            "word": "tea pot dome",
+            "score": 7
+        }
+    ]
+}

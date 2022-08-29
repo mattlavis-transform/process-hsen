@@ -1,0 +1,942 @@
+{
+    "term": "wa",
+    "means_like": [
+        {
+            "word": "tha",
+            "score": 44568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pls",
+            "score": 38526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heh",
+            "score": 38178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "layla",
+            "score": 33352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rewind",
+            "score": 26364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bantu",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "booboisie",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ese",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hallstatt",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mossad",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sangfroid",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shan state",
+            "score": 6364
+        },
+        {
+            "word": "taiko",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washington",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "watergate",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "waterloo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ay",
+            "score": 5304,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "arid",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ba",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bo",
+            "score": 5060,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 5060,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ch",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cha",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "da",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ga",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "go",
+            "score": 5060,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ha",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "i",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ia",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ie",
+            "score": 5060,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "j",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ja",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ka",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ke",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ko",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "l",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ma",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mo",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ne",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oo",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pa",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pe",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "po",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "put",
+            "score": 5060,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ra",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ri",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ro",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sa",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "suffix",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tack",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "take",
+            "score": 5060,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "te",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wi",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "wa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wah",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "waa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "whaa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "whah",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "waaa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "uaa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wow",
+            "score": 99,
+            "numSyllables": 1
+        },
+        {
+            "word": "wau",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "waugh",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "waw",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wawe",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wao",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "uaw",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "uau",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "waow",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "way",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "why",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "we",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "y",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weigh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whoa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wii",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wha",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whew",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whoo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "oui",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wth",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "uou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "www",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whow",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "uoi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "waye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wew",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wuh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wto",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "uoy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwii",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wse",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wiehe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wny",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wte",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wyh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wowe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woww",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woha",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wtoo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wft",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wta",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wiu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wju",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wayi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wti",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wuo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwk",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wej",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wgi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "uoe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wce",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wfy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wsw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ya",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "yah",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ja",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "yaa",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ha",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "hah",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "haa",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "hha",
+            "score": 91,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "wa",
+            "score": 413
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "water",
+            "score": 6937
+        },
+        {
+            "word": "way",
+            "score": 6428
+        },
+        {
+            "word": "wave",
+            "score": 4061
+        },
+        {
+            "word": "war",
+            "score": 3979
+        },
+        {
+            "word": "wake",
+            "score": 2929
+        },
+        {
+            "word": "warmth",
+            "score": 2612
+        },
+        {
+            "word": "wall",
+            "score": 2568
+        },
+        {
+            "word": "watch",
+            "score": 2266
+        },
+        {
+            "word": "wary",
+            "score": 2265
+        },
+        {
+            "word": "walk",
+            "score": 2244
+        }
+    ]
+}

@@ -1,0 +1,1005 @@
+{
+    "term": "baby food",
+    "means_like": [
+        {
+            "word": "puree",
+            "score": 50309,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pap",
+            "score": 49109,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pablum",
+            "score": 48309,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pabulum",
+            "score": 48309,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "foods",
+            "score": 48191,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "foodstuff",
+            "score": 48191,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 29109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strained",
+            "score": 28579,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "formula",
+            "score": 28309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poi",
+            "score": 28309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 28309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weaning",
+            "score": 28309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instinct",
+            "score": 28297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jar",
+            "score": 28297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mama",
+            "score": 28297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ricer",
+            "score": 28297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strain",
+            "score": 28297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beechnut",
+            "score": 28179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bland",
+            "score": 28179,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinky",
+            "score": 28179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weans",
+            "score": 28179,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "ablactation",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "animal",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bun",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chicken",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "egg",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feeder",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "have",
+            "score": 11909,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hold",
+            "score": 11909,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "honey",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jelly",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kid",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lactose",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milk",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nurse",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "placenta",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poo",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 11909,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "suck",
+            "score": 11909,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "throw",
+            "score": 11909,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tooth",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "veal",
+            "score": 11909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramel",
+            "score": 11897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chitty",
+            "score": 11897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuscus",
+            "score": 11897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamb",
+            "score": 11897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "little",
+            "score": 11897,
+            "tags": [
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "pusher",
+            "score": 11897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squab",
+            "score": 11897,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "young",
+            "score": 11897,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "advent",
+            "score": 11862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eaten",
+            "score": 11862,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fry",
+            "score": 11862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pamper",
+            "score": 11862,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "peanut",
+            "score": 11862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snapper",
+            "score": 11862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stock",
+            "score": 11862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tater",
+            "score": 11862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crow",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "det",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drool",
+            "score": 11850,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eyes",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flora",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "give",
+            "score": 11850,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "imp",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legs",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lover",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mine",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napkin",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nestle",
+            "score": 11850,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "pregnant",
+            "score": 11850,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ruth",
+            "score": 11850,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11850,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sets",
+            "score": 11850,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "spoil",
+            "score": 11850,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "teeth",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 11850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diarrhea",
+            "score": 11791,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "murphy",
+            "score": 11744,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 11732,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prepared",
+            "score": 11732,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "seedling",
+            "score": 11732,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anne",
+            "score": 10885,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arian",
+            "score": 10885,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "boom",
+            "score": 10885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 10885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle-feed",
+            "score": 10885,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "brat",
+            "score": 10885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breast-feed",
+            "score": 10885
+        },
+        {
+            "word": "burp",
+            "score": 10885,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "burping",
+            "score": 10885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "call",
+            "score": 10885,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 10885,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "change",
+            "score": 10885,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "changeling",
+            "score": 10885,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "baby food",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby fat",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "babied",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "babyface",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby face",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "babyhood",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby faced",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "babyfather",
+            "score": 76,
+            "numSyllables": 4
+        },
+        {
+            "word": "babysit",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby-sit",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "babysat",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby shoe",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby sat",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "buy food",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "baby sit",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby bed",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "puppy fat",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babies",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babys",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babie",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bubbled",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babbled",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "buffeted",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babyish",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bobble head",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "boy band",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobbled",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bfd",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "babying",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bebout",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bcbg",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "brain food",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "baby tooth",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bifid",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "btk",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "babiest",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby powder",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "bobbio",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "baby food",
+            "score": 129337
+        },
+        {
+            "word": "baby foot",
+            "score": 64677
+        },
+        {
+            "word": "babyhood",
+            "score": 100
+        },
+        {
+            "word": "baby boom",
+            "score": 97
+        },
+        {
+            "word": "baby bond",
+            "score": 42
+        },
+        {
+            "word": "buy food",
+            "score": 18
+        },
+        {
+            "word": "baby-foot",
+            "score": 17
+        },
+        {
+            "word": "baby book",
+            "score": 3
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "baby food",
+            "score": 129337
+        },
+        {
+            "word": "baby foot",
+            "score": 64677
+        },
+        {
+            "word": "baby boomer",
+            "score": 463
+        },
+        {
+            "word": "babyhood",
+            "score": 100
+        },
+        {
+            "word": "baby boom",
+            "score": 97
+        },
+        {
+            "word": "baby powder",
+            "score": 82
+        },
+        {
+            "word": "baby bond",
+            "score": 42
+        },
+        {
+            "word": "baby boomers",
+            "score": 42
+        },
+        {
+            "word": "baby tooth",
+            "score": 25
+        },
+        {
+            "word": "buy food",
+            "score": 18
+        }
+    ]
+}

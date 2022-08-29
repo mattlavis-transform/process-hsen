@@ -1,0 +1,866 @@
+{
+    "term": "boat parts",
+    "means_like": [
+        {
+            "word": "hull",
+            "score": 129343,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "keel",
+            "score": 128343,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mast",
+            "score": 127343,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "sail",
+            "score": 126343,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rudder",
+            "score": 125343,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "keelson",
+            "score": 123343,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "keelboat",
+            "score": 122343,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "coracle",
+            "score": 29343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stern",
+            "score": 28143,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "wherry",
+            "score": 28130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boatbill",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panga",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polyester",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scaphoid",
+            "score": 28038,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shout",
+            "score": 28038,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "shouted",
+            "score": 28038,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shouting",
+            "score": 28038,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "anchor",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchoring",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "battery",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bilge",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bill",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottom",
+            "score": 11743,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bottoms",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brail",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 11743,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "chine",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cock",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "construction",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cordage",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crack",
+            "score": 11743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dock",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dory",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "double",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fall",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "four",
+            "score": 11743,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ground",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heel",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heeled",
+            "score": 11743,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "heels",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hood",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "house",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intercostal",
+            "score": 11743,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "junk",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knot",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knuckle",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "land",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapped",
+            "score": 11743,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lay",
+            "score": 11743,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "leg",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liner",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock",
+            "score": 11743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "locking",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locks",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "man",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mill",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moor",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nose",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 11743,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "over",
+            "score": 11743,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "pair",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peg",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pier",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pilot",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pin",
+            "score": 11743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rails",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "range",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ranged",
+            "score": 11743,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ranging",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "registered",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "salvage",
+            "score": 11743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sharp",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shear",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheared",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shell",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shipwreck",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "side",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "single",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "singling",
+            "score": 11743,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 11743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sole",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stanch",
+            "score": 11743,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stocks",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trim",
+            "score": 11743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bit part",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "body parts",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "beaux arts",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "best part",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beach party",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "popart",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "boy shorts",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bayport",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bonaparte",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "passports",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "barts",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "body part",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "boatyard",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bartz",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "body art",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bogarts",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "boat race",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bid price",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedposts",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "breitbart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bass part",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "body parts",
+            "score": 21
+        },
+        {
+            "word": "bit parts",
+            "score": 5
+        },
+        {
+            "word": "soft parts",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "body parts",
+            "score": 21
+        },
+        {
+            "word": "bit parts",
+            "score": 5
+        },
+        {
+            "word": "soft parts",
+            "score": 2
+        }
+    ]
+}

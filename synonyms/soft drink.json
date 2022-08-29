@@ -1,0 +1,817 @@
+{
+    "term": "soft drink",
+    "means_like": [
+        {
+            "word": "soda",
+            "score": 81036,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "cola",
+            "score": 81035,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "beverage",
+            "score": 81034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda pop",
+            "score": 81033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beer",
+            "score": 81032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coca cola",
+            "score": 81031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruit juice",
+            "score": 81030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snapple",
+            "score": 81029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alcoholic beverage",
+            "score": 81028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noncarbonated",
+            "score": 81027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottler",
+            "score": 81026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snack",
+            "score": 81025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pepsi",
+            "score": 81024,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "orange juice",
+            "score": 81023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "juice",
+            "score": 81022,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "vodka",
+            "score": 81021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nonalcoholic",
+            "score": 81020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cream soda",
+            "score": 81019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemonade",
+            "score": 81018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee",
+            "score": 81017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orangeade",
+            "score": 81016,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "ice cream",
+            "score": 81015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugary",
+            "score": 81014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liquor",
+            "score": 81013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milkshake",
+            "score": 81012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pepsi cola",
+            "score": 81011,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "orange soda",
+            "score": 81010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drinks",
+            "score": 81009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottled water",
+            "score": 81008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confectionary",
+            "score": 81007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confectionery",
+            "score": 81006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carbonated",
+            "score": 81005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kvass",
+            "score": 81004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "club soda",
+            "score": 81003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ketchup",
+            "score": 81002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cigarette",
+            "score": 81001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruit cup",
+            "score": 81000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vending machine",
+            "score": 80999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biscuit",
+            "score": 80998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iced coffee",
+            "score": 80997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scotch whiskey",
+            "score": 80996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seltzer water",
+            "score": 80995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brewer",
+            "score": 80994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogurt",
+            "score": 80993,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smoothie",
+            "score": 80992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iced tea",
+            "score": 80991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "schweppes",
+            "score": 80990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kvas",
+            "score": 80989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cereal",
+            "score": 80988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lager",
+            "score": 80987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milk",
+            "score": 80986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sodaic",
+            "score": 80985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popcorn",
+            "score": 80984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate",
+            "score": 80983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy",
+            "score": 80982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uncarbonated",
+            "score": 80981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potato chip",
+            "score": 80980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tobacco",
+            "score": 80979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chewing gum",
+            "score": 80978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donut",
+            "score": 80977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crisps",
+            "score": 80976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee liqueur",
+            "score": 80975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limeade",
+            "score": 80974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yoghurt",
+            "score": 80973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apple juice",
+            "score": 80972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whiskey",
+            "score": 80971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollies",
+            "score": 80970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roy rogers",
+            "score": 80969,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "malted milk",
+            "score": 80968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corn syrup",
+            "score": 80967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugarless",
+            "score": 80966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sachet",
+            "score": 80965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetener",
+            "score": 80964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coke",
+            "score": 80963,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "syrup",
+            "score": 80962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweets",
+            "score": 80961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "french fries",
+            "score": 80960,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drink",
+            "score": 80959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottling plant",
+            "score": 80958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rum",
+            "score": 80957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "digestive biscuit",
+            "score": 80956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soymilk",
+            "score": 80955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tomato ketchup",
+            "score": 80954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tequila",
+            "score": 80953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noncaloric",
+            "score": 80952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soya milk",
+            "score": 80951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zubrowka",
+            "score": 80950,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "deodorant",
+            "score": 80949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ginger ale",
+            "score": 80948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salad dressing",
+            "score": 80947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tonic water",
+            "score": 80946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carton",
+            "score": 80945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malt",
+            "score": 80944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icecream",
+            "score": 80943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catsup",
+            "score": 80942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ovaltine",
+            "score": 80941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unsweetened",
+            "score": 80940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "herbal tea",
+            "score": 80939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "granola bar",
+            "score": 80938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyclamate",
+            "score": 80937,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "soft drink",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "softdrink",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft drinks",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft drug",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft rock",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft tick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "soldering",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sodding",
+            "score": 60,
+            "numSyllables": 2
+        },
+        {
+            "word": "saric",
+            "score": 60,
+            "numSyllables": 2
+        },
+        {
+            "word": "sodic",
+            "score": 60,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "soft drink",
+            "score": 129487
+        },
+        {
+            "word": "softdrink",
+            "score": 64683
+        },
+        {
+            "word": "soft-drink",
+            "score": 64668
+        },
+        {
+            "word": "soft drinks",
+            "score": 21
+        },
+        {
+            "word": "soft link",
+            "score": 9
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "soft drink",
+            "score": 129487
+        },
+        {
+            "word": "soft drinks",
+            "score": 129339
+        },
+        {
+            "word": "softdrink",
+            "score": 64683
+        },
+        {
+            "word": "soft-drink",
+            "score": 64668
+        },
+        {
+            "word": "soft link",
+            "score": 9
+        },
+        {
+            "word": "safe drinking water act",
+            "score": 1
+        }
+    ]
+}

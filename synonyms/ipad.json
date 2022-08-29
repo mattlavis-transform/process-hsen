@@ -1,0 +1,1643 @@
+{
+    "term": "ipad",
+    "means_like": [
+        {
+            "word": "company",
+            "score": 55590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firm",
+            "score": 53295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iphone",
+            "score": 51363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ipod",
+            "score": 51362,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "smartphone",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tablet",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "app",
+            "score": 51359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "netbook",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imac",
+            "score": 51357,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ibook",
+            "score": 51356,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apps",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gadget",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchscreen",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ios",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trackpad",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handset",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "android",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ebook",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchpad",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multitasking",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desktop",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "device",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handheld",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gizmo",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "samsung",
+            "score": 51339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "keyboard",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iliad",
+            "score": 51337,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "qwerty",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ipods",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "itunes",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wifi",
+            "score": 51333,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iad",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "palmtop",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "precentral",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ilife",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "styli",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eees",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "env",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flybook",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waterfield",
+            "score": 51324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clix",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "winx",
+            "score": 51322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "powerbook",
+            "score": 51321,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "isee",
+            "score": 51320,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pocket edition",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redberry",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cameraphone",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "syncing",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "widgets",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "qwerty keyboard",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autocorrect",
+            "score": 51313,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "consoles",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gigabyte",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gamecube",
+            "score": 51310,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "accelerometer",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treo",
+            "score": 51308,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "browser",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photogene",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookstand",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earbuds",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "user interface",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lycosa",
+            "score": 51302,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "forstall",
+            "score": 51301,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "miq",
+            "score": 51300,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "phones",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "migo",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "technophile",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "htc",
+            "score": 51296,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wordprocessing",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doodad",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clamshell",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capacitive",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "web browser",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "geck",
+            "score": 51290,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "yahtzee",
+            "score": 51289,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cinematize",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wii",
+            "score": 51287,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bravia",
+            "score": 51286,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ymmv",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gen",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardcover",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacebar",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belight",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "podcasting",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "froyo",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mju",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sodoku",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickstand",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pentile",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downloads",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toshiba",
+            "score": 51273,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "notebooks",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tethering",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entune",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filofax",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ppi",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lenovo",
+            "score": 51267,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ikon",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "ipad",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipod",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "i pod",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ibad",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipads",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "iad",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ibid",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ayad",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "thigh pad",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ypight",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "iput",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aivd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ipet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "oped",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "spad",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "apid",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "epid",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "epode",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipid",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "apud",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "opad",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "apod",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "op ed",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "dpad",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "epod",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ip",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lipid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iod",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipods",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eyepatch",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "my bad",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "i would",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ypo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipoh",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eye patch",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipass",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ypa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "speed",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "abode",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abide",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "spade",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spat",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spud",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "sped",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "obeyed",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "spied",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spayed",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spead",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "abed",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "keypad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abid",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ebbed",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apat",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "aubade",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "spid",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spaid",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "aboud",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "kneepad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "knee pad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abade",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apit",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "spode",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "abboud",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abood",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abod",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "upd",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "opd",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "obeid",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "opit",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "opet",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipd",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spod",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "abat",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "key pad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ohad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apd",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "bvd",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ebed",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "eppard",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apet",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "abud",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "epeat",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "epit",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "spaed",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "joypad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "spede",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "obad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "epd",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "spyd",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "appete",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ayat",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "diad",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "biad",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aipac",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aibo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aiit",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "ipad",
+            "score": 240
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "ipod",
+            "score": 1755
+        },
+        {
+            "word": "iphone",
+            "score": 1697
+        },
+        {
+            "word": "ios",
+            "score": 1641
+        },
+        {
+            "word": "app",
+            "score": 1626
+        },
+        {
+            "word": "mini",
+            "score": 1621
+        },
+        {
+            "word": "android",
+            "score": 1619
+        },
+        {
+            "word": "kindle",
+            "score": 1609
+        },
+        {
+            "word": "blackberry",
+            "score": 1578
+        },
+        {
+            "word": "apps",
+            "score": 1569
+        },
+        {
+            "word": "siri",
+            "score": 1567
+        },
+        {
+            "word": "retina",
+            "score": 1559
+        },
+        {
+            "word": "tablet",
+            "score": 1550
+        },
+        {
+            "word": "nook",
+            "score": 1538
+        },
+        {
+            "word": "crm",
+            "score": 1535
+        },
+        {
+            "word": "tablets",
+            "score": 1527
+        },
+        {
+            "word": "apple",
+            "score": 1520
+        },
+        {
+            "word": "lte",
+            "score": 1519
+        },
+        {
+            "word": "touch",
+            "score": 1500
+        },
+        {
+            "word": "bluetooth",
+            "score": 1448
+        },
+        {
+            "word": "connector",
+            "score": 1428
+        },
+        {
+            "word": "pos",
+            "score": 1422
+        },
+        {
+            "word": "laptop",
+            "score": 1419
+        },
+        {
+            "word": "adapter",
+            "score": 1408
+        },
+        {
+            "word": "devices",
+            "score": 1404
+        },
+        {
+            "word": "smartphone",
+            "score": 1393
+        },
+        {
+            "word": "processor",
+            "score": 1391
+        },
+        {
+            "word": "keynote",
+            "score": 1384
+        },
+        {
+            "word": "desktop",
+            "score": 1380
+        },
+        {
+            "word": "safari",
+            "score": 1377
+        },
+        {
+            "word": "mac",
+            "score": 1369
+        },
+        {
+            "word": "compatible",
+            "score": 1355
+        },
+        {
+            "word": "browser",
+            "score": 1351
+        },
+        {
+            "word": "adobe",
+            "score": 1340
+        },
+        {
+            "word": "generation",
+            "score": 1329
+        },
+        {
+            "word": "mobile",
+            "score": 1326
+        },
+        {
+            "word": "device",
+            "score": 1324
+        },
+        {
+            "word": "google",
+            "score": 1322
+        },
+        {
+            "word": "usb",
+            "score": 1315
+        },
+        {
+            "word": "pro",
+            "score": 1311
+        },
+        {
+            "word": "xbox",
+            "score": 1307
+        },
+        {
+            "word": "cellular",
+            "score": 1303
+        },
+        {
+            "word": "phone",
+            "score": 1299
+        },
+        {
+            "word": "application",
+            "score": 1294
+        },
+        {
+            "word": "windows",
+            "score": 1290
+        },
+        {
+            "word": "interface",
+            "score": 1288
+        },
+        {
+            "word": "cpu",
+            "score": 1285
+        },
+        {
+            "word": "galaxy",
+            "score": 1282
+        },
+        {
+            "word": "interactive",
+            "score": 1279
+        },
+        {
+            "word": "facebook",
+            "score": 1277
+        },
+        {
+            "word": "puzzle",
+            "score": 1275
+        },
+        {
+            "word": "updates",
+            "score": 1274
+        },
+        {
+            "word": "update",
+            "score": 1272
+        },
+        {
+            "word": "amazon",
+            "score": 1269
+        },
+        {
+            "word": "smart",
+            "score": 1266
+        },
+        {
+            "word": "dock",
+            "score": 1261
+        },
+        {
+            "word": "lightning",
+            "score": 1258
+        },
+        {
+            "word": "wii",
+            "score": 1255
+        },
+        {
+            "word": "streaming",
+            "score": 1253
+        },
+        {
+            "word": "functionality",
+            "score": 1252
+        },
+        {
+            "word": "store",
+            "score": 1251
+        },
+        {
+            "word": "chip",
+            "score": 1249
+        },
+        {
+            "word": "subscription",
+            "score": 1248
+        },
+        {
+            "word": "computers",
+            "score": 1243
+        },
+        {
+            "word": "hardware",
+            "score": 1242
+        },
+        {
+            "word": "screen",
+            "score": 1240
+        },
+        {
+            "word": "wireless",
+            "score": 1237
+        },
+        {
+            "word": "keyboard",
+            "score": 1234
+        },
+        {
+            "word": "classroom",
+            "score": 1233
+        },
+        {
+            "word": "applications",
+            "score": 1231
+        },
+        {
+            "word": "photos",
+            "score": 1229
+        },
+        {
+            "word": "display",
+            "score": 1224
+        },
+        {
+            "word": "enables",
+            "score": 1223
+        },
+        {
+            "word": "graphics",
+            "score": 1221
+        },
+        {
+            "word": "download",
+            "score": 1218
+        },
+        {
+            "word": "version",
+            "score": 1216
+        },
+        {
+            "word": "html",
+            "score": 1215
+        },
+        {
+            "word": "updated",
+            "score": 1213
+        },
+        {
+            "word": "platforms",
+            "score": 1206
+        },
+        {
+            "word": "onwards",
+            "score": 1201
+        },
+        {
+            "word": "user",
+            "score": 1196
+        },
+        {
+            "word": "microsoft",
+            "score": 1195
+        },
+        {
+            "word": "discontinued",
+            "score": 1193
+        },
+        {
+            "word": "web",
+            "score": 1190
+        },
+        {
+            "word": "email",
+            "score": 1189
+        },
+        {
+            "word": "flash",
+            "score": 1188
+        },
+        {
+            "word": "camera",
+            "score": 1184
+        },
+        {
+            "word": "allows",
+            "score": 1180
+        },
+        {
+            "word": "nintendo",
+            "score": 1166
+        },
+        {
+            "word": "supports",
+            "score": 1164
+        },
+        {
+            "word": "software",
+            "score": 1159
+        },
+        {
+            "word": "gaming",
+            "score": 1155
+        },
+        {
+            "word": "launched",
+            "score": 1154
+        },
+        {
+            "word": "sony",
+            "score": 1152
+        },
+        {
+            "word": "available",
+            "score": 1151
+        },
+        {
+            "word": "digital",
+            "score": 1149
+        },
+        {
+            "word": "developer",
+            "score": 1147
+        },
+        {
+            "word": "latest",
+            "score": 1141
+        },
+        {
+            "word": "computer",
+            "score": 1140
+        },
+        {
+            "word": "content",
+            "score": 1139
+        },
+        {
+            "word": "audio",
+            "score": 1136
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "ipad",
+            "score": 240
+        },
+        {
+            "word": "ipads",
+            "score": 12
+        },
+        {
+            "word": "ipade",
+            "score": 2
+        }
+    ]
+}

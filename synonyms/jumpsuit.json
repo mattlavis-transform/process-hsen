@@ -1,0 +1,1428 @@
+{
+    "term": "jumpsuit",
+    "means_like": [
+        {
+            "word": "jump suit",
+            "score": 41109,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 41108,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conjunction",
+            "score": 34034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blend",
+            "score": 33266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mixture",
+            "score": 32456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mix",
+            "score": 31702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combination",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combining",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tunic",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leotard",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smock",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "robe",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waistcoat",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bomber jacket",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zoot suit",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandarin collar",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantsuit",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracksuit",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gown",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper suit",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unitard",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatshirt",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatpants",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turtleneck",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoodie",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundress",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail dress",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pants",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duster coat",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garb",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport coat",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat pants",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazer",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minidress",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "getup",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slacks",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coveralls",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boilersuit",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muumuu",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bluejeans",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fedora",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cape",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undershirt",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overalls",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligee",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polo shirt",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dungarees",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "codpiece",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trousers",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trench coat",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarf",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peacoat",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowboy hat",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniskirt",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skintight",
+            "score": 31294,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "hooded cloak",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trenchcoat",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tutu",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandana",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bustier",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surplice",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fur hat",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport jacket",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headress",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porkpie hat",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgown",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat shirt",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermudas",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 31277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tophat",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "khakis",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtwaister",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fatigues",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underpants",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dashiki",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairnet",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxer shorts",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuxedo",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "greatcoat",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spandex",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foulard",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuffs",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "jumpsuit",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump suit",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump seat",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumpseat",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumpsuits",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump shot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump out",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumped",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumps",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "jump cut",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumped out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jampot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dumpsite",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumpy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumpstart",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jam-packed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "chipset",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jam packed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jampacked",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump-start",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump shots",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "g suit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump start",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump to it",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "chip set",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gumboot",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "gum boot",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "compute",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "chumps",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "campsite",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "shampooed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "camp site",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "chumped",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "assumpsit",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "gypsy",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gypsies",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gipsy",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gypsie",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gypsey",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gypsys",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gympie",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gem state",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "jmet",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gemmate",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "just",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumping",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumbo",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumbled",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "chimps",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeanette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "janette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeannette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "juste",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "jacet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump up",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumpoff",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump off",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumbos",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ginette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jammu",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jenette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumbo jet",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "jumbie",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jounced",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "jump ship",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump on",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumby",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jump in",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumbojet",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "genette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "shipside",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumping seed",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "jumpily",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "jobst",
+            "score": 70,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "jumpsuit",
+            "score": 129623
+        },
+        {
+            "word": "jump suit",
+            "score": 64694
+        },
+        {
+            "word": "jumpseat",
+            "score": 21
+        },
+        {
+            "word": "jumpsuits",
+            "score": 9
+        },
+        {
+            "word": "jumps at",
+            "score": 5
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "apparatus",
+            "score": 1714
+        },
+        {
+            "word": "gloves",
+            "score": 1515
+        },
+        {
+            "word": "pants",
+            "score": 1509
+        },
+        {
+            "word": "hawthorne",
+            "score": 1506
+        },
+        {
+            "word": "outfits",
+            "score": 1496
+        },
+        {
+            "word": "jacket",
+            "score": 1478
+        },
+        {
+            "word": "roach",
+            "score": 1476
+        },
+        {
+            "word": "papa",
+            "score": 1466
+        },
+        {
+            "word": "boots",
+            "score": 1453
+        },
+        {
+            "word": "clown",
+            "score": 1446
+        },
+        {
+            "word": "mask",
+            "score": 1431
+        },
+        {
+            "word": "wears",
+            "score": 1416
+        },
+        {
+            "word": "outfit",
+            "score": 1414
+        },
+        {
+            "word": "wore",
+            "score": 1410
+        },
+        {
+            "word": "matching",
+            "score": 1398
+        },
+        {
+            "word": "collar",
+            "score": 1395
+        },
+        {
+            "word": "helmet",
+            "score": 1393
+        },
+        {
+            "word": "leather",
+            "score": 1386
+        },
+        {
+            "word": "chest",
+            "score": 1374
+        },
+        {
+            "word": "worn",
+            "score": 1371
+        },
+        {
+            "word": "fake",
+            "score": 1360
+        },
+        {
+            "word": "costume",
+            "score": 1359
+        },
+        {
+            "word": "suit",
+            "score": 1355
+        },
+        {
+            "word": "shirt",
+            "score": 1350
+        },
+        {
+            "word": "joel",
+            "score": 1349
+        },
+        {
+            "word": "wearing",
+            "score": 1342
+        },
+        {
+            "word": "flexible",
+            "score": 1334
+        },
+        {
+            "word": "shoes",
+            "score": 1331
+        },
+        {
+            "word": "finger",
+            "score": 1328
+        },
+        {
+            "word": "armor",
+            "score": 1324
+        },
+        {
+            "word": "bag",
+            "score": 1322
+        },
+        {
+            "word": "uniform",
+            "score": 1318
+        },
+        {
+            "word": "dressed",
+            "score": 1312
+        },
+        {
+            "word": "belt",
+            "score": 1299
+        },
+        {
+            "word": "colored",
+            "score": 1294
+        },
+        {
+            "word": "hat",
+            "score": 1286
+        },
+        {
+            "word": "hair",
+            "score": 1285
+        },
+        {
+            "word": "dancing",
+            "score": 1278
+        },
+        {
+            "word": "pink",
+            "score": 1274
+        },
+        {
+            "word": "clothing",
+            "score": 1272
+        },
+        {
+            "word": "romance",
+            "score": 1263
+        },
+        {
+            "word": "mars",
+            "score": 1258
+        },
+        {
+            "word": "heights",
+            "score": 1254
+        },
+        {
+            "word": "wear",
+            "score": 1252
+        },
+        {
+            "word": "dress",
+            "score": 1242
+        },
+        {
+            "word": "logo",
+            "score": 1238
+        },
+        {
+            "word": "sing",
+            "score": 1231
+        },
+        {
+            "word": "blue",
+            "score": 1228
+        },
+        {
+            "word": "thirty",
+            "score": 1226
+        },
+        {
+            "word": "orange",
+            "score": 1216
+        },
+        {
+            "word": "fox",
+            "score": 1208
+        },
+        {
+            "word": "nelson",
+            "score": 1203
+        },
+        {
+            "word": "fashion",
+            "score": 1200
+        },
+        {
+            "word": "yellow",
+            "score": 1194
+        },
+        {
+            "word": "red",
+            "score": 1186
+        },
+        {
+            "word": "cape",
+            "score": 1183
+        },
+        {
+            "word": "black",
+            "score": 1179
+        },
+        {
+            "word": "scenes",
+            "score": 1178
+        },
+        {
+            "word": "seconds",
+            "score": 1175
+        },
+        {
+            "word": "face",
+            "score": 1172
+        },
+        {
+            "word": "video",
+            "score": 1170
+        },
+        {
+            "word": "dark",
+            "score": 1161
+        },
+        {
+            "word": "inside",
+            "score": 1158
+        },
+        {
+            "word": "flying",
+            "score": 1156
+        },
+        {
+            "word": "look",
+            "score": 1147
+        },
+        {
+            "word": "chemical",
+            "score": 1146
+        },
+        {
+            "word": "piece",
+            "score": 1141
+        },
+        {
+            "word": "band",
+            "score": 1137
+        },
+        {
+            "word": "white",
+            "score": 1136
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "jumpsuit",
+            "score": 129623
+        },
+        {
+            "word": "jumpsuits",
+            "score": 129327
+        },
+        {
+            "word": "jump suit",
+            "score": 64694
+        },
+        {
+            "word": "jumpstart",
+            "score": 789
+        },
+        {
+            "word": "dumpsite",
+            "score": 81
+        },
+        {
+            "word": "jumpseat",
+            "score": 21
+        },
+        {
+            "word": "jumps the gun",
+            "score": 11
+        },
+        {
+            "word": "jumps the shark",
+            "score": 7
+        },
+        {
+            "word": "jumps the track",
+            "score": 6
+        },
+        {
+            "word": "jumps at",
+            "score": 5
+        }
+    ]
+}

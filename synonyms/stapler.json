@@ -1,0 +1,1667 @@
+{
+    "term": "stapler",
+    "means_like": [
+        {
+            "word": "stapling machine",
+            "score": 55795,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "staple",
+            "score": 55794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screwdriver",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socket wrench",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballpoint pen",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lug wrench",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharpener",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nailer",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thumbtack",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothespin",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binder",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable wrench",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable spanner",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive tape",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pipe wrench",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retractor",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "putty knife",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper fastener",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scissors",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penknife",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightstick",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tweezers",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billy club",
+            "score": 51335,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pocketknife",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pliers",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doorknob",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scotch tape",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "switchblade",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duct tape",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canister",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperclips",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fire extinguisher",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knife blade",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fanny pack",
+            "score": 51322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bolt cutter",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knife",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashlight",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee mug",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchen utensil",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperweight",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towel rack",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stun baton",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holster",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broom handle",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allen wrench",
+            "score": 51311,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "utensil",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crowbar",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "razorblade",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitting needle",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlenose pliers",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soap dispenser",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mallet",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bobby pin",
+            "score": 51303,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dumbbell",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatbox",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookbag",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pry bar",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watchband",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bowie knife",
+            "score": 51297,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "toothbrush",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garden trowel",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairbrush",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toaster oven",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pancake turner",
+            "score": 51292,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sidearm",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soldering iron",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath towel",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hasp",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tampon",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperclip",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grasper",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "erasers",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brass knuckles",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "truncheon",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doohickey",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wastebasket",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waistband",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hacksaw",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flyswatter",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric typewriter",
+            "score": 51275,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "endotracheal tube",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pegboard",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dildo",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lunchbox",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "defib",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mace",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sponge mop",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stud finder",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butcher knife",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torque wrench",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lancet",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitchfork",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spatula",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spork",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "razor",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabiner",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric razor",
+            "score": 51258,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dispenser",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "stapler",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "stabler",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "staple",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "staples",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "staplers",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "stable",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "steeple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stables",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "steeples",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stipple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stapled",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stapel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stopple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stabil",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stoppel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stipples",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stipel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stippler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stabile",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "simpler",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "stubble",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stapling",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "stabled",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "staler",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stepbrother",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "stubbles",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stippled",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stuller",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "staebler",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "steepled",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stauble",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stubbily",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "stellar",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "spiller",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "speller",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "steller",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "stiller",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "stelar",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "stealer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "spoiler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sable",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "steeper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "steeler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stepper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sepal",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stabilize",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "stickler",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "sepulcher",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "sepulchre",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "stepmother",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "staller",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "steeply",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stooper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stabilizer",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "siple",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stoller",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "estoppel",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "sipple",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "step mother",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "stopa",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sepulture",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "stabilise",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "sepals",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "statler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stadler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stemple",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stabiliser",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "stably",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sables",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stabling",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "sabal",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "step-mother",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "spooler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cipal",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stettler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "spieler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sappily",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "stapley",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stempel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stellular",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "souple",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stahler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stolar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "seipel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "steckler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stemler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stigler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stetler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stiegler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stableford",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cepal",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stable gear",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "soppily",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "stohler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "estopple",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "sapore",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "stapler",
+            "score": 129658
+        },
+        {
+            "word": "staple",
+            "score": 66558
+        },
+        {
+            "word": "staples",
+            "score": 64968
+        },
+        {
+            "word": "statler",
+            "score": 64935
+        },
+        {
+            "word": "stapled",
+            "score": 64861
+        },
+        {
+            "word": "staler",
+            "score": 64824
+        },
+        {
+            "word": "stabler",
+            "score": 64753
+        },
+        {
+            "word": "staller",
+            "score": 64739
+        },
+        {
+            "word": "stadler",
+            "score": 64694
+        },
+        {
+            "word": "stahler",
+            "score": 64689
+        },
+        {
+            "word": "stapley",
+            "score": 64677
+        },
+        {
+            "word": "stable",
+            "score": 1473
+        },
+        {
+            "word": "stagger",
+            "score": 1401
+        },
+        {
+            "word": "taper",
+            "score": 1301
+        },
+        {
+            "word": "stale",
+            "score": 1270
+        },
+        {
+            "word": "snapper",
+            "score": 1261
+        },
+        {
+            "word": "stalker",
+            "score": 707
+        },
+        {
+            "word": "starter",
+            "score": 676
+        },
+        {
+            "word": "stammer",
+            "score": 550
+        },
+        {
+            "word": "stopper",
+            "score": 469
+        },
+        {
+            "word": "sapper",
+            "score": 450
+        },
+        {
+            "word": "simpler",
+            "score": 395
+        },
+        {
+            "word": "stanley",
+            "score": 385
+        },
+        {
+            "word": "starlet",
+            "score": 383
+        },
+        {
+            "word": "stalled",
+            "score": 381
+        },
+        {
+            "word": "shaper",
+            "score": 370
+        },
+        {
+            "word": "stacker",
+            "score": 362
+        },
+        {
+            "word": "sampler",
+            "score": 291
+        },
+        {
+            "word": "staffer",
+            "score": 276
+        },
+        {
+            "word": "stager",
+            "score": 266
+        },
+        {
+            "word": "styler",
+            "score": 265
+        },
+        {
+            "word": "stables",
+            "score": 258
+        },
+        {
+            "word": "shaler",
+            "score": 222
+        },
+        {
+            "word": "stater",
+            "score": 216
+        },
+        {
+            "word": "tapper",
+            "score": 214
+        },
+        {
+            "word": "stayer",
+            "score": 210
+        },
+        {
+            "word": "sealer",
+            "score": 208
+        },
+        {
+            "word": "scaler",
+            "score": 203
+        },
+        {
+            "word": "stealer",
+            "score": 201
+        },
+        {
+            "word": "stainer",
+            "score": 199
+        },
+        {
+            "word": "starker",
+            "score": 196
+        },
+        {
+            "word": "slapper",
+            "score": 195
+        },
+        {
+            "word": "stapes",
+            "score": 190
+        },
+        {
+            "word": "smaller",
+            "score": 188
+        },
+        {
+            "word": "stander",
+            "score": 170
+        },
+        {
+            "word": "steller",
+            "score": 166
+        },
+        {
+            "word": "stamper",
+            "score": 162
+        },
+        {
+            "word": "tailer",
+            "score": 160
+        },
+        {
+            "word": "taller",
+            "score": 151
+        },
+        {
+            "word": "taler",
+            "score": 140
+        },
+        {
+            "word": "stepper",
+            "score": 132
+        },
+        {
+            "word": "staled",
+            "score": 125
+        },
+        {
+            "word": "stabber",
+            "score": 124
+        },
+        {
+            "word": "stape",
+            "score": 122
+        },
+        {
+            "word": "sailer",
+            "score": 117
+        },
+        {
+            "word": "strapper",
+            "score": 115
+        },
+        {
+            "word": "tatler",
+            "score": 113
+        },
+        {
+            "word": "stiller",
+            "score": 112
+        },
+        {
+            "word": "stagier",
+            "score": 103
+        },
+        {
+            "word": "startler",
+            "score": 103
+        },
+        {
+            "word": "snarler",
+            "score": 96
+        },
+        {
+            "word": "suppler",
+            "score": 95
+        },
+        {
+            "word": "starer",
+            "score": 93
+        },
+        {
+            "word": "stigler",
+            "score": 91
+        },
+        {
+            "word": "stanger",
+            "score": 82
+        },
+        {
+            "word": "tipler",
+            "score": 72
+        },
+        {
+            "word": "steeler",
+            "score": 67
+        },
+        {
+            "word": "saler",
+            "score": 64
+        },
+        {
+            "word": "stifler",
+            "score": 64
+        },
+        {
+            "word": "soapier",
+            "score": 61
+        },
+        {
+            "word": "stabled",
+            "score": 59
+        },
+        {
+            "word": "staker",
+            "score": 59
+        },
+        {
+            "word": "stoller",
+            "score": 57
+        },
+        {
+            "word": "shapley",
+            "score": 56
+        },
+        {
+            "word": "swapper",
+            "score": 55
+        },
+        {
+            "word": "tabler",
+            "score": 55
+        },
+        {
+            "word": "stapel",
+            "score": 49
+        },
+        {
+            "word": "sadler",
+            "score": 45
+        },
+        {
+            "word": "stippler",
+            "score": 45
+        },
+        {
+            "word": "stoper",
+            "score": 45
+        },
+        {
+            "word": "soaper",
+            "score": 42
+        },
+        {
+            "word": "frapler",
+            "score": 41
+        },
+        {
+            "word": "staplers",
+            "score": 41
+        },
+        {
+            "word": "stutler",
+            "score": 41
+        },
+        {
+            "word": "staley",
+            "score": 36
+        },
+        {
+            "word": "staver",
+            "score": 35
+        },
+        {
+            "word": "tapley",
+            "score": 34
+        },
+        {
+            "word": "tayler",
+            "score": 34
+        },
+        {
+            "word": "snailer",
+            "score": 24
+        },
+        {
+            "word": "starver",
+            "score": 23
+        },
+        {
+            "word": "stuller",
+            "score": 22
+        },
+        {
+            "word": "saller",
+            "score": 21
+        },
+        {
+            "word": "shepler",
+            "score": 21
+        },
+        {
+            "word": "stalder",
+            "score": 21
+        },
+        {
+            "word": "stales",
+            "score": 21
+        },
+        {
+            "word": "etailer",
+            "score": 18
+        },
+        {
+            "word": "stoler",
+            "score": 15
+        },
+        {
+            "word": "staiger",
+            "score": 13
+        },
+        {
+            "word": "starner",
+            "score": 13
+        },
+        {
+            "word": "etaples",
+            "score": 11
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "staples",
+            "score": 1719
+        },
+        {
+            "word": "staple",
+            "score": 1658
+        },
+        {
+            "word": "papers",
+            "score": 1407
+        },
+        {
+            "word": "device",
+            "score": 1387
+        },
+        {
+            "word": "paper",
+            "score": 1371
+        },
+        {
+            "word": "metal",
+            "score": 1325
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "stapler",
+            "score": 129658
+        },
+        {
+            "word": "staplers",
+            "score": 129359
+        },
+        {
+            "word": "staple",
+            "score": 66558
+        },
+        {
+            "word": "staples",
+            "score": 64968
+        },
+        {
+            "word": "statler",
+            "score": 64935
+        },
+        {
+            "word": "stapled",
+            "score": 64861
+        },
+        {
+            "word": "staler",
+            "score": 64824
+        },
+        {
+            "word": "stabler",
+            "score": 64753
+        },
+        {
+            "word": "staller",
+            "score": 64739
+        },
+        {
+            "word": "stapleton",
+            "score": 64709
+        }
+    ]
+}

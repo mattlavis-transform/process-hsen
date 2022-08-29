@@ -1,0 +1,783 @@
+{
+    "term": "coconut milk",
+    "means_like": [
+        {
+            "word": "broth",
+            "score": 53995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soy sauce",
+            "score": 53994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sour cream",
+            "score": 53993,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lime juice",
+            "score": 53992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brown sugar",
+            "score": 53991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon juice",
+            "score": 53990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoisin",
+            "score": 53989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sauce",
+            "score": 53988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoyu",
+            "score": 53987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coconut",
+            "score": 53986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puree",
+            "score": 53985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vanilla bean",
+            "score": 53984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoisin sauce",
+            "score": 53983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buttermilk",
+            "score": 53982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamy",
+            "score": 53981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soup",
+            "score": 53980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vanilla extract",
+            "score": 53979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mayonnaise",
+            "score": 53978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sorbet",
+            "score": 53977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aioli",
+            "score": 53976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coulis",
+            "score": 53975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galangal",
+            "score": 53974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sesame oil",
+            "score": 53973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chicken broth",
+            "score": 53972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coconut cream",
+            "score": 53971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tamari",
+            "score": 53970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clarified butter",
+            "score": 53969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plum sauce",
+            "score": 53968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beef broth",
+            "score": 53967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tamarind",
+            "score": 53966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kombu",
+            "score": 53965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miso",
+            "score": 53964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curry sauce",
+            "score": 53963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "almond extract",
+            "score": 53962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon zest",
+            "score": 53961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemongrass",
+            "score": 53960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bechamel",
+            "score": 53959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon grass",
+            "score": 53958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "achiote",
+            "score": 53957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bay leaf",
+            "score": 53956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tamarindo",
+            "score": 53955,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "garlic salt",
+            "score": 53954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon rind",
+            "score": 53953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arrowroot",
+            "score": 53952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noodles",
+            "score": 53951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinaigrette",
+            "score": 53950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tahini",
+            "score": 53949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garam masala",
+            "score": 53948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cayenne",
+            "score": 53947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piloncillo",
+            "score": 53946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crystallized ginger",
+            "score": 53945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adobo",
+            "score": 53944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chilli sauce",
+            "score": 53943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tomato sauce",
+            "score": 53942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bechamel sauce",
+            "score": 53941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orange rind",
+            "score": 53940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine vinegar",
+            "score": 53939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cornflour",
+            "score": 53938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapenade",
+            "score": 53937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "congee",
+            "score": 53936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gula",
+            "score": 53935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worcestershire sauce",
+            "score": 53934,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lemon peel",
+            "score": 53933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orange zest",
+            "score": 53932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aioli sauce",
+            "score": 53931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grated cheese",
+            "score": 53930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unsweetened",
+            "score": 53929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curry powder",
+            "score": 53928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cinnamon",
+            "score": 53927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marinade",
+            "score": 53926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pearl barley",
+            "score": 53925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fennel seed",
+            "score": 53924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gingerroot",
+            "score": 53923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cilantro",
+            "score": 53922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "celery root",
+            "score": 53921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mascarpone",
+            "score": 53920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pesto",
+            "score": 53919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinegar",
+            "score": 53918,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tzatziki",
+            "score": 53917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "remoulade",
+            "score": 53916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cider vinegar",
+            "score": 53915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seasonings",
+            "score": 53914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zabaglione",
+            "score": 53913,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tangy",
+            "score": 53912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetish",
+            "score": 53911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demerara sugar",
+            "score": 53910,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "zests",
+            "score": 53909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ulam",
+            "score": 53908,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gravies",
+            "score": 53907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardamon",
+            "score": 53906,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceviche",
+            "score": 53905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marsala",
+            "score": 53904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tbsp",
+            "score": 53903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limeade",
+            "score": 53902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ginger",
+            "score": 53901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchovy paste",
+            "score": 53900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweet vermouth",
+            "score": 53899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vermicelli",
+            "score": 53898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pimientos",
+            "score": 53897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlic sauce",
+            "score": 53896,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "coconut milk",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "coconut oil",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "coconut meat",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "coconut",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "kinetic",
+            "score": 59,
+            "numSyllables": 3
+        },
+        {
+            "word": "psychokinetic",
+            "score": 57,
+            "numSyllables": 5
+        },
+        {
+            "word": "skim milk",
+            "score": 45,
+            "numSyllables": 2
+        },
+        {
+            "word": "sea animal",
+            "score": 40,
+            "numSyllables": 4
+        },
+        {
+            "word": "sienna miller",
+            "score": 40,
+            "numSyllables": 5
+        },
+        {
+            "word": "secreting",
+            "score": 31,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "coconut milk",
+            "score": 129380
+        },
+        {
+            "word": "coconut oil",
+            "score": 52
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "coconut milk",
+            "score": 129380
+        },
+        {
+            "word": "coconut oil",
+            "score": 52
+        }
+    ]
+}

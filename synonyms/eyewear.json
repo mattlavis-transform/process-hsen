@@ -1,0 +1,1654 @@
+{
+    "term": "eyewear",
+    "means_like": [
+        {
+            "word": "glasses",
+            "score": 68236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goggles",
+            "score": 68064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spectacles",
+            "score": 65536,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyepiece",
+            "score": 64564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ocular",
+            "score": 62010,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "eye",
+            "score": 60196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeball",
+            "score": 57796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rig",
+            "score": 51778,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nvg",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglass",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeglass",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optician",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optometrist",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optometry",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headwear",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "presbyopia",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astigmatism",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglasses",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lenses",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeglasses",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goggle",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessories",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timepieces",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intimate apparel",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylemark",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lense",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skiwear",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optics",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toric lens",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fragrances",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainwear",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oakleys",
+            "score": 51305,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "streetwear",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casualwear",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "louchettes",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wearers",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coppertone",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collimating",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beachwear",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visors",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bifocal",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zeiss",
+            "score": 51287,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "intraocular lens",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leatherwear",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gunnar",
+            "score": 51284,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "earplug",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume jewelry",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optometer",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilet",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loungewear",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etam",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "optical instrument",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumes",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unisex",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opsiometer",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulgari",
+            "score": 51269,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "undergarments",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haircare",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mascaras",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dkny",
+            "score": 51265,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "swimsuits",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earmuff",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shapewear",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackcoat",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail enamel",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabrics",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiancy",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pret",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sisley",
+            "score": 51256,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sephora",
+            "score": 51255,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "insoles",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "activewear",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sporting goods",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headphone",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bifocals",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothier",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raincoats",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lorgnon",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accutron",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refractor",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lasik",
+            "score": 51244,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "eyewear",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "yhwh",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "aware",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "i swear",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "-yer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "where",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "swear",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sware",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "awar",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "quare",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "quaere",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "quair",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "iwar",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "i wish",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "eimear",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "aiwa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "eyeish",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "whir",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "whirr",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "ohare",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "ohair",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "queer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "eyesore",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "iar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eye sore",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iwo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "high wire",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "icier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "a year",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iway",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eyewash",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "icare",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iwe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "twere",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "tweer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "iwas",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ivoire",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eye wash",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "isar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuir",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "eye care",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "i r",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iwai",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iww",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "high-wire",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "whare",
+            "score": 84,
+            "numSyllables": 1
+        },
+        {
+            "word": "nowhere",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "beware",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "choir",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "swore",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "quire",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "voir",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "dwyer",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "amare",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "swar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "au pair",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "unware",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "gwar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "suar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "swire",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "swayer",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "quar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "fwar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "twar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "on air",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuore",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "allaire",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apare",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "phwoar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "ywar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "adware",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dwire",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "outwear",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "apair",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "iyar",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "twire",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuire",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "alair",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "opere",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "appair",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "avare",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "daywear",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "aweather",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "duar",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "luire",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "-eer",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "eia",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "iwis",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "ahar",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "ihor",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "alir",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aiea",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "allier",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "acere",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "acir",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "eyewear",
+            "score": 129652
+        },
+        {
+            "word": "eyebar",
+            "score": 109
+        },
+        {
+            "word": "eyebeam",
+            "score": 70
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "sunglasses",
+            "score": 1770
+        },
+        {
+            "word": "eyeglass",
+            "score": 1766
+        },
+        {
+            "word": "eyeglasses",
+            "score": 1731
+        },
+        {
+            "word": "outerwear",
+            "score": 1700
+        },
+        {
+            "word": "goggles",
+            "score": 1691
+        },
+        {
+            "word": "polycarbonate",
+            "score": 1618
+        },
+        {
+            "word": "polaroid",
+            "score": 1615
+        },
+        {
+            "word": "givenchy",
+            "score": 1609
+        },
+        {
+            "word": "spectacles",
+            "score": 1596
+        },
+        {
+            "word": "glasses",
+            "score": 1582
+        },
+        {
+            "word": "ophthalmic",
+            "score": 1580
+        },
+        {
+            "word": "armani",
+            "score": 1578
+        },
+        {
+            "word": "balmain",
+            "score": 1571
+        },
+        {
+            "word": "footwear",
+            "score": 1562
+        },
+        {
+            "word": "versace",
+            "score": 1561
+        },
+        {
+            "word": "fragrance",
+            "score": 1538
+        },
+        {
+            "word": "polarized",
+            "score": 1526
+        },
+        {
+            "word": "lenses",
+            "score": 1524
+        },
+        {
+            "word": "accessories",
+            "score": 1523
+        },
+        {
+            "word": "oakley",
+            "score": 1512
+        },
+        {
+            "word": "watches",
+            "score": 1506
+        },
+        {
+            "word": "underwear",
+            "score": 1498
+        },
+        {
+            "word": "apparel",
+            "score": 1494
+        },
+        {
+            "word": "prescription",
+            "score": 1490
+        },
+        {
+            "word": "ansi",
+            "score": 1486
+        },
+        {
+            "word": "perfume",
+            "score": 1475
+        },
+        {
+            "word": "optics",
+            "score": 1471
+        },
+        {
+            "word": "brine",
+            "score": 1470
+        },
+        {
+            "word": "ballistic",
+            "score": 1468
+        },
+        {
+            "word": "optical",
+            "score": 1452
+        },
+        {
+            "word": "luggage",
+            "score": 1437
+        },
+        {
+            "word": "retailer",
+            "score": 1434
+        },
+        {
+            "word": "roth",
+            "score": 1430
+        },
+        {
+            "word": "titan",
+            "score": 1424
+        },
+        {
+            "word": "cutler",
+            "score": 1422
+        },
+        {
+            "word": "accessory",
+            "score": 1417
+        },
+        {
+            "word": "klein",
+            "score": 1413
+        },
+        {
+            "word": "cosmetics",
+            "score": 1407
+        },
+        {
+            "word": "calvin",
+            "score": 1401
+        },
+        {
+            "word": "sui",
+            "score": 1399
+        },
+        {
+            "word": "augmented",
+            "score": 1396
+        },
+        {
+            "word": "brand",
+            "score": 1393
+        },
+        {
+            "word": "boutique",
+            "score": 1388
+        },
+        {
+            "word": "furnishings",
+            "score": 1383
+        },
+        {
+            "word": "jewelry",
+            "score": 1376
+        },
+        {
+            "word": "italia",
+            "score": 1374
+        },
+        {
+            "word": "brands",
+            "score": 1372
+        },
+        {
+            "word": "vogue",
+            "score": 1367
+        },
+        {
+            "word": "jewellery",
+            "score": 1364
+        },
+        {
+            "word": "laser",
+            "score": 1362
+        },
+        {
+            "word": "lens",
+            "score": 1354
+        },
+        {
+            "word": "sells",
+            "score": 1343
+        },
+        {
+            "word": "protective",
+            "score": 1335
+        },
+        {
+            "word": "hugo",
+            "score": 1333
+        },
+        {
+            "word": "display",
+            "score": 1322
+        },
+        {
+            "word": "belts",
+            "score": 1321
+        },
+        {
+            "word": "hut",
+            "score": 1320
+        },
+        {
+            "word": "suits",
+            "score": 1316
+        },
+        {
+            "word": "labs",
+            "score": 1313
+        },
+        {
+            "word": "clothing",
+            "score": 1311
+        },
+        {
+            "word": "fashion",
+            "score": 1309
+        },
+        {
+            "word": "merchandise",
+            "score": 1306
+        },
+        {
+            "word": "designer",
+            "score": 1301
+        },
+        {
+            "word": "tokyo",
+            "score": 1299
+        },
+        {
+            "word": "distributor",
+            "score": 1291
+        },
+        {
+            "word": "lauren",
+            "score": 1283
+        },
+        {
+            "word": "worn",
+            "score": 1279
+        },
+        {
+            "word": "bags",
+            "score": 1277
+        },
+        {
+            "word": "marc",
+            "score": 1275
+        },
+        {
+            "word": "displays",
+            "score": 1274
+        },
+        {
+            "word": "luxury",
+            "score": 1272
+        },
+        {
+            "word": "boots",
+            "score": 1260
+        },
+        {
+            "word": "viewing",
+            "score": 1258
+        },
+        {
+            "word": "maker",
+            "score": 1255
+        },
+        {
+            "word": "manufacturer",
+            "score": 1254
+        },
+        {
+            "word": "stores",
+            "score": 1249
+        },
+        {
+            "word": "shoes",
+            "score": 1246
+        },
+        {
+            "word": "lightweight",
+            "score": 1244
+        },
+        {
+            "word": "aluminum",
+            "score": 1242
+        },
+        {
+            "word": "vision",
+            "score": 1240
+        },
+        {
+            "word": "collection",
+            "score": 1236
+        },
+        {
+            "word": "retail",
+            "score": 1234
+        },
+        {
+            "word": "eye",
+            "score": 1232
+        },
+        {
+            "word": "labels",
+            "score": 1222
+        },
+        {
+            "word": "filter",
+            "score": 1220
+        },
+        {
+            "word": "leather",
+            "score": 1216
+        },
+        {
+            "word": "wear",
+            "score": 1213
+        },
+        {
+            "word": "beam",
+            "score": 1211
+        },
+        {
+            "word": "manufacture",
+            "score": 1207
+        },
+        {
+            "word": "products",
+            "score": 1203
+        },
+        {
+            "word": "flagship",
+            "score": 1201
+        },
+        {
+            "word": "frame",
+            "score": 1198
+        },
+        {
+            "word": "eddie",
+            "score": 1197
+        },
+        {
+            "word": "sheet",
+            "score": 1193
+        },
+        {
+            "word": "licensed",
+            "score": 1191
+        },
+        {
+            "word": "ralph",
+            "score": 1185
+        },
+        {
+            "word": "solely",
+            "score": 1183
+        },
+        {
+            "word": "celebrity",
+            "score": 1181
+        },
+        {
+            "word": "specialist",
+            "score": 1174
+        },
+        {
+            "word": "designs",
+            "score": 1173
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "eyewear",
+            "score": 129652
+        },
+        {
+            "word": "eye ear plane",
+            "score": 64661
+        },
+        {
+            "word": "eyewash",
+            "score": 351
+        },
+        {
+            "word": "eyebar",
+            "score": 109
+        },
+        {
+            "word": "eyewater",
+            "score": 101
+        },
+        {
+            "word": "eyebeam",
+            "score": 70
+        },
+        {
+            "word": "eyeservice",
+            "score": 41
+        },
+        {
+            "word": "eyewall",
+            "score": 34
+        },
+        {
+            "word": "eyeservant",
+            "score": 31
+        },
+        {
+            "word": "eyereach",
+            "score": 23
+        }
+    ]
+}

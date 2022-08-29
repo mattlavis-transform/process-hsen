@@ -1,0 +1,1610 @@
+{
+    "term": "swimsuit",
+    "means_like": [
+        {
+            "word": "bathing suit",
+            "score": 99952,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bathing costume",
+            "score": 75631,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "swimming costume",
+            "score": 75631,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bikini",
+            "score": 75339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 74522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 64166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 63007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing",
+            "score": 61503,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vest",
+            "score": 61304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "speedo",
+            "score": 60917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 59701,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 57803,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankini",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beachwear",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monokini",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burqini",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandeau",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarment",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodysuit",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undies",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leotard",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maillot",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundress",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lycra",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brassiere",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothes",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemise",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pant",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underpants",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wetsuit",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniskirt",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cossie",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evening gown",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimming trunks",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodysuits",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thongs",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shapewear",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "centrefold",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underthings",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding gown",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skintight",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skivvies",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spaghetti strap",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gown",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantyhose",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camis",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding dress",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thong",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirndl",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wonderbra",
+            "score": 51250,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "camisoles",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smicket",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodypaint",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligees",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elle macpherson",
+            "score": 51243,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "culotte",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smallclothes",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing trunks",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sari",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eveningwear",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemiloon",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choli",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy duke",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panties",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtwaister",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catwalk",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saree",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beauty queen",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skimpiest",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport coat",
+            "score": 51226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capri pants",
+            "score": 51225,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "laceless",
+            "score": 51224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scanties",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drapey",
+            "score": 51222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "togs",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarf",
+            "score": 51220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "falsies",
+            "score": 51219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capri",
+            "score": 51218,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "swimsuit",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "swing set",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "swimsuits",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "suisuide",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweatsuit",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweat suit",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "swim meet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "swimmeret",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "swing out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "swing state",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sunset",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "sensate",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "sun set",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "swims",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "swansea",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "spacesuit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "synced",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "swimmy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "space suit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "snowsuit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swissy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swinson",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stimate",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "simcity",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "switch hit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wimsatt",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "whimsy",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "twinset",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "twin set",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "zincite",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "summit",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sensed",
+            "score": 72,
+            "numSyllables": 1
+        },
+        {
+            "word": "somewhat",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "somerset",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "semite",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "summitt",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "swenson",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "summerset",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "summate",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "summat",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sensu",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "swensen",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "suss out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "censed",
+            "score": 72,
+            "numSyllables": 1
+        },
+        {
+            "word": "slum it",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "smsa",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "suicide",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "sayest",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "cement",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cyst",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "cist",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "secede",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sist",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "slingshot",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smoot",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "simson",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sling shot",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "slimmest",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "samsa",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "samet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "samit",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinnet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "space out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinnott",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ciment",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "scid",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sommet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinuate",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sing out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sisu",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cerussite",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "samoset",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "samite",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sea mat",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "spin out",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sammut",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sammet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sommerset",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "somite",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "simu",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "slimsy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "spambot",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sissu",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sonst",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sansui",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "saw set",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sissoo",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "somat",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "samat",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinite",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "samso",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ski suit",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "swimsuit",
+            "score": 129583
+        },
+        {
+            "word": "swimsuits",
+            "score": 36
+        },
+        {
+            "word": "ski suit",
+            "score": 7
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "gown",
+            "score": 1736
+        },
+        {
+            "word": "swimwear",
+            "score": 1729
+        },
+        {
+            "word": "leotard",
+            "score": 1698
+        },
+        {
+            "word": "bikini",
+            "score": 1696
+        },
+        {
+            "word": "speedo",
+            "score": 1690
+        },
+        {
+            "word": "maillot",
+            "score": 1684
+        },
+        {
+            "word": "chops",
+            "score": 1609
+        },
+        {
+            "word": "topless",
+            "score": 1566
+        },
+        {
+            "word": "lingerie",
+            "score": 1561
+        },
+        {
+            "word": "pageant",
+            "score": 1545
+        },
+        {
+            "word": "navel",
+            "score": 1538
+        },
+        {
+            "word": "straps",
+            "score": 1505
+        },
+        {
+            "word": "bathing",
+            "score": 1493
+        },
+        {
+            "word": "underwear",
+            "score": 1486
+        },
+        {
+            "word": "calendar",
+            "score": 1461
+        },
+        {
+            "word": "playboy",
+            "score": 1455
+        },
+        {
+            "word": "miss",
+            "score": 1450
+        },
+        {
+            "word": "issue",
+            "score": 1440
+        },
+        {
+            "word": "evening",
+            "score": 1436
+        },
+        {
+            "word": "maxim",
+            "score": 1432
+        },
+        {
+            "word": "attire",
+            "score": 1430
+        },
+        {
+            "word": "bra",
+            "score": 1423
+        },
+        {
+            "word": "elle",
+            "score": 1421
+        },
+        {
+            "word": "nude",
+            "score": 1417
+        },
+        {
+            "word": "illustrated",
+            "score": 1416
+        },
+        {
+            "word": "breasts",
+            "score": 1410
+        },
+        {
+            "word": "preliminary",
+            "score": 1405
+        },
+        {
+            "word": "suits",
+            "score": 1373
+        },
+        {
+            "word": "modeling",
+            "score": 1370
+        },
+        {
+            "word": "vogue",
+            "score": 1366
+        },
+        {
+            "word": "melissa",
+            "score": 1355
+        },
+        {
+            "word": "competition",
+            "score": 1350
+        },
+        {
+            "word": "swim",
+            "score": 1344
+        },
+        {
+            "word": "costume",
+            "score": 1342
+        },
+        {
+            "word": "crowned",
+            "score": 1340
+        },
+        {
+            "word": "delegates",
+            "score": 1335
+        },
+        {
+            "word": "poster",
+            "score": 1332
+        },
+        {
+            "word": "beauty",
+            "score": 1326
+        },
+        {
+            "word": "fabric",
+            "score": 1313
+        },
+        {
+            "word": "talent",
+            "score": 1307
+        },
+        {
+            "word": "fashion",
+            "score": 1299
+        },
+        {
+            "word": "shoot",
+            "score": 1294
+        },
+        {
+            "word": "swimming",
+            "score": 1290
+        },
+        {
+            "word": "wearing",
+            "score": 1288
+        },
+        {
+            "word": "suit",
+            "score": 1284
+        },
+        {
+            "word": "modeled",
+            "score": 1281
+        },
+        {
+            "word": "interview",
+            "score": 1280
+        },
+        {
+            "word": "posed",
+            "score": 1278
+        },
+        {
+            "word": "worn",
+            "score": 1276
+        },
+        {
+            "word": "contestant",
+            "score": 1273
+        },
+        {
+            "word": "wear",
+            "score": 1270
+        },
+        {
+            "word": "photos",
+            "score": 1268
+        },
+        {
+            "word": "model",
+            "score": 1266
+        },
+        {
+            "word": "teen",
+            "score": 1265
+        },
+        {
+            "word": "clothing",
+            "score": 1263
+        },
+        {
+            "word": "photo",
+            "score": 1259
+        },
+        {
+            "word": "cover",
+            "score": 1257
+        },
+        {
+            "word": "universe",
+            "score": 1256
+        },
+        {
+            "word": "edition",
+            "score": 1248
+        },
+        {
+            "word": "wore",
+            "score": 1239
+        },
+        {
+            "word": "walked",
+            "score": 1237
+        },
+        {
+            "word": "contest",
+            "score": 1235
+        },
+        {
+            "word": "judges",
+            "score": 1229
+        },
+        {
+            "word": "revealing",
+            "score": 1228
+        },
+        {
+            "word": "models",
+            "score": 1227
+        },
+        {
+            "word": "shorts",
+            "score": 1225
+        },
+        {
+            "word": "designer",
+            "score": 1221
+        },
+        {
+            "word": "rookie",
+            "score": 1218
+        },
+        {
+            "word": "dress",
+            "score": 1216
+        },
+        {
+            "word": "fitness",
+            "score": 1214
+        },
+        {
+            "word": "answer",
+            "score": 1205
+        },
+        {
+            "word": "usa",
+            "score": 1201
+        },
+        {
+            "word": "shoulder",
+            "score": 1197
+        },
+        {
+            "word": "sports",
+            "score": 1195
+        },
+        {
+            "word": "diving",
+            "score": 1193
+        },
+        {
+            "word": "winner",
+            "score": 1190
+        },
+        {
+            "word": "question",
+            "score": 1189
+        },
+        {
+            "word": "photographer",
+            "score": 1183
+        },
+        {
+            "word": "sponsor",
+            "score": 1180
+        },
+        {
+            "word": "runway",
+            "score": 1179
+        },
+        {
+            "word": "scores",
+            "score": 1176
+        },
+        {
+            "word": "conclusion",
+            "score": 1172
+        },
+        {
+            "word": "parade",
+            "score": 1165
+        },
+        {
+            "word": "bottom",
+            "score": 1161
+        },
+        {
+            "word": "cole",
+            "score": 1160
+        },
+        {
+            "word": "neck",
+            "score": 1156
+        },
+        {
+            "word": "magazine",
+            "score": 1154
+        },
+        {
+            "word": "designs",
+            "score": 1150
+        },
+        {
+            "word": "portion",
+            "score": 1148
+        },
+        {
+            "word": "secret",
+            "score": 1147
+        },
+        {
+            "word": "segment",
+            "score": 1146
+        },
+        {
+            "word": "top",
+            "score": 1144
+        },
+        {
+            "word": "participate",
+            "score": 1141
+        },
+        {
+            "word": "appeared",
+            "score": 1140
+        },
+        {
+            "word": "marvel",
+            "score": 1139
+        },
+        {
+            "word": "beach",
+            "score": 1136
+        },
+        {
+            "word": "vegas",
+            "score": 1134
+        },
+        {
+            "word": "pool",
+            "score": 1126
+        },
+        {
+            "word": "girl",
+            "score": 1123
+        },
+        {
+            "word": "girls",
+            "score": 1121
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "swimsuit",
+            "score": 129583
+        },
+        {
+            "word": "swimsuits",
+            "score": 129354
+        },
+        {
+            "word": "ski suit",
+            "score": 7
+        },
+        {
+            "word": "swim with the tide",
+            "score": 4
+        }
+    ]
+}

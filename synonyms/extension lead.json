@@ -1,0 +1,808 @@
+{
+    "term": "extension lead",
+    "means_like": [
+        {
+            "word": "chalk",
+            "score": 28466,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chalking",
+            "score": 28066,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 28051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloodletting",
+            "score": 27986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plumbing",
+            "score": 27986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apron",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arm",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bound",
+            "score": 11666,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "branch",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 11666,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "command",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deep",
+            "score": 11666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 11666,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ell",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashing",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 11666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hand",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapped",
+            "score": 11666,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "length",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neck",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "net",
+            "score": 11666,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "projection",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "return",
+            "score": 11666,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "returning",
+            "score": 11666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "returns",
+            "score": 11666,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 11666,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "route",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shave",
+            "score": 11666,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shaven",
+            "score": 11666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "short",
+            "score": 11666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stead",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strain",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tease",
+            "score": 11666,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "teasing",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "train",
+            "score": 11666,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "trained",
+            "score": 11666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "van",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedge",
+            "score": 11666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whip",
+            "score": 11666,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "background",
+            "score": 11605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delay",
+            "score": 11590,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dolly",
+            "score": 11590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eaves",
+            "score": 11590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft",
+            "score": 11590,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wad",
+            "score": 11590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "web",
+            "score": 11590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trigger",
+            "score": 11586,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "inspire",
+            "score": 11526,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "leaden",
+            "score": 11526,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 11526,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "snap",
+            "score": 11526,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "diva",
+            "score": 11511,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gridlock",
+            "score": 11511,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pacer",
+            "score": 11511,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "syllogism",
+            "score": 11511,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aaa",
+            "score": 10636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "addition",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aegean sea",
+            "score": 10636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aftershock",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aire",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alcove",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amplification",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amplitude",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ane",
+            "score": 10636,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "annex",
+            "score": 10636,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "annexe",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antenna",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apse",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atm",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attenuate",
+            "score": 10636,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "attenuated",
+            "score": 10636,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aut",
+            "score": 10636
+        },
+        {
+            "word": "axis",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axon",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bald",
+            "score": 10636,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "balding",
+            "score": 10636,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "banner",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "battement",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bef",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blunder",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bohemian",
+            "score": 10636,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "boundary",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brd",
+            "score": 10636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "breadth",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broad",
+            "score": 10636,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "broadening",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cadillac",
+            "score": 10636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 10636,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cancer",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cans",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cape",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chromosphere",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circuit",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cna",
+            "score": 10636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coextensive",
+            "score": 10636,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "colombia",
+            "score": 10636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "compliance",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comprehension",
+            "score": 10636,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "extension ladder",
+            "score": 85,
+            "numSyllables": 5
+        },
+        {
+            "word": "extension",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "extensions",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "extention",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "extension cord",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "extensional",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "extinction",
+            "score": 64,
+            "numSyllables": 3
+        },
+        {
+            "word": "extinctions",
+            "score": 64,
+            "numSyllables": 3
+        },
+        {
+            "word": "expansion slot",
+            "score": 60,
+            "numSyllables": 4
+        },
+        {
+            "word": "extortionate",
+            "score": 59,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "extension lead",
+            "score": 129329
+        },
+        {
+            "word": "extension leads",
+            "score": 8
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "extension lead",
+            "score": 129329
+        },
+        {
+            "word": "extension leads",
+            "score": 129326
+        },
+        {
+            "word": "extension ladder",
+            "score": 64678
+        },
+        {
+            "word": "extension language kit",
+            "score": 4
+        }
+    ]
+}

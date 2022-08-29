@@ -1,0 +1,767 @@
+{
+    "term": "woven overcoat",
+    "means_like": [
+        {
+            "word": "duffel coat",
+            "score": 10987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle",
+            "score": 10987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hood",
+            "score": 10987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mac",
+            "score": 10987,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mackintosh",
+            "score": 10987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petersham",
+            "score": 10987,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ulster",
+            "score": 10987,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aba",
+            "score": 10916,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "calico",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheviot",
+            "score": 10916,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gabardine",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gaberdine",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "herringbone",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jair",
+            "score": 10916,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kersey",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poplin",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serge",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shalloon",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleazy",
+            "score": 10916,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tweed",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twill",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wool",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worsted",
+            "score": 10916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreadnought",
+            "score": 10891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burnoose",
+            "score": 10855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burnous",
+            "score": 10855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burnouse",
+            "score": 10855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 10855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alpaca",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appaloosa",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arteriosclerosis",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bearskin",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaver",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 10794,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bended",
+            "score": 10794,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bends",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bens",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "border collie",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "borzoi",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxer",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brigandine",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buff",
+            "score": 10794,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bull mastiff",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bull terrier",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burmese",
+            "score": 10794,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "caftan",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calorimeter",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canton",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardinal",
+            "score": 10794,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "castor",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinchilla",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chrisom",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courtepy",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "covert cloth",
+            "score": 10794
+        },
+        {
+            "word": "cymric",
+            "score": 10794,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dachshund",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dacron",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deerhound",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "double-breasted jacket",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawstring",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eery",
+            "score": 10794,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "elkhound",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emery",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fearnought",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fur",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glosa",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gloss",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glossed",
+            "score": 10794,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "glossing",
+            "score": 10794,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gorge",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grego",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "griffon",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hemline",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hereford",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "himalayan",
+            "score": 10794,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "hotchkiss gun",
+            "score": 10794,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "husky",
+            "score": 10794,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "interline",
+            "score": 10794,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "intima",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "irish setter",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "irish terrier",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "irish water spaniel",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lakeland terrier",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lapel",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lint",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lipizzan",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "loden",
+            "score": 10794,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "lumberjacket",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macintosh",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mack",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mackinaw",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maillot",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malamute",
+            "score": 10794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "match-coat",
+            "score": 10794
+        },
+        {
+            "word": "melton",
+            "score": 10794,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "jovanovic",
+            "score": 53,
+            "numSyllables": 4
+        },
+        {
+            "word": "dovecote",
+            "score": 43,
+            "numSyllables": 3
+        },
+        {
+            "word": "sevenoaks",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "seventy-eight",
+            "score": 41,
+            "numSyllables": 4
+        },
+        {
+            "word": "seven year itch",
+            "score": 39,
+            "numSyllables": 4
+        },
+        {
+            "word": "seventy eight",
+            "score": 39,
+            "numSyllables": 4
+        },
+        {
+            "word": "savonarola",
+            "score": 38,
+            "numSyllables": 5
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

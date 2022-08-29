@@ -1,0 +1,1781 @@
+{
+    "term": "router",
+    "means_like": [
+        {
+            "word": "adapter",
+            "score": 70197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "routing",
+            "score": 64807,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cisco",
+            "score": 64204,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "switch",
+            "score": 59334,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "route",
+            "score": 57282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hub",
+            "score": 56937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lsa",
+            "score": 50972,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 50971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet",
+            "score": 50970,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ethernet cable",
+            "score": 50969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firewall",
+            "score": 50968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dsl",
+            "score": 50967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "network topology",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wlan",
+            "score": 50965,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "server",
+            "score": 50964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wireless",
+            "score": 50963,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "telnet",
+            "score": 50961,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 50960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gigabit",
+            "score": 50959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "network",
+            "score": 50958,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "isp",
+            "score": 50957,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "firmware",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "node",
+            "score": 50955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "configuration",
+            "score": 50954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coaxial cable",
+            "score": 50953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ssh",
+            "score": 50952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pstn",
+            "score": 50951,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bandwidth",
+            "score": 50950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wifi",
+            "score": 50949,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "topology",
+            "score": 50948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dns",
+            "score": 50947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asynchronous transfer mode",
+            "score": 50946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connectivity",
+            "score": 50945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardware",
+            "score": 50944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "repeater",
+            "score": 50943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telephony",
+            "score": 50942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scsi",
+            "score": 50941,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gige",
+            "score": 50940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabling",
+            "score": 50939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motherboard",
+            "score": 50938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transceiver",
+            "score": 50937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mesh topology",
+            "score": 50936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baud rate",
+            "score": 50935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scart",
+            "score": 50934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baud",
+            "score": 50933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uart",
+            "score": 50932,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "appliance",
+            "score": 50931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "postfix",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialtone",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surge protector",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multiplexer",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mediant",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "directional antenna",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surge suppressor",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oring",
+            "score": 50923,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "multimeter",
+            "score": 50922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dvi",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mux",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hdtv",
+            "score": 50919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socket",
+            "score": 50918,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metroscope",
+            "score": 50917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duplexer",
+            "score": 50916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connectors",
+            "score": 50915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "variable resistor",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "junos",
+            "score": 50913,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "local area network",
+            "score": 50912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antenna",
+            "score": 50911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phono",
+            "score": 50910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "omnidirectional antenna",
+            "score": 50909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vocable",
+            "score": 50908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "powerbook",
+            "score": 50907,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "switches",
+            "score": 50906,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "preamplifier",
+            "score": 50905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subsystem",
+            "score": 50904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microcode",
+            "score": 50903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coprocessor",
+            "score": 50902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy chaining",
+            "score": 50901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "browser",
+            "score": 50900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latency",
+            "score": 50899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "encoder",
+            "score": 50898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subscriber line",
+            "score": 50897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 50896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display adapter",
+            "score": 50895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wideband",
+            "score": 50894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "troubleshooting",
+            "score": 50893,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "encryption",
+            "score": 50892,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdrom",
+            "score": 50891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vpn",
+            "score": 50890,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scp",
+            "score": 50889,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "digital subscriber line",
+            "score": 50888,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "microswitch",
+            "score": 50887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "midplane",
+            "score": 50886,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amplifier",
+            "score": 50885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "preamp",
+            "score": 50884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "resistor",
+            "score": 50883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teredo",
+            "score": 50882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sbc",
+            "score": 50881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thyristor",
+            "score": 50880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freq",
+            "score": 50879,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoster",
+            "score": 50878,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "router",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "rooter",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruter",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "rueter",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "writer",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "rater",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruder",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rotor",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rotter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ritter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rutter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "righter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ratter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "roter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reuter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reiter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "retter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "riter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhetor",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reutter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "retr",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruyter",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "route",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "root",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rider",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "reader",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rooster",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "raider",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "redder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ryder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rader",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rooty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ridder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "reder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rute",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ruta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "reeder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruit",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "radder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "roder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "routers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruther",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "roader",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rooters",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "roeder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "arouser",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "ruer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "raeder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "reider",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "redar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rieder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruet",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "erster",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rouet",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rodar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "redr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "routier",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "rehder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rootery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "shooter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hooter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "uter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "utar",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "utr",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "euter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "reiher",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "brighter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "crater",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "critter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fritter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "freighter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aright",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arete",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fretter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "brooder",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bruder",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cruder",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "frater",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arrear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aret",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arrester",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "aerator",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "-or",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cretor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arrestor",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "barretter",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "arere",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "areata",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "barrator",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "arare",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "errore",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "frotter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ariette",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "brouter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arriere",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "router",
+            "score": 65347
+        },
+        {
+            "word": "route",
+            "score": 2820
+        },
+        {
+            "word": "roster",
+            "score": 1501
+        },
+        {
+            "word": "outer",
+            "score": 555
+        },
+        {
+            "word": "routed",
+            "score": 312
+        },
+        {
+            "word": "rotter",
+            "score": 267
+        },
+        {
+            "word": "pouter",
+            "score": 249
+        },
+        {
+            "word": "rooter",
+            "score": 231
+        },
+        {
+            "word": "rouser",
+            "score": 230
+        },
+        {
+            "word": "brouter",
+            "score": 170
+        },
+        {
+            "word": "souter",
+            "score": 144
+        },
+        {
+            "word": "routes",
+            "score": 135
+        },
+        {
+            "word": "roter",
+            "score": 132
+        },
+        {
+            "word": "reuter",
+            "score": 131
+        },
+        {
+            "word": "touter",
+            "score": 114
+        },
+        {
+            "word": "fouter",
+            "score": 76
+        },
+        {
+            "word": "rouster",
+            "score": 66
+        },
+        {
+            "word": "douter",
+            "score": 59
+        },
+        {
+            "word": "couter",
+            "score": 58
+        },
+        {
+            "word": "grouter",
+            "score": 52
+        },
+        {
+            "word": "wouter",
+            "score": 22
+        },
+        {
+            "word": "rouzer",
+            "score": 13
+        },
+        {
+            "word": "rouler",
+            "score": 9
+        },
+        {
+            "word": "trouter",
+            "score": 7
+        },
+        {
+            "word": "ruter",
+            "score": 6
+        },
+        {
+            "word": "routeur",
+            "score": 5
+        },
+        {
+            "word": "louter",
+            "score": 4
+        },
+        {
+            "word": "routier",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "wrt",
+            "score": 1744
+        },
+        {
+            "word": "dhcp",
+            "score": 1705
+        },
+        {
+            "word": "vpn",
+            "score": 1679
+        },
+        {
+            "word": "forwarding",
+            "score": 1676
+        },
+        {
+            "word": "firewall",
+            "score": 1665
+        },
+        {
+            "word": "egress",
+            "score": 1650
+        },
+        {
+            "word": "ingress",
+            "score": 1639
+        },
+        {
+            "word": "cnc",
+            "score": 1636
+        },
+        {
+            "word": "packet",
+            "score": 1625
+        },
+        {
+            "word": "routing",
+            "score": 1622
+        },
+        {
+            "word": "unreachable",
+            "score": 1614
+        },
+        {
+            "word": "modem",
+            "score": 1605
+        },
+        {
+            "word": "dsl",
+            "score": 1585
+        },
+        {
+            "word": "asic",
+            "score": 1584
+        },
+        {
+            "word": "ethernet",
+            "score": 1580
+        },
+        {
+            "word": "cisco",
+            "score": 1577
+        },
+        {
+            "word": "ttl",
+            "score": 1572
+        },
+        {
+            "word": "firmware",
+            "score": 1562
+        },
+        {
+            "word": "configured",
+            "score": 1543
+        },
+        {
+            "word": "wifi",
+            "score": 1530
+        },
+        {
+            "word": "wps",
+            "score": 1529
+        },
+        {
+            "word": "dns",
+            "score": 1514
+        },
+        {
+            "word": "tcp",
+            "score": 1506
+        },
+        {
+            "word": "juniper",
+            "score": 1502
+        },
+        {
+            "word": "arp",
+            "score": 1479
+        },
+        {
+            "word": "voip",
+            "score": 1473
+        },
+        {
+            "word": "lan",
+            "score": 1472
+        },
+        {
+            "word": "isp",
+            "score": 1471
+        },
+        {
+            "word": "redundancy",
+            "score": 1458
+        },
+        {
+            "word": "spindle",
+            "score": 1455
+        },
+        {
+            "word": "forwarded",
+            "score": 1453
+        },
+        {
+            "word": "protocol",
+            "score": 1445
+        },
+        {
+            "word": "usb",
+            "score": 1442
+        },
+        {
+            "word": "protocols",
+            "score": 1440
+        },
+        {
+            "word": "adapter",
+            "score": 1438
+        },
+        {
+            "word": "queue",
+            "score": 1434
+        },
+        {
+            "word": "gateway",
+            "score": 1433
+        },
+        {
+            "word": "wireless",
+            "score": 1427
+        },
+        {
+            "word": "header",
+            "score": 1426
+        },
+        {
+            "word": "throughput",
+            "score": 1420
+        },
+        {
+            "word": "nat",
+            "score": 1418
+        },
+        {
+            "word": "switch",
+            "score": 1413
+        },
+        {
+            "word": "filtering",
+            "score": 1403
+        },
+        {
+            "word": "backbone",
+            "score": 1400
+        },
+        {
+            "word": "proxy",
+            "score": 1398
+        },
+        {
+            "word": "topology",
+            "score": 1397
+        },
+        {
+            "word": "addresses",
+            "score": 1394
+        },
+        {
+            "word": "connectivity",
+            "score": 1392
+        },
+        {
+            "word": "wan",
+            "score": 1387
+        },
+        {
+            "word": "node",
+            "score": 1386
+        },
+        {
+            "word": "bandwidth",
+            "score": 1384
+        },
+        {
+            "word": "atm",
+            "score": 1383
+        },
+        {
+            "word": "forwards",
+            "score": 1381
+        },
+        {
+            "word": "metrics",
+            "score": 1379
+        },
+        {
+            "word": "routed",
+            "score": 1378
+        },
+        {
+            "word": "server",
+            "score": 1377
+        },
+        {
+            "word": "broadband",
+            "score": 1373
+        },
+        {
+            "word": "destination",
+            "score": 1367
+        },
+        {
+            "word": "encryption",
+            "score": 1366
+        },
+        {
+            "word": "authentication",
+            "score": 1364
+        },
+        {
+            "word": "wired",
+            "score": 1361
+        },
+        {
+            "word": "networking",
+            "score": 1357
+        },
+        {
+            "word": "bits",
+            "score": 1356
+        },
+        {
+            "word": "interface",
+            "score": 1353
+        },
+        {
+            "word": "rip",
+            "score": 1350
+        },
+        {
+            "word": "nodes",
+            "score": 1342
+        },
+        {
+            "word": "default",
+            "score": 1340
+        },
+        {
+            "word": "incoming",
+            "score": 1330
+        },
+        {
+            "word": "functionality",
+            "score": 1326
+        },
+        {
+            "word": "prefix",
+            "score": 1324
+        },
+        {
+            "word": "advertisement",
+            "score": 1323
+        },
+        {
+            "word": "address",
+            "score": 1321
+        },
+        {
+            "word": "networks",
+            "score": 1314
+        },
+        {
+            "word": "cache",
+            "score": 1311
+        },
+        {
+            "word": "processor",
+            "score": 1309
+        },
+        {
+            "word": "linux",
+            "score": 1308
+        },
+        {
+            "word": "connect",
+            "score": 1306
+        },
+        {
+            "word": "network",
+            "score": 1300
+        },
+        {
+            "word": "congestion",
+            "score": 1297
+        },
+        {
+            "word": "tables",
+            "score": 1295
+        },
+        {
+            "word": "ios",
+            "score": 1291
+        },
+        {
+            "word": "configuration",
+            "score": 1284
+        },
+        {
+            "word": "internet",
+            "score": 1278
+        },
+        {
+            "word": "provider",
+            "score": 1276
+        },
+        {
+            "word": "cpu",
+            "score": 1272
+        },
+        {
+            "word": "periodically",
+            "score": 1271
+        },
+        {
+            "word": "messages",
+            "score": 1264
+        },
+        {
+            "word": "switching",
+            "score": 1263
+        },
+        {
+            "word": "neighbor",
+            "score": 1258
+        },
+        {
+            "word": "communicate",
+            "score": 1255
+        },
+        {
+            "word": "reply",
+            "score": 1253
+        },
+        {
+            "word": "connected",
+            "score": 1249
+        },
+        {
+            "word": "client",
+            "score": 1247
+        },
+        {
+            "word": "vendors",
+            "score": 1246
+        },
+        {
+            "word": "device",
+            "score": 1243
+        },
+        {
+            "word": "devices",
+            "score": 1239
+        },
+        {
+            "word": "table",
+            "score": 1237
+        },
+        {
+            "word": "static",
+            "score": 1235
+        },
+        {
+            "word": "layer",
+            "score": 1231
+        },
+        {
+            "word": "routes",
+            "score": 1229
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "router",
+            "score": 65347
+        },
+        {
+            "word": "routers",
+            "score": 64759
+        },
+        {
+            "word": "router plane",
+            "score": 64677
+        },
+        {
+            "word": "route",
+            "score": 2820
+        },
+        {
+            "word": "roster",
+            "score": 1501
+        },
+        {
+            "word": "outer",
+            "score": 555
+        },
+        {
+            "word": "routed",
+            "score": 312
+        },
+        {
+            "word": "outerwear",
+            "score": 271
+        },
+        {
+            "word": "rotter",
+            "score": 267
+        },
+        {
+            "word": "pouter",
+            "score": 249
+        }
+    ]
+}

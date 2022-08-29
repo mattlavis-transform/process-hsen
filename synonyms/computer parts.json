@@ -1,0 +1,797 @@
+{
+    "term": "computer parts",
+    "means_like": [
+        {
+            "word": "retrofit",
+            "score": 28493,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "busbar",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computer architecture",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fragmentation",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardware",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kludge",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "link",
+            "score": 28093,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "linking",
+            "score": 28093,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "linux",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machine",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motherboard",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multiprocessing",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 28093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retrofitted",
+            "score": 28093,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "debug",
+            "score": 28078,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "intel",
+            "score": 28078,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "opengl",
+            "score": 28078,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "random",
+            "score": 28078,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cognitive science",
+            "score": 27994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abacus",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alphabet",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "architecture",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "area",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "array",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arrayed",
+            "score": 11693,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "assemble",
+            "score": 11693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "assembler",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assembly",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "background",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binary",
+            "score": 11693,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "branch",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridge",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridged",
+            "score": 11693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bridging",
+            "score": 11693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "browse",
+            "score": 11693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bush",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "central",
+            "score": 11693,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clock",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "configuration",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "core",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coring",
+            "score": 11693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cracker",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crash",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "density",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dictionary",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinger",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display",
+            "score": 11693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dock",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "documentation",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dots",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 11693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 11693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "end",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filter",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "finger",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagged",
+            "score": 11693,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "format",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formatting",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frame",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "function",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gate",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hack",
+            "score": 11693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hacking",
+            "score": 11693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hub",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hybrid",
+            "score": 11693,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "interface",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interfacing",
+            "score": 11693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "interleave",
+            "score": 11693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "interleaving",
+            "score": 11693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "interoperability",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invention",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "justify",
+            "score": 11693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "kernel",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 11693,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 11693,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock",
+            "score": 11693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "locking",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locks",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "logic",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machined",
+            "score": 11693,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "masking",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "material",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "materials",
+            "score": 11693,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "computer virus",
+            "score": 65,
+            "numSyllables": 5
+        },
+        {
+            "word": "computer nerd",
+            "score": 65,
+            "numSyllables": 4
+        },
+        {
+            "word": "computer",
+            "score": 52,
+            "numSyllables": 3
+        },
+        {
+            "word": "computor",
+            "score": 47,
+            "numSyllables": 3
+        },
+        {
+            "word": "combat boots",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "car parts",
+            "score": 45,
+            "numSyllables": 2
+        },
+        {
+            "word": "komputer",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "underparts",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "spare parts",
+            "score": 38,
+            "numSyllables": 2
+        },
+        {
+            "word": "spare part",
+            "score": 28,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "computer virus",
+            "score": 65
+        },
+        {
+            "word": "computer paper",
+            "score": 6
+        },
+        {
+            "word": "computer games",
+            "score": 2
+        }
+    ]
+}

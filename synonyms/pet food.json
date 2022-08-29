@@ -1,0 +1,1271 @@
+{
+    "term": "pet food",
+    "means_like": [
+        {
+            "word": "petfood",
+            "score": 73678,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "kibble",
+            "score": 30004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alpo",
+            "score": 28804,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "produce",
+            "score": 28804,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tin",
+            "score": 28793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuttlebone",
+            "score": 28604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "animal",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chia",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chow",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dog",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doggie bag",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "domestic",
+            "score": 12404,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "feed",
+            "score": 12404,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "honey",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 12404,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "livestock",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pig",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raven",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seed",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 12404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tick",
+            "score": 12404,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "duck",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamb",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petting",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prt",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rabbit",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shop",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spot",
+            "score": 12393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treat",
+            "score": 12393,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "touch",
+            "score": 12360,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "beg",
+            "score": 12350,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "boar",
+            "score": 12350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy",
+            "score": 12350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ducks",
+            "score": 12350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eel",
+            "score": 12350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fic",
+            "score": 12350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fix",
+            "score": 12350,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "hate",
+            "score": 12350,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "hated",
+            "score": 12350,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "haye",
+            "score": 12350,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "iguana",
+            "score": 12350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stray",
+            "score": 12350,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "air",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airs",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "animals",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ash",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "endow",
+            "score": 11382,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "endowed",
+            "score": 11382,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "flea",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goat",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goldfish",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hound",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housebroken",
+            "score": 11382,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hutch",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "llama",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molly",
+            "score": 11382,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "owl",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petting zoo",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ssh",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tether",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tsetse",
+            "score": 11382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accommodate",
+            "score": 11025,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "accommodation",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aflatoxin",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aid",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "albumin",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ambrosia",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amoeba",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amyloid",
+            "score": 11025,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ant",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ante",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anus",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appetite",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appetizer",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aquaculture",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aspic",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assimilate",
+            "score": 11025,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "automat",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badin",
+            "score": 11025,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bait",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbecue",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbeque",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basin",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bast",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beak",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bean",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beast",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beef",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biological warfare",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bird of prey",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biscuit",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bit",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bite",
+            "score": 11025,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloat",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blt",
+            "score": 11025,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "pet food",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "petfood",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "petted",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitted",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitied",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "petard",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "putted",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "pouted",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "patted",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "potted",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "pated",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pot head",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pettit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "petitt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pettitt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pettet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pad foot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "betted",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedewed",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "bird food",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "buy food",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "petite",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "patate",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitot",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "petty",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petrified",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "padded",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "betide",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pelted",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "psuedo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "peptide",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "buffeted",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "butted",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pld",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petti",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petta",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petto",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pentad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "peti",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bitted",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petaled",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pedate",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "put out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "catfood",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "poteet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cat food",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bitthead",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "petalled",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "poteat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "patu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "prettied",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bifid",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "podded",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pattu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "potoo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "padfield",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "patat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "peta-",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "piedad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plant food",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "putu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pgp",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "prettified",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "betid",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "poitou",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "poteete",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pentode",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pot-head",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pet cat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "booted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "baited",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bated",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "batted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedford",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedded",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "wetted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "boated",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bed head",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "whetted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "best fit",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotfoot",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bird feed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "set foot",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot foot",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "patootie",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "patay",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pattaya",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "patee",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "patao",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "pift",
+            "score": 72,
+            "numSyllables": 1
+        },
+        {
+            "word": "pitchford",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pit pat",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pigfoot",
+            "score": 72,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "pet food",
+            "score": 129451
+        },
+        {
+            "word": "petfood",
+            "score": 64713
+        },
+        {
+            "word": "pet-food",
+            "score": 64673
+        },
+        {
+            "word": "cat food",
+            "score": 70
+        },
+        {
+            "word": "set foot",
+            "score": 40
+        },
+        {
+            "word": "diet food",
+            "score": 5
+        },
+        {
+            "word": "pot foot",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "pet food",
+            "score": 129451
+        },
+        {
+            "word": "petfood",
+            "score": 64713
+        },
+        {
+            "word": "pet-food",
+            "score": 64673
+        },
+        {
+            "word": "cat food",
+            "score": 70
+        },
+        {
+            "word": "set foot",
+            "score": 40
+        },
+        {
+            "word": "set foot on",
+            "score": 17
+        },
+        {
+            "word": "put foot in mouth",
+            "score": 16
+        },
+        {
+            "word": "put foot in it",
+            "score": 10
+        },
+        {
+            "word": "put foot down",
+            "score": 6
+        },
+        {
+            "word": "set foot in",
+            "score": 6
+        }
+    ]
+}

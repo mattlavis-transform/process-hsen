@@ -1,0 +1,760 @@
+{
+    "term": "plastic packaging",
+    "means_like": [
+        {
+            "word": "cellophane",
+            "score": 48650,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "saran",
+            "score": 48650,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "film",
+            "score": 29050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filming",
+            "score": 28650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polyethylene",
+            "score": 28650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouch",
+            "score": 28650,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blister pack",
+            "score": 28589,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape",
+            "score": 12250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrap",
+            "score": 12250,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "expanded",
+            "score": 12189,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "polythene",
+            "score": 12133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 12006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foam",
+            "score": 12006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "styrofoam",
+            "score": 12006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pack",
+            "score": 11128,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tare",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acetate",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ashcan",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bakelite",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barb",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basket",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bladder",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannister",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cement",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 11016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 11016,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chisel",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cling film",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clingfilm",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dack",
+            "score": 11016,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foil",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gimp",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glad",
+            "score": 11016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "grommet",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "horn",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latex",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lens",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masking",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mil",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paste",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peel",
+            "score": 11016,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pick",
+            "score": 11016,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "polyurethane",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sachet",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sack",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacked",
+            "score": 11016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "saran wrap",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screening",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seal",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shrink-wrap",
+            "score": 11016
+        },
+        {
+            "word": "shrinkwrap",
+            "score": 11016,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sponge",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stock",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tag",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tagging",
+            "score": 11016,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tube",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tupperware",
+            "score": 11016,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "veneer",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "work of art",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zipper",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corrugated paper",
+            "score": 11011
+        },
+        {
+            "word": "bubble pack",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carboy",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carton",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chub",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes peg",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes pin",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothespin",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colander",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diskette",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fishbowl",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "floppy",
+            "score": 10955,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "floppy disk",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formulate",
+            "score": 10955,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "furniture",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jug",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lighter",
+            "score": 10955,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "paperclip",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plastic film",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plastic wrap",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealed",
+            "score": 10955,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sealing",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealing wax",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallboard",
+            "score": 10955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adorn",
+            "score": 10894,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "adorned",
+            "score": 10894,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "adorning",
+            "score": 10894,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "plastic surgeon",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "plastic bags",
+            "score": 53,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastic bag",
+            "score": 52,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastic bomb",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "backpacking",
+            "score": 35,
+            "numSyllables": 3
+        },
+        {
+            "word": "bluestocking",
+            "score": 33,
+            "numSyllables": 3
+        },
+        {
+            "word": "bicycling",
+            "score": 25,
+            "numSyllables": 4
+        },
+        {
+            "word": "best looking",
+            "score": 23,
+            "numSyllables": 3
+        },
+        {
+            "word": "bespeaking",
+            "score": 23,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

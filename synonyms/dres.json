@@ -1,0 +1,613 @@
+{
+    "term": "dres",
+    "means_like": [
+        {
+            "word": "cdi",
+            "score": 15001,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "crd",
+            "score": 15001,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drb",
+            "score": 15001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drc",
+            "score": 15001,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rod",
+            "score": 15001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rop",
+            "score": 15001,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rsc",
+            "score": 15001,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "are",
+            "score": 15000,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "dress",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "dres",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "dris",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "driss",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "dross",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "dras",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "druce",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "drass",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "drez",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "tress",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "tresse",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "dressed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "address",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dresser",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "draws",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "truss",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "duress",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "trus",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dries",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dressy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dess",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tris",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drowse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drews",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drees",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dirts",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tarus",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "triss",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drys",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dirks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "druze",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dros",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drest",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drex",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "adresse",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "druse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "droz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dreese",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "turris",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "droze",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "drays",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "derks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "d s",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "drewes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dsg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dreys",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dresch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "desse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dretch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "torous",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "trace",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "truce",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "tres",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trice",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "tross",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "tras",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trece",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trass",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "treece",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trouse",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "trousse",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "r s",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "diss",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "dis",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "adress",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "drips",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "doris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "darius",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "dermis",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dus",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "dyas",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dous",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "odorous",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "dorris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "idris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "duss",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "dearness",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "disse",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "derris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "doras",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "daris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "duhs",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "derose",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "durra",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "odourous",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "wds",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "dorus",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dyess",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "darris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "daras",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "drish",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "adris",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dervis",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "aureus",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arris",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aurous",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "auris",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arace",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "dres",
+            "score": 28
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "dress",
+            "score": 1948
+        },
+        {
+            "word": "dressing",
+            "score": 1301
+        },
+        {
+            "word": "dresser",
+            "score": 644
+        },
+        {
+            "word": "dressage",
+            "score": 517
+        },
+        {
+            "word": "dressed",
+            "score": 358
+        },
+        {
+            "word": "dress up",
+            "score": 349
+        },
+        {
+            "word": "dressy",
+            "score": 338
+        },
+        {
+            "word": "dressed to the nines",
+            "score": 268
+        },
+        {
+            "word": "dresden",
+            "score": 261
+        },
+        {
+            "word": "dresses",
+            "score": 222
+        }
+    ]
+}

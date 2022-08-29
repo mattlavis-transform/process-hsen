@@ -1,0 +1,1694 @@
+{
+    "term": "ruler",
+    "means_like": [
+        {
+            "word": "rule",
+            "score": 82086,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "monarch",
+            "score": 71727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dictator",
+            "score": 70764,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "king",
+            "score": 70155,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emir",
+            "score": 67788,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prince",
+            "score": 66245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overlord",
+            "score": 66043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amir",
+            "score": 64431,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "queen",
+            "score": 64206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lord",
+            "score": 63804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sovereign",
+            "score": 62081,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "leader",
+            "score": 61034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overseer",
+            "score": 60538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "governor",
+            "score": 60472,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "straightedge",
+            "score": 59209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fuhrer",
+            "score": 58991,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "procurator",
+            "score": 58980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mayor",
+            "score": 58252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prosecutor",
+            "score": 58139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "master",
+            "score": 57552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boss",
+            "score": 57312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leadership",
+            "score": 56801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chief",
+            "score": 56651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magistrate",
+            "score": 56087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "administrator",
+            "score": 56020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 55954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "officer",
+            "score": 55832,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gov",
+            "score": 55626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roi",
+            "score": 55409,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ruling",
+            "score": 55375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "governing",
+            "score": 54978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chef",
+            "score": 54685,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "norm",
+            "score": 53932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solicitor",
+            "score": 53626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counselor",
+            "score": 53421,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attorney",
+            "score": 53420,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "f\u00fchrer",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "governor-general",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ndp",
+            "score": 50928,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "directing",
+            "score": 50927,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "despot",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sultan",
+            "score": 50923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tyrant",
+            "score": 50922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autocrat",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grand vizier",
+            "score": 50920,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kingship",
+            "score": 50919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potentate",
+            "score": 50918,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satrap",
+            "score": 50917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "absolute monarchy",
+            "score": 50916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emperor",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vassal",
+            "score": 50913,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "kingdom",
+            "score": 50912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caliph",
+            "score": 50910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viceroy",
+            "score": 50908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conqueror",
+            "score": 50907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nawab",
+            "score": 50906,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "imperial",
+            "score": 50905,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "strongman",
+            "score": 50904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crown prince",
+            "score": 50903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monarchies",
+            "score": 50902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nejd",
+            "score": 50901,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "manchu dynasty",
+            "score": 50900,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ramesses ii",
+            "score": 50899,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ottoman dynasty",
+            "score": 50898,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "maharaja",
+            "score": 50897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "imamate",
+            "score": 50896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rameses ii",
+            "score": 50895,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "throne",
+            "score": 50894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autocracy",
+            "score": 50893,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nizam",
+            "score": 50892,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "antiochus",
+            "score": 50891,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "courtier",
+            "score": 50890,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suzerainty",
+            "score": 50889,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pharoah",
+            "score": 50888,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "strongmen",
+            "score": 50887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "khalifa",
+            "score": 50886,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "khedive",
+            "score": 50885,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "heptarchist",
+            "score": 50884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aristocracies",
+            "score": 50883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "warlord",
+            "score": 50882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "usurper",
+            "score": 50881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pharaoh",
+            "score": 50880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peacock throne",
+            "score": 50879,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pahlevi",
+            "score": 50878,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "handmaid",
+            "score": 50877,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "khans",
+            "score": 50876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "senussi",
+            "score": 50875,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pasha",
+            "score": 50874,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mohammed reza pahlevi",
+            "score": 50873,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "antiochus iv",
+            "score": 50872,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "constitutional monarchy",
+            "score": 50871,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bourguiba",
+            "score": 50870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rehoboam",
+            "score": 50869,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "seleucus",
+            "score": 50868,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "seleucid",
+            "score": 50867,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "kabaka",
+            "score": 50866,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sovereignize",
+            "score": 50865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "protectorate",
+            "score": 50864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feudal lord",
+            "score": 50863,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ahasuerus",
+            "score": 50862,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "ruler",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "rular",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "roller",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "realer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reeler",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "railer",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reller",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rouler",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rifler",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rule",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rules",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rulers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rool",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ruly",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "crueler",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruel",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ruley",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rula",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "drooler",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "crueller",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rulli",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "reule",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "reul",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "erler",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ular",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "schuler",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "schuller",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "schueler",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "schueller",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "-ular",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ringer",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "wronger",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "wringer",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "rare",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rail",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rather",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rally",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rails",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ral",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "crawler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "raleigh",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "brawler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "prowler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arielle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "growler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "driller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rall",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rasher",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "griller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cruller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "broiler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rael",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "areal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rale",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rair",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "raley",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rals",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "arrear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "radler",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "raillery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "frailer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "raer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ralls",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "-or",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "railey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rales",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "arouser",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "drawler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rarr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rali",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rahl",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "areole",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "raar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "areolar",
+            "score": 85,
+            "numSyllables": 4
+        },
+        {
+            "word": "rallye",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rala",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "areolae",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "arere",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arare",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kruller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "raal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rahr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ramler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "orear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "raffler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "railers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rallier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "briller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "errore",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arales",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "brailler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "droller",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rabbler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arola",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "arriere",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "proller",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "ruler",
+            "score": 65425
+        },
+        {
+            "word": "rule",
+            "score": 3415
+        },
+        {
+            "word": "rules",
+            "score": 756
+        },
+        {
+            "word": "ruley",
+            "score": 547
+        },
+        {
+            "word": "euler",
+            "score": 489
+        },
+        {
+            "word": "ruled",
+            "score": 204
+        },
+        {
+            "word": "ruer",
+            "score": 148
+        },
+        {
+            "word": "ruder",
+            "score": 116
+        },
+        {
+            "word": "ruger",
+            "score": 108
+        },
+        {
+            "word": "rumer",
+            "score": 84
+        },
+        {
+            "word": "ruber",
+            "score": 82
+        },
+        {
+            "word": "runer",
+            "score": 66
+        },
+        {
+            "word": "rular",
+            "score": 61
+        },
+        {
+            "word": "puler",
+            "score": 54
+        },
+        {
+            "word": "rulier",
+            "score": 47
+        },
+        {
+            "word": "guler",
+            "score": 20
+        },
+        {
+            "word": "ruwer",
+            "score": 12
+        },
+        {
+            "word": "rouler",
+            "score": 9
+        },
+        {
+            "word": "ruter",
+            "score": 6
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "khanate",
+            "score": 1472
+        },
+        {
+            "word": "emirate",
+            "score": 1466
+        },
+        {
+            "word": "principality",
+            "score": 1460
+        },
+        {
+            "word": "reigned",
+            "score": 1458
+        },
+        {
+            "word": "vassal",
+            "score": 1455
+        },
+        {
+            "word": "princely",
+            "score": 1443
+        },
+        {
+            "word": "sultanate",
+            "score": 1435
+        },
+        {
+            "word": "maharaja",
+            "score": 1430
+        },
+        {
+            "word": "dynasty",
+            "score": 1406
+        },
+        {
+            "word": "qin",
+            "score": 1401
+        },
+        {
+            "word": "mysore",
+            "score": 1385
+        },
+        {
+            "word": "sultan",
+            "score": 1381
+        },
+        {
+            "word": "dubai",
+            "score": 1375
+        },
+        {
+            "word": "shah",
+            "score": 1374
+        },
+        {
+            "word": "raja",
+            "score": 1368
+        },
+        {
+            "word": "sheikh",
+            "score": 1366
+        },
+        {
+            "word": "ibn",
+            "score": 1361
+        },
+        {
+            "word": "deposed",
+            "score": 1351
+        },
+        {
+            "word": "accession",
+            "score": 1350
+        },
+        {
+            "word": "bin",
+            "score": 1348
+        },
+        {
+            "word": "conquered",
+            "score": 1343
+        },
+        {
+            "word": "jin",
+            "score": 1338
+        },
+        {
+            "word": "throne",
+            "score": 1329
+        },
+        {
+            "word": "underworld",
+            "score": 1326
+        },
+        {
+            "word": "abu",
+            "score": 1324
+        },
+        {
+            "word": "khan",
+            "score": 1323
+        },
+        {
+            "word": "muhammad",
+            "score": 1316
+        },
+        {
+            "word": "persia",
+            "score": 1312
+        },
+        {
+            "word": "ruled",
+            "score": 1303
+        },
+        {
+            "word": "bahrain",
+            "score": 1299
+        },
+        {
+            "word": "ibrahim",
+            "score": 1297
+        },
+        {
+            "word": "reign",
+            "score": 1295
+        },
+        {
+            "word": "kashmir",
+            "score": 1293
+        },
+        {
+            "word": "mohammed",
+            "score": 1291
+        },
+        {
+            "word": "invaded",
+            "score": 1288
+        },
+        {
+            "word": "ancestral",
+            "score": 1282
+        },
+        {
+            "word": "duchy",
+            "score": 1281
+        },
+        {
+            "word": "regent",
+            "score": 1279
+        },
+        {
+            "word": "realm",
+            "score": 1274
+        },
+        {
+            "word": "bce",
+            "score": 1263
+        },
+        {
+            "word": "empire",
+            "score": 1256
+        },
+        {
+            "word": "inscription",
+            "score": 1251
+        },
+        {
+            "word": "byzantine",
+            "score": 1244
+        },
+        {
+            "word": "emperor",
+            "score": 1241
+        },
+        {
+            "word": "kingdom",
+            "score": 1237
+        },
+        {
+            "word": "ali",
+            "score": 1235
+        },
+        {
+            "word": "monarch",
+            "score": 1231
+        },
+        {
+            "word": "succeeded",
+            "score": 1228
+        },
+        {
+            "word": "successor",
+            "score": 1226
+        },
+        {
+            "word": "conquest",
+            "score": 1221
+        },
+        {
+            "word": "egypt",
+            "score": 1217
+        },
+        {
+            "word": "heir",
+            "score": 1212
+        },
+        {
+            "word": "crowned",
+            "score": 1211
+        },
+        {
+            "word": "bengal",
+            "score": 1207
+        },
+        {
+            "word": "king",
+            "score": 1206
+        },
+        {
+            "word": "rule",
+            "score": 1202
+        },
+        {
+            "word": "ottoman",
+            "score": 1200
+        },
+        {
+            "word": "ruling",
+            "score": 1198
+        },
+        {
+            "word": "han",
+            "score": 1195
+        },
+        {
+            "word": "clan",
+            "score": 1193
+        },
+        {
+            "word": "kings",
+            "score": 1192
+        },
+        {
+            "word": "eldest",
+            "score": 1188
+        },
+        {
+            "word": "grandson",
+            "score": 1185
+        },
+        {
+            "word": "delhi",
+            "score": 1180
+        },
+        {
+            "word": "duke",
+            "score": 1179
+        },
+        {
+            "word": "prince",
+            "score": 1176
+        },
+        {
+            "word": "son",
+            "score": 1171
+        },
+        {
+            "word": "coins",
+            "score": 1169
+        },
+        {
+            "word": "fled",
+            "score": 1165
+        },
+        {
+            "word": "heaven",
+            "score": 1162
+        },
+        {
+            "word": "rebellion",
+            "score": 1160
+        },
+        {
+            "word": "seized",
+            "score": 1159
+        },
+        {
+            "word": "persian",
+            "score": 1157
+        },
+        {
+            "word": "syria",
+            "score": 1156
+        },
+        {
+            "word": "islam",
+            "score": 1151
+        },
+        {
+            "word": "iii",
+            "score": 1150
+        },
+        {
+            "word": "succession",
+            "score": 1145
+        },
+        {
+            "word": "descendants",
+            "score": 1140
+        },
+        {
+            "word": "muslim",
+            "score": 1136
+        },
+        {
+            "word": "princess",
+            "score": 1129
+        },
+        {
+            "word": "lands",
+            "score": 1125
+        },
+        {
+            "word": "territories",
+            "score": 1121
+        },
+        {
+            "word": "elder",
+            "score": 1120
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "ruler",
+            "score": 65425
+        },
+        {
+            "word": "rulership",
+            "score": 64849
+        },
+        {
+            "word": "rulers",
+            "score": 64748
+        },
+        {
+            "word": "rulerships",
+            "score": 64662
+        },
+        {
+            "word": "rule",
+            "score": 3415
+        },
+        {
+            "word": "rules",
+            "score": 756
+        },
+        {
+            "word": "ruley",
+            "score": 547
+        },
+        {
+            "word": "euler",
+            "score": 489
+        },
+        {
+            "word": "rule out",
+            "score": 399
+        },
+        {
+            "word": "rule of thumb",
+            "score": 305
+        }
+    ]
+}

@@ -1,0 +1,869 @@
+{
+    "term": "travel mug",
+    "means_like": [
+        {
+            "word": "lid",
+            "score": 29371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 12294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attack",
+            "score": 11172,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "countenance",
+            "score": 11172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 11172,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "air",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bump",
+            "score": 11047,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canoe",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "car",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "club",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clubbing",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clubs",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compass",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "csm",
+            "score": 11047,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "direction",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "east",
+            "score": 11047,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "flies",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fly",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "flying",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gad",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 11047,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "guide",
+            "score": 11047,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "heartburn",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heavy",
+            "score": 11047,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lag",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "land",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "lodging",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mobile",
+            "score": 11047,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "motor",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "move",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "pad",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "path",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reverse",
+            "score": 11047,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "runs",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "school",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sled",
+            "score": 11047,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slice",
+            "score": 11047,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sliced",
+            "score": 11047,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "steam",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steerage",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stop",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "stops",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swim",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "take",
+            "score": 11047,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "toll",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trace",
+            "score": 11047,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "track",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracks",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trip",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trips",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 11047,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "turned",
+            "score": 11047,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wing",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yacht",
+            "score": 11047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milepost",
+            "score": 10986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milestone",
+            "score": 10986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slicing",
+            "score": 10986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "travelogue",
+            "score": 10986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beer",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocoa",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cup",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emote",
+            "score": 10929,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "latte",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nog",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pan",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "por",
+            "score": 10929
+        },
+        {
+            "word": "pot",
+            "score": 10929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potted",
+            "score": 10929,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pull",
+            "score": 10929,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "purchase",
+            "score": 10929,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rob",
+            "score": 10929,
+            "tags": [
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "abatement",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abnormity",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accelerator",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accost",
+            "score": 10925,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ace",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "action",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "actuator",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "address",
+            "score": 10925,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "addressing",
+            "score": 10925,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "adelaide",
+            "score": 10925,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "advance",
+            "score": 10925,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "advancing",
+            "score": 10925,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ail",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air bladder",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airgun",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airhead",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amanita",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angle",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angling",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ante",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "any",
+            "score": 10925,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "apostrophe",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appear",
+            "score": 10925,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "apprehend",
+            "score": 10925,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "approve",
+            "score": 10925,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "aquanaut",
+            "score": 10925,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "travel mug",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "travelogue",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "travel bug",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "traveling",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "travelling",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "travel",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "travels",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "traveled",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "traveler",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "travelled",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "traveller",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "travel to",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "trevally",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "travelog",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "traveling bag",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "trialogue",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "travel light",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "travel mug",
+            "score": 129328
+        },
+        {
+            "word": "travel bug",
+            "score": 64690
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "travel mug",
+            "score": 129328
+        },
+        {
+            "word": "travel bug",
+            "score": 64690
+        },
+        {
+            "word": "travel agency",
+            "score": 70
+        },
+        {
+            "word": "travel agent",
+            "score": 68
+        },
+        {
+            "word": "travel guidebook",
+            "score": 22
+        },
+        {
+            "word": "travel light",
+            "score": 19
+        },
+        {
+            "word": "travel purposefully",
+            "score": 11
+        },
+        {
+            "word": "travel agents",
+            "score": 3
+        },
+        {
+            "word": "travel agencies",
+            "score": 2
+        },
+        {
+            "word": "travel medicine",
+            "score": 2
+        }
+    ]
+}

@@ -1,0 +1,952 @@
+{
+    "term": "cotton bag",
+    "means_like": [
+        {
+            "word": "kapok",
+            "score": 11647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pad",
+            "score": 11647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "psd",
+            "score": 11647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffed",
+            "score": 11647,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bagging",
+            "score": 11580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capsule",
+            "score": 11580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mattress",
+            "score": 11580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pack",
+            "score": 11580,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rag",
+            "score": 11580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie",
+            "score": 11580,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bunting",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carpet",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twist",
+            "score": 11545,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "blues",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lade",
+            "score": 11479,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "melange",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "net",
+            "score": 11479,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "packing",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sew",
+            "score": 11479,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tee",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunk",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunking",
+            "score": 11479,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "trunks",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "umbrella",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buckram",
+            "score": 11453,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bale",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baline",
+            "score": 10596,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ball",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bat",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batting",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bombast",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carding",
+            "score": 10596,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cashmere",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clearer",
+            "score": 10596,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "comb",
+            "score": 10596,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "distaff",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "felt",
+            "score": 10596,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "flannel",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleece",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flock",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flocking",
+            "score": 10596,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fustian",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "futon",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gin",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glock",
+            "score": 10596,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "guncotton",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haik",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambskin",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lint",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock",
+            "score": 10596,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "matter",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mote",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxford",
+            "score": 10596,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pick",
+            "score": 10596,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "quilt",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilted",
+            "score": 10596,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "quilts",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slub",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tampon",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapestry",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thread",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tissue",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viyella",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wad",
+            "score": 10596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weave",
+            "score": 10596,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive tape",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anthracnose",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bafta",
+            "score": 10529,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "baler",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed linen",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed sheet",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bink",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boll",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bollworm",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulge",
+            "score": 10529,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "candle",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cantoon",
+            "score": 10529
+        },
+        {
+            "word": "cheesecloth",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroy",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corn earworm",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotton bollworm",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counterpane",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyperaceae",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deal",
+            "score": 10529,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dimity",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dungaree",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dust ruffle",
+            "score": 10529
+        },
+        {
+            "word": "end",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ended",
+            "score": 10529,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "family cyperaceae",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gauze",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gelechia gossypiella",
+            "score": 10529,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grasp",
+            "score": 10529,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "gray",
+            "score": 10529,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "grays",
+            "score": 10529,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gothenburg",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "cotton ball",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cotton boll",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gutenberg",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "guttenberg",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "cottony",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cotton picker",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "kitbag",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "getting back",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kit bag",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cotton bud",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "rottenberg",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "cotton",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "comeback",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cotten",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "come back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cutback",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "katona",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cottons",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavanagh",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cat and dog",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cut back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cotton balls",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "ketubah",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "kootenay",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "catano",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "come-back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cotton on",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cattanach",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "clutch bag",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cattaneo",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "cotton cake",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "cottoned",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "cat back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "kootenai",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "cotton ball",
+            "score": 146
+        },
+        {
+            "word": "cotton rat",
+            "score": 29
+        },
+        {
+            "word": "cotton bud",
+            "score": 15
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "cotton ball",
+            "score": 64805
+        },
+        {
+            "word": "cotton balls",
+            "score": 64681
+        },
+        {
+            "word": "cotton batting",
+            "score": 64679
+        },
+        {
+            "word": "cotton candy",
+            "score": 66
+        },
+        {
+            "word": "cotton gin",
+            "score": 66
+        },
+        {
+            "word": "cotton grass",
+            "score": 29
+        },
+        {
+            "word": "cotton rat",
+            "score": 29
+        },
+        {
+            "word": "cotton bollworm",
+            "score": 20
+        },
+        {
+            "word": "cotton belt",
+            "score": 18
+        },
+        {
+            "word": "cotton bud",
+            "score": 15
+        }
+    ]
+}

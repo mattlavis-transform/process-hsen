@@ -1,0 +1,781 @@
+{
+    "term": "photo frame",
+    "means_like": [
+        {
+            "word": "shadowbox",
+            "score": 28191,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camera",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallery",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "image",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picture",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "speed",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "still",
+            "score": 11922,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "tripod",
+            "score": 11922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "images",
+            "score": 11876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "after",
+            "score": 10899,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "album",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "archive",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "archives",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avatar",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "before",
+            "score": 10899,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caption",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chart",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copy",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crop",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engraving",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enlarger",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epic",
+            "score": 10899,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "figure",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footage",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foreground",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graph",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halftone",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imagery",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inset",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lab",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "life",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "matte",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mosaic",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mug",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nose",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photograph",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pic",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pictures",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "print",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "processed",
+            "score": 10899,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "processing",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiograph",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reload",
+            "score": 10899,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "retake",
+            "score": 10899,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "safari",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scan",
+            "score": 10899,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shoot",
+            "score": 10899,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "shot",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snap",
+            "score": 10899,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "snapshot",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "superposition",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thumbnail",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toner",
+            "score": 10899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undercut",
+            "score": 10899,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "undercutting",
+            "score": 10899,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "xray",
+            "score": 10899,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "alien",
+            "score": 10852,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gelatin",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "provision",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "short",
+            "score": 10852,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shorts",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tag",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tint",
+            "score": 10852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ufo",
+            "score": 10852,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "photo-engrave",
+            "score": 10779
+        },
+        {
+            "word": "smudge",
+            "score": 10733,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smudged",
+            "score": 10733,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "animation",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "architrave",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asterisk",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asterisked",
+            "score": 10683,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "backboard",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloon",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloons",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boe",
+            "score": 10683,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bones",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow",
+            "score": 10683,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "break",
+            "score": 10683,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "build",
+            "score": 10683,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bustle",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calendar",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvas",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartoon",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "center",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chase",
+            "score": 10683,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cinemascope",
+            "score": 10683,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "clip",
+            "score": 10683,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "photo frame",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "photogram",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "flow from",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fat free",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fat-free",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "photophore",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fatism",
+            "score": 65,
+            "numSyllables": 3
+        },
+        {
+            "word": "staffroom",
+            "score": 63,
+            "numSyllables": 2
+        },
+        {
+            "word": "staff room",
+            "score": 63,
+            "numSyllables": 2
+        },
+        {
+            "word": "still frame",
+            "score": 58,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "photo frame",
+            "score": 129321
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "photo frame",
+            "score": 129321
+        }
+    ]
+}

@@ -1,0 +1,1654 @@
+{
+    "term": "balm",
+    "means_like": [
+        {
+            "word": "salve",
+            "score": 99661,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "ointment",
+            "score": 91032,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "unguent",
+            "score": 88981,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "soother",
+            "score": 67670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emollient",
+            "score": 64728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pain",
+            "score": 61648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analgesia",
+            "score": 58306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "distil",
+            "score": 56834,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "odor",
+            "score": 54172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilead",
+            "score": 51205,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lotion",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moisturizer",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liniment",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body lotion",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arnica",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aromatherapy",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peppermint",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon balm",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamomile",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clary sage",
+            "score": 51191,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "calendula",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jojoba",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neroli",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tonic",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iatraliptic",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sooth",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poultice",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inunction",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elixir",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antidote",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epithem",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "succor",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bay rum",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relaxant",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opodeldoc",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carron oil",
+            "score": 51174,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cold cream",
+            "score": 51173,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiseptic",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essential oil",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solace",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hand cream",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tincture",
+            "score": 51168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mentholated",
+            "score": 51167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epicerastic",
+            "score": 51166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epsom salts",
+            "score": 51165,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "healing",
+            "score": 51164,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "masque",
+            "score": 51163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surcease",
+            "score": 51162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe vera",
+            "score": 51161,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "canada balsam",
+            "score": 51160,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "creams",
+            "score": 51159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camomile",
+            "score": 51158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 51157,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carminative",
+            "score": 51156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rose oil",
+            "score": 51155,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "benzoin",
+            "score": 51154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unguents",
+            "score": 51153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exfoliant",
+            "score": 51152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peppermint oil",
+            "score": 51151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mollient",
+            "score": 51150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decoctions",
+            "score": 51149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "remedy",
+            "score": 51148,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tincture of iodine",
+            "score": 51147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purgative",
+            "score": 51146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rub",
+            "score": 51145,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gel",
+            "score": 51144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balsamous",
+            "score": 51143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mundificant",
+            "score": 51142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deliverance",
+            "score": 51141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "respite",
+            "score": 51140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nostrum",
+            "score": 51139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soothingness",
+            "score": 51138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balsam",
+            "score": 51137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pompillion",
+            "score": 51135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petroleum jelly",
+            "score": 51134,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spike lavender",
+            "score": 51133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "numbing",
+            "score": 51132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chilblains",
+            "score": 51131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asarone",
+            "score": 51130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potion",
+            "score": 51129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relaxer",
+            "score": 51128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shamoying",
+            "score": 51127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cure",
+            "score": 51126,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "balsamation",
+            "score": 51125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biliousness",
+            "score": 51124,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unction",
+            "score": 51123,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavender",
+            "score": 51122,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illinition",
+            "score": 51121,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aftershave",
+            "score": 51120,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 51119,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tetrapharmacum",
+            "score": 51118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calamine lotion",
+            "score": 51117,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilet water",
+            "score": 51116,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cream",
+            "score": 51115,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tisane",
+            "score": 51114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil of wintergreen",
+            "score": 51113,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epulotic",
+            "score": 51112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hand lotion",
+            "score": 51111,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bomb",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "balm",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "bom",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "bohm",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "baam",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "baum",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "baume",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "boom",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bum",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beam",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bong",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bam",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bon",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beem",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bumb",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bim",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bonn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bem",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bame",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beim",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bonne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boehm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bme",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bombe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boam",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boehme",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beme",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bime",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "baim",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boum",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "baan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bamm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "behm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bamn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beahm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bham",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bahm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bym",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bihm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bimm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "biem",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bohme",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boomm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bwm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nbomb",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "palm",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "pomme",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "palme",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "pomb",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "boun",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "bawn",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "baun",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "been",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ben",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bean",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ban",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bane",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ba",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bama",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bain",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "balmy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bein",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bien",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "benn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bahn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "barm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bann",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beng",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beene",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "baine",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "balms",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bayne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beane",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "balmer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "benne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "banh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bhang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bba",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bha",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beine",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "behn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bami",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "baham",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "abomb",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "baen",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "biehn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "behne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bfa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "a bomb",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "abom",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bcom",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beinn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "baai",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beaune",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bene-",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "balm",
+            "score": 1219
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "gilead",
+            "score": 1943
+        },
+        {
+            "word": "chamomile",
+            "score": 1765
+        },
+        {
+            "word": "thyme",
+            "score": 1715
+        },
+        {
+            "word": "balsam",
+            "score": 1705
+        },
+        {
+            "word": "lotion",
+            "score": 1678
+        },
+        {
+            "word": "antiseptic",
+            "score": 1676
+        },
+        {
+            "word": "ointment",
+            "score": 1669
+        },
+        {
+            "word": "beeswax",
+            "score": 1667
+        },
+        {
+            "word": "spf",
+            "score": 1664
+        },
+        {
+            "word": "salve",
+            "score": 1658
+        },
+        {
+            "word": "myrrh",
+            "score": 1653
+        },
+        {
+            "word": "haw",
+            "score": 1648
+        },
+        {
+            "word": "peppermint",
+            "score": 1583
+        },
+        {
+            "word": "lip",
+            "score": 1557
+        },
+        {
+            "word": "quixote",
+            "score": 1554
+        },
+        {
+            "word": "lemon",
+            "score": 1530
+        },
+        {
+            "word": "herbaceous",
+            "score": 1524
+        },
+        {
+            "word": "gloss",
+            "score": 1521
+        },
+        {
+            "word": "resin",
+            "score": 1514
+        },
+        {
+            "word": "mint",
+            "score": 1500
+        },
+        {
+            "word": "boon",
+            "score": 1484
+        },
+        {
+            "word": "cosmetics",
+            "score": 1473
+        },
+        {
+            "word": "herbal",
+            "score": 1457
+        },
+        {
+            "word": "melissa",
+            "score": 1455
+        },
+        {
+            "word": "lips",
+            "score": 1449
+        },
+        {
+            "word": "ingredient",
+            "score": 1442
+        },
+        {
+            "word": "cosmetic",
+            "score": 1429
+        },
+        {
+            "word": "cream",
+            "score": 1420
+        },
+        {
+            "word": "mecca",
+            "score": 1408
+        },
+        {
+            "word": "heal",
+            "score": 1405
+        },
+        {
+            "word": "wounds",
+            "score": 1401
+        },
+        {
+            "word": "ingredients",
+            "score": 1386
+        },
+        {
+            "word": "cannabis",
+            "score": 1382
+        },
+        {
+            "word": "par",
+            "score": 1381
+        },
+        {
+            "word": "sage",
+            "score": 1376
+        },
+        {
+            "word": "bees",
+            "score": 1374
+        },
+        {
+            "word": "perennial",
+            "score": 1365
+        },
+        {
+            "word": "tai",
+            "score": 1361
+        },
+        {
+            "word": "sticks",
+            "score": 1357
+        },
+        {
+            "word": "bacon",
+            "score": 1342
+        },
+        {
+            "word": "herb",
+            "score": 1336
+        },
+        {
+            "word": "bee",
+            "score": 1332
+        },
+        {
+            "word": "healing",
+            "score": 1317
+        },
+        {
+            "word": "bag",
+            "score": 1311
+        },
+        {
+            "word": "canton",
+            "score": 1304
+        },
+        {
+            "word": "ash",
+            "score": 1289
+        },
+        {
+            "word": "gardens",
+            "score": 1286
+        },
+        {
+            "word": "cherry",
+            "score": 1283
+        },
+        {
+            "word": "healthcare",
+            "score": 1266
+        },
+        {
+            "word": "lodge",
+            "score": 1255
+        },
+        {
+            "word": "mentioned",
+            "score": 1251
+        },
+        {
+            "word": "treat",
+            "score": 1243
+        },
+        {
+            "word": "hebrew",
+            "score": 1236
+        },
+        {
+            "word": "acid",
+            "score": 1235
+        },
+        {
+            "word": "brands",
+            "score": 1234
+        },
+        {
+            "word": "tiger",
+            "score": 1228
+        },
+        {
+            "word": "endemic",
+            "score": 1227
+        },
+        {
+            "word": "physician",
+            "score": 1223
+        },
+        {
+            "word": "garden",
+            "score": 1218
+        },
+        {
+            "word": "pain",
+            "score": 1213
+        },
+        {
+            "word": "aids",
+            "score": 1211
+        },
+        {
+            "word": "seeds",
+            "score": 1207
+        },
+        {
+            "word": "leaves",
+            "score": 1205
+        },
+        {
+            "word": "seed",
+            "score": 1203
+        },
+        {
+            "word": "beauty",
+            "score": 1201
+        },
+        {
+            "word": "tea",
+            "score": 1199
+        },
+        {
+            "word": "spiritual",
+            "score": 1197
+        },
+        {
+            "word": "product",
+            "score": 1189
+        },
+        {
+            "word": "plant",
+            "score": 1185
+        },
+        {
+            "word": "cave",
+            "score": 1183
+        },
+        {
+            "word": "hair",
+            "score": 1181
+        },
+        {
+            "word": "oil",
+            "score": 1174
+        },
+        {
+            "word": "essential",
+            "score": 1172
+        },
+        {
+            "word": "inc",
+            "score": 1171
+        },
+        {
+            "word": "products",
+            "score": 1165
+        },
+        {
+            "word": "skin",
+            "score": 1164
+        },
+        {
+            "word": "medicine",
+            "score": 1160
+        },
+        {
+            "word": "merged",
+            "score": 1155
+        },
+        {
+            "word": "municipality",
+            "score": 1153
+        },
+        {
+            "word": "filed",
+            "score": 1148
+        },
+        {
+            "word": "mouth",
+            "score": 1145
+        },
+        {
+            "word": "plants",
+            "score": 1141
+        },
+        {
+            "word": "contain",
+            "score": 1133
+        },
+        {
+            "word": "color",
+            "score": 1132
+        },
+        {
+            "word": "wine",
+            "score": 1131
+        },
+        {
+            "word": "beautiful",
+            "score": 1127
+        },
+        {
+            "word": "wilson",
+            "score": 1125
+        },
+        {
+            "word": "native",
+            "score": 1123
+        },
+        {
+            "word": "starred",
+            "score": 1122
+        },
+        {
+            "word": "brand",
+            "score": 1119
+        },
+        {
+            "word": "prevent",
+            "score": 1114
+        },
+        {
+            "word": "beach",
+            "score": 1112
+        },
+        {
+            "word": "purposes",
+            "score": 1111
+        },
+        {
+            "word": "effective",
+            "score": 1109
+        },
+        {
+            "word": "orange",
+            "score": 1108
+        },
+        {
+            "word": "trees",
+            "score": 1106
+        },
+        {
+            "word": "ltd",
+            "score": 1104
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "balm",
+            "score": 1219
+        },
+        {
+            "word": "balmy",
+            "score": 804
+        },
+        {
+            "word": "balmoral",
+            "score": 334
+        },
+        {
+            "word": "balmain",
+            "score": 249
+        },
+        {
+            "word": "balmiest",
+            "score": 107
+        },
+        {
+            "word": "balmier",
+            "score": 97
+        },
+        {
+            "word": "balmer",
+            "score": 72
+        },
+        {
+            "word": "balm of gilead",
+            "score": 69
+        },
+        {
+            "word": "balmily",
+            "score": 69
+        },
+        {
+            "word": "balminess",
+            "score": 67
+        }
+    ]
+}

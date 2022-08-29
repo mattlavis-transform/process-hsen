@@ -1,0 +1,919 @@
+{
+    "term": "moisturiser",
+    "means_like": [
+        {
+            "word": "moisturizer",
+            "score": 31421,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body lotion",
+            "score": 31420,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hand cream",
+            "score": 31419,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotion",
+            "score": 31418,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 31417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hand lotion",
+            "score": 31416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exfoliant",
+            "score": 31415,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 31414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spf",
+            "score": 31413,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "emollient",
+            "score": 31412,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunscreen",
+            "score": 31411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balm",
+            "score": 31410,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydrate",
+            "score": 31409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petroleum jelly",
+            "score": 31408,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunblock",
+            "score": 31407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail enamel",
+            "score": 31406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glycolic",
+            "score": 31405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concealer",
+            "score": 31404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exfoliation",
+            "score": 31403,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retinol",
+            "score": 31402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shamoying",
+            "score": 31401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cold cream",
+            "score": 31400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 31399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iatraliptic",
+            "score": 31398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glycolic acid",
+            "score": 31397,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aftershave",
+            "score": 31396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deodorant",
+            "score": 31395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carron oil",
+            "score": 31394,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "inunction",
+            "score": 31393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skin care",
+            "score": 31392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epithem",
+            "score": 31391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skin",
+            "score": 31390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mascara",
+            "score": 31389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eau de toilette",
+            "score": 31388,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jojoba",
+            "score": 31387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "melanoderma",
+            "score": 31386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essential oil",
+            "score": 31385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiaging",
+            "score": 31384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blusher",
+            "score": 31383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe",
+            "score": 31382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colloidal gel",
+            "score": 31381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olay",
+            "score": 31380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeshadow",
+            "score": 31379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair spray",
+            "score": 31378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vaseline",
+            "score": 31377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cream",
+            "score": 31376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gel",
+            "score": 31375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aftershave lotion",
+            "score": 31374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lather",
+            "score": 31373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serum",
+            "score": 31372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salicylic acid",
+            "score": 31371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shea",
+            "score": 31370,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mundify",
+            "score": 31369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiperspirant",
+            "score": 31368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarfskin",
+            "score": 31367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "castile soap",
+            "score": 31366,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "derma",
+            "score": 31365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teint",
+            "score": 31364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eucalyptus oil",
+            "score": 31363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creme",
+            "score": 31362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanolin",
+            "score": 31361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiance",
+            "score": 31360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conditioner",
+            "score": 31359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masque",
+            "score": 31358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pomade",
+            "score": 31357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mineral jelly",
+            "score": 31356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair gel",
+            "score": 31355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microdermabrasion",
+            "score": 31354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wool fat",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuticle",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "complexion",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neroli",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hyperpigmentation",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lipstick",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elemi",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wool grease",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "makeup",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "humectant",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mundificant",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lip gloss",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cremor",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brightener",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petrolatum",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilet water",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrinkle",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydroxy acid",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hyaluronic acid",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mousse",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bay rum",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyewater",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nourishable",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face powder",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrinkleless",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ointment",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyebrow pencil",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sebum",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tretinoin",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purificative",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moisturise",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acne",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "moisturizer",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "moisturiser",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "moisturize",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "moisturise",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "moisturisers",
+            "score": 90,
+            "numSyllables": 4
+        },
+        {
+            "word": "moisturizers",
+            "score": 90,
+            "numSyllables": 4
+        },
+        {
+            "word": "moisturized",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "moisturised",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "moisturizing",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "moisturising",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "moisturizes",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "moistures",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "mesmerizer",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "mysteries",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "moisture",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "mesmerise",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "masteries",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "maestros",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "memorizer",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "macerator",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "misprise",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "misprize",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "musk rose",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "memoriser",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "moistureless",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "moisturiser",
+            "score": 129410
+        },
+        {
+            "word": "moisturizer",
+            "score": 64828
+        },
+        {
+            "word": "moisturise",
+            "score": 64696
+        },
+        {
+            "word": "moisturised",
+            "score": 64663
+        },
+        {
+            "word": "moisturises",
+            "score": 64662
+        },
+        {
+            "word": "moisturize",
+            "score": 115
+        },
+        {
+            "word": "moisturized",
+            "score": 17
+        },
+        {
+            "word": "moisturisers",
+            "score": 12
+        },
+        {
+            "word": "moisturizes",
+            "score": 6
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "moisturiser",
+            "score": 129410
+        },
+        {
+            "word": "moisturisers",
+            "score": 129330
+        },
+        {
+            "word": "moisturizer",
+            "score": 64828
+        },
+        {
+            "word": "moisturise",
+            "score": 64696
+        },
+        {
+            "word": "moisturizers",
+            "score": 64680
+        },
+        {
+            "word": "moisturised",
+            "score": 64663
+        },
+        {
+            "word": "moisturises",
+            "score": 64662
+        },
+        {
+            "word": "moisturize",
+            "score": 115
+        },
+        {
+            "word": "moisturized",
+            "score": 17
+        },
+        {
+            "word": "moisturising",
+            "score": 9
+        }
+    ]
+}

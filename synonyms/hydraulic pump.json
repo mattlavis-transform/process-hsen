@@ -1,0 +1,787 @@
+{
+    "term": "hydraulic pump",
+    "means_like": [
+        {
+            "word": "hydraulic ram",
+            "score": 74147,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "hydraulic",
+            "score": 53543,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inlet manifold",
+            "score": 53541,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pushrods",
+            "score": 53540,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compressor",
+            "score": 53539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "idler pulley",
+            "score": 53538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solenoid",
+            "score": 53537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crankshaft",
+            "score": 53536,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rotor",
+            "score": 53535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piston rod",
+            "score": 53534,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camshaft",
+            "score": 53533,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pintle",
+            "score": 53532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impeller",
+            "score": 53531,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torque converter",
+            "score": 53530,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "servomotor",
+            "score": 53529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "actuator",
+            "score": 53528,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axle",
+            "score": 53527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "centrifugal pump",
+            "score": 53526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piston",
+            "score": 53525,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magnetos",
+            "score": 53524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motors",
+            "score": 53523,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pushrod",
+            "score": 53522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valving",
+            "score": 53521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ignition coil",
+            "score": 53520,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawbar",
+            "score": 53519,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydraulic brake",
+            "score": 53518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydrostatic",
+            "score": 53517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crankcases",
+            "score": 53516,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supercharger",
+            "score": 53515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pto",
+            "score": 53514,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "venturi",
+            "score": 53513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric motor",
+            "score": 53512,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rotary actuator",
+            "score": 53511,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alternator",
+            "score": 53510,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gearbox",
+            "score": 53509,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "propeller shaft",
+            "score": 53508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airbrake",
+            "score": 53507,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwheel",
+            "score": 53506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "driveshaft",
+            "score": 53505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydromechanical",
+            "score": 53504,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torque",
+            "score": 53503,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunnion",
+            "score": 53502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhaust valve",
+            "score": 53501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stators",
+            "score": 53500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carburettor",
+            "score": 53499,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torsion bar",
+            "score": 53498,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epicyclic",
+            "score": 53497,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "servo",
+            "score": 53496,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windlass",
+            "score": 53495,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbocharger",
+            "score": 53494,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiper motor",
+            "score": 53493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ailerons",
+            "score": 53492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydropneumatic",
+            "score": 53491,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thruster",
+            "score": 53490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rotor shaft",
+            "score": 53489,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gearset",
+            "score": 53488,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bushing",
+            "score": 53487,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drivetrain",
+            "score": 53486,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerofoils",
+            "score": 53485,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "synchronous motor",
+            "score": 53484,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intake valve",
+            "score": 53483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhaust manifold",
+            "score": 53482,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brake",
+            "score": 53481,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retarder",
+            "score": 53480,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bevel gear",
+            "score": 53479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 53478,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbofan engine",
+            "score": 53477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pneumatically",
+            "score": 53476,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tappet",
+            "score": 53475,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nozzle",
+            "score": 53474,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intercooler",
+            "score": 53473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "winch",
+            "score": 53472,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blower",
+            "score": 53471,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "afterburning",
+            "score": 53470,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countershaft",
+            "score": 53469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underslung",
+            "score": 53468,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unloader",
+            "score": 53467,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbos",
+            "score": 53466,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cylinder",
+            "score": 53465,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air compressor",
+            "score": 53464,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flange",
+            "score": 53463,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "actuation",
+            "score": 53462,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compressed air",
+            "score": 53461,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calliper",
+            "score": 53460,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stub axle",
+            "score": 53459,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towbar",
+            "score": 53458,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinion",
+            "score": 53457,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outboard",
+            "score": 53456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antilock",
+            "score": 53455,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "synchromesh",
+            "score": 53454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiator hose",
+            "score": 53453,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muffler",
+            "score": 53452,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heat exchanger",
+            "score": 53451,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "superheater",
+            "score": 53450,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microswitch",
+            "score": 53449,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprocket",
+            "score": 53448,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lubrication",
+            "score": 53447,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reciprocating engine",
+            "score": 53446,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxidiser",
+            "score": 53445,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tail rotor",
+            "score": 53444,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "hydraulic pump",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "hydraulic ram",
+            "score": 65,
+            "numSyllables": 4
+        },
+        {
+            "word": "hydraulic",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "hydroscope",
+            "score": 50,
+            "numSyllables": 3
+        },
+        {
+            "word": "harlequin",
+            "score": 49,
+            "numSyllables": 3
+        },
+        {
+            "word": "water pump",
+            "score": 41,
+            "numSyllables": 3
+        },
+        {
+            "word": "stomach pump",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "cider gum",
+            "score": 33,
+            "numSyllables": 3
+        },
+        {
+            "word": "saddle up",
+            "score": 30,
+            "numSyllables": 3
+        },
+        {
+            "word": "sea dragon",
+            "score": 28,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "hydraulic pump",
+            "score": 129362
+        },
+        {
+            "word": "hydraulic jump",
+            "score": 64667
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "hydraulic pump",
+            "score": 129362
+        },
+        {
+            "word": "hydraulic jump",
+            "score": 64667
+        },
+        {
+            "word": "hydraulic propeller",
+            "score": 9
+        }
+    ]
+}

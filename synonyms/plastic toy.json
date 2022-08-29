@@ -1,0 +1,865 @@
+{
+    "term": "plastic toy",
+    "means_like": [
+        {
+            "word": "block",
+            "score": 29251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinwheel",
+            "score": 28424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 28051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoop",
+            "score": 28051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kite",
+            "score": 28051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windmill",
+            "score": 28024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cao",
+            "score": 27985,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "capped",
+            "score": 27985,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "capping",
+            "score": 27985,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "caps",
+            "score": 27985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 27985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frisbee",
+            "score": 27985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lego",
+            "score": 11585,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "paddling",
+            "score": 11585,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dildo",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "model",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pug",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slide",
+            "score": 11545,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "yarn",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sack",
+            "score": 11519,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 11519,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ball",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kaleidoscope",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kazoo",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ocarina",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pail",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski",
+            "score": 11479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modeler",
+            "score": 11453,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 10598,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 10598,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dice",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "domino",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drum",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fold",
+            "score": 10598,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "footbag",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pacifier",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pellicle",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pillow",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quoit",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "racket",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shuttlecock",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sling",
+            "score": 10598,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slinging",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teething ring",
+            "score": 10598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "two",
+            "score": 10598,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "beach ball",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chip",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fishbowl",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hula-hoop",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meccano",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ring toss",
+            "score": 10532
+        },
+        {
+            "word": "shuffleboard",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprue",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "table tennis",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiddlywinks",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wading pool",
+            "score": 10532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloon",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloons",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanbag",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bogie",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bopeep",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cue",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dummy",
+            "score": 10518,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "game",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hobby",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hobbyhorse",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumping jack",
+            "score": 10518,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 10518,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "marble",
+            "score": 10518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "play",
+            "score": 10518,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 10518,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "anaplastic",
+            "score": 10493,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barb",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basket",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 10493,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biot",
+            "score": 10493,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bomb",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 10493,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brush",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bubble",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butt",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cash",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casted",
+            "score": 10493,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 10493,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 10493,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chin",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cork",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "plasticky",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastic",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastique",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastik",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastics",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasticity",
+            "score": 77,
+            "numSyllables": 4
+        },
+        {
+            "word": "plastid",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastical",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastically",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "blast it",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "blastic",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastic bag",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastids",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastic wrap",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plaisted",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "postictal",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "past it",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastic art",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "placit",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "aplastic",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "plasticity",
+            "score": 460
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "plastic toy poisoning",
+            "score": 129328
+        },
+        {
+            "word": "plasticity",
+            "score": 460
+        },
+        {
+            "word": "plastic bomb",
+            "score": 29
+        },
+        {
+            "word": "plastic foam",
+            "score": 10
+        },
+        {
+            "word": "plastic foods",
+            "score": 6
+        },
+        {
+            "word": "plastic operation",
+            "score": 6
+        },
+        {
+            "word": "plastic force",
+            "score": 3
+        },
+        {
+            "word": "plastic money",
+            "score": 3
+        }
+    ]
+}

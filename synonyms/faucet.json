@@ -1,0 +1,1466 @@
+{
+    "term": "faucet",
+    "means_like": [
+        {
+            "word": "spigot",
+            "score": 70703,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valve",
+            "score": 68944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stopcock",
+            "score": 68887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pump",
+            "score": 63267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tap",
+            "score": 60939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pour",
+            "score": 59032,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "drippy",
+            "score": 57550,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "showerhead",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flush toilet",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwasher",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilet",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathroom",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water softener",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathtub",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diverter",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spout",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washer",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hose",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countertop",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerator",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bidet",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cistern",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nozzle",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immersion heater",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washbasin",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprinkler",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower stall",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwashing machine",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birdbath",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fountain",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydrant",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchen",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strainer",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water faucet",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wash room",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soap dispenser",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water tap",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water heater",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downspout",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garden hose",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dehumidifier",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sump pump",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "humidistat",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doorknob",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "humidifier",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dryer",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air conditioner",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavatory",
+            "score": 51228,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "washing machine",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turncock",
+            "score": 51226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishpan",
+            "score": 51225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeepot",
+            "score": 51224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerator",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rinsing",
+            "score": 51222,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "evaporative cooler",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper toweling",
+            "score": 51220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water fountain",
+            "score": 51219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathroom fixture",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knob",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carafe",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes dryer",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baseboard",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dripper",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stove",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "light bulb",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainspout",
+            "score": 51209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spile",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downspouts",
+            "score": 51207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splashback",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impeller",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blow dryer",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooktop",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sponge mop",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evaporator",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stovetop",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brandy snifter",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "softener",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiators",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeemaker",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decanter",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heater",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downpipe",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macerator",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vents",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gutters",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plunger",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydronic",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermostat",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jug",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towel bar",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair dryer",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atomizer",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprayer",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filtration",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blower",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "faucet",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "fosset",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fawcett",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "faucett",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fausett",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasit",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "facet",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossett",
+            "score": 94,
+            "numSyllables": 2
+        },
+        {
+            "word": "fausset",
+            "score": 94,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossette",
+            "score": 94,
+            "numSyllables": 2
+        },
+        {
+            "word": "facit",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "fassett",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "face it",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "faucette",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "facette",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "faucets",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "face out",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "facete",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasid",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "faust",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fossa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fost",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fasa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "foust",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fauces",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fassa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "phasa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fast",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "faces",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fist",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "feast",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "facade",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faced",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "fest",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "foresight",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fussed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "facets",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "feist",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "foist",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "fust",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "fasst",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "fessed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "feest",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "feste",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "fassade",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fdsa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fusa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fisa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fissa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fascet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fausey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fore sight",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fauci",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phase out",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "force out",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fosa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fesa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phaseout",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "false oat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "forsyte",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fouette",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "phosphite",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "foskett",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossil",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fagot",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "faeces",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "phosphate",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "foret",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "fixit",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fusses",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "faso",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossile",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fayette",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasces",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossum",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "for it",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fices",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "phys ed",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fix-it",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossey",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fix it",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossick",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossi",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fitchett",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fesses",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasi",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "far sight",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fosso",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fassi",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "phasia",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "fasci",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fascio",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "fouquet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fastnet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fosfate",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fouet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosset",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "face-up",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "faucet",
+            "score": 65890
+        },
+        {
+            "word": "facet",
+            "score": 1551
+        },
+        {
+            "word": "fauces",
+            "score": 163
+        },
+        {
+            "word": "fascet",
+            "score": 58
+        },
+        {
+            "word": "faucett",
+            "score": 35
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "aerator",
+            "score": 2013
+        },
+        {
+            "word": "potable",
+            "score": 1615
+        },
+        {
+            "word": "plumbing",
+            "score": 1602
+        },
+        {
+            "word": "shower",
+            "score": 1553
+        },
+        {
+            "word": "hose",
+            "score": 1547
+        },
+        {
+            "word": "sink",
+            "score": 1543
+        },
+        {
+            "word": "sensor",
+            "score": 1521
+        },
+        {
+            "word": "tap",
+            "score": 1512
+        },
+        {
+            "word": "toilet",
+            "score": 1508
+        },
+        {
+            "word": "snail",
+            "score": 1494
+        },
+        {
+            "word": "valve",
+            "score": 1493
+        },
+        {
+            "word": "sensing",
+            "score": 1483
+        },
+        {
+            "word": "infrared",
+            "score": 1475
+        },
+        {
+            "word": "washing",
+            "score": 1467
+        },
+        {
+            "word": "pub",
+            "score": 1410
+        },
+        {
+            "word": "inn",
+            "score": 1394
+        },
+        {
+            "word": "proximity",
+            "score": 1390
+        },
+        {
+            "word": "opens",
+            "score": 1378
+        },
+        {
+            "word": "pipe",
+            "score": 1374
+        },
+        {
+            "word": "water",
+            "score": 1343
+        },
+        {
+            "word": "neck",
+            "score": 1342
+        },
+        {
+            "word": "beer",
+            "score": 1333
+        },
+        {
+            "word": "drinking",
+            "score": 1330
+        },
+        {
+            "word": "stream",
+            "score": 1321
+        },
+        {
+            "word": "flow",
+            "score": 1313
+        },
+        {
+            "word": "mechanism",
+            "score": 1309
+        },
+        {
+            "word": "manufacturer",
+            "score": 1304
+        },
+        {
+            "word": "equipped",
+            "score": 1298
+        },
+        {
+            "word": "automatic",
+            "score": 1295
+        },
+        {
+            "word": "delta",
+            "score": 1291
+        },
+        {
+            "word": "cold",
+            "score": 1268
+        },
+        {
+            "word": "rain",
+            "score": 1266
+        },
+        {
+            "word": "connected",
+            "score": 1245
+        },
+        {
+            "word": "attached",
+            "score": 1236
+        },
+        {
+            "word": "hot",
+            "score": 1232
+        },
+        {
+            "word": "electronic",
+            "score": 1226
+        },
+        {
+            "word": "installed",
+            "score": 1224
+        },
+        {
+            "word": "hands",
+            "score": 1217
+        },
+        {
+            "word": "motion",
+            "score": 1211
+        },
+        {
+            "word": "inside",
+            "score": 1208
+        },
+        {
+            "word": "households",
+            "score": 1190
+        },
+        {
+            "word": "table",
+            "score": 1185
+        },
+        {
+            "word": "supply",
+            "score": 1182
+        },
+        {
+            "word": "price",
+            "score": 1178
+        },
+        {
+            "word": "amount",
+            "score": 1175
+        },
+        {
+            "word": "sales",
+            "score": 1165
+        },
+        {
+            "word": "pressure",
+            "score": 1160
+        },
+        {
+            "word": "source",
+            "score": 1158
+        },
+        {
+            "word": "gas",
+            "score": 1157
+        },
+        {
+            "word": "wall",
+            "score": 1151
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "faucet",
+            "score": 65890
+        },
+        {
+            "word": "faucets",
+            "score": 64747
+        },
+        {
+            "word": "faucette",
+            "score": 64728
+        },
+        {
+            "word": "faucett",
+            "score": 64694
+        },
+        {
+            "word": "facetious",
+            "score": 2706
+        },
+        {
+            "word": "facet",
+            "score": 1551
+        },
+        {
+            "word": "facets",
+            "score": 488
+        },
+        {
+            "word": "faceted",
+            "score": 274
+        },
+        {
+            "word": "facetiously",
+            "score": 210
+        },
+        {
+            "word": "fauces",
+            "score": 163
+        }
+    ]
+}

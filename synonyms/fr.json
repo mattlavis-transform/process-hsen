@@ -1,0 +1,1262 @@
+{
+    "term": "fr",
+    "means_like": [
+        {
+            "word": "atomic number 87",
+            "score": 30078,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "francium",
+            "score": 30078,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "fresco",
+            "score": 28410,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sscs",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "des",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "est",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "justification",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "son",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sur",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "-lite",
+            "score": 6364
+        },
+        {
+            "word": "abas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abbe",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abri",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "adieu",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affaire",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aire",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ala",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aloi",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "amie",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amoi",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amour",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ane",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ange",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anime",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "annal",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "anse",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apercu",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arete",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argent",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arret",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artiste",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avec",
+            "score": 6364
+        },
+        {
+            "word": "banc",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beau",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bel",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "berceuse",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bijou",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bistre",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blanche",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bleu",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boite",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boutique",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breve",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brevet",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camus",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "car",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cela",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "celeste",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cent",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "centre",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chat",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cheri",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chic",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "chou",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cie",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "con-",
+            "score": 6364
+        },
+        {
+            "word": "conge",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creche",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creme",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crosse",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dacite",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deja",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denis",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dent",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dire",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dit",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dos",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dot",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doyen",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dragee",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dys-",
+            "score": 6364
+        },
+        {
+            "word": "eaux",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ebon",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ecru",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "egal",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elan",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elles",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elu",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "elysee",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "email",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emigre",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emu",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entente",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entre",
+            "score": 6364
+        },
+        {
+            "word": "entrepot",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "envoi",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epee",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "escargot",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "esprit",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etage",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etat",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "etoile",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "etre",
+            "score": 6364
+        },
+        {
+            "word": "eur",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "fil",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fille",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fils",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fin",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flan",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "for",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fur",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fir",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fer",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "furr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "frr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "feur",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "frw",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "phr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fwr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fhr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fjr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "fire",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fear",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "far",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fair",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fare",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fern",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faire",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fiar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fier",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fea",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "feer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "figh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fai",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fert",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fere",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "farr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "afer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ffa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fers",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fayre",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "feh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fiere",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fih",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "afr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firre",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ffy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faar",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fearn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faur",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fior",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faure",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "affor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferre",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faugh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ffar",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ffe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fehr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "faj",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "afor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fahr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fha",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fiee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fii",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cfe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fhe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ephor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firle",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "afir",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ffi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "feere",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fawe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "efor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "faruq",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fhi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": ".ie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cfroi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferr-",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "epher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "faez",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "feier",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "eifer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferv",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ferde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "firp",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "fr",
+            "score": 450
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "frame",
+            "score": 3853
+        },
+        {
+            "word": "free",
+            "score": 3517
+        },
+        {
+            "word": "from",
+            "score": 3459
+        },
+        {
+            "word": "friend",
+            "score": 3149
+        },
+        {
+            "word": "fruit",
+            "score": 2482
+        },
+        {
+            "word": "front",
+            "score": 2454
+        },
+        {
+            "word": "frog",
+            "score": 2392
+        },
+        {
+            "word": "fret",
+            "score": 2383
+        },
+        {
+            "word": "fraught",
+            "score": 2333
+        },
+        {
+            "word": "freeze",
+            "score": 2170
+        }
+    ]
+}

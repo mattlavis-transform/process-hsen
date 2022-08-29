@@ -1,0 +1,636 @@
+{
+    "term": "clothin",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "clothing",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "close in",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "closen",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "kloten",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "closing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloaking",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clock in",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clotho",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clue in",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clathrin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "close on",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clayton",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clausen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clawson",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "klassen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "classen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clasen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "claassen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clayson",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kleeman",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kleiman",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clayman",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloisonne",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauthen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "classon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clauson",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cawthon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "klaassen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kathan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "closson",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clutha",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "klayman",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "klokken",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clyman",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothes",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "clone",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "climbing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "comin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothe",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clicking",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "claiming",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clocking",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloning",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clucking",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clawing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloying",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clotting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clacking",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clin",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cosin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "classing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "klin",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "closed in",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clamming",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothes pin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clausing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clueing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clymene",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "klone",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clarin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clouting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clouthier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "chlorin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kosin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cluing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "climb on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clued in",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleating",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "claying",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "click on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cliquing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "comyn",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clock on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clin-",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "glowing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloating",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloaming",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glutin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gethin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glackin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glycin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "eclosion",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "glass in",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloven",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloaca",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "clapham",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohan",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cochon",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "clasm",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocon",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "claycomb",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "clachan",
+            "score": 77,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "clothe",
+            "score": 2499
+        },
+        {
+            "word": "cloth",
+            "score": 1938
+        },
+        {
+            "word": "clothes",
+            "score": 1693
+        },
+        {
+            "word": "clothing",
+            "score": 1208
+        },
+        {
+            "word": "clotho",
+            "score": 234
+        },
+        {
+            "word": "cloths",
+            "score": 206
+        },
+        {
+            "word": "clothier",
+            "score": 198
+        },
+        {
+            "word": "clothed",
+            "score": 164
+        },
+        {
+            "word": "cochin",
+            "score": 140
+        },
+        {
+            "word": "lothian",
+            "score": 111
+        },
+        {
+            "word": "nothin",
+            "score": 75
+        },
+        {
+            "word": "crottin",
+            "score": 50
+        },
+        {
+            "word": "clathrin",
+            "score": 49
+        },
+        {
+            "word": "clothoid",
+            "score": 46
+        },
+        {
+            "word": "cothen",
+            "score": 36
+        },
+        {
+            "word": "othin",
+            "score": 19
+        },
+        {
+            "word": "slot in",
+            "score": 19
+        },
+        {
+            "word": "cloacin",
+            "score": 12
+        },
+        {
+            "word": "plotkin",
+            "score": 8
+        },
+        {
+            "word": "clothy",
+            "score": 5
+        },
+        {
+            "word": "crotin",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "clothing",
+            "score": 130526
+        },
+        {
+            "word": "clothing store",
+            "score": 129354
+        },
+        {
+            "word": "clothings",
+            "score": 129335
+        },
+        {
+            "word": "clothing label",
+            "score": 129327
+        },
+        {
+            "word": "clothing optional",
+            "score": 129326
+        },
+        {
+            "word": "clothier",
+            "score": 64857
+        },
+        {
+            "word": "clotting",
+            "score": 64769
+        },
+        {
+            "word": "clothiers",
+            "score": 64705
+        },
+        {
+            "word": "clotting time",
+            "score": 64701
+        },
+        {
+            "word": "clotting factor",
+            "score": 64677
+        }
+    ]
+}

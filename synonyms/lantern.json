@@ -1,0 +1,2005 @@
+{
+    "term": "lantern",
+    "means_like": [
+        {
+            "word": "lamp",
+            "score": 69454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashlight",
+            "score": 67329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lights",
+            "score": 64693,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "lighthouse",
+            "score": 64612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beacon",
+            "score": 62396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lighting",
+            "score": 62377,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "lamppost",
+            "score": 61950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "light",
+            "score": 61552,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "filament",
+            "score": 61060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "festival",
+            "score": 59771,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headlights",
+            "score": 58325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric",
+            "score": 56758,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "slides",
+            "score": 55822,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "clue",
+            "score": 55528,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lentil",
+            "score": 54678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hec",
+            "score": 54158,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "index",
+            "score": 53042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sca",
+            "score": 51008,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "candle",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candleholder",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulb",
+            "score": 51003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sconce",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chandelier",
+            "score": 51001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "streetlamp",
+            "score": 51000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candlelight",
+            "score": 50999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightlight",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fluorescent lamp",
+            "score": 50997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torchlight",
+            "score": 50996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menorah",
+            "score": 50995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinese lantern",
+            "score": 50993,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "source of illumination",
+            "score": 50992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kerosene lamp",
+            "score": 50991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arc light",
+            "score": 50990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric lamp",
+            "score": 50989,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arc lamp",
+            "score": 50988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holophote",
+            "score": 50987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torches",
+            "score": 50986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candelabrum",
+            "score": 50985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "joss stick",
+            "score": 50984,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "parol",
+            "score": 50983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrolier",
+            "score": 50982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teapot",
+            "score": 50981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firelight",
+            "score": 50980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "japanese lantern",
+            "score": 50979,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kite",
+            "score": 50978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornament",
+            "score": 50977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fairy light",
+            "score": 50976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neon lamp",
+            "score": 50975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gourd",
+            "score": 50974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wreath",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parasol",
+            "score": 50972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amulet",
+            "score": 50971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pagoda",
+            "score": 50970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torch",
+            "score": 50969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "christmas tree",
+            "score": 50968,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "howdah",
+            "score": 50967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gas mantle",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kiva",
+            "score": 50965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flowerpot",
+            "score": 50964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birdhouse",
+            "score": 50963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vase",
+            "score": 50962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "censer",
+            "score": 50961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundial",
+            "score": 50959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "samovar",
+            "score": 50958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wigwam",
+            "score": 50957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinecone",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brazier",
+            "score": 50955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleigh bell",
+            "score": 50954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charcoal burner",
+            "score": 50953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candelabra",
+            "score": 50952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parabolic mirror",
+            "score": 50951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goblet",
+            "score": 50950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stove",
+            "score": 50949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glowworm",
+            "score": 50948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gaslights",
+            "score": 50947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tipi",
+            "score": 50946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pail",
+            "score": 50945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birchbark",
+            "score": 50944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jug",
+            "score": 50943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birdcage",
+            "score": 50942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shammes",
+            "score": 50941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotuses",
+            "score": 50940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tepee",
+            "score": 50939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lyre",
+            "score": 50938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gunny sack",
+            "score": 50937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendant",
+            "score": 50936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamp shade",
+            "score": 50935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trivet",
+            "score": 50934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magic lantern",
+            "score": 50933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "owllight",
+            "score": 50932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "archway",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garuda",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candle flame",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copal",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreamcatcher",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relumine",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woodstove",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric socket",
+            "score": 50922,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "armillary sphere",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glow lamp",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "lantern",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanterne",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanterns",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanthorn",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lander",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "linton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "long-term",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lenten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "longterm",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "langton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lenton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "land on",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "linter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lynton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "landra",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanting",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "long term",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "langtry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanterna",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "laterne",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lontar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lointain",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wintern",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "london",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "laundry",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "landing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lender",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "planter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "launder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "linden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plantain",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lant",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "landers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "linder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lyndon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latr",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "londen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "langdon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "slattern",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "blanton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lantana",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "leandra",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lindor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lindon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "laten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lunder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lynden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plantar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lunden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clanton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plantin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "landrum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "laton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "long horn",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lattin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lannon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lime tree",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanner",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lundin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "longton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lundeen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lateran",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "linters",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latry",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lannan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lannen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "glanton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lantern jaw",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "long ton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "llanto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latn",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "lanterman",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "leaned on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lambdin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanzar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lindar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanyer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lantrip",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "latro",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "leuchtturm",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chanter",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "chantry",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hanter",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hanton",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hanten",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hantan",
+            "score": 78,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "lantern",
+            "score": 130379
+        },
+        {
+            "word": "lanter",
+            "score": 64711
+        },
+        {
+            "word": "lantirn",
+            "score": 64671
+        },
+        {
+            "word": "olantern",
+            "score": 64664
+        },
+        {
+            "word": "pattern",
+            "score": 3079
+        },
+        {
+            "word": "latter",
+            "score": 2308
+        },
+        {
+            "word": "banter",
+            "score": 1636
+        },
+        {
+            "word": "later",
+            "score": 1218
+        },
+        {
+            "word": "intern",
+            "score": 1193
+        },
+        {
+            "word": "canteen",
+            "score": 972
+        },
+        {
+            "word": "canter",
+            "score": 753
+        },
+        {
+            "word": "lectern",
+            "score": 640
+        },
+        {
+            "word": "slattern",
+            "score": 526
+        },
+        {
+            "word": "planter",
+            "score": 463
+        },
+        {
+            "word": "astern",
+            "score": 457
+        },
+        {
+            "word": "lancer",
+            "score": 448
+        },
+        {
+            "word": "eastern",
+            "score": 438
+        },
+        {
+            "word": "pastern",
+            "score": 397
+        },
+        {
+            "word": "lenten",
+            "score": 328
+        },
+        {
+            "word": "lateen",
+            "score": 321
+        },
+        {
+            "word": "lander",
+            "score": 308
+        },
+        {
+            "word": "linter",
+            "score": 226
+        },
+        {
+            "word": "lateran",
+            "score": 218
+        },
+        {
+            "word": "latten",
+            "score": 208
+        },
+        {
+            "word": "laten",
+            "score": 205
+        },
+        {
+            "word": "saltern",
+            "score": 203
+        },
+        {
+            "word": "lanner",
+            "score": 196
+        },
+        {
+            "word": "ganter",
+            "score": 184
+        },
+        {
+            "word": "antero",
+            "score": 180
+        },
+        {
+            "word": "lancers",
+            "score": 176
+        },
+        {
+            "word": "laster",
+            "score": 166
+        },
+        {
+            "word": "lanier",
+            "score": 164
+        },
+        {
+            "word": "langer",
+            "score": 151
+        },
+        {
+            "word": "pantera",
+            "score": 132
+        },
+        {
+            "word": "lanterns",
+            "score": 123
+        },
+        {
+            "word": "ranter",
+            "score": 122
+        },
+        {
+            "word": "dantean",
+            "score": 115
+        },
+        {
+            "word": "panter",
+            "score": 109
+        },
+        {
+            "word": "wanter",
+            "score": 97
+        },
+        {
+            "word": "altern",
+            "score": 94
+        },
+        {
+            "word": "landen",
+            "score": 94
+        },
+        {
+            "word": "planters",
+            "score": 91
+        },
+        {
+            "word": "lastery",
+            "score": 87
+        },
+        {
+            "word": "manter",
+            "score": 85
+        },
+        {
+            "word": "lanker",
+            "score": 83
+        },
+        {
+            "word": "santer",
+            "score": 80
+        },
+        {
+            "word": "landers",
+            "score": 79
+        },
+        {
+            "word": "linters",
+            "score": 78
+        },
+        {
+            "word": "kanten",
+            "score": 76
+        },
+        {
+            "word": "alatern",
+            "score": 75
+        },
+        {
+            "word": "lauter",
+            "score": 65
+        },
+        {
+            "word": "anter",
+            "score": 62
+        },
+        {
+            "word": "lanthorn",
+            "score": 62
+        },
+        {
+            "word": "lanners",
+            "score": 55
+        },
+        {
+            "word": "lactean",
+            "score": 54
+        },
+        {
+            "word": "santero",
+            "score": 53
+        },
+        {
+            "word": "vanern",
+            "score": 52
+        },
+        {
+            "word": "kanter",
+            "score": 51
+        },
+        {
+            "word": "laters",
+            "score": 51
+        },
+        {
+            "word": "latero",
+            "score": 50
+        },
+        {
+            "word": "santera",
+            "score": 46
+        },
+        {
+            "word": "mattern",
+            "score": 42
+        },
+        {
+            "word": "banters",
+            "score": 40
+        },
+        {
+            "word": "matern",
+            "score": 38
+        },
+        {
+            "word": "lettern",
+            "score": 36
+        },
+        {
+            "word": "lampern",
+            "score": 33
+        },
+        {
+            "word": "vattern",
+            "score": 32
+        },
+        {
+            "word": "ranters",
+            "score": 30
+        },
+        {
+            "word": "langen",
+            "score": 28
+        },
+        {
+            "word": "lanyer",
+            "score": 27
+        },
+        {
+            "word": "cantero",
+            "score": 25
+        },
+        {
+            "word": "latera",
+            "score": 25
+        },
+        {
+            "word": "martern",
+            "score": 24
+        },
+        {
+            "word": "lanterman",
+            "score": 21
+        },
+        {
+            "word": "canters",
+            "score": 20
+        },
+        {
+            "word": "wanters",
+            "score": 20
+        },
+        {
+            "word": "lavern",
+            "score": 14
+        },
+        {
+            "word": "langers",
+            "score": 13
+        },
+        {
+            "word": "laner",
+            "score": 12
+        },
+        {
+            "word": "lateri",
+            "score": 12
+        },
+        {
+            "word": "banten",
+            "score": 11
+        },
+        {
+            "word": "lanser",
+            "score": 11
+        },
+        {
+            "word": "xanten",
+            "score": 11
+        },
+        {
+            "word": "latere",
+            "score": 10
+        },
+        {
+            "word": "lanterna",
+            "score": 9
+        },
+        {
+            "word": "danter",
+            "score": 8
+        },
+        {
+            "word": "hanten",
+            "score": 8
+        },
+        {
+            "word": "lasters",
+            "score": 8
+        },
+        {
+            "word": "wintern",
+            "score": 8
+        },
+        {
+            "word": "lannen",
+            "score": 7
+        },
+        {
+            "word": "flandern",
+            "score": 6
+        },
+        {
+            "word": "cantera",
+            "score": 5
+        },
+        {
+            "word": "hanter",
+            "score": 5
+        },
+        {
+            "word": "lagern",
+            "score": 5
+        },
+        {
+            "word": "larter",
+            "score": 5
+        },
+        {
+            "word": "lindern",
+            "score": 5
+        },
+        {
+            "word": "lanterne",
+            "score": 4
+        },
+        {
+            "word": "slanter",
+            "score": 4
+        },
+        {
+            "word": "lauten",
+            "score": 3
+        },
+        {
+            "word": "sintern",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "pinion",
+            "score": 1690
+        },
+        {
+            "word": "staves",
+            "score": 1670
+        },
+        {
+            "word": "fresnel",
+            "score": 1616
+        },
+        {
+            "word": "hal",
+            "score": 1555
+        },
+        {
+            "word": "parallax",
+            "score": 1536
+        },
+        {
+            "word": "guardians",
+            "score": 1527
+        },
+        {
+            "word": "lighthouse",
+            "score": 1463
+        },
+        {
+            "word": "cyborg",
+            "score": 1457
+        },
+        {
+            "word": "cupola",
+            "score": 1451
+        },
+        {
+            "word": "nut",
+            "score": 1444
+        },
+        {
+            "word": "emerald",
+            "score": 1437
+        },
+        {
+            "word": "martian",
+            "score": 1430
+        },
+        {
+            "word": "indigo",
+            "score": 1425
+        },
+        {
+            "word": "kyle",
+            "score": 1424
+        },
+        {
+            "word": "corps",
+            "score": 1420
+        },
+        {
+            "word": "vol",
+            "score": 1415
+        },
+        {
+            "word": "superman",
+            "score": 1409
+        },
+        {
+            "word": "lens",
+            "score": 1404
+        },
+        {
+            "word": "clocks",
+            "score": 1399
+        },
+        {
+            "word": "ferris",
+            "score": 1392
+        },
+        {
+            "word": "jordan",
+            "score": 1390
+        },
+        {
+            "word": "lamp",
+            "score": 1386
+        },
+        {
+            "word": "constructs",
+            "score": 1384
+        },
+        {
+            "word": "gardner",
+            "score": 1378
+        },
+        {
+            "word": "batman",
+            "score": 1370
+        },
+        {
+            "word": "flash",
+            "score": 1366
+        },
+        {
+            "word": "arrow",
+            "score": 1359
+        },
+        {
+            "word": "spire",
+            "score": 1356
+        },
+        {
+            "word": "ring",
+            "score": 1345
+        },
+        {
+            "word": "green",
+            "score": 1339
+        },
+        {
+            "word": "superhero",
+            "score": 1337
+        },
+        {
+            "word": "rings",
+            "score": 1334
+        },
+        {
+            "word": "wonder",
+            "score": 1331
+        },
+        {
+            "word": "dome",
+            "score": 1330
+        },
+        {
+            "word": "coaster",
+            "score": 1324
+        },
+        {
+            "word": "sur",
+            "score": 1321
+        },
+        {
+            "word": "atom",
+            "score": 1318
+        },
+        {
+            "word": "slide",
+            "score": 1307
+        },
+        {
+            "word": "comics",
+            "score": 1304
+        },
+        {
+            "word": "lit",
+            "score": 1295
+        },
+        {
+            "word": "focal",
+            "score": 1291
+        },
+        {
+            "word": "universe",
+            "score": 1288
+        },
+        {
+            "word": "fog",
+            "score": 1280
+        },
+        {
+            "word": "keeper",
+            "score": 1279
+        },
+        {
+            "word": "johns",
+            "score": 1277
+        },
+        {
+            "word": "battery",
+            "score": 1275
+        },
+        {
+            "word": "apparatus",
+            "score": 1271
+        },
+        {
+            "word": "titans",
+            "score": 1267
+        },
+        {
+            "word": "guy",
+            "score": 1260
+        },
+        {
+            "word": "tower",
+            "score": 1256
+        },
+        {
+            "word": "villain",
+            "score": 1254
+        },
+        {
+            "word": "planet",
+            "score": 1246
+        },
+        {
+            "word": "heroes",
+            "score": 1241
+        },
+        {
+            "word": "oath",
+            "score": 1237
+        },
+        {
+            "word": "carol",
+            "score": 1234
+        },
+        {
+            "word": "comic",
+            "score": 1232
+        },
+        {
+            "word": "light",
+            "score": 1226
+        },
+        {
+            "word": "entity",
+            "score": 1224
+        },
+        {
+            "word": "stewart",
+            "score": 1218
+        },
+        {
+            "word": "ion",
+            "score": 1217
+        },
+        {
+            "word": "roof",
+            "score": 1216
+        },
+        {
+            "word": "storyline",
+            "score": 1213
+        },
+        {
+            "word": "painted",
+            "score": 1208
+        },
+        {
+            "word": "alan",
+            "score": 1198
+        },
+        {
+            "word": "sector",
+            "score": 1197
+        },
+        {
+            "word": "emotional",
+            "score": 1189
+        },
+        {
+            "word": "lights",
+            "score": 1183
+        },
+        {
+            "word": "pages",
+            "score": 1175
+        },
+        {
+            "word": "diameter",
+            "score": 1173
+        },
+        {
+            "word": "room",
+            "score": 1172
+        },
+        {
+            "word": "marvel",
+            "score": 1168
+        },
+        {
+            "word": "alien",
+            "score": 1160
+        },
+        {
+            "word": "parade",
+            "score": 1156
+        },
+        {
+            "word": "magic",
+            "score": 1155
+        },
+        {
+            "word": "gallery",
+            "score": 1149
+        },
+        {
+            "word": "spectrum",
+            "score": 1144
+        },
+        {
+            "word": "earth",
+            "score": 1143
+        },
+        {
+            "word": "barry",
+            "score": 1140
+        },
+        {
+            "word": "lighting",
+            "score": 1138
+        },
+        {
+            "word": "justice",
+            "score": 1136
+        },
+        {
+            "word": "installed",
+            "score": 1134
+        },
+        {
+            "word": "iron",
+            "score": 1132
+        },
+        {
+            "word": "destroy",
+            "score": 1129
+        },
+        {
+            "word": "animated",
+            "score": 1126
+        },
+        {
+            "word": "clock",
+            "score": 1124
+        },
+        {
+            "word": "festival",
+            "score": 1120
+        },
+        {
+            "word": "power",
+            "score": 1114
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "lantern",
+            "score": 130379
+        },
+        {
+            "word": "lanterns",
+            "score": 129441
+        },
+        {
+            "word": "lanterning",
+            "score": 129416
+        },
+        {
+            "word": "lantern jaw",
+            "score": 129390
+        },
+        {
+            "word": "lanternfish",
+            "score": 129389
+        },
+        {
+            "word": "lantern-jawed",
+            "score": 129373
+        },
+        {
+            "word": "lantern slide",
+            "score": 129359
+        },
+        {
+            "word": "lanternfly",
+            "score": 129345
+        },
+        {
+            "word": "lantern fish",
+            "score": 129340
+        },
+        {
+            "word": "lantern-fly",
+            "score": 129338
+        }
+    ]
+}

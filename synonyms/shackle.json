@@ -1,0 +1,1597 @@
+{
+    "term": "shackle",
+    "means_like": [
+        {
+            "word": "fetter",
+            "score": 80919,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "trammel",
+            "score": 80769,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "trammels",
+            "score": 78697,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "hamper",
+            "score": 78052,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pinion",
+            "score": 73339,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bond",
+            "score": 70926,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bind",
+            "score": 65235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hinder",
+            "score": 61399,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "impede",
+            "score": 60646,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chain",
+            "score": 59474,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obstruct",
+            "score": 59369,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 59268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie",
+            "score": 57938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklace",
+            "score": 56156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commit",
+            "score": 56096,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pendant",
+            "score": 55429,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manila",
+            "score": 54896,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "collier",
+            "score": 54813,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "channel",
+            "score": 51548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manacle",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handcuff",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "straitjacket",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tether",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "straightjacket",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yoke",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rope",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strap",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hobble",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bondage",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "padlock",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pulley",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immanacle",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fetters",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unmanacle",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enfetter",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hogtie",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keckling",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latch",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "restraints",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rope up",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brace",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hamshackle",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spancel",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block and tackle",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheet bend",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cangue",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vincture",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "futtock shroud",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thumbscrews",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tire chain",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agraffe",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chains",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lasso",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie down",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clutches",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thralldom",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raip",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keckle",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "can hook",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrick bend",
+            "score": 51308,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "polyspast",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "untruss",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windlass",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buckler",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stopper knot",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "defenestrate",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "talisman",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woolding",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrists",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hogchain",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "millstone",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuffs",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cinches",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bludgeon",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shield",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parbuckle",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noose",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "constricting",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breastfast",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapelet",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snatch block",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incatenation",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "u bolt",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timber hitch",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cingle",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "small stuff",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoist",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "constrictions",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chastity belt",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hawser",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disenchained",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inknot",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridle iron",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illaqueation",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hasp",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chokehold",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prod",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clamps",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "shackle",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "shekel",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "schakel",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "sheqel",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "jackal",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "jackel",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "jacl",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "chacal",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "jacal",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "shackles",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shackled",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shaquille",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shakily",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "shankle",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hcl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shoogle",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "chuckle",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "tackle",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "jekyll",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "shacking",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hackle",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "sachel",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "chicle",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rachal",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "racquel",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "sacl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "jkl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "racle",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hackel",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "tacl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rackle",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hackl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yackel",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hakel",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "jokul",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "shaka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shekels",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shako",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sheckles",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shacky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "schmeichel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shinkle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sheika",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sheikha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shaki",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shoka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "schenkel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "schinkel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shaffle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shacko",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "schlagel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cycle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "local",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "juggle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cackle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jiggle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "heckle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "haggle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cycl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "huckle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "mackle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "pacl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jackals",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "heckel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jacka",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "joggle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hagel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cackel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "nacl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hickle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "raggle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jugal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cecal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jugale",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "mackel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hickel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lokal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "macl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "haikal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "mackall",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "kachel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "chakka",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "caecal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "gackle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cacl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lkl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "calcul",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hockle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "psychal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dkl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "dackel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jahel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "psychol",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jacmel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "locule",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "rakehell",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cicl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lequel",
+            "score": 83,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "shackle",
+            "score": 130186
+        },
+        {
+            "word": "hackle",
+            "score": 65124
+        },
+        {
+            "word": "spackle",
+            "score": 65052
+        },
+        {
+            "word": "chackle",
+            "score": 64758
+        },
+        {
+            "word": "shackly",
+            "score": 64742
+        },
+        {
+            "word": "shankle",
+            "score": 64728
+        },
+        {
+            "word": "shuckle",
+            "score": 64685
+        },
+        {
+            "word": "shake",
+            "score": 2231
+        },
+        {
+            "word": "tackle",
+            "score": 2165
+        },
+        {
+            "word": "heckle",
+            "score": 1144
+        },
+        {
+            "word": "sparkle",
+            "score": 1116
+        },
+        {
+            "word": "chuckle",
+            "score": 1071
+        },
+        {
+            "word": "shack",
+            "score": 1031
+        },
+        {
+            "word": "shale",
+            "score": 776
+        },
+        {
+            "word": "sickle",
+            "score": 709
+        },
+        {
+            "word": "crackle",
+            "score": 692
+        },
+        {
+            "word": "cackle",
+            "score": 658
+        },
+        {
+            "word": "shamble",
+            "score": 561
+        },
+        {
+            "word": "grackle",
+            "score": 463
+        },
+        {
+            "word": "suckle",
+            "score": 387
+        },
+        {
+            "word": "speckle",
+            "score": 380
+        },
+        {
+            "word": "mackle",
+            "score": 338
+        },
+        {
+            "word": "shaffle",
+            "score": 275
+        },
+        {
+            "word": "shackles",
+            "score": 259
+        },
+        {
+            "word": "stickle",
+            "score": 222
+        },
+        {
+            "word": "shackled",
+            "score": 181
+        },
+        {
+            "word": "hockle",
+            "score": 165
+        },
+        {
+            "word": "huckle",
+            "score": 134
+        },
+        {
+            "word": "shabble",
+            "score": 131
+        },
+        {
+            "word": "hackee",
+            "score": 107
+        },
+        {
+            "word": "unshackle",
+            "score": 91
+        },
+        {
+            "word": "slackly",
+            "score": 84
+        },
+        {
+            "word": "stuckle",
+            "score": 70
+        },
+        {
+            "word": "shackler",
+            "score": 61
+        },
+        {
+            "word": "quackle",
+            "score": 59
+        },
+        {
+            "word": "hackie",
+            "score": 54
+        },
+        {
+            "word": "hickle",
+            "score": 51
+        },
+        {
+            "word": "rackle",
+            "score": 49
+        },
+        {
+            "word": "shacks",
+            "score": 49
+        },
+        {
+            "word": "hackly",
+            "score": 45
+        },
+        {
+            "word": "shacko",
+            "score": 41
+        },
+        {
+            "word": "shacky",
+            "score": 35
+        },
+        {
+            "word": "shadle",
+            "score": 33
+        },
+        {
+            "word": "shankly",
+            "score": 28
+        },
+        {
+            "word": "sphacele",
+            "score": 28
+        },
+        {
+            "word": "shacked",
+            "score": 26
+        },
+        {
+            "word": "shinkle",
+            "score": 23
+        },
+        {
+            "word": "hacke",
+            "score": 21
+        },
+        {
+            "word": "shache",
+            "score": 19
+        },
+        {
+            "word": "gackle",
+            "score": 18
+        },
+        {
+            "word": "hankle",
+            "score": 18
+        },
+        {
+            "word": "sprackle",
+            "score": 12
+        },
+        {
+            "word": "hackl",
+            "score": 5
+        },
+        {
+            "word": "blackle",
+            "score": 2
+        },
+        {
+            "word": "shacket",
+            "score": 1
+        },
+        {
+            "word": "shackup",
+            "score": 1
+        },
+        {
+            "word": "shauchle",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "clevis",
+            "score": 2001
+        },
+        {
+            "word": "padlock",
+            "score": 1873
+        },
+        {
+            "word": "shackles",
+            "score": 1789
+        },
+        {
+            "word": "jacks",
+            "score": 1585
+        },
+        {
+            "word": "rigging",
+            "score": 1571
+        },
+        {
+            "word": "locking",
+            "score": 1566
+        },
+        {
+            "word": "pin",
+            "score": 1524
+        },
+        {
+            "word": "salvage",
+            "score": 1521
+        },
+        {
+            "word": "keynes",
+            "score": 1511
+        },
+        {
+            "word": "bolt",
+            "score": 1457
+        },
+        {
+            "word": "lock",
+            "score": 1455
+        },
+        {
+            "word": "wire",
+            "score": 1430
+        },
+        {
+            "word": "loop",
+            "score": 1407
+        },
+        {
+            "word": "shaped",
+            "score": 1373
+        },
+        {
+            "word": "chain",
+            "score": 1363
+        },
+        {
+            "word": "secured",
+            "score": 1332
+        },
+        {
+            "word": "economics",
+            "score": 1325
+        },
+        {
+            "word": "slaves",
+            "score": 1318
+        },
+        {
+            "word": "mechanism",
+            "score": 1310
+        },
+        {
+            "word": "attached",
+            "score": 1296
+        },
+        {
+            "word": "metal",
+            "score": 1279
+        },
+        {
+            "word": "rescue",
+            "score": 1269
+        },
+        {
+            "word": "sets",
+            "score": 1244
+        },
+        {
+            "word": "challenge",
+            "score": 1241
+        },
+        {
+            "word": "straight",
+            "score": 1240
+        },
+        {
+            "word": "key",
+            "score": 1230
+        },
+        {
+            "word": "broke",
+            "score": 1221
+        },
+        {
+            "word": "ship",
+            "score": 1189
+        },
+        {
+            "word": "meaning",
+            "score": 1177
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "shackle",
+            "score": 130186
+        },
+        {
+            "word": "shackles",
+            "score": 129577
+        },
+        {
+            "word": "shackled",
+            "score": 129499
+        },
+        {
+            "word": "shackleton",
+            "score": 129497
+        },
+        {
+            "word": "shackler",
+            "score": 129379
+        },
+        {
+            "word": "shackleford",
+            "score": 129335
+        },
+        {
+            "word": "shackle joint",
+            "score": 129334
+        },
+        {
+            "word": "shackle bolt",
+            "score": 129328
+        },
+        {
+            "word": "shackle bar",
+            "score": 129324
+        },
+        {
+            "word": "hackle",
+            "score": 65124
+        }
+    ]
+}

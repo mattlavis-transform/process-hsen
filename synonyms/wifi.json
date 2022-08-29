@@ -1,0 +1,1650 @@
+{
+    "term": "wifi",
+    "means_like": [
+        {
+            "word": "wireless",
+            "score": 49822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wi-fi",
+            "score": 31359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wlan",
+            "score": 31357,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bluetooth",
+            "score": 31356,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 31355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dsl",
+            "score": 31354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet cable",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connectivity",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skype",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "router",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broadband",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hotspot",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iphone",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "internet",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lcd",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minibar",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pda",
+            "score": 31340,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wap",
+            "score": 31339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "trackpad",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackberry",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firmware",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treo",
+            "score": 31335,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "isp",
+            "score": 31334,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tomtom",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vonage",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cingular",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fone",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "samsung",
+            "score": 31329,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "earthlink",
+            "score": 31328,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dvi",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "powerbook",
+            "score": 31326,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mapquest",
+            "score": 31325,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ssh",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "syncing",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tethering",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gmail",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acces",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "util",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ibiza",
+            "score": 31318,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "froyo",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hdtv",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baud",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ymmv",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "starbucks",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "htc",
+            "score": 31312,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "moby",
+            "score": 31311,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "colo",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scart",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linux",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "megs",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hulu",
+            "score": 31306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "motorola",
+            "score": 31305,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gamecube",
+            "score": 31304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skyping",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ovi",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rogers",
+            "score": 31301,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lenovo",
+            "score": 31300,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sbc",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "addy",
+            "score": 31298,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "txt",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reva",
+            "score": 31296,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gprs",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "georgetown",
+            "score": 31294,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sony",
+            "score": 31292,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nokia",
+            "score": 31291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "precentral",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scsi",
+            "score": 31289,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "baud rate",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conn",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acer",
+            "score": 31286,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "slashdot",
+            "score": 31285,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cheeper",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kingston",
+            "score": 31283,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mcafee",
+            "score": 31282,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bbm",
+            "score": 31281,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scp",
+            "score": 31280,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "phones",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multiuser",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heathrow",
+            "score": 31277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "msi",
+            "score": 31276,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lightrail",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toshiba",
+            "score": 31274,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "radiohead",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connexion",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moscow",
+            "score": 31271,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "loo",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mesh topology",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miq",
+            "score": 31268,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "austria",
+            "score": 31267,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wpan",
+            "score": 31266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nav",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ios",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prox",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autocorrect",
+            "score": 31262,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "manhattan",
+            "score": 31261,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "simms",
+            "score": 31260,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "wifi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "wi-fi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "wifey",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "wi fi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hi-fi",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "hi fi",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "wife",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "wifie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wifed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "whiffy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "woofy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wafa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yyy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wafi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wifa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "uofa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wifo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sci-fi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "hyphy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "haifa",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "hyphae",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "hypha",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "woof",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "whiff",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "waif",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wafer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "waft",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wifely",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiff",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "woofer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wif",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wtf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wayfarer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "weft",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "waya",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wift",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wuff",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wafe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "whiffed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "whiffs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "woofs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "waf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "waff",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "weef",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wuf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "whiffer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "waffe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "woofed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wef",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wayo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wief",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "weaf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "waffed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wafr",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wifs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "uof",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "y o",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "waffs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "wafs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "white eye",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wwoof",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "nife",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lo-fi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "mfy",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "sci fi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lo fi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "sify",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "yaffa",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "yafo",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "yafa",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "maffei",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "low fi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "rfi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "schifo",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "tfi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "low-fi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "yafi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "wine",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "whine",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "heifer",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "huffy",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoffa",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hifi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "heiffer",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "withy",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "nhi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "high five",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoj",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hefei",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hefa",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hafa",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "heaphy",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hifa",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hifu",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hofo",
+            "score": 81,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "wifi",
+            "score": 1478
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "bluetooth",
+            "score": 1682
+        },
+        {
+            "word": "fon",
+            "score": 1675
+        },
+        {
+            "word": "hotspot",
+            "score": 1674
+        },
+        {
+            "word": "wlan",
+            "score": 1662
+        },
+        {
+            "word": "lte",
+            "score": 1609
+        },
+        {
+            "word": "router",
+            "score": 1590
+        },
+        {
+            "word": "connectivity",
+            "score": 1552
+        },
+        {
+            "word": "voip",
+            "score": 1545
+        },
+        {
+            "word": "usb",
+            "score": 1536
+        },
+        {
+            "word": "wireless",
+            "score": 1511
+        },
+        {
+            "word": "modem",
+            "score": 1503
+        },
+        {
+            "word": "ethernet",
+            "score": 1498
+        },
+        {
+            "word": "gsm",
+            "score": 1479
+        },
+        {
+            "word": "broadband",
+            "score": 1472
+        },
+        {
+            "word": "ghz",
+            "score": 1467
+        },
+        {
+            "word": "laptop",
+            "score": 1457
+        },
+        {
+            "word": "gps",
+            "score": 1454
+        },
+        {
+            "word": "wpa",
+            "score": 1447
+        },
+        {
+            "word": "ieee",
+            "score": 1444
+        },
+        {
+            "word": "android",
+            "score": 1440
+        },
+        {
+            "word": "smartphone",
+            "score": 1409
+        },
+        {
+            "word": "cellular",
+            "score": 1403
+        },
+        {
+            "word": "hostel",
+            "score": 1401
+        },
+        {
+            "word": "ipad",
+            "score": 1397
+        },
+        {
+            "word": "slot",
+            "score": 1393
+        },
+        {
+            "word": "networks",
+            "score": 1386
+        },
+        {
+            "word": "internet",
+            "score": 1384
+        },
+        {
+            "word": "antenna",
+            "score": 1377
+        },
+        {
+            "word": "iphone",
+            "score": 1375
+        },
+        {
+            "word": "mesh",
+            "score": 1371
+        },
+        {
+            "word": "app",
+            "score": 1368
+        },
+        {
+            "word": "wired",
+            "score": 1366
+        },
+        {
+            "word": "enabled",
+            "score": 1365
+        },
+        {
+            "word": "lan",
+            "score": 1356
+        },
+        {
+            "word": "positioning",
+            "score": 1352
+        },
+        {
+            "word": "google",
+            "score": 1347
+        },
+        {
+            "word": "variants",
+            "score": 1344
+        },
+        {
+            "word": "mobile",
+            "score": 1339
+        },
+        {
+            "word": "phone",
+            "score": 1338
+        },
+        {
+            "word": "devices",
+            "score": 1336
+        },
+        {
+            "word": "smart",
+            "score": 1335
+        },
+        {
+            "word": "apps",
+            "score": 1333
+        },
+        {
+            "word": "networking",
+            "score": 1330
+        },
+        {
+            "word": "ios",
+            "score": 1324
+        },
+        {
+            "word": "access",
+            "score": 1323
+        },
+        {
+            "word": "connection",
+            "score": 1321
+        },
+        {
+            "word": "sensor",
+            "score": 1293
+        },
+        {
+            "word": "connections",
+            "score": 1290
+        },
+        {
+            "word": "counting",
+            "score": 1288
+        },
+        {
+            "word": "intel",
+            "score": 1287
+        },
+        {
+            "word": "functionality",
+            "score": 1284
+        },
+        {
+            "word": "lounge",
+            "score": 1283
+        },
+        {
+            "word": "multimedia",
+            "score": 1281
+        },
+        {
+            "word": "charging",
+            "score": 1279
+        },
+        {
+            "word": "linux",
+            "score": 1275
+        },
+        {
+            "word": "computers",
+            "score": 1272
+        },
+        {
+            "word": "device",
+            "score": 1270
+        },
+        {
+            "word": "card",
+            "score": 1267
+        },
+        {
+            "word": "processor",
+            "score": 1264
+        },
+        {
+            "word": "storage",
+            "score": 1263
+        },
+        {
+            "word": "rolled",
+            "score": 1261
+        },
+        {
+            "word": "update",
+            "score": 1257
+        },
+        {
+            "word": "network",
+            "score": 1254
+        },
+        {
+            "word": "connect",
+            "score": 1246
+        },
+        {
+            "word": "email",
+            "score": 1243
+        },
+        {
+            "word": "coverage",
+            "score": 1240
+        },
+        {
+            "word": "ranges",
+            "score": 1238
+        },
+        {
+            "word": "compatible",
+            "score": 1235
+        },
+        {
+            "word": "gateway",
+            "score": 1232
+        },
+        {
+            "word": "communicate",
+            "score": 1228
+        },
+        {
+            "word": "mini",
+            "score": 1225
+        },
+        {
+            "word": "remote",
+            "score": 1224
+        },
+        {
+            "word": "capabilities",
+            "score": 1222
+        },
+        {
+            "word": "capability",
+            "score": 1221
+        },
+        {
+            "word": "provider",
+            "score": 1218
+        },
+        {
+            "word": "customers",
+            "score": 1217
+        },
+        {
+            "word": "protocol",
+            "score": 1215
+        },
+        {
+            "word": "camera",
+            "score": 1211
+        },
+        {
+            "word": "battery",
+            "score": 1209
+        },
+        {
+            "word": "specification",
+            "score": 1208
+        },
+        {
+            "word": "spectrum",
+            "score": 1207
+        },
+        {
+            "word": "seoul",
+            "score": 1205
+        },
+        {
+            "word": "available",
+            "score": 1203
+        },
+        {
+            "word": "microsoft",
+            "score": 1201
+        },
+        {
+            "word": "audio",
+            "score": 1194
+        },
+        {
+            "word": "subway",
+            "score": 1193
+        },
+        {
+            "word": "client",
+            "score": 1190
+        },
+        {
+            "word": "customer",
+            "score": 1185
+        },
+        {
+            "word": "depending",
+            "score": 1183
+        },
+        {
+            "word": "buses",
+            "score": 1179
+        },
+        {
+            "word": "modes",
+            "score": 1173
+        },
+        {
+            "word": "hardware",
+            "score": 1170
+        },
+        {
+            "word": "rooms",
+            "score": 1168
+        },
+        {
+            "word": "server",
+            "score": 1166
+        },
+        {
+            "word": "installed",
+            "score": 1164
+        },
+        {
+            "word": "user",
+            "score": 1162
+        },
+        {
+            "word": "accessible",
+            "score": 1160
+        },
+        {
+            "word": "cable",
+            "score": 1159
+        },
+        {
+            "word": "messages",
+            "score": 1157
+        },
+        {
+            "word": "connected",
+            "score": 1156
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "wifi",
+            "score": 1478
+        },
+        {
+            "word": "wifie",
+            "score": 22
+        },
+        {
+            "word": "wifies",
+            "score": 6
+        }
+    ]
+}

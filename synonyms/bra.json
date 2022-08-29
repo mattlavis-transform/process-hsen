@@ -1,0 +1,1510 @@
+{
+    "term": "bra",
+    "means_like": [
+        {
+            "word": "brassiere",
+            "score": 74946,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bandeau",
+            "score": 71159,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 51926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strapless",
+            "score": 46039,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "sleeve",
+            "score": 42127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 39235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shroud",
+            "score": 37985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundry",
+            "score": 37658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aro",
+            "score": 36959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brazilian",
+            "score": 36788,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "unmentionable",
+            "score": 36138,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mex",
+            "score": 36080,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cover",
+            "score": 35463,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liner",
+            "score": 35129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bracket",
+            "score": 35040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bel",
+            "score": 34133,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eth",
+            "score": 33363,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fine",
+            "score": 33006,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "support",
+            "score": 32580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sound",
+            "score": 32269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "good",
+            "score": 31692,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "well",
+            "score": 31210,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 31207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 31206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thong",
+            "score": 31205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwire",
+            "score": 31204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undies",
+            "score": 31203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 31202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 31201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bikini",
+            "score": 31200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 31199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemise",
+            "score": 31197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankini",
+            "score": 31196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panty girdle",
+            "score": 31195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightie",
+            "score": 31194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantyhose",
+            "score": 31193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligee",
+            "score": 31192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimsuit",
+            "score": 31191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garter belt",
+            "score": 31190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underpants",
+            "score": 31189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chastity belt",
+            "score": 31188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nipple",
+            "score": 31187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgown",
+            "score": 31186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "girdle",
+            "score": 31185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 31184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skirt",
+            "score": 31183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leotard",
+            "score": 31182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monokini",
+            "score": 31181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniskirt",
+            "score": 31180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightdress",
+            "score": 31179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender",
+            "score": 31178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothes",
+            "score": 31177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lycra",
+            "score": 31176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petticoat",
+            "score": 31175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spandex",
+            "score": 31174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleavage",
+            "score": 31173,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tube sock",
+            "score": 31172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothing",
+            "score": 31171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halter",
+            "score": 31170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarments",
+            "score": 31169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panties",
+            "score": 31168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bustier",
+            "score": 31167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing suit",
+            "score": 31166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrunchie",
+            "score": 31165,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pants",
+            "score": 31164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breasts",
+            "score": 31163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underthings",
+            "score": 31162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boobs",
+            "score": 31161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "falsies",
+            "score": 31160,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 31159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trousers",
+            "score": 31158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 31157,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "babydoll",
+            "score": 31156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 31155,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shapewear",
+            "score": 31154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbag",
+            "score": 31153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilet",
+            "score": 31152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bobby pin",
+            "score": 31151,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nipple shield",
+            "score": 31150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 31149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarment",
+            "score": 31148,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemiloon",
+            "score": 31147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armholes",
+            "score": 31146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knicker",
+            "score": 31145,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cossie",
+            "score": 31144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding dress",
+            "score": 31143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fishnets",
+            "score": 31142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "codpiece",
+            "score": 31141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spaghetti strap",
+            "score": 31140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "titfer",
+            "score": 31139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 31138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 31137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantie",
+            "score": 31136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overskirt",
+            "score": 31135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 31134,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merkin",
+            "score": 31133,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "barrette",
+            "score": 31132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underskirt",
+            "score": 31131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitting needle",
+            "score": 31130,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bra",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "braa",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "brow",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "braw",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "brough",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "brau",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "bro",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brew",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "burrow",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bruh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bree",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "borough",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bri",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bray",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beret",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "burry",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "bre",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "boro",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "burro",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "brae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bru",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bry",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "burrough",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "breaux",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "burra",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "broe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "braai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brugh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "broo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "beray",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "brye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "broy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "breau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brno",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brii",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "breault",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "baray",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "beru",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "brh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "broi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "brou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "btree",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "breu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pra",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "birth",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "berth",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "birthe",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "bird",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ber",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ba",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bert",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "birch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "barrage",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bern",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bir",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bers",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "birf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "birde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bergh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berle",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "birg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bba",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bha",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "birge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "barach",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bearn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bearce",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beurre",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bearse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beor",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bfa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "baia",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "birc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beur",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "baraque",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "beurs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berck",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "berht",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beurk",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bra",
+            "score": 689
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "panties",
+            "score": 1783
+        },
+        {
+            "word": "brassiere",
+            "score": 1767
+        },
+        {
+            "word": "ket",
+            "score": 1756
+        },
+        {
+            "word": "bras",
+            "score": 1649
+        },
+        {
+            "word": "breasts",
+            "score": 1586
+        },
+        {
+            "word": "mure",
+            "score": 1571
+        },
+        {
+            "word": "cluj",
+            "score": 1564
+        },
+        {
+            "word": "kor",
+            "score": 1540
+        },
+        {
+            "word": "lingerie",
+            "score": 1539
+        },
+        {
+            "word": "straps",
+            "score": 1537
+        },
+        {
+            "word": "transylvania",
+            "score": 1522
+        },
+        {
+            "word": "vlad",
+            "score": 1519
+        },
+        {
+            "word": "underwear",
+            "score": 1500
+        },
+        {
+            "word": "ita",
+            "score": 1495
+        },
+        {
+            "word": "vis",
+            "score": 1487
+        },
+        {
+            "word": "romania",
+            "score": 1476
+        },
+        {
+            "word": "notation",
+            "score": 1462
+        },
+        {
+            "word": "bucharest",
+            "score": 1454
+        },
+        {
+            "word": "cleavage",
+            "score": 1446
+        },
+        {
+            "word": "romanian",
+            "score": 1441
+        },
+        {
+            "word": "strap",
+            "score": 1434
+        },
+        {
+            "word": "bia",
+            "score": 1432
+        },
+        {
+            "word": "norte",
+            "score": 1409
+        },
+        {
+            "word": "skirt",
+            "score": 1389
+        },
+        {
+            "word": "breast",
+            "score": 1378
+        },
+        {
+            "word": "pants",
+            "score": 1346
+        },
+        {
+            "word": "bust",
+            "score": 1341
+        },
+        {
+            "word": "cups",
+            "score": 1332
+        },
+        {
+            "word": "gala",
+            "score": 1330
+        },
+        {
+            "word": "piedmont",
+            "score": 1329
+        },
+        {
+            "word": "challenger",
+            "score": 1317
+        },
+        {
+            "word": "mare",
+            "score": 1311
+        },
+        {
+            "word": "fitting",
+            "score": 1294
+        },
+        {
+            "word": "worn",
+            "score": 1291
+        },
+        {
+            "word": "shorts",
+            "score": 1276
+        },
+        {
+            "word": "croatia",
+            "score": 1271
+        },
+        {
+            "word": "boots",
+            "score": 1267
+        },
+        {
+            "word": "croatian",
+            "score": 1257
+        },
+        {
+            "word": "chest",
+            "score": 1254
+        },
+        {
+            "word": "belgrade",
+            "score": 1251
+        },
+        {
+            "word": "serbian",
+            "score": 1250
+        },
+        {
+            "word": "wearing",
+            "score": 1248
+        },
+        {
+            "word": "fabric",
+            "score": 1247
+        },
+        {
+            "word": "comfortable",
+            "score": 1242
+        },
+        {
+            "word": "wore",
+            "score": 1241
+        },
+        {
+            "word": "boys",
+            "score": 1237
+        },
+        {
+            "word": "commune",
+            "score": 1222
+        },
+        {
+            "word": "clothing",
+            "score": 1209
+        },
+        {
+            "word": "quantum",
+            "score": 1205
+        },
+        {
+            "word": "wear",
+            "score": 1198
+        },
+        {
+            "word": "serbia",
+            "score": 1181
+        },
+        {
+            "word": "poland",
+            "score": 1177
+        },
+        {
+            "word": "hungarian",
+            "score": 1176
+        },
+        {
+            "word": "fantasy",
+            "score": 1173
+        },
+        {
+            "word": "fit",
+            "score": 1171
+        },
+        {
+            "word": "warsaw",
+            "score": 1169
+        },
+        {
+            "word": "pink",
+            "score": 1166
+        },
+        {
+            "word": "burning",
+            "score": 1159
+        },
+        {
+            "word": "belt",
+            "score": 1151
+        },
+        {
+            "word": "size",
+            "score": 1143
+        },
+        {
+            "word": "lies",
+            "score": 1142
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "brace",
+            "score": 2698
+        },
+        {
+            "word": "brand",
+            "score": 2136
+        },
+        {
+            "word": "brazen",
+            "score": 1845
+        },
+        {
+            "word": "branch",
+            "score": 1747
+        },
+        {
+            "word": "brake",
+            "score": 1727
+        },
+        {
+            "word": "brain",
+            "score": 1684
+        },
+        {
+            "word": "brave",
+            "score": 1682
+        },
+        {
+            "word": "brass",
+            "score": 1600
+        },
+        {
+            "word": "brash",
+            "score": 1425
+        },
+        {
+            "word": "bracket",
+            "score": 1409
+        }
+    ]
+}

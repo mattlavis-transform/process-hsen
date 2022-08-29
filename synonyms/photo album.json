@@ -1,0 +1,784 @@
+{
+    "term": "photo album",
+    "means_like": [
+        {
+            "word": "tint",
+            "score": 11547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reload",
+            "score": 11524,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "snapshot",
+            "score": 11524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camera",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closeup",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epic",
+            "score": 10592,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "footage",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frame",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graph",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headshot",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imagery",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inset",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "myspace",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photograph",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photography",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pic",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "print",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiograph",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retake",
+            "score": 10592,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "scan",
+            "score": 10592,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shoot",
+            "score": 10592,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "shot",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snap",
+            "score": 10592,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "spectrogram",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tag",
+            "score": 10592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artwork",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atlas",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cut",
+            "score": 10502,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "indie",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laura",
+            "score": 10502,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "one",
+            "score": 10502,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ono",
+            "score": 10502,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "outtake",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photograph album",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 10502,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "record",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "release",
+            "score": 10502,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "reprint",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrapbook",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smile",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "theme",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thriller",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "title",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "volume",
+            "score": 10502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "after",
+            "score": 10501,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "archive",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "archives",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blowup",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chart",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charts",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copy",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engraving",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enlargement",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essay",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figure",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallery",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "image",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "life",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "offer",
+            "score": 10501,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picture",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "provided",
+            "score": 10501,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "short",
+            "score": 10501,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "speed",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stroboscope",
+            "score": 10501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie",
+            "score": 10501,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ufo",
+            "score": 10501,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "outing",
+            "score": 10479,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "above",
+            "score": 10456,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "account",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accredit",
+            "score": 10456,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "accredited",
+            "score": 10456,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "adapts",
+            "score": 10456,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "advertisement",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alga",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allocation unit",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "animate",
+            "score": 10456,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "apocryphal",
+            "score": 10456,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "apollo",
+            "score": 10456,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apostrophe",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applique",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artist",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asterix",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astrophotography",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aten",
+            "score": 10456,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "audience",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "authentic",
+            "score": 10456,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "authority",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "authorship",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autographic",
+            "score": 10456,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "automatism",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "babar",
+            "score": 10456,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "backup",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baseball card",
+            "score": 10456,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "photo album",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "photoshopping",
+            "score": 67,
+            "numSyllables": 4
+        },
+        {
+            "word": "fitzgibbon",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "fat albert",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "photophobia",
+            "score": 60,
+            "numSyllables": 5
+        },
+        {
+            "word": "fatism",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "teitelbaum",
+            "score": 58,
+            "numSyllables": 3
+        },
+        {
+            "word": "ayatollah",
+            "score": 55,
+            "numSyllables": 4
+        },
+        {
+            "word": "cotillon",
+            "score": 53,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "photo album",
+            "score": 129340
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "photo album",
+            "score": 129340
+        }
+    ]
+}

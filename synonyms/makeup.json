@@ -1,0 +1,1424 @@
+{
+    "term": "makeup",
+    "means_like": [
+        {
+            "word": "composition",
+            "score": 81093,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "constitution",
+            "score": 72504,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "make-up",
+            "score": 67456,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "war paint",
+            "score": 67456,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mascara",
+            "score": 67455,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetic",
+            "score": 65562,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cosmetology",
+            "score": 63409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paint",
+            "score": 63135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beauty",
+            "score": 62635,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "makeover",
+            "score": 62372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 60014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabric",
+            "score": 59049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mix",
+            "score": 58876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "background",
+            "score": 58604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lineup",
+            "score": 58504,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "character",
+            "score": 58230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patchwork",
+            "score": 57379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "characteristics",
+            "score": 57287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nature",
+            "score": 56895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baggage",
+            "score": 56742,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "structure",
+            "score": 56472,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compositional",
+            "score": 56341,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "forming",
+            "score": 56340,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "formation",
+            "score": 56339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mosaic",
+            "score": 56022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "membership",
+            "score": 55894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "typesetting",
+            "score": 55714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compositions",
+            "score": 55712,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 55073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luggage",
+            "score": 54832,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tissue",
+            "score": 54829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "configuration",
+            "score": 54783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heritage",
+            "score": 54044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjunct",
+            "score": 53742,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essay",
+            "score": 53631,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "composing",
+            "score": 53451,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reconciliation",
+            "score": 52552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "profile",
+            "score": 52364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialing",
+            "score": 52156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compositing",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face-lift",
+            "score": 51064,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "line-up",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialling",
+            "score": 51063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeliner",
+            "score": 51063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeshadow",
+            "score": 51061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lipstick",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lip gloss",
+            "score": 51059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair",
+            "score": 51058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concealer",
+            "score": 51057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyebrow pencil",
+            "score": 51056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 51055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blusher",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail varnish",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manicure",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyling",
+            "score": 51051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maquillage",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "complexion",
+            "score": 51049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyle",
+            "score": 51048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail enamel",
+            "score": 51047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotion",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail polish",
+            "score": 51045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haircare",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 51043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairdo",
+            "score": 51042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstylist",
+            "score": 51041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair gel",
+            "score": 51040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moisturizer",
+            "score": 51039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skin",
+            "score": 51038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airbrush",
+            "score": 51037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair spray",
+            "score": 51036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 51035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunscreen",
+            "score": 51033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetician",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salon",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetologist",
+            "score": 51029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "greasepaint",
+            "score": 51028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make up",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face powder",
+            "score": 51026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bronzer",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyles",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coifs",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair dye",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylists",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beauty treatment",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lippie",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concealers",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costuming",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye shadow",
+            "score": 51015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moulage",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relaxer",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fauxhawk",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cold cream",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "depilation",
+            "score": 51010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haircuts",
+            "score": 51009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xanthochroid",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 51007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creams",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kohl",
+            "score": 51004,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "makeup",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "make-up",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "make up",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "mockup",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "muck up",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "mock-up",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "mock up",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "make ups",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "makes up",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "make-ups",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "mocap",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "mug up",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wake up",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wakeup",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wake-up",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "knock up",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "knock-up",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "mocha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mecca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "micah",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mika",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mica",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "macca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "moca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "matchup",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "maka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "meca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mccabe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mecha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mixup",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mocca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "maca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "moka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "meka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "markup",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mix-up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "makkah",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "macka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mayhap",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mekka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mega-",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "maaco",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "makeups",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "makka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "muka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mix up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "micka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "maiko",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "maccabe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mokka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mucked up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "majka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "makah",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mauka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "match-up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "myca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "match up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "make hay",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mark-up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mark up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mockups",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "moip",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mooncup",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "mukha",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hiccup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hiccough",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "kneecap",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hookup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hicup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hickup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "shakeup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hick up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hook up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hook-up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "take-up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "walkup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "take up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "shake up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "shake-up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "woke up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hagop",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "walk-up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "takeup",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "knee cap",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hike up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "walk up",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "knee-cap",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "making",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "make it",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "macaw",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "macau",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "macao",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "macas",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "macan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bacup",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "maac",
+            "score": 80,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "makeup",
+            "score": 66329
+        },
+        {
+            "word": "make up",
+            "score": 1007
+        },
+        {
+            "word": "make-up",
+            "score": 752
+        },
+        {
+            "word": "wakeup",
+            "score": 238
+        },
+        {
+            "word": "madeup",
+            "score": 82
+        },
+        {
+            "word": "takeup",
+            "score": 72
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "islander",
+            "score": 1667
+        },
+        {
+            "word": "hispanic",
+            "score": 1627
+        },
+        {
+            "word": "races",
+            "score": 1613
+        },
+        {
+            "word": "asian",
+            "score": 1571
+        },
+        {
+            "word": "latino",
+            "score": 1569
+        },
+        {
+            "word": "residing",
+            "score": 1526
+        },
+        {
+            "word": "african",
+            "score": 1524
+        },
+        {
+            "word": "native",
+            "score": 1517
+        },
+        {
+            "word": "white",
+            "score": 1474
+        },
+        {
+            "word": "households",
+            "score": 1467
+        },
+        {
+            "word": "pacific",
+            "score": 1466
+        },
+        {
+            "word": "american",
+            "score": 1430
+        },
+        {
+            "word": "prosthetics",
+            "score": 1418
+        },
+        {
+            "word": "male",
+            "score": 1412
+        },
+        {
+            "word": "female",
+            "score": 1370
+        },
+        {
+            "word": "multiracial",
+            "score": 1368
+        },
+        {
+            "word": "families",
+            "score": 1356
+        },
+        {
+            "word": "unorganized",
+            "score": 1352
+        },
+        {
+            "word": "township",
+            "score": 1347
+        },
+        {
+            "word": "lipstick",
+            "score": 1342
+        },
+        {
+            "word": "census",
+            "score": 1336
+        },
+        {
+            "word": "stylist",
+            "score": 1316
+        },
+        {
+            "word": "prosthetic",
+            "score": 1299
+        },
+        {
+            "word": "race",
+            "score": 1295
+        },
+        {
+            "word": "artistry",
+            "score": 1288
+        },
+        {
+            "word": "black",
+            "score": 1285
+        },
+        {
+            "word": "borough",
+            "score": 1282
+        },
+        {
+            "word": "cosmetics",
+            "score": 1278
+        },
+        {
+            "word": "village",
+            "score": 1271
+        },
+        {
+            "word": "town",
+            "score": 1267
+        },
+        {
+            "word": "caucasian",
+            "score": 1262
+        },
+        {
+            "word": "alaskan",
+            "score": 1253
+        },
+        {
+            "word": "city",
+            "score": 1252
+        },
+        {
+            "word": "wardrobe",
+            "score": 1233
+        },
+        {
+            "word": "hawaiian",
+            "score": 1217
+        },
+        {
+            "word": "any",
+            "score": 1214
+        },
+        {
+            "word": "people",
+            "score": 1196
+        },
+        {
+            "word": "cosmetic",
+            "score": 1182
+        },
+        {
+            "word": "children",
+            "score": 1170
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "makeup",
+            "score": 66329
+        },
+        {
+            "word": "makeups",
+            "score": 64677
+        },
+        {
+            "word": "makeup water",
+            "score": 64661
+        },
+        {
+            "word": "make up",
+            "score": 1007
+        },
+        {
+            "word": "make-up",
+            "score": 752
+        },
+        {
+            "word": "wakeup",
+            "score": 238
+        },
+        {
+            "word": "make up for",
+            "score": 194
+        },
+        {
+            "word": "madeup",
+            "score": 82
+        },
+        {
+            "word": "takeup",
+            "score": 72
+        },
+        {
+            "word": "make possible",
+            "score": 57
+        }
+    ]
+}

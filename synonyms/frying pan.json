@@ -1,0 +1,851 @@
+{
+    "term": "frying pan",
+    "means_like": [
+        {
+            "word": "skillet",
+            "score": 122778,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "frypan",
+            "score": 122072,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "saucepan",
+            "score": 76782,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stockpot",
+            "score": 76781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wok",
+            "score": 76780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saucepot",
+            "score": 76779,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "griddle",
+            "score": 76778,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "dutch oven",
+            "score": 76777,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mixing bowl",
+            "score": 76776,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chargrill",
+            "score": 76775,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oven",
+            "score": 76774,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spatula",
+            "score": 76773,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ladle",
+            "score": 76772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlic clove",
+            "score": 76771,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comal",
+            "score": 76770,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colander",
+            "score": 76769,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casserole",
+            "score": 76768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stove",
+            "score": 76767,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 76766,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookie sheet",
+            "score": 76765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stovetop",
+            "score": 76764,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fryer",
+            "score": 76763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ramekin",
+            "score": 76762,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grill",
+            "score": 76761,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chafing dish",
+            "score": 76760,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crock pot",
+            "score": 76759,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fry",
+            "score": 76758,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baster",
+            "score": 76757,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlic salt",
+            "score": 76756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 76755,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grate",
+            "score": 76754,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kadai",
+            "score": 76753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ungreased",
+            "score": 76752,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "omelet pan",
+            "score": 76751,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soup ladle",
+            "score": 76750,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crockpot",
+            "score": 76749,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooker",
+            "score": 76748,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cracklings",
+            "score": 76747,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vat",
+            "score": 76746,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishtowel",
+            "score": 76745,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carving knife",
+            "score": 76744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tbsp",
+            "score": 76743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillard",
+            "score": 76742,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blender",
+            "score": 76741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooking utensil",
+            "score": 76740,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pans",
+            "score": 76739,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tablespoonfuls",
+            "score": 76738,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heatproof",
+            "score": 76737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grated cheese",
+            "score": 76736,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saute",
+            "score": 76735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "escalopes",
+            "score": 76734,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piecrust",
+            "score": 76733,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washtub",
+            "score": 76732,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boiling",
+            "score": 76731,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teakettle",
+            "score": 76730,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tablespoon",
+            "score": 76729,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butcher knife",
+            "score": 76728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waffle iron",
+            "score": 76727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pail",
+            "score": 76726,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paring knife",
+            "score": 76725,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cutlets",
+            "score": 76724,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caster sugar",
+            "score": 76723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broil",
+            "score": 76722,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishpan",
+            "score": 76721,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleaver",
+            "score": 76720,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tbs",
+            "score": 76719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pancake turner",
+            "score": 76718,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "trivet",
+            "score": 76717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frittata",
+            "score": 76716,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orzo",
+            "score": 76715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frier",
+            "score": 76714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scalding",
+            "score": 76713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "almond extract",
+            "score": 76712,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nonstick",
+            "score": 76711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polenta",
+            "score": 76710,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathtub",
+            "score": 76709,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "platter",
+            "score": 76708,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crouton",
+            "score": 76707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souffle",
+            "score": 76706,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "preheated",
+            "score": 76705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drip pan",
+            "score": 76704,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butterflied",
+            "score": 76703,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scaloppini",
+            "score": 76702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microwave oven",
+            "score": 76701,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bread dough",
+            "score": 76700,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlic butter",
+            "score": 76699,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paprika sauce",
+            "score": 76698,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "french bread",
+            "score": 76697,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tongs",
+            "score": 76696,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ladyfingers",
+            "score": 76695,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ricer",
+            "score": 76694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooked",
+            "score": 76693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knife",
+            "score": 76692,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coals",
+            "score": 76691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bechamel sauce",
+            "score": 76690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hotplate",
+            "score": 76689,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worcestershire sauce",
+            "score": 76688,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "meatballs",
+            "score": 76687,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blow dryer",
+            "score": 76686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "johnny cake",
+            "score": 76685,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "frying pan",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "frying pans",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "fry pan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferdinand",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "frypan",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "firing pin",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "frying",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "frogman",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fryman",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "framingham",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fringing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "frown upon",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "freiman",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "drawing pin",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "flying bomb",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "freezing point",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "frothingham",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "frying pan",
+            "score": 129400
+        },
+        {
+            "word": "frying-pan",
+            "score": 64671
+        },
+        {
+            "word": "frying pans",
+            "score": 8
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "frying pan",
+            "score": 129400
+        },
+        {
+            "word": "frying pans",
+            "score": 129326
+        },
+        {
+            "word": "frying-pan",
+            "score": 64671
+        },
+        {
+            "word": "flying pinion",
+            "score": 8
+        },
+        {
+            "word": "lying panel",
+            "score": 4
+        },
+        {
+            "word": "trying hand at",
+            "score": 4
+        },
+        {
+            "word": "flying party",
+            "score": 1
+        },
+        {
+            "word": "trying plane",
+            "score": 1
+        }
+    ]
+}

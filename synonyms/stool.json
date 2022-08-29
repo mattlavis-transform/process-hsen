@@ -1,0 +1,1750 @@
+{
+    "term": "stool",
+    "means_like": [
+        {
+            "word": "commode",
+            "score": 77168,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "toilet",
+            "score": 76058,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "faeces",
+            "score": 74336,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "fecal matter",
+            "score": 73950,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "throne",
+            "score": 73720,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "faecal matter",
+            "score": 73281,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "feces",
+            "score": 73230,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "potty",
+            "score": 72632,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "ordure",
+            "score": 72623,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tiller",
+            "score": 72494,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "crapper",
+            "score": 70369,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 67928,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "dejection",
+            "score": 67803,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 66124,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bm",
+            "score": 65084,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chair",
+            "score": 64164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saddle",
+            "score": 61906,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoof",
+            "score": 60917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broom",
+            "score": 60509,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 60208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fecal",
+            "score": 60124,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bench",
+            "score": 59982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faecal",
+            "score": 59692,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "excreta",
+            "score": 59469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seat",
+            "score": 59465,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tourniquet",
+            "score": 58340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dung",
+            "score": 58337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "excrement",
+            "score": 57503,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 57145,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scat",
+            "score": 56989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tantrum",
+            "score": 56967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manure",
+            "score": 56675,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dynamometer",
+            "score": 55989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ducking",
+            "score": 54082,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bain",
+            "score": 54073,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bank",
+            "score": 52586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clog",
+            "score": 51772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anger",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footstool",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headquarters",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rage",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrath",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sofa",
+            "score": 50870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barstool",
+            "score": 50869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swivel chair",
+            "score": 50868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "settee",
+            "score": 50866,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couch",
+            "score": 50865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ottoman",
+            "score": 50864,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "worktable",
+            "score": 50863,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recliner",
+            "score": 50862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footrest",
+            "score": 50861,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armrest",
+            "score": 50859,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaise",
+            "score": 50858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "table",
+            "score": 50857,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaise lounge",
+            "score": 50856,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresser",
+            "score": 50855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sideboard",
+            "score": 50854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "highchair",
+            "score": 50853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "futon",
+            "score": 50852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desk",
+            "score": 50851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banquette",
+            "score": 50850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedestal",
+            "score": 50849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuffet",
+            "score": 50848,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "campstool",
+            "score": 50847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece of furniture",
+            "score": 50846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wing chair",
+            "score": 50845,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trevet",
+            "score": 50844,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "camp chair",
+            "score": 50843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milking stool",
+            "score": 50842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "folding chair",
+            "score": 50841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faldistory",
+            "score": 50840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rocking chair",
+            "score": 50839,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furniture",
+            "score": 50838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faldstool",
+            "score": 50837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "upholster",
+            "score": 50836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lounge chair",
+            "score": 50835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armchair",
+            "score": 50834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedpan",
+            "score": 50833,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kneeler",
+            "score": 50832,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wall unit",
+            "score": 50831,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 50830,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banister",
+            "score": 50829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windsor chair",
+            "score": 50828,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chaise longue",
+            "score": 50827,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "throw pillow",
+            "score": 50826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "straight chair",
+            "score": 50825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trivet",
+            "score": 50824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piano stool",
+            "score": 50823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conference table",
+            "score": 50822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barber chair",
+            "score": 50821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tatami",
+            "score": 50820,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loveseat",
+            "score": 50819,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bassinette",
+            "score": 50818,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamp shade",
+            "score": 50817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "window sill",
+            "score": 50816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doorframe",
+            "score": 50815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console table",
+            "score": 50814,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "occasional table",
+            "score": 50813,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potty chair",
+            "score": 50812,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lawn furniture",
+            "score": 50811,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "stool",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "style",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "still",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "steel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "steal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stole",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stall",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stale",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stil",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "steele",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stile",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "styl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stell",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stoll",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stol",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stail",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stahl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stael",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stull",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stele",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "staal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stille",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stelle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "steil",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stolle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stuhl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stihl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stiel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stohl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stijl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stiehl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "-style",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "stew",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stu",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stools",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stewy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sool",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seul",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stoolie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sule",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stooled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "stua",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "otoole",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "sting",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "stung",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "stong",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "stang",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "stying",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "school",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cell",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sail",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sale",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saul",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cel",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cele",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sall",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cil",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "estelle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ciel",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cill",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "salle",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceil",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cile",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sahel",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sattel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "satle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cael",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saile",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saol",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saoul",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sayle",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "celle",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sael",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cital",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "estell",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "satel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ciol",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "estel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sahl",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "austell",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "estill",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cyl",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saale",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceol",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saule",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "csl",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sawtelle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "astel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ctt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "c l",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "citole",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cytol",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dcw",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "stool",
+            "score": 66197
+        },
+        {
+            "word": "tool",
+            "score": 2012
+        },
+        {
+            "word": "stoop",
+            "score": 1273
+        },
+        {
+            "word": "spool",
+            "score": 820
+        },
+        {
+            "word": "stoll",
+            "score": 539
+        },
+        {
+            "word": "stook",
+            "score": 502
+        },
+        {
+            "word": "stood",
+            "score": 486
+        },
+        {
+            "word": "stol",
+            "score": 307
+        },
+        {
+            "word": "skool",
+            "score": 172
+        },
+        {
+            "word": "stoom",
+            "score": 147
+        },
+        {
+            "word": "stoor",
+            "score": 124
+        },
+        {
+            "word": "shool",
+            "score": 91
+        },
+        {
+            "word": "sool",
+            "score": 85
+        },
+        {
+            "word": "scool",
+            "score": 52
+        },
+        {
+            "word": "stoot",
+            "score": 27
+        },
+        {
+            "word": "stohl",
+            "score": 23
+        },
+        {
+            "word": "snool",
+            "score": 18
+        },
+        {
+            "word": "stovl",
+            "score": 16
+        },
+        {
+            "word": "stoos",
+            "score": 9
+        },
+        {
+            "word": "stoel",
+            "score": 7
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "guaiac",
+            "score": 1937
+        },
+        {
+            "word": "softener",
+            "score": 1758
+        },
+        {
+            "word": "melena",
+            "score": 1756
+        },
+        {
+            "word": "impaction",
+            "score": 1740
+        },
+        {
+            "word": "stools",
+            "score": 1693
+        },
+        {
+            "word": "fecal",
+            "score": 1682
+        },
+        {
+            "word": "colonoscopy",
+            "score": 1661
+        },
+        {
+            "word": "rectum",
+            "score": 1658
+        },
+        {
+            "word": "rectal",
+            "score": 1635
+        },
+        {
+            "word": "asante",
+            "score": 1634
+        },
+        {
+            "word": "ashanti",
+            "score": 1633
+        },
+        {
+            "word": "constipation",
+            "score": 1632
+        },
+        {
+            "word": "incontinence",
+            "score": 1621
+        },
+        {
+            "word": "defecation",
+            "score": 1615
+        },
+        {
+            "word": "pigeon",
+            "score": 1589
+        },
+        {
+            "word": "bowel",
+            "score": 1587
+        },
+        {
+            "word": "diarrhea",
+            "score": 1573
+        },
+        {
+            "word": "feces",
+            "score": 1565
+        },
+        {
+            "word": "osmotic",
+            "score": 1548
+        },
+        {
+            "word": "tutu",
+            "score": 1522
+        },
+        {
+            "word": "mucosa",
+            "score": 1520
+        },
+        {
+            "word": "colon",
+            "score": 1515
+        },
+        {
+            "word": "colorectal",
+            "score": 1508
+        },
+        {
+            "word": "anus",
+            "score": 1501
+        },
+        {
+            "word": "intestinal",
+            "score": 1488
+        },
+        {
+            "word": "intestine",
+            "score": 1483
+        },
+        {
+            "word": "mucus",
+            "score": 1479
+        },
+        {
+            "word": "repentance",
+            "score": 1474
+        },
+        {
+            "word": "biopsy",
+            "score": 1448
+        },
+        {
+            "word": "abdominal",
+            "score": 1440
+        },
+        {
+            "word": "occult",
+            "score": 1437
+        },
+        {
+            "word": "urine",
+            "score": 1435
+        },
+        {
+            "word": "bleeding",
+            "score": 1426
+        },
+        {
+            "word": "nana",
+            "score": 1424
+        },
+        {
+            "word": "gastrointestinal",
+            "score": 1422
+        },
+        {
+            "word": "parasite",
+            "score": 1411
+        },
+        {
+            "word": "anal",
+            "score": 1407
+        },
+        {
+            "word": "parasites",
+            "score": 1401
+        },
+        {
+            "word": "samples",
+            "score": 1399
+        },
+        {
+            "word": "microbial",
+            "score": 1384
+        },
+        {
+            "word": "toilet",
+            "score": 1369
+        },
+        {
+            "word": "vomiting",
+            "score": 1361
+        },
+        {
+            "word": "inflammatory",
+            "score": 1353
+        },
+        {
+            "word": "groom",
+            "score": 1351
+        },
+        {
+            "word": "antibodies",
+            "score": 1339
+        },
+        {
+            "word": "sample",
+            "score": 1337
+        },
+        {
+            "word": "inflammation",
+            "score": 1324
+        },
+        {
+            "word": "infected",
+            "score": 1323
+        },
+        {
+            "word": "eggs",
+            "score": 1317
+        },
+        {
+            "word": "symptoms",
+            "score": 1315
+        },
+        {
+            "word": "consistency",
+            "score": 1314
+        },
+        {
+            "word": "infection",
+            "score": 1300
+        },
+        {
+            "word": "diagnosis",
+            "score": 1297
+        },
+        {
+            "word": "virus",
+            "score": 1296
+        },
+        {
+            "word": "specimens",
+            "score": 1294
+        },
+        {
+            "word": "folding",
+            "score": 1290
+        },
+        {
+            "word": "chairs",
+            "score": 1284
+        },
+        {
+            "word": "diagnostic",
+            "score": 1278
+        },
+        {
+            "word": "examination",
+            "score": 1273
+        },
+        {
+            "word": "detect",
+            "score": 1268
+        },
+        {
+            "word": "blood",
+            "score": 1264
+        },
+        {
+            "word": "fiber",
+            "score": 1261
+        },
+        {
+            "word": "chair",
+            "score": 1253
+        },
+        {
+            "word": "furniture",
+            "score": 1248
+        },
+        {
+            "word": "fluid",
+            "score": 1247
+        },
+        {
+            "word": "liver",
+            "score": 1235
+        },
+        {
+            "word": "screening",
+            "score": 1231
+        },
+        {
+            "word": "dna",
+            "score": 1229
+        },
+        {
+            "word": "throne",
+            "score": 1226
+        },
+        {
+            "word": "legs",
+            "score": 1225
+        },
+        {
+            "word": "sitting",
+            "score": 1222
+        },
+        {
+            "word": "tests",
+            "score": 1219
+        },
+        {
+            "word": "circular",
+            "score": 1210
+        },
+        {
+            "word": "bacteria",
+            "score": 1208
+        },
+        {
+            "word": "pain",
+            "score": 1207
+        },
+        {
+            "word": "healthy",
+            "score": 1201
+        },
+        {
+            "word": "vacant",
+            "score": 1188
+        },
+        {
+            "word": "patients",
+            "score": 1185
+        },
+        {
+            "word": "sit",
+            "score": 1183
+        },
+        {
+            "word": "clinical",
+            "score": 1179
+        },
+        {
+            "word": "punishment",
+            "score": 1178
+        },
+        {
+            "word": "patient",
+            "score": 1176
+        },
+        {
+            "word": "reserved",
+            "score": 1175
+        },
+        {
+            "word": "disease",
+            "score": 1172
+        },
+        {
+            "word": "fever",
+            "score": 1167
+        },
+        {
+            "word": "test",
+            "score": 1166
+        },
+        {
+            "word": "symbol",
+            "score": 1164
+        },
+        {
+            "word": "testing",
+            "score": 1160
+        },
+        {
+            "word": "vii",
+            "score": 1156
+        },
+        {
+            "word": "diet",
+            "score": 1150
+        },
+        {
+            "word": "isolated",
+            "score": 1147
+        },
+        {
+            "word": "neck",
+            "score": 1141
+        },
+        {
+            "word": "suspected",
+            "score": 1138
+        },
+        {
+            "word": "syndrome",
+            "score": 1135
+        },
+        {
+            "word": "tested",
+            "score": 1131
+        },
+        {
+            "word": "drum",
+            "score": 1124
+        },
+        {
+            "word": "diseases",
+            "score": 1122
+        },
+        {
+            "word": "looks",
+            "score": 1120
+        },
+        {
+            "word": "acoustic",
+            "score": 1114
+        },
+        {
+            "word": "presence",
+            "score": 1109
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "stool",
+            "score": 66197
+        },
+        {
+            "word": "stoolie",
+            "score": 64878
+        },
+        {
+            "word": "stools",
+            "score": 64833
+        },
+        {
+            "word": "stooled",
+            "score": 64799
+        },
+        {
+            "word": "stool pigeon",
+            "score": 64772
+        },
+        {
+            "word": "stoolpigeon",
+            "score": 64740
+        },
+        {
+            "word": "stooling",
+            "score": 64713
+        },
+        {
+            "word": "stoolball",
+            "score": 64700
+        },
+        {
+            "word": "stoolies",
+            "score": 64697
+        },
+        {
+            "word": "stool test",
+            "score": 64680
+        }
+    ]
+}

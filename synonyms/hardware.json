@@ -1,0 +1,1727 @@
+{
+    "term": "hardware",
+    "means_like": [
+        {
+            "word": "computer hardware",
+            "score": 101907,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "ironware",
+            "score": 98611,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "software",
+            "score": 92151,
+            "tags": [
+                "n",
+                "ant"
+            ]
+        },
+        {
+            "word": "appliance",
+            "score": 87407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "equipment",
+            "score": 86703,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computer",
+            "score": 85692,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computers",
+            "score": 85371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appliances",
+            "score": 85025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "devices",
+            "score": 84446,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "device",
+            "score": 83781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "equipments",
+            "score": 83249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "materiel",
+            "score": 82946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 82751,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machines",
+            "score": 82280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machine",
+            "score": 81913,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplies",
+            "score": 81034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pcs",
+            "score": 80553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 79942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deployment",
+            "score": 79539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparatus",
+            "score": 79473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessory",
+            "score": 79422,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machinery",
+            "score": 79329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "materials",
+            "score": 79028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "physical",
+            "score": 78863,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bling",
+            "score": 78811,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metal",
+            "score": 78617,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "aircraft",
+            "score": 78194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "material",
+            "score": 77790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ancillary",
+            "score": 77729,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "teams",
+            "score": 76008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prop",
+            "score": 75529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardcore",
+            "score": 75355,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "property",
+            "score": 75260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hard",
+            "score": 75197,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "team",
+            "score": 75109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accelerated",
+            "score": 74871,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "bare",
+            "score": 74785,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "substantive",
+            "score": 73783,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mat\u00e9riel",
+            "score": 71579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firmware",
+            "score": 71577,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console",
+            "score": 71576,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subsystem",
+            "score": 71575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motherboard",
+            "score": 71574,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electronics",
+            "score": 71572,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wetware",
+            "score": 71570,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mainframe",
+            "score": 71569,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linux",
+            "score": 71568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microprocessor",
+            "score": 71566,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "router",
+            "score": 71565,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desktop",
+            "score": 71564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emulator",
+            "score": 71563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workstation",
+            "score": 71562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microcomputer",
+            "score": 71561,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emulation",
+            "score": 71560,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imac",
+            "score": 71559,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "peripherals",
+            "score": 71558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "server",
+            "score": 71557,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microcode",
+            "score": 71556,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nonvolatile storage",
+            "score": 71555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autonomics",
+            "score": 71554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabling",
+            "score": 71553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ecos",
+            "score": 71552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxen",
+            "score": 71551,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computing",
+            "score": 71550,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "insp",
+            "score": 71549,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xen",
+            "score": 71548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avionics",
+            "score": 71547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "expansion slot",
+            "score": 71546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapters",
+            "score": 71545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "configuration",
+            "score": 71544,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "systems",
+            "score": 71543,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet",
+            "score": 71542,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "multiprocessor",
+            "score": 71541,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "disk",
+            "score": 71540,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gismos",
+            "score": 71539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "storage medium",
+            "score": 71538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kludge",
+            "score": 71537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "components",
+            "score": 71536,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "functionality",
+            "score": 71535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "error correction code",
+            "score": 71534,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scsi",
+            "score": 71533,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "interfaces",
+            "score": 71532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debugging",
+            "score": 71531,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cpus",
+            "score": 71530,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "digital computer",
+            "score": 71529,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "encryption",
+            "score": 71528,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratchpad",
+            "score": 71527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "virtual storage",
+            "score": 71526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recode",
+            "score": 71525,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barebone",
+            "score": 71524,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ruggedization",
+            "score": 71523,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "troubleshooting",
+            "score": 71522,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "programmers",
+            "score": 71521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manageability",
+            "score": 71520,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphics",
+            "score": 71519,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modems",
+            "score": 71518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roms",
+            "score": 71517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "racerunner",
+            "score": 71516,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "synapta",
+            "score": 71515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "von neumann machine",
+            "score": 71514,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "hardware",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwire",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwar",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard wire",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard way",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwired",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "hardier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard wired",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard-wired",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard water",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "headwear",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwick",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard-won",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard won",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "harder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardcore",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard worker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hairdryer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hardener",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hotwire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hair dryer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hartwell",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "heartier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard wood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard-core",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot wire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "heartsore",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard work",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard wheat",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot war",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard core",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hair drier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hairdrier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "heart sore",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "haridwar",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "heartwell",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardhead",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "barware",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoarder",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "horder",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "harda",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard liquor",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "hartwig",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hartwick",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardish",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "howard hughes",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard rubber",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "handwear",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "guard hair",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardly",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "herder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hairdresser",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hardaway",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "harter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hair dresser",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hardee",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardees",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardey",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot air",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard head",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardies",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heartwood",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "harwell",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "horsehair",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard sell",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardliner",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heartworm",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "haraway",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard shell",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard roe",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot weather",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hard cider",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hardwoods",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard labor",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hartzler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heart worm",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardshell",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard-hit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard lead",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardanger",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heart cherry",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heartener",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "tartare",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "tourtiere",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "tardier",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "barbed wire",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "barbed-wire",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "car door",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "cardwell",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bardwell",
+            "score": 73,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "hardware",
+            "score": 130618
+        },
+        {
+            "word": "hardwire",
+            "score": 64860
+        },
+        {
+            "word": "hardwar",
+            "score": 64674
+        },
+        {
+            "word": "cardware",
+            "score": 64663
+        },
+        {
+            "word": "hardcore",
+            "score": 692
+        },
+        {
+            "word": "adware",
+            "score": 287
+        },
+        {
+            "word": "shareware",
+            "score": 240
+        },
+        {
+            "word": "harare",
+            "score": 156
+        },
+        {
+            "word": "barware",
+            "score": 58
+        },
+        {
+            "word": "hardbake",
+            "score": 58
+        },
+        {
+            "word": "handwave",
+            "score": 35
+        },
+        {
+            "word": "haridwar",
+            "score": 33
+        },
+        {
+            "word": "hard-wire",
+            "score": 31
+        },
+        {
+            "word": "careware",
+            "score": 28
+        },
+        {
+            "word": "hardcase",
+            "score": 27
+        },
+        {
+            "word": "hard wire",
+            "score": 26
+        },
+        {
+            "word": "harward",
+            "score": 23
+        },
+        {
+            "word": "badware",
+            "score": 20
+        },
+        {
+            "word": "hardwall",
+            "score": 8
+        },
+        {
+            "word": "artware",
+            "score": 5
+        },
+        {
+            "word": "hardage",
+            "score": 2
+        },
+        {
+            "word": "hardwares",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "firmware",
+            "score": 1512
+        },
+        {
+            "word": "emulation",
+            "score": 1498
+        },
+        {
+            "word": "decoding",
+            "score": 1478
+        },
+        {
+            "word": "cpu",
+            "score": 1452
+        },
+        {
+            "word": "interrupt",
+            "score": 1442
+        },
+        {
+            "word": "software",
+            "score": 1439
+        },
+        {
+            "word": "acceleration",
+            "score": 1424
+        },
+        {
+            "word": "processor",
+            "score": 1409
+        },
+        {
+            "word": "intel",
+            "score": 1394
+        },
+        {
+            "word": "compatibility",
+            "score": 1393
+        },
+        {
+            "word": "abstraction",
+            "score": 1378
+        },
+        {
+            "word": "amiga",
+            "score": 1375
+        },
+        {
+            "word": "usb",
+            "score": 1374
+        },
+        {
+            "word": "vendors",
+            "score": 1368
+        },
+        {
+            "word": "kernel",
+            "score": 1367
+        },
+        {
+            "word": "encryption",
+            "score": 1361
+        },
+        {
+            "word": "ibm",
+            "score": 1356
+        },
+        {
+            "word": "linux",
+            "score": 1351
+        },
+        {
+            "word": "graphics",
+            "score": 1349
+        },
+        {
+            "word": "store",
+            "score": 1332
+        },
+        {
+            "word": "sega",
+            "score": 1323
+        },
+        {
+            "word": "compatible",
+            "score": 1321
+        },
+        {
+            "word": "interface",
+            "score": 1317
+        },
+        {
+            "word": "specifications",
+            "score": 1315
+        },
+        {
+            "word": "devices",
+            "score": 1313
+        },
+        {
+            "word": "functionality",
+            "score": 1312
+        },
+        {
+            "word": "computers",
+            "score": 1309
+        },
+        {
+            "word": "desktop",
+            "score": 1308
+        },
+        {
+            "word": "limitations",
+            "score": 1306
+        },
+        {
+            "word": "controller",
+            "score": 1303
+        },
+        {
+            "word": "disk",
+            "score": 1302
+        },
+        {
+            "word": "console",
+            "score": 1300
+        },
+        {
+            "word": "rendering",
+            "score": 1299
+        },
+        {
+            "word": "accelerated",
+            "score": 1295
+        },
+        {
+            "word": "chip",
+            "score": 1289
+        },
+        {
+            "word": "device",
+            "score": 1286
+        },
+        {
+            "word": "chips",
+            "score": 1283
+        },
+        {
+            "word": "computing",
+            "score": 1281
+        },
+        {
+            "word": "embedded",
+            "score": 1275
+        },
+        {
+            "word": "virtual",
+            "score": 1273
+        },
+        {
+            "word": "server",
+            "score": 1268
+        },
+        {
+            "word": "microsoft",
+            "score": 1261
+        },
+        {
+            "word": "nintendo",
+            "score": 1257
+        },
+        {
+            "word": "components",
+            "score": 1254
+        },
+        {
+            "word": "computer",
+            "score": 1251
+        },
+        {
+            "word": "capabilities",
+            "score": 1250
+        },
+        {
+            "word": "specification",
+            "score": 1244
+        },
+        {
+            "word": "android",
+            "score": 1242
+        },
+        {
+            "word": "networking",
+            "score": 1241
+        },
+        {
+            "word": "module",
+            "score": 1239
+        },
+        {
+            "word": "stores",
+            "score": 1235
+        },
+        {
+            "word": "memory",
+            "score": 1233
+        },
+        {
+            "word": "operating",
+            "score": 1232
+        },
+        {
+            "word": "configuration",
+            "score": 1228
+        },
+        {
+            "word": "instructions",
+            "score": 1227
+        },
+        {
+            "word": "apple",
+            "score": 1224
+        },
+        {
+            "word": "xbox",
+            "score": 1223
+        },
+        {
+            "word": "platforms",
+            "score": 1220
+        },
+        {
+            "word": "electronics",
+            "score": 1218
+        },
+        {
+            "word": "keyboard",
+            "score": 1217
+        },
+        {
+            "word": "implementation",
+            "score": 1211
+        },
+        {
+            "word": "machines",
+            "score": 1209
+        },
+        {
+            "word": "arcade",
+            "score": 1208
+        },
+        {
+            "word": "windows",
+            "score": 1204
+        },
+        {
+            "word": "processing",
+            "score": 1201
+        },
+        {
+            "word": "user",
+            "score": 1199
+        },
+        {
+            "word": "applications",
+            "score": 1195
+        },
+        {
+            "word": "ram",
+            "score": 1193
+        },
+        {
+            "word": "logic",
+            "score": 1191
+        },
+        {
+            "word": "systems",
+            "score": 1189
+        },
+        {
+            "word": "audio",
+            "score": 1188
+        },
+        {
+            "word": "wireless",
+            "score": 1184
+        },
+        {
+            "word": "storage",
+            "score": 1180
+        },
+        {
+            "word": "implement",
+            "score": 1177
+        },
+        {
+            "word": "custom",
+            "score": 1173
+        },
+        {
+            "word": "instruction",
+            "score": 1172
+        },
+        {
+            "word": "platform",
+            "score": 1170
+        },
+        {
+            "word": "manufacturer",
+            "score": 1169
+        },
+        {
+            "word": "solutions",
+            "score": 1161
+        },
+        {
+            "word": "drives",
+            "score": 1159
+        },
+        {
+            "word": "input",
+            "score": 1157
+        },
+        {
+            "word": "supports",
+            "score": 1154
+        },
+        {
+            "word": "tools",
+            "score": 1153
+        },
+        {
+            "word": "cards",
+            "score": 1149
+        },
+        {
+            "word": "mode",
+            "score": 1147
+        },
+        {
+            "word": "implemented",
+            "score": 1145
+        },
+        {
+            "word": "requirements",
+            "score": 1144
+        },
+        {
+            "word": "protocol",
+            "score": 1142
+        },
+        {
+            "word": "display",
+            "score": 1140
+        },
+        {
+            "word": "layer",
+            "score": 1139
+        },
+        {
+            "word": "application",
+            "score": 1137
+        },
+        {
+            "word": "integrated",
+            "score": 1135
+        },
+        {
+            "word": "products",
+            "score": 1133
+        },
+        {
+            "word": "faster",
+            "score": 1131
+        },
+        {
+            "word": "shop",
+            "score": 1125
+        },
+        {
+            "word": "data",
+            "score": 1123
+        },
+        {
+            "word": "technologies",
+            "score": 1122
+        },
+        {
+            "word": "switch",
+            "score": 1120
+        },
+        {
+            "word": "files",
+            "score": 1118
+        },
+        {
+            "word": "mac",
+            "score": 1116
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "hardware",
+            "score": 130618
+        },
+        {
+            "word": "hardware store",
+            "score": 129368
+        },
+        {
+            "word": "hardwareman",
+            "score": 129364
+        },
+        {
+            "word": "hardware description language",
+            "score": 129337
+        },
+        {
+            "word": "hardware circular buffer",
+            "score": 129326
+        },
+        {
+            "word": "hardware abstraction layer",
+            "score": 129324
+        },
+        {
+            "word": "hardware error",
+            "score": 129324
+        },
+        {
+            "word": "hardware register",
+            "score": 129324
+        },
+        {
+            "word": "hardwaremen",
+            "score": 129324
+        },
+        {
+            "word": "hardware cloth",
+            "score": 129323
+        }
+    ]
+}

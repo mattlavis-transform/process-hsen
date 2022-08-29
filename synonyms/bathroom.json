@@ -1,0 +1,1619 @@
+{
+    "term": "bathroom",
+    "means_like": [
+        {
+            "word": "lavatory",
+            "score": 100099,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "toilet",
+            "score": 99679,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 94615,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "lav",
+            "score": 92780,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "john",
+            "score": 84848,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "facility",
+            "score": 84670,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "privy",
+            "score": 81336,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 77366,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "restroom",
+            "score": 77366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washroom",
+            "score": 73950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower",
+            "score": 71069,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 69418,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loo",
+            "score": 69253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closet",
+            "score": 69208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilets",
+            "score": 68995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "room",
+            "score": 68987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathtub",
+            "score": 68849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washbasin",
+            "score": 68369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cubicle",
+            "score": 66392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potty",
+            "score": 66360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latrine",
+            "score": 65598,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outhouse",
+            "score": 64770,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sauna",
+            "score": 64713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathhouse",
+            "score": 64707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing",
+            "score": 64247,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pee",
+            "score": 64245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sink",
+            "score": 59520,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shithouse",
+            "score": 59365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squirt",
+            "score": 59280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shitter",
+            "score": 58729,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sanitation",
+            "score": 58697,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crapper",
+            "score": 58580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimming",
+            "score": 57274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wee",
+            "score": 57273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stall",
+            "score": 57081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloodbath",
+            "score": 53858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 53183,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ensuite",
+            "score": 50921,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "pee-pee",
+            "score": 50921,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "washrooms",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchen",
+            "score": 50916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower stall",
+            "score": 50915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedroom",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downstairs",
+            "score": 50910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "upstairs",
+            "score": 50905,
+            "tags": [
+                "n",
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "hallway",
+            "score": 50904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towel rack",
+            "score": 50902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen closet",
+            "score": 50901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchenette",
+            "score": 50900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basement",
+            "score": 50899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broom closet",
+            "score": 50898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faucet",
+            "score": 50897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mudroom",
+            "score": 50896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundry",
+            "score": 50895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commode",
+            "score": 50894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed",
+            "score": 50893,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacuzzi",
+            "score": 50892,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "livingroom",
+            "score": 50890,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwasher",
+            "score": 50889,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foyer",
+            "score": 50888,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countertop",
+            "score": 50887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "showerhead",
+            "score": 50886,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwashing machine",
+            "score": 50885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towel bar",
+            "score": 50884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comfort station",
+            "score": 50883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "master bedroom",
+            "score": 50882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soap dispenser",
+            "score": 50881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "public toilet",
+            "score": 50880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stairwell",
+            "score": 50879,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utility room",
+            "score": 50878,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whirlpool bath",
+            "score": 50877,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rest area",
+            "score": 50876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dining room",
+            "score": 50875,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "urinal",
+            "score": 50874,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stairs",
+            "score": 50873,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hot tub",
+            "score": 50872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dorm room",
+            "score": 50871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wash room",
+            "score": 50870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doorway",
+            "score": 50869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerator",
+            "score": 50868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doorknob",
+            "score": 50867,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "night table",
+            "score": 50866,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galley",
+            "score": 50865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "staircase",
+            "score": 50864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coatroom",
+            "score": 50863,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bidet",
+            "score": 50862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathroom fixture",
+            "score": 50861,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attic",
+            "score": 50860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stillroom",
+            "score": 50859,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "storage room",
+            "score": 50858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresser",
+            "score": 50857,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower room",
+            "score": 50856,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice machine",
+            "score": 50855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flush toilet",
+            "score": 50854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dorm",
+            "score": 50853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lounge",
+            "score": 50852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earth closet",
+            "score": 50851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rumpus room",
+            "score": 50850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fridge",
+            "score": 50849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundromat",
+            "score": 50848,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bathroom",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "bath room",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathrooms",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "backroom",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "back room",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bothering",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "bar room",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "be through",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "barathrum",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "broom",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "bedroom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "barren",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "baron",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ballroom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "barron",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bothersome",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "borum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "battering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "bather",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bed room",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "broome",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "brume",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "bad dream",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathtime",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bethune",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "barroom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "blathering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "bikram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ball room",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "botham",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "barran",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "byram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "byrum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "byrom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bay rum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "baram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bireme",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bahram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "burum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "backrooms",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bairam",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "buckram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "buttram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "boram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bichrome",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bothria",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gatherum",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "battery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "barry",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bearing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barrow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "baring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barrie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "baren",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bethan",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bahrain",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathrobe",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barm",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "barin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "batterie",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bathurst",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bering",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bass drum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "baran",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bethann",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bertram",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bangarang",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "back row",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "batum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "baru",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beren",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bassam",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "batra",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bath robe",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "basham",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ballerine",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "beran",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "berin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bear on",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barong",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "behring",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bagram",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bakri",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bakra",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "batho",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bactrim",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bahrein",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "basm",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "basrah",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bahru",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bequem",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bat ray",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "backcomb",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bathroom",
+            "score": 129916
+        },
+        {
+            "word": "bath room",
+            "score": 64663
+        },
+        {
+            "word": "bath-room",
+            "score": 64661
+        },
+        {
+            "word": "backroom",
+            "score": 286
+        },
+        {
+            "word": "ballroom",
+            "score": 248
+        },
+        {
+            "word": "bathrobe",
+            "score": 207
+        },
+        {
+            "word": "washroom",
+            "score": 198
+        },
+        {
+            "word": "barroom",
+            "score": 180
+        },
+        {
+            "word": "bathrooms",
+            "score": 47
+        },
+        {
+            "word": "bthoom",
+            "score": 9
+        },
+        {
+            "word": "bar-room",
+            "score": 5
+        },
+        {
+            "word": "bar room",
+            "score": 3
+        },
+        {
+            "word": "bethroot",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "bathtub",
+            "score": 1616
+        },
+        {
+            "word": "shower",
+            "score": 1578
+        },
+        {
+            "word": "toilet",
+            "score": 1562
+        },
+        {
+            "word": "stall",
+            "score": 1530
+        },
+        {
+            "word": "verandah",
+            "score": 1529
+        },
+        {
+            "word": "tub",
+            "score": 1510
+        },
+        {
+            "word": "bedroom",
+            "score": 1504
+        },
+        {
+            "word": "laundry",
+            "score": 1502
+        },
+        {
+            "word": "towel",
+            "score": 1497
+        },
+        {
+            "word": "hallway",
+            "score": 1476
+        },
+        {
+            "word": "kitchen",
+            "score": 1463
+        },
+        {
+            "word": "showers",
+            "score": 1456
+        },
+        {
+            "word": "sink",
+            "score": 1452
+        },
+        {
+            "word": "closet",
+            "score": 1449
+        },
+        {
+            "word": "fittings",
+            "score": 1442
+        },
+        {
+            "word": "fixtures",
+            "score": 1432
+        },
+        {
+            "word": "plumbing",
+            "score": 1409
+        },
+        {
+            "word": "fireplace",
+            "score": 1392
+        },
+        {
+            "word": "upstairs",
+            "score": 1391
+        },
+        {
+            "word": "stalls",
+            "score": 1386
+        },
+        {
+            "word": "dining",
+            "score": 1374
+        },
+        {
+            "word": "suites",
+            "score": 1363
+        },
+        {
+            "word": "mirror",
+            "score": 1354
+        },
+        {
+            "word": "door",
+            "score": 1353
+        },
+        {
+            "word": "attic",
+            "score": 1345
+        },
+        {
+            "word": "lounge",
+            "score": 1334
+        },
+        {
+            "word": "room",
+            "score": 1333
+        },
+        {
+            "word": "stairs",
+            "score": 1328
+        },
+        {
+            "word": "floor",
+            "score": 1327
+        },
+        {
+            "word": "bath",
+            "score": 1319
+        },
+        {
+            "word": "wash",
+            "score": 1312
+        },
+        {
+            "word": "tiles",
+            "score": 1307
+        },
+        {
+            "word": "enclosed",
+            "score": 1303
+        },
+        {
+            "word": "rooms",
+            "score": 1297
+        },
+        {
+            "word": "staircase",
+            "score": 1292
+        },
+        {
+            "word": "window",
+            "score": 1290
+        },
+        {
+            "word": "porch",
+            "score": 1282
+        },
+        {
+            "word": "suite",
+            "score": 1275
+        },
+        {
+            "word": "apartment",
+            "score": 1271
+        },
+        {
+            "word": "furniture",
+            "score": 1257
+        },
+        {
+            "word": "ceiling",
+            "score": 1256
+        },
+        {
+            "word": "breaks",
+            "score": 1252
+        },
+        {
+            "word": "basement",
+            "score": 1250
+        },
+        {
+            "word": "cleaning",
+            "score": 1248
+        },
+        {
+            "word": "facilities",
+            "score": 1245
+        },
+        {
+            "word": "knife",
+            "score": 1243
+        },
+        {
+            "word": "locked",
+            "score": 1236
+        },
+        {
+            "word": "sleeping",
+            "score": 1235
+        },
+        {
+            "word": "opens",
+            "score": 1231
+        },
+        {
+            "word": "timber",
+            "score": 1229
+        },
+        {
+            "word": "naked",
+            "score": 1225
+        },
+        {
+            "word": "sees",
+            "score": 1223
+        },
+        {
+            "word": "rear",
+            "score": 1221
+        },
+        {
+            "word": "bed",
+            "score": 1219
+        },
+        {
+            "word": "accessed",
+            "score": 1214
+        },
+        {
+            "word": "sitting",
+            "score": 1203
+        },
+        {
+            "word": "clothes",
+            "score": 1200
+        },
+        {
+            "word": "garage",
+            "score": 1199
+        },
+        {
+            "word": "doors",
+            "score": 1189
+        },
+        {
+            "word": "tells",
+            "score": 1184
+        },
+        {
+            "word": "gets",
+            "score": 1181
+        },
+        {
+            "word": "sex",
+            "score": 1177
+        },
+        {
+            "word": "asks",
+            "score": 1172
+        },
+        {
+            "word": "tries",
+            "score": 1170
+        },
+        {
+            "word": "quarters",
+            "score": 1168
+        },
+        {
+            "word": "walls",
+            "score": 1164
+        },
+        {
+            "word": "tissue",
+            "score": 1162
+        },
+        {
+            "word": "phone",
+            "score": 1154
+        },
+        {
+            "word": "looks",
+            "score": 1153
+        },
+        {
+            "word": "clean",
+            "score": 1150
+        },
+        {
+            "word": "telling",
+            "score": 1148
+        },
+        {
+            "word": "wall",
+            "score": 1146
+        },
+        {
+            "word": "herself",
+            "score": 1139
+        },
+        {
+            "word": "wearing",
+            "score": 1135
+        },
+        {
+            "word": "goes",
+            "score": 1134
+        },
+        {
+            "word": "returns",
+            "score": 1132
+        },
+        {
+            "word": "residence",
+            "score": 1131
+        },
+        {
+            "word": "guests",
+            "score": 1128
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bathroom",
+            "score": 129916
+        },
+        {
+            "word": "bathrooms",
+            "score": 129365
+        },
+        {
+            "word": "bathroom tissue",
+            "score": 129345
+        },
+        {
+            "word": "bathroom fixture",
+            "score": 129344
+        },
+        {
+            "word": "bathroom cleaner",
+            "score": 129337
+        },
+        {
+            "word": "bathroom scales",
+            "score": 129323
+        },
+        {
+            "word": "bathroom break",
+            "score": 129320
+        },
+        {
+            "word": "bathroom cabinet",
+            "score": 129320
+        },
+        {
+            "word": "bath room",
+            "score": 64663
+        },
+        {
+            "word": "bath-room",
+            "score": 64661
+        }
+    ]
+}

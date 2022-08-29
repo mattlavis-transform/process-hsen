@@ -1,0 +1,1764 @@
+{
+    "term": "adaptor",
+    "means_like": [
+        {
+            "word": "adapter",
+            "score": 73098,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "adapters",
+            "score": 48643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 47049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transmitter",
+            "score": 43186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lumbar",
+            "score": 39084,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "attachment",
+            "score": 39001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caddie",
+            "score": 37228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrel",
+            "score": 32995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adpt",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connector",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display adapter",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socket",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupler",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet cable",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "extender",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dipole antenna",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audio amplifier",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mountable",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "expander",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rotary actuator",
+            "score": 31290,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "reciprocating saw",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "projection screen",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrist watch",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coax cable",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "migo",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frequency response",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "input device",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subminiature",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ventilation system",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strain gauge",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duplexer",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oring",
+            "score": 31278,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "omnidirectional antenna",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baseplate",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circular saw",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plug in",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interposer",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "preamplifier",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xli",
+            "score": 31271,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "digitiser",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "module",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hard drive",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackmagic",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "edp",
+            "score": 31266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "c compiler",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wide screen",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air cushion",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "external storage",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demultiplexer",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leadless",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scart",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baud rate",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creaser",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdrom",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwheel",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabineer",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette player",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dmos",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strain gage",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermistor",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylet",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block diagram",
+            "score": 31248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "servomotor",
+            "score": 31247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cion",
+            "score": 31246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ione",
+            "score": 31245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parhelia",
+            "score": 31244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "digital camera",
+            "score": 31243,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nicad",
+            "score": 31242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "step stool",
+            "score": 31241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microspectrophotometer",
+            "score": 31240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nodus",
+            "score": 31239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nocturn",
+            "score": 31238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knee brace",
+            "score": 31237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "image compression",
+            "score": 31236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peripheral device",
+            "score": 31235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atmospheric pressure",
+            "score": 31234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potentiometer",
+            "score": 31233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hard disk",
+            "score": 31232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vidar",
+            "score": 31231,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tonearm",
+            "score": 31230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frame buffer",
+            "score": 31229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vitalizer",
+            "score": 31228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhaust system",
+            "score": 31227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mux",
+            "score": 31226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leica",
+            "score": 31225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "synchronisation",
+            "score": 31224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prost",
+            "score": 31223,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pulse generator",
+            "score": 31222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "variable resistor",
+            "score": 31221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voltage divider",
+            "score": 31220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vacuum pump",
+            "score": 31219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maximum likelihood",
+            "score": 31218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combiner",
+            "score": 31217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multimeter",
+            "score": 31216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analyser",
+            "score": 31215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphical user interface",
+            "score": 31214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metroscope",
+            "score": 31213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mesh topology",
+            "score": 31212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle opener",
+            "score": 31211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bics",
+            "score": 31210,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "adapter",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "adaptor",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "adopter",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "adapt",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "adapters",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "adaptors",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "adapte",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "adopt",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "adept",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "adapts",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "adoptee",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "adopte",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "adopters",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "editor",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "adapted",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "adapting",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "adaptive",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "adopts",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "attempter",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "eoraptor",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "adaptly",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "chapter",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "raptor",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "captor",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "auditor",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "rapter",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "raptar",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "adore",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "adopted",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "untapped",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "adopting",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "adair",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "emptor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "adoptive",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adour",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adulter",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adoor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "adeptly",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "updater",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adductor",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adoptees",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "attestor",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adapin",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "attester",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cadastre",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "copter",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "scepter",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "sceptre",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mad hatter",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "apter",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "ceptor",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "adap",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "adpt",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "adepts",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "diopter",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "ptr",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "add up to",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "idat",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "appear",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "attached",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "attempt",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "attire",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "edit",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "aspire",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "dapper",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "adhere",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "attacker",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "adobe",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "atop",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "apar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "adaption",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "atar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "acceptor",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "adid",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "accepter",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "atwitter",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "appar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "datr",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "apare",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "edita",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "apair",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "dapped",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "appair",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "atopy",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "adduced",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "edite",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "adur",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "adobes",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "adact",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "a tad",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "attemper",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "datter",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "adaptness",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "atout",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "edate",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "atapi",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "adaptor",
+            "score": 129919
+        },
+        {
+            "word": "adapter",
+            "score": 65296
+        },
+        {
+            "word": "adaptar",
+            "score": 64663
+        },
+        {
+            "word": "adapt",
+            "score": 1978
+        },
+        {
+            "word": "raptor",
+            "score": 881
+        },
+        {
+            "word": "adaption",
+            "score": 583
+        },
+        {
+            "word": "adapted",
+            "score": 445
+        },
+        {
+            "word": "captor",
+            "score": 320
+        },
+        {
+            "word": "abator",
+            "score": 245
+        },
+        {
+            "word": "anaphor",
+            "score": 186
+        },
+        {
+            "word": "adopter",
+            "score": 170
+        },
+        {
+            "word": "adapts",
+            "score": 149
+        },
+        {
+            "word": "abactor",
+            "score": 144
+        },
+        {
+            "word": "alastor",
+            "score": 121
+        },
+        {
+            "word": "adaptors",
+            "score": 73
+        },
+        {
+            "word": "adjutor",
+            "score": 54
+        },
+        {
+            "word": "adaptec",
+            "score": 39
+        },
+        {
+            "word": "adatom",
+            "score": 27
+        },
+        {
+            "word": "adaptly",
+            "score": 20
+        },
+        {
+            "word": "dator",
+            "score": 18
+        },
+        {
+            "word": "adapso",
+            "score": 10
+        },
+        {
+            "word": "adaptador",
+            "score": 9
+        },
+        {
+            "word": "adatto",
+            "score": 8
+        },
+        {
+            "word": "adepto",
+            "score": 6
+        },
+        {
+            "word": "adapta",
+            "score": 5
+        },
+        {
+            "word": "adapte",
+            "score": 3
+        },
+        {
+            "word": "adoptar",
+            "score": 3
+        },
+        {
+            "word": "haptor",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "grap",
+            "score": 1890
+        },
+        {
+            "word": "irak",
+            "score": 1757
+        },
+        {
+            "word": "transduction",
+            "score": 1661
+        },
+        {
+            "word": "betamax",
+            "score": 1655
+        },
+        {
+            "word": "tir",
+            "score": 1625
+        },
+        {
+            "word": "dap",
+            "score": 1619
+        },
+        {
+            "word": "golgi",
+            "score": 1617
+        },
+        {
+            "word": "pcm",
+            "score": 1605
+        },
+        {
+            "word": "gab",
+            "score": 1598
+        },
+        {
+            "word": "effector",
+            "score": 1596
+        },
+        {
+            "word": "vesicles",
+            "score": 1588
+        },
+        {
+            "word": "signaling",
+            "score": 1579
+        },
+        {
+            "word": "vesicle",
+            "score": 1574
+        },
+        {
+            "word": "protein",
+            "score": 1573
+        },
+        {
+            "word": "proteins",
+            "score": 1570
+        },
+        {
+            "word": "kinase",
+            "score": 1560
+        },
+        {
+            "word": "tia",
+            "score": 1556
+        },
+        {
+            "word": "actin",
+            "score": 1551
+        },
+        {
+            "word": "plugged",
+            "score": 1548
+        },
+        {
+            "word": "adapter",
+            "score": 1536
+        },
+        {
+            "word": "apoptosis",
+            "score": 1534
+        },
+        {
+            "word": "goggles",
+            "score": 1531
+        },
+        {
+            "word": "homology",
+            "score": 1526
+        },
+        {
+            "word": "chromatin",
+            "score": 1522
+        },
+        {
+            "word": "lat",
+            "score": 1505
+        },
+        {
+            "word": "signalling",
+            "score": 1497
+        },
+        {
+            "word": "socket",
+            "score": 1492
+        },
+        {
+            "word": "molecule",
+            "score": 1491
+        },
+        {
+            "word": "sos",
+            "score": 1489
+        },
+        {
+            "word": "subunit",
+            "score": 1487
+        },
+        {
+            "word": "activating",
+            "score": 1484
+        },
+        {
+            "word": "receptor",
+            "score": 1481
+        },
+        {
+            "word": "bayonet",
+            "score": 1474
+        },
+        {
+            "word": "usb",
+            "score": 1473
+        },
+        {
+            "word": "stat",
+            "score": 1465
+        },
+        {
+            "word": "activation",
+            "score": 1462
+        },
+        {
+            "word": "plug",
+            "score": 1458
+        },
+        {
+            "word": "accessory",
+            "score": 1455
+        },
+        {
+            "word": "docking",
+            "score": 1449
+        },
+        {
+            "word": "bind",
+            "score": 1447
+        },
+        {
+            "word": "mediate",
+            "score": 1445
+        },
+        {
+            "word": "domains",
+            "score": 1436
+        },
+        {
+            "word": "atari",
+            "score": 1432
+        },
+        {
+            "word": "ras",
+            "score": 1428
+        },
+        {
+            "word": "pathway",
+            "score": 1424
+        },
+        {
+            "word": "molecules",
+            "score": 1422
+        },
+        {
+            "word": "receptors",
+            "score": 1418
+        },
+        {
+            "word": "recruitment",
+            "score": 1416
+        },
+        {
+            "word": "intracellular",
+            "score": 1414
+        },
+        {
+            "word": "domain",
+            "score": 1413
+        },
+        {
+            "word": "membrane",
+            "score": 1411
+        },
+        {
+            "word": "coated",
+            "score": 1408
+        },
+        {
+            "word": "bluetooth",
+            "score": 1405
+        },
+        {
+            "word": "interact",
+            "score": 1399
+        },
+        {
+            "word": "downstream",
+            "score": 1395
+        },
+        {
+            "word": "cas",
+            "score": 1392
+        },
+        {
+            "word": "mediated",
+            "score": 1390
+        },
+        {
+            "word": "binding",
+            "score": 1387
+        },
+        {
+            "word": "connector",
+            "score": 1381
+        },
+        {
+            "word": "wired",
+            "score": 1379
+        },
+        {
+            "word": "interacting",
+            "score": 1378
+        },
+        {
+            "word": "transcript",
+            "score": 1375
+        },
+        {
+            "word": "conserved",
+            "score": 1373
+        },
+        {
+            "word": "activate",
+            "score": 1372
+        },
+        {
+            "word": "mitochondrial",
+            "score": 1371
+        },
+        {
+            "word": "lenses",
+            "score": 1368
+        },
+        {
+            "word": "catalytic",
+            "score": 1365
+        },
+        {
+            "word": "ethernet",
+            "score": 1359
+        },
+        {
+            "word": "inhibition",
+            "score": 1340
+        },
+        {
+            "word": "insulin",
+            "score": 1338
+        },
+        {
+            "word": "console",
+            "score": 1334
+        },
+        {
+            "word": "amino",
+            "score": 1329
+        },
+        {
+            "word": "degradation",
+            "score": 1324
+        },
+        {
+            "word": "nes",
+            "score": 1321
+        },
+        {
+            "word": "analogue",
+            "score": 1320
+        },
+        {
+            "word": "lim",
+            "score": 1315
+        },
+        {
+            "word": "stereo",
+            "score": 1314
+        },
+        {
+            "word": "charging",
+            "score": 1312
+        },
+        {
+            "word": "blank",
+            "score": 1309
+        },
+        {
+            "word": "pin",
+            "score": 1307
+        },
+        {
+            "word": "enzymes",
+            "score": 1305
+        },
+        {
+            "word": "portable",
+            "score": 1302
+        },
+        {
+            "word": "rna",
+            "score": 1301
+        },
+        {
+            "word": "dock",
+            "score": 1298
+        },
+        {
+            "word": "recorder",
+            "score": 1295
+        },
+        {
+            "word": "cascade",
+            "score": 1291
+        },
+        {
+            "word": "calcium",
+            "score": 1286
+        },
+        {
+            "word": "cassette",
+            "score": 1282
+        },
+        {
+            "word": "chip",
+            "score": 1281
+        },
+        {
+            "word": "lens",
+            "score": 1277
+        },
+        {
+            "word": "spacecraft",
+            "score": 1276
+        },
+        {
+            "word": "recruit",
+            "score": 1274
+        },
+        {
+            "word": "activated",
+            "score": 1271
+        },
+        {
+            "word": "cartridge",
+            "score": 1267
+        },
+        {
+            "word": "compatible",
+            "score": 1265
+        },
+        {
+            "word": "motif",
+            "score": 1261
+        },
+        {
+            "word": "signal",
+            "score": 1260
+        },
+        {
+            "word": "barrel",
+            "score": 1255
+        },
+        {
+            "word": "transcription",
+            "score": 1253
+        },
+        {
+            "word": "cellular",
+            "score": 1245
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "adaptor",
+            "score": 129919
+        },
+        {
+            "word": "adaptors",
+            "score": 129391
+        },
+        {
+            "word": "adaptorial",
+            "score": 129350
+        },
+        {
+            "word": "adapter",
+            "score": 65296
+        },
+        {
+            "word": "adapters",
+            "score": 64731
+        },
+        {
+            "word": "adaptogen",
+            "score": 64717
+        },
+        {
+            "word": "adaptogenic",
+            "score": 64701
+        },
+        {
+            "word": "adaptometer",
+            "score": 64671
+        },
+        {
+            "word": "adapter card",
+            "score": 64670
+        },
+        {
+            "word": "adaptogens",
+            "score": 64667
+        }
+    ]
+}

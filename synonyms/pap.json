@@ -1,0 +1,1672 @@
+{
+    "term": "pap",
+    "means_like": [
+        {
+            "word": "pablum",
+            "score": 86583,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "teat",
+            "score": 80567,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "nipple",
+            "score": 79091,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tit",
+            "score": 76573,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mamilla",
+            "score": 73875,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mammilla",
+            "score": 70539,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "soft diet",
+            "score": 70539,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "spoon food",
+            "score": 70539,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "drivel",
+            "score": 70538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smears",
+            "score": 63728,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "mush",
+            "score": 62837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fap",
+            "score": 62801,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "smear",
+            "score": 62755,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 61753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papa",
+            "score": 60291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daddy",
+            "score": 59925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pal",
+            "score": 59716,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ppp",
+            "score": 59480,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mash",
+            "score": 59362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scap",
+            "score": 58931,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pat",
+            "score": 58914,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ppa",
+            "score": 57838,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "poland",
+            "score": 57443,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "test",
+            "score": 57389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dad",
+            "score": 56919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polish",
+            "score": 56228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "app",
+            "score": 55407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amp",
+            "score": 53975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamp",
+            "score": 53518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamps",
+            "score": 53469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eap",
+            "score": 52584,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "program",
+            "score": 52323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "priest",
+            "score": 52282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bcp",
+            "score": 51291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bilevel",
+            "score": 51291,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "chod",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ilp",
+            "score": 51291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "plp",
+            "score": 51291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ppps",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "psp",
+            "score": 51291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ptp",
+            "score": 51291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scribner",
+            "score": 51291,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "papescent",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pabulum",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bullshit",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tripe",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "claptrap",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreck",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crapola",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twaddle",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crap",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skank",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twat",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "titty",
+            "score": 51277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skanky",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tch",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shit",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shithead",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "britney",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fuckwit",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handjob",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nellie",
+            "score": 51269,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "paparazzi",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "madd",
+            "score": 51267,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sandra bullock",
+            "score": 51266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tmz",
+            "score": 51265,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vajayjay",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooch",
+            "score": 51263,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hore",
+            "score": 51262,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shite",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whities",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprog",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "msm",
+            "score": 51258,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "douche",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piffle",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ponce",
+            "score": 51255,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hollywood",
+            "score": 51254,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pleb",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hackwork",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swearword",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fing",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wank",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dumbass",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lmfao",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blather",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eww",
+            "score": 51245,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "twinkie",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smear test",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gossipmonger",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nudie",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inanities",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imus",
+            "score": 51239,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "upchuck",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limbaugh",
+            "score": 51237,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shant",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brad pitt",
+            "score": 51235,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "palaver",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angelina",
+            "score": 51233,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "trollop",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "pap",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "papp",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ppap",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pappe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pop",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "poop",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "pipe",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "pup",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "peep",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "pope",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "pep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pip",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pape",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "popp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pvp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pupp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poppe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pab",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pepp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "peap",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pipp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "puppe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paup",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "piep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paap",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poup",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poip",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pawp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bap",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bapp",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "pub",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "purp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "papper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pappy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pappa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paps",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pappi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pib",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "papy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "palp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pamp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "papay",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papir",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pibe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "prap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "prb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "apap",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pasp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pnp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "beep",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "happ",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bop",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hap",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bab",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "happe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "boop",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bape",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bip",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bup",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "babb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bupp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bep",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bopp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bope",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "baap",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "beppe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bhop",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "boap",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "p",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "bck",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kpop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "p.a",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpy",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "apep",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cpi",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ipop",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lpe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "apop",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jpop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "fpa",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "npy",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "opep",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "epip",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "epop",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "opepe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "p-a",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "pap",
+            "score": 878
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "saine",
+            "score": 1843
+        },
+        {
+            "word": "smear",
+            "score": 1789
+        },
+        {
+            "word": "cytology",
+            "score": 1690
+        },
+        {
+            "word": "papillary",
+            "score": 1663
+        },
+        {
+            "word": "goh",
+            "score": 1631
+        },
+        {
+            "word": "yew",
+            "score": 1620
+        },
+        {
+            "word": "cervical",
+            "score": 1619
+        },
+        {
+            "word": "porridge",
+            "score": 1606
+        },
+        {
+            "word": "chee",
+            "score": 1600
+        },
+        {
+            "word": "ong",
+            "score": 1595
+        },
+        {
+            "word": "cervix",
+            "score": 1591
+        },
+        {
+            "word": "walkover",
+            "score": 1580
+        },
+        {
+            "word": "huck",
+            "score": 1576
+        },
+        {
+            "word": "sdp",
+            "score": 1529
+        },
+        {
+            "word": "teo",
+            "score": 1528
+        },
+        {
+            "word": "lim",
+            "score": 1519
+        },
+        {
+            "word": "eng",
+            "score": 1488
+        },
+        {
+            "word": "biopsy",
+            "score": 1459
+        },
+        {
+            "word": "papyrus",
+            "score": 1455
+        },
+        {
+            "word": "guan",
+            "score": 1447
+        },
+        {
+            "word": "singleton",
+            "score": 1446
+        },
+        {
+            "word": "boon",
+            "score": 1437
+        },
+        {
+            "word": "screening",
+            "score": 1432
+        },
+        {
+            "word": "abnormal",
+            "score": 1412
+        },
+        {
+            "word": "singapore",
+            "score": 1404
+        },
+        {
+            "word": "tong",
+            "score": 1401
+        },
+        {
+            "word": "ang",
+            "score": 1386
+        },
+        {
+            "word": "tan",
+            "score": 1379
+        },
+        {
+            "word": "maize",
+            "score": 1373
+        },
+        {
+            "word": "malaya",
+            "score": 1370
+        },
+        {
+            "word": "constituency",
+            "score": 1369
+        },
+        {
+            "word": "dad",
+            "score": 1364
+        },
+        {
+            "word": "chin",
+            "score": 1360
+        },
+        {
+            "word": "cheng",
+            "score": 1357
+        },
+        {
+            "word": "anal",
+            "score": 1355
+        },
+        {
+            "word": "constituencies",
+            "score": 1352
+        },
+        {
+            "word": "mps",
+            "score": 1339
+        },
+        {
+            "word": "finn",
+            "score": 1331
+        },
+        {
+            "word": "fielded",
+            "score": 1330
+        },
+        {
+            "word": "representation",
+            "score": 1324
+        },
+        {
+            "word": "ventilation",
+            "score": 1317
+        },
+        {
+            "word": "malaysian",
+            "score": 1316
+        },
+        {
+            "word": "malay",
+            "score": 1310
+        },
+        {
+            "word": "pius",
+            "score": 1298
+        },
+        {
+            "word": "seats",
+            "score": 1288
+        },
+        {
+            "word": "lee",
+            "score": 1283
+        },
+        {
+            "word": "opposition",
+            "score": 1278
+        },
+        {
+            "word": "cancer",
+            "score": 1267
+        },
+        {
+            "word": "contested",
+            "score": 1264
+        },
+        {
+            "word": "detect",
+            "score": 1263
+        },
+        {
+            "word": "candidates",
+            "score": 1261
+        },
+        {
+            "word": "tests",
+            "score": 1260
+        },
+        {
+            "word": "parliament",
+            "score": 1253
+        },
+        {
+            "word": "wong",
+            "score": 1252
+        },
+        {
+            "word": "merger",
+            "score": 1250
+        },
+        {
+            "word": "malaysia",
+            "score": 1249
+        },
+        {
+            "word": "breast",
+            "score": 1243
+        },
+        {
+            "word": "armenia",
+            "score": 1238
+        },
+        {
+            "word": "meal",
+            "score": 1236
+        },
+        {
+            "word": "chan",
+            "score": 1229
+        },
+        {
+            "word": "expelled",
+            "score": 1228
+        },
+        {
+            "word": "lung",
+            "score": 1225
+        },
+        {
+            "word": "referendum",
+            "score": 1221
+        },
+        {
+            "word": "candidate",
+            "score": 1219
+        },
+        {
+            "word": "diagnosis",
+            "score": 1208
+        },
+        {
+            "word": "election",
+            "score": 1207
+        },
+        {
+            "word": "armenian",
+            "score": 1203
+        },
+        {
+            "word": "test",
+            "score": 1201
+        },
+        {
+            "word": "minister",
+            "score": 1199
+        },
+        {
+            "word": "hungarian",
+            "score": 1197
+        },
+        {
+            "word": "vienna",
+            "score": 1185
+        },
+        {
+            "word": "protocol",
+            "score": 1182
+        },
+        {
+            "word": "sat",
+            "score": 1181
+        },
+        {
+            "word": "prime",
+            "score": 1179
+        },
+        {
+            "word": "parliamentary",
+            "score": 1172
+        },
+        {
+            "word": "cabinet",
+            "score": 1169
+        },
+        {
+            "word": "alliance",
+            "score": 1166
+        },
+        {
+            "word": "politicians",
+            "score": 1161
+        },
+        {
+            "word": "parade",
+            "score": 1159
+        },
+        {
+            "word": "infection",
+            "score": 1156
+        },
+        {
+            "word": "party",
+            "score": 1153
+        },
+        {
+            "word": "push",
+            "score": 1152
+        },
+        {
+            "word": "valid",
+            "score": 1149
+        },
+        {
+            "word": "marshall",
+            "score": 1146
+        },
+        {
+            "word": "resigned",
+            "score": 1145
+        },
+        {
+            "word": "testing",
+            "score": 1142
+        },
+        {
+            "word": "challenged",
+            "score": 1137
+        },
+        {
+            "word": "socialist",
+            "score": 1135
+        },
+        {
+            "word": "hungary",
+            "score": 1129
+        },
+        {
+            "word": "ruling",
+            "score": 1127
+        },
+        {
+            "word": "nomination",
+            "score": 1124
+        },
+        {
+            "word": "electoral",
+            "score": 1122
+        },
+        {
+            "word": "contest",
+            "score": 1117
+        },
+        {
+            "word": "vote",
+            "score": 1115
+        },
+        {
+            "word": "seat",
+            "score": 1113
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "pap",
+            "score": 878
+        },
+        {
+            "word": "paper",
+            "score": 3697
+        },
+        {
+            "word": "papyrus",
+            "score": 917
+        },
+        {
+            "word": "paparazzi",
+            "score": 729
+        },
+        {
+            "word": "papaya",
+            "score": 649
+        },
+        {
+            "word": "papa",
+            "score": 601
+        },
+        {
+            "word": "paprika",
+            "score": 518
+        },
+        {
+            "word": "paperwork",
+            "score": 473
+        },
+        {
+            "word": "papilla",
+            "score": 453
+        },
+        {
+            "word": "papaw",
+            "score": 446
+        }
+    ]
+}

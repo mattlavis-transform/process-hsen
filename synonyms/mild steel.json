@@ -1,0 +1,867 @@
+{
+    "term": "mild steel",
+    "means_like": [
+        {
+            "word": "low-carbon steel",
+            "score": 28385,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "soft-cast steel",
+            "score": 28385,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "structural steel",
+            "score": 28384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft steel",
+            "score": 28063
+        },
+        {
+            "word": "milf",
+            "score": 28047,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boilerplate",
+            "score": 27984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bms",
+            "score": 27969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cold",
+            "score": 11663,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "silver",
+            "score": 11663,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silvered",
+            "score": 11663,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "single",
+            "score": 11663,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "touch",
+            "score": 11663,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "touched",
+            "score": 11663,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 11647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 11601,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "casted",
+            "score": 11601,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "gad",
+            "score": 11601,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaser",
+            "score": 11586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dof",
+            "score": 11586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dog",
+            "score": 11586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dogs",
+            "score": 11586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boric acid",
+            "score": 10632,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "melt",
+            "score": 10632,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "strong",
+            "score": 10571,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "anneal",
+            "score": 10505,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "anvil",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armature",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armor plate",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armor plating",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armour plate",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atomic number 23",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "austenite",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ball bearing",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beryllium",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bessemer process",
+            "score": 10505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "billet",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billeting",
+            "score": 10505,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bit",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodkin",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broach",
+            "score": 10505,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "broached",
+            "score": 10505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "calcium",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 10505,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cannister",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cans",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chalybean",
+            "score": 10505
+        },
+        {
+            "word": "chisel",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiseled",
+            "score": 10505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chiselled",
+            "score": 10505,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "clapper",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clink",
+            "score": 10505,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cna",
+            "score": 10505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cold chisel",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conversion",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corrugated iron",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crescent",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crowbar",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "damascene",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "die",
+            "score": 10505,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dir",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 10505,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "drawplate",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drift",
+            "score": 10505,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drifting",
+            "score": 10505,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "electromagnet",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engraving",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epee",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flange",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fork",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forking",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gondola",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphite",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hard",
+            "score": 10505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hard steel",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heavy",
+            "score": 10505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hob",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invar",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iron",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironed",
+            "score": 10505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "irons",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jamesonite",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jigger",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keeper",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knife",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lae",
+            "score": 10505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lame",
+            "score": 10505,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "lamination",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lance",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lithography",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "martensite",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metal",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mezzotint",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mill",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minimill",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "mild steel",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "hold still",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cold steel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "multitool",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "molesty",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "old style",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "oldstyle",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "milestone",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "mile stone",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "mildest",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "mistel",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "misdeal",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "maldito",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "milstein",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "maldita",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "maltster",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "midsole",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "molestia",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "millstein",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "mistal",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "mile high city",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "mistell",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "mild steel",
+            "score": 129360
+        },
+        {
+            "word": "cold steel",
+            "score": 47
+        },
+        {
+            "word": "weld steel",
+            "score": 6
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "mild steel",
+            "score": 129360
+        },
+        {
+            "word": "cold steel",
+            "score": 47
+        },
+        {
+            "word": "weld steel",
+            "score": 6
+        },
+        {
+            "word": "cold steel surgery",
+            "score": 2
+        }
+    ]
+}

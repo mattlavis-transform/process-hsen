@@ -1,0 +1,591 @@
+{
+    "term": "covid",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "covet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cova",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kova",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "couvade",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavate",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coed",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavit",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavitt",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "kivett",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "co ed",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "kievit",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "covered",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "covert",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coated",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cava",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caved",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kava",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiva",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kohut",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "corvid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coved",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chiva",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keva",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calved",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "covo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavite",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cafod",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cozad",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "give head",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "covi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chuva",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuva",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kovas",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caviled",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kofoed",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kovats",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gavot",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "coded",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "coted",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "k fed",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cochet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cvet",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "cavilled",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cold",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "code",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cavity",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cove",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "coven",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "conveyed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "combed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "covey",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coves",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "coud",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "coa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "comed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clud",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "covent",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corvet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coad",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cavas",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "covets",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coate",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cowhide",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavey",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cowa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coeval",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "c.o.d",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "covel",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "casad",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavae",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coaled",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cawood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cofa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "convoyed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cavus",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coia",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coccia",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coveter",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cavea",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "chv",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "couvert",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coveys",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clovered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "covalt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "copha",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cozied",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ccoa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coevally",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "chauvet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coja",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "conad",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "caviidae",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cavu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clavate",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "ovid",
+            "score": 483
+        },
+        {
+            "word": "coid",
+            "score": 225
+        },
+        {
+            "word": "bovid",
+            "score": 224
+        },
+        {
+            "word": "covin",
+            "score": 137
+        },
+        {
+            "word": "corvid",
+            "score": 134
+        },
+        {
+            "word": "coved",
+            "score": 96
+        },
+        {
+            "word": "covi",
+            "score": 21
+        },
+        {
+            "word": "dovid",
+            "score": 20
+        },
+        {
+            "word": "covad",
+            "score": 10
+        },
+        {
+            "word": "cvid",
+            "score": 9
+        },
+        {
+            "word": "covd",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "ovid",
+            "score": 483
+        },
+        {
+            "word": "oviduct",
+            "score": 254
+        },
+        {
+            "word": "coid",
+            "score": 225
+        },
+        {
+            "word": "bovid",
+            "score": 224
+        },
+        {
+            "word": "coving",
+            "score": 167
+        },
+        {
+            "word": "covin",
+            "score": 137
+        },
+        {
+            "word": "corvid",
+            "score": 134
+        },
+        {
+            "word": "corvidae",
+            "score": 124
+        },
+        {
+            "word": "ovidian",
+            "score": 108
+        },
+        {
+            "word": "coved",
+            "score": 96
+        }
+    ]
+}

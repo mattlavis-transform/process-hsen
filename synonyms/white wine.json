@@ -1,0 +1,1285 @@
+{
+    "term": "white wine",
+    "means_like": [
+        {
+            "word": "lachryma christi",
+            "score": 79898,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rhine wine",
+            "score": 79897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "red wine",
+            "score": 79896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chenin blanc",
+            "score": 79895,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fricandeau",
+            "score": 79894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sauvignon blanc",
+            "score": 79893,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chardonnay",
+            "score": 79892,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "pinot blanc",
+            "score": 79891,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sauterne",
+            "score": 79890,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "riesling",
+            "score": 79889,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "muscadet",
+            "score": 79888,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine vinegar",
+            "score": 79887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinegar",
+            "score": 79886,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merlot",
+            "score": 79885,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "may wine",
+            "score": 79884,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinot noir",
+            "score": 79883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chablis",
+            "score": 79882,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "lambrusco",
+            "score": 79881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinagrous",
+            "score": 79880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blush wine",
+            "score": 79879,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malbec",
+            "score": 79878,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grenache",
+            "score": 79877,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hockamore",
+            "score": 79876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinegariness",
+            "score": 79875,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salmanazar",
+            "score": 79874,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinot",
+            "score": 79873,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dijon",
+            "score": 79872,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vermouth",
+            "score": 79871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malvasia",
+            "score": 79870,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "zinfandel",
+            "score": 79869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chianti",
+            "score": 79868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bordelaise",
+            "score": 79867,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "syrah",
+            "score": 79866,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "verjuice",
+            "score": 79865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malvoisie",
+            "score": 79864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabernet",
+            "score": 79863,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tarragon",
+            "score": 79862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine",
+            "score": 79861,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinaigrette",
+            "score": 79860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enophile",
+            "score": 79859,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fox grape",
+            "score": 79858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grape",
+            "score": 79857,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demiglace",
+            "score": 79856,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "montrachet",
+            "score": 79855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "table wine",
+            "score": 79854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shallot",
+            "score": 79853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olive oil",
+            "score": 79852,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tomato juice",
+            "score": 79851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dessert wine",
+            "score": 79850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marsala",
+            "score": 79849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adelantadillo",
+            "score": 79848,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgundy wine",
+            "score": 79847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gamay",
+            "score": 79846,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vinifera grape",
+            "score": 79845,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spumante",
+            "score": 79844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prosecco",
+            "score": 79843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lemon juice",
+            "score": 79842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poivrade",
+            "score": 79841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acetose",
+            "score": 79840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mayonnaise",
+            "score": 79839,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alegar",
+            "score": 79838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cider",
+            "score": 79837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinifera",
+            "score": 79836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rioja",
+            "score": 79835,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "balsamic",
+            "score": 79834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calvados",
+            "score": 79833,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinotage",
+            "score": 79832,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barsac",
+            "score": 79831,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sweet cider",
+            "score": 79830,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapenade",
+            "score": 79829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinegarish",
+            "score": 79828,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shiraz",
+            "score": 79827,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "muscadine",
+            "score": 79826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "varietal",
+            "score": 79825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worcestershire sauce",
+            "score": 79824,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bordeaux",
+            "score": 79823,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ciderist",
+            "score": 79822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoyu",
+            "score": 79821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "red pepper",
+            "score": 79820,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoisin",
+            "score": 79819,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grappa",
+            "score": 79818,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sauce",
+            "score": 79817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlic",
+            "score": 79816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prairie oyster",
+            "score": 79815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaptalize",
+            "score": 79814,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hollandaise sauce",
+            "score": 79813,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sherry",
+            "score": 79812,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bearnaise",
+            "score": 79811,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "champagne",
+            "score": 79810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olive",
+            "score": 79809,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mulse",
+            "score": 79808,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bordelaise sauce",
+            "score": 79807,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brown sauce",
+            "score": 79806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aioli",
+            "score": 79805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "white sauce",
+            "score": 79804,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "olive green",
+            "score": 79803,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spurry",
+            "score": 79802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgundy",
+            "score": 79801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marinara",
+            "score": 79800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hedge garlic",
+            "score": 79799,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "white wine",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "white line",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wet one",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "white pine",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiten",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiteman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "white man",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wightman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "witan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "white witch",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "weightman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "white yam",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "witen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sweet wine",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "white swan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "watson",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "widen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "witten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitening",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "wheaton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitewash",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "witing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wooten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white lie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wheaten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wetten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wotan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wootton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wotton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitson",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wooton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wait on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white lines",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "witman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white tie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white wash",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitsun",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wittman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "witton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "watton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weidman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wideman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wettin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "one-time",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "what time",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wootten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "waten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white whale",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weiden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "waitron",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white room",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wittmann",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ywam",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white tai",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white eye",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "white bean",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "entwine",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "intwine",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "untwine",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "redwine",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "red wine",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "right wing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightline",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "sightline",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "rightwing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "litwin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "sight line",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "matewan",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "chatwin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "right line",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "night line",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "right-wing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "route one",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitehorn",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "wood hen",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "wertheim",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotline",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "heighten",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot line",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "high time",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "heitman",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "hiten",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot-line",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "high tone",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadwin",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "heitmann",
+            "score": 76,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "white wine",
+            "score": 129383
+        },
+        {
+            "word": "white pine",
+            "score": 64711
+        },
+        {
+            "word": "white line",
+            "score": 64685
+        },
+        {
+            "word": "white wing",
+            "score": 64661
+        },
+        {
+            "word": "white lie",
+            "score": 207
+        },
+        {
+            "word": "white tie",
+            "score": 78
+        },
+        {
+            "word": "white rice",
+            "score": 71
+        },
+        {
+            "word": "whitewing",
+            "score": 42
+        },
+        {
+            "word": "rhine wine",
+            "score": 36
+        },
+        {
+            "word": "white nile",
+            "score": 26
+        },
+        {
+            "word": "white lime",
+            "score": 7
+        },
+        {
+            "word": "white wines",
+            "score": 4
+        },
+        {
+            "word": "white pink",
+            "score": 2
+        },
+        {
+            "word": "white bile",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "white wine",
+            "score": 129383
+        },
+        {
+            "word": "white wines",
+            "score": 129322
+        },
+        {
+            "word": "white pine",
+            "score": 64711
+        },
+        {
+            "word": "white pine blister rust",
+            "score": 64689
+        },
+        {
+            "word": "white line",
+            "score": 64685
+        },
+        {
+            "word": "white pine rust",
+            "score": 64665
+        },
+        {
+            "word": "white lines",
+            "score": 64663
+        },
+        {
+            "word": "white wing",
+            "score": 64661
+        },
+        {
+            "word": "white winged scoter",
+            "score": 64661
+        },
+        {
+            "word": "white mineral oil",
+            "score": 64660
+        }
+    ]
+}

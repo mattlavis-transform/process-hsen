@@ -1,0 +1,998 @@
+{
+    "term": "ro",
+    "means_like": [
+        {
+            "word": "choi",
+            "score": 21648,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "org",
+            "score": 17654,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mance",
+            "score": 6365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shei",
+            "score": 6365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acrophobia",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agua",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bonaparte",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bornholm",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coefficient",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deaf",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "denarius",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dessau",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fenestra",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mero",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necromancer",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necronomicon",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "radon",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retrograde",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rwanda",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thixotropy",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tory",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turkana",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ac",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ap",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "b",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bo",
+            "score": 5060,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "e",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "f",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "g",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ga",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "h",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "i",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "j",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "je",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ke",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ko",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "l",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lo",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "m",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mi",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mo",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ne",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ni",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "o",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pa",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pe",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pi",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ra",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ri",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ru",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "s",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sa",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "si",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "suffix",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "t",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "te",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "v",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "w",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wa",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "y",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "row",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ro",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "roe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rowe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rho",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "roh",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "roq",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wroe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "eru",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "reaux",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rohe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rheault",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rro",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "reau",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rvo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "rotr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "raw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ray",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ra",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "re",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "roy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "array",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ree",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "awry",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "roo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ru",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "righ",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rew",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rao",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "roux",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ruh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "roi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "arow",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rwo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rce",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rya",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "hree",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "aree",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rcy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "reay",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "urry",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "raa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "raye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "roue",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rugh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rawe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rej",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhia",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ry",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rte",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rioux",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "r.e",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rha",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "arae",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "wrao",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "riw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ruy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "urra",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "reye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "reu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "roye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "reeh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhew",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "re-",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "reue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "raah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "raie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lre",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rhu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rauh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rii",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "riy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ruw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wrah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rewe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rouw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "arieh",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rauw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lbr",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ryi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "r.i",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rheae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "rru",
+            "score": 95,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "ro",
+            "score": 490
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "room",
+            "score": 5824
+        },
+        {
+            "word": "round",
+            "score": 5180
+        },
+        {
+            "word": "roll",
+            "score": 4116
+        },
+        {
+            "word": "rock",
+            "score": 3915
+        },
+        {
+            "word": "rose",
+            "score": 3134
+        },
+        {
+            "word": "rogue",
+            "score": 3073
+        },
+        {
+            "word": "root",
+            "score": 3000
+        },
+        {
+            "word": "road",
+            "score": 2845
+        },
+        {
+            "word": "route",
+            "score": 2820
+        },
+        {
+            "word": "robust",
+            "score": 2641
+        }
+    ]
+}

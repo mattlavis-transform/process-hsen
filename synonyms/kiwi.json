@@ -1,0 +1,1555 @@
+{
+    "term": "kiwi",
+    "means_like": [
+        {
+            "word": "kiwi fruit",
+            "score": 84126,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "kiwi vine",
+            "score": 80836,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "actinidia chinensis",
+            "score": 68810,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "actinidia deliciosa",
+            "score": 68810,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apteryx",
+            "score": 68810,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "chinese gooseberry",
+            "score": 68810,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kiwifruit",
+            "score": 68809,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gerson",
+            "score": 51400,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aussie",
+            "score": 51399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "actinidia",
+            "score": 51396,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "silver fern",
+            "score": 51395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pakeha",
+            "score": 51394,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maori",
+            "score": 51393,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "greenback",
+            "score": 51392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loonie",
+            "score": 51390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kakapo",
+            "score": 51389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mauritian rupee",
+            "score": 51388,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dollar",
+            "score": 51387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "franc",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "takahe",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yen",
+            "score": 51384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weka",
+            "score": 51383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macadamias",
+            "score": 51382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antipodean",
+            "score": 51381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "australian dollar",
+            "score": 51380,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "swiss franc",
+            "score": 51379,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "new zealand dollar",
+            "score": 51378,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "feijoa",
+            "score": 51377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pips",
+            "score": 51376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "euro",
+            "score": 51375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rand",
+            "score": 51374,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "new zealander",
+            "score": 51373,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rupee",
+            "score": 51372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skinks",
+            "score": 51371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yielder",
+            "score": 51370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moa",
+            "score": 51369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manuka",
+            "score": 51368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icelandic krona",
+            "score": 51367,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wallabies",
+            "score": 51366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bilby",
+            "score": 51365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kea",
+            "score": 51364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "merinos",
+            "score": 51363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dotterel",
+            "score": 51362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whangarei",
+            "score": 51361,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "stoat",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pavlova",
+            "score": 51359,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "whitebait",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hogget",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bellbirds",
+            "score": 51356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "possums",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kowhai",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinus radiata",
+            "score": 51353,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tuatara",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hauraki gulf",
+            "score": 51351,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pohutukawa",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rosella",
+            "score": 51349,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kelpies",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redback",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kauri",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shekel",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banksia",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sterling",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "echidna",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lorikeets",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morepork",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "danish krone",
+            "score": 51339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "currency",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ugandan shilling",
+            "score": 51337,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "katipo",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petrel",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassowaries",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "koalas",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indian rupee",
+            "score": 51332,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tamarillo",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flightless bird",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brumby",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wollemi pine",
+            "score": 51328,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "roos",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "totara",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marsupials",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "krone",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chook",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "siskin",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forint",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gurnard",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billabong",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quoll",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peso",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tussock",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kia ora",
+            "score": 51315,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "edible fruit",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chatham islands",
+            "score": 51313,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hawaiian honeycreeper",
+            "score": 51312,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grevillea",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackcurrant",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cycad",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eucalypt",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taupo",
+            "score": 51307,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "downunder",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "klipspringer",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "kiwi",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kuy",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kawi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "keyway",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiwa",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cmi",
+            "score": 91,
+            "numSyllables": 3
+        },
+        {
+            "word": "kmi",
+            "score": 91,
+            "numSyllables": 3
+        },
+        {
+            "word": "keely",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "qui",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "keeley",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiwis",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kimi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ksi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kawa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kini",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiely",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "quy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kealy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keeney",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kishi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "chp",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keelie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cui",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cmt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keesee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keaney",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kwee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "keay",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cdl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keavy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cch",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiai",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "chv",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kisi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ckt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ctp",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "tkm",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caii",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ktt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "c.l",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kipi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohee",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "kahi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "kihei",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiha",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "kahe",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "c.e.o",
+            "score": 86,
+            "numSyllables": 3
+        },
+        {
+            "word": "kkj",
+            "score": 86,
+            "numSyllables": 3
+        },
+        {
+            "word": "carry",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cali",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "catchy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "carrie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "canny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "carey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cary",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cally",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cami",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cammy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "carrey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calli",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cany",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cammie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cari",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caly",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caley",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calley",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "camy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "carie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "camie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cacy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cani",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caney",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "capi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "carri",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "capy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "catey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "camey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cahsee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caci",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cachi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casae",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caeli",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "carree",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caia",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caapi",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "kiwi",
+            "score": 808
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "apteryx",
+            "score": 2076
+        },
+        {
+            "word": "pewee",
+            "score": 1808
+        },
+        {
+            "word": "tuatara",
+            "score": 1695
+        },
+        {
+            "word": "moa",
+            "score": 1669
+        },
+        {
+            "word": "flightless",
+            "score": 1628
+        },
+        {
+            "word": "phoebus",
+            "score": 1599
+        },
+        {
+            "word": "seamount",
+            "score": 1555
+        },
+        {
+            "word": "lotto",
+            "score": 1535
+        },
+        {
+            "word": "tui",
+            "score": 1521
+        },
+        {
+            "word": "pineapple",
+            "score": 1487
+        },
+        {
+            "word": "mango",
+            "score": 1481
+        },
+        {
+            "word": "maori",
+            "score": 1469
+        },
+        {
+            "word": "raspberry",
+            "score": 1460
+        },
+        {
+            "word": "strawberry",
+            "score": 1445
+        },
+        {
+            "word": "lemon",
+            "score": 1424
+        },
+        {
+            "word": "peach",
+            "score": 1418
+        },
+        {
+            "word": "samoan",
+            "score": 1417
+        },
+        {
+            "word": "shoe",
+            "score": 1405
+        },
+        {
+            "word": "ori",
+            "score": 1395
+        },
+        {
+            "word": "auckland",
+            "score": 1387
+        },
+        {
+            "word": "nocturnal",
+            "score": 1383
+        },
+        {
+            "word": "samoa",
+            "score": 1364
+        },
+        {
+            "word": "fruit",
+            "score": 1347
+        },
+        {
+            "word": "spotted",
+            "score": 1326
+        },
+        {
+            "word": "feathers",
+            "score": 1322
+        },
+        {
+            "word": "canterbury",
+            "score": 1319
+        },
+        {
+            "word": "wellington",
+            "score": 1315
+        },
+        {
+            "word": "bird",
+            "score": 1309
+        },
+        {
+            "word": "predators",
+            "score": 1302
+        },
+        {
+            "word": "packaging",
+            "score": 1299
+        },
+        {
+            "word": "falcon",
+            "score": 1291
+        },
+        {
+            "word": "shield",
+            "score": 1284
+        },
+        {
+            "word": "wrestling",
+            "score": 1278
+        },
+        {
+            "word": "mvp",
+            "score": 1272
+        },
+        {
+            "word": "egg",
+            "score": 1268
+        },
+        {
+            "word": "orange",
+            "score": 1263
+        },
+        {
+            "word": "berry",
+            "score": 1259
+        },
+        {
+            "word": "airline",
+            "score": 1257
+        },
+        {
+            "word": "norton",
+            "score": 1255
+        },
+        {
+            "word": "extinct",
+            "score": 1253
+        },
+        {
+            "word": "fruits",
+            "score": 1248
+        },
+        {
+            "word": "pro",
+            "score": 1246
+        },
+        {
+            "word": "rugby",
+            "score": 1233
+        },
+        {
+            "word": "dollar",
+            "score": 1230
+        },
+        {
+            "word": "boeing",
+            "score": 1227
+        },
+        {
+            "word": "racing",
+            "score": 1222
+        },
+        {
+            "word": "brands",
+            "score": 1219
+        },
+        {
+            "word": "polish",
+            "score": 1209
+        },
+        {
+            "word": "birds",
+            "score": 1207
+        },
+        {
+            "word": "endemic",
+            "score": 1205
+        },
+        {
+            "word": "submarine",
+            "score": 1203
+        },
+        {
+            "word": "mph",
+            "score": 1196
+        },
+        {
+            "word": "apple",
+            "score": 1194
+        },
+        {
+            "word": "mainland",
+            "score": 1192
+        },
+        {
+            "word": "eggs",
+            "score": 1190
+        },
+        {
+            "word": "cat",
+            "score": 1184
+        },
+        {
+            "word": "magic",
+            "score": 1173
+        },
+        {
+            "word": "graham",
+            "score": 1171
+        },
+        {
+            "word": "warriors",
+            "score": 1168
+        },
+        {
+            "word": "symbol",
+            "score": 1161
+        },
+        {
+            "word": "melbourne",
+            "score": 1155
+        },
+        {
+            "word": "gary",
+            "score": 1143
+        },
+        {
+            "word": "test",
+            "score": 1140
+        },
+        {
+            "word": "conservation",
+            "score": 1138
+        },
+        {
+            "word": "cup",
+            "score": 1137
+        },
+        {
+            "word": "boat",
+            "score": 1135
+        },
+        {
+            "word": "kids",
+            "score": 1134
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "kiwi",
+            "score": 808
+        },
+        {
+            "word": "kiwi vine",
+            "score": 135
+        },
+        {
+            "word": "kiwi fruit",
+            "score": 130
+        },
+        {
+            "word": "kiwis",
+            "score": 67
+        },
+        {
+            "word": "kiwifruit",
+            "score": 57
+        },
+        {
+            "word": "kiwikiwi",
+            "score": 52
+        },
+        {
+            "word": "kiwi bird",
+            "score": 22
+        },
+        {
+            "word": "kiwi sized",
+            "score": 14
+        },
+        {
+            "word": "kiwi-sized",
+            "score": 7
+        },
+        {
+            "word": "kiwikiwies",
+            "score": 4
+        }
+    ]
+}

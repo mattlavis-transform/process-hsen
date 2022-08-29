@@ -1,0 +1,1287 @@
+{
+    "term": "dog bed",
+    "means_like": [
+        {
+            "word": "beanbag",
+            "score": 28042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "benching",
+            "score": 11642,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dof",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dogs",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 11642,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "litter",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "littering",
+            "score": 11642,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lock",
+            "score": 11642,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "locking",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locks",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 11642,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ruf",
+            "score": 11642,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rug",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sea",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11642,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sit",
+            "score": 11642,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stay",
+            "score": 11642,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stays",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagged",
+            "score": 11545,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "pad",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pit",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sick",
+            "score": 11545,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 11545,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slipped",
+            "score": 11545,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "slipping",
+            "score": 11545,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slips",
+            "score": 11545,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tar",
+            "score": 11545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tick",
+            "score": 11545,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 11545,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "turned",
+            "score": 11545,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brat",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "come",
+            "score": 11521,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "creeper",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "det",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flop",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flops",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fold",
+            "score": 11521,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 11521,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "here",
+            "score": 11521,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "lie",
+            "score": 11521,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "mine",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinch",
+            "score": 11521,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pinched",
+            "score": 11521,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "placed",
+            "score": 11521,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "placing",
+            "score": 11521,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "psd",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rake",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raked",
+            "score": 11521,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rin",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sets",
+            "score": 11521,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "smap",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snap",
+            "score": 11521,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stand",
+            "score": 11521,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "strain",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "way",
+            "score": 11521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "day",
+            "score": 11454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirt",
+            "score": 11454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "edge",
+            "score": 11454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hose",
+            "score": 11454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "made",
+            "score": 11454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "spent",
+            "score": 11454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wet",
+            "score": 11454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "afghan",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "angus",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "asa",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bench",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bite",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bloods",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bones",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cat",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "champion",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 10594,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doctor",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doggy",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ear",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electra",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eohippus",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "family",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feed",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "flemish",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "flush",
+            "score": 10594,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "fur",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "give",
+            "score": 10594,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hackle",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hell",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hep",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "him",
+            "score": 10594
+        },
+        {
+            "word": "hot",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "kennel",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "dog bite",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "duckboard",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "day bed",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog bent",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dbad",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog it",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dickhead",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogged",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "dogwood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "digby",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daubed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dog pound",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "do good",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog-eared",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogberry",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "do-good",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggett",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogget",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "dbat",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "tugboat",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "tug boat",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "debit",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "daggett",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "debet",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogsbody",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "dagat",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "dig it",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "dibit",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "dobbed",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "dog eared",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "duck-billed",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "duck billed",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "dhanbad",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "debate",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "decade",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "decayed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "decode",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dugout",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "deathbed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dubbed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "digged",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "dabbed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "debat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog food",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "daybed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "dagwood",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "decad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dog bone",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "decoyed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "duquette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "doggy do",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "debout",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "death bed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dibbed",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "dug-out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "duck pate",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogbane",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hagbut",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "death-bed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dig out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "drop head",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dagged",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "debatte",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "tabid",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dabat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pig bed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dug out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "docket",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "doba",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "daba",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "daga",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "dba",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "dhaba",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "dogeared",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "dagoba",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "tibet",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "too bad",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "sickbed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "tebet",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "tabooed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "togged",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "truck bed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "sick bed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "dago",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "dagga",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "dabbled",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "dabi",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "dabo",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "big bud",
+            "score": 72,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "dog bee",
+            "score": 64681
+        },
+        {
+            "word": "dogged",
+            "score": 972
+        },
+        {
+            "word": "dogsled",
+            "score": 126
+        },
+        {
+            "word": "day bed",
+            "score": 50
+        },
+        {
+            "word": "dog sled",
+            "score": 37
+        },
+        {
+            "word": "dog box",
+            "score": 27
+        },
+        {
+            "word": "pig bed",
+            "score": 27
+        },
+        {
+            "word": "dog bent",
+            "score": 17
+        },
+        {
+            "word": "dobbed",
+            "score": 16
+        },
+        {
+            "word": "hot bed",
+            "score": 16
+        },
+        {
+            "word": "dog leg",
+            "score": 12
+        },
+        {
+            "word": "box bed",
+            "score": 9
+        },
+        {
+            "word": "dog end",
+            "score": 9
+        },
+        {
+            "word": "dog head",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "dog bee",
+            "score": 64681
+        },
+        {
+            "word": "dog bent",
+            "score": 64676
+        },
+        {
+            "word": "dogged",
+            "score": 972
+        },
+        {
+            "word": "dogsbody",
+            "score": 365
+        },
+        {
+            "word": "doggedness",
+            "score": 319
+        },
+        {
+            "word": "doggedly",
+            "score": 296
+        },
+        {
+            "word": "dogberry",
+            "score": 229
+        },
+        {
+            "word": "dog bite",
+            "score": 198
+        },
+        {
+            "word": "dog days",
+            "score": 179
+        },
+        {
+            "word": "dog biscuit",
+            "score": 155
+        }
+    ]
+}

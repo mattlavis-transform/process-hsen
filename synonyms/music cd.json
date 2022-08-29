@@ -1,0 +1,812 @@
+{
+    "term": "music cd",
+    "means_like": [
+        {
+            "word": "burner",
+            "score": 29719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disc",
+            "score": 29719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multimedia",
+            "score": 29719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stereo",
+            "score": 29719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "album",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audiophile",
+            "score": 13319,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "channel",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console",
+            "score": 13319,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "demo",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disk",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minidisc",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "player",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smap",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "track",
+            "score": 13319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aria",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "give",
+            "score": 13077,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hifi",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jukebox",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latin",
+            "score": 13077,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 13077,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "pause",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rap",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "release",
+            "score": 13077,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "skip",
+            "score": 13077,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "song",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape",
+            "score": 13077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "encarta",
+            "score": 13017,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gospel",
+            "score": 13017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dvd",
+            "score": 12514,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cd-rom",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cds",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caddy",
+            "score": 12198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "changer",
+            "score": 12198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "channelling",
+            "score": 12198,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "channels",
+            "score": 12198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eject",
+            "score": 12198,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lps",
+            "score": 12198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playlist",
+            "score": 12198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rip",
+            "score": 12198,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "ripped",
+            "score": 12198,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ripping",
+            "score": 12198,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rom",
+            "score": 12198,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aura",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bank",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banks",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bezel",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cellophane",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collected",
+            "score": 11957,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "conference",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dat",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "data",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 11957,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dual",
+            "score": 11957,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "erase",
+            "score": 11957,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fan",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ira",
+            "score": 11957,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "knoppix",
+            "score": 11957,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "laser",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "listen",
+            "score": 11957,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "nero",
+            "score": 11957,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "only",
+            "score": 11957,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "producer",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rate",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rome",
+            "score": 11957,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "stole",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "term",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unit",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "used",
+            "score": 11957,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "victrola",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xxx",
+            "score": 11957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spill",
+            "score": 11883,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "spilling",
+            "score": 11883,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stub",
+            "score": 11883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stubbing",
+            "score": 11883,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "wick",
+            "score": 11883,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audio cd",
+            "score": 10741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audio compact disc",
+            "score": 10741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 10741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compact disk",
+            "score": 10741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "single",
+            "score": 10741,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "candle",
+            "score": 10621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cd-r",
+            "score": 10621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cd-wo",
+            "score": 10621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commercial",
+            "score": 10621,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "compact disc read-only memory",
+            "score": 10621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compact disc recordable",
+            "score": 10621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compact disc write-once",
+            "score": 10621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cadmium",
+            "score": 6212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candela",
+            "score": 6212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alde",
+            "score": 5897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beatrix",
+            "score": 5897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cami",
+            "score": 5897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cd-rom drive",
+            "score": 5897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cd-roms",
+            "score": 5897
+        },
+        {
+            "word": "cda",
+            "score": 5897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cert",
+            "score": 5897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cica",
+            "score": 5897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "congress",
+            "score": 5897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "css",
+            "score": 5897,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "musically",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "musicality",
+            "score": 70,
+            "numSyllables": 5
+        },
+        {
+            "word": "music video",
+            "score": 70,
+            "numSyllables": 5
+        },
+        {
+            "word": "musicien",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "music stool",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "mucic acid",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "music theory",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "music store",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "music drama",
+            "score": 64727
+        },
+        {
+            "word": "music director",
+            "score": 64674
+        },
+        {
+            "word": "music critic",
+            "score": 64672
+        },
+        {
+            "word": "music centre",
+            "score": 64671
+        },
+        {
+            "word": "music department",
+            "score": 64670
+        },
+        {
+            "word": "music center",
+            "score": 64665
+        },
+        {
+            "word": "music centres",
+            "score": 64661
+        },
+        {
+            "word": "music dramas",
+            "score": 64660
+        },
+        {
+            "word": "music therapy",
+            "score": 138
+        },
+        {
+            "word": "music box",
+            "score": 115
+        }
+    ]
+}

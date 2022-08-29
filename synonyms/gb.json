@@ -1,0 +1,994 @@
+{
+    "term": "gb",
+    "means_like": [
+        {
+            "word": "gilbert",
+            "score": 35008,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gigabyte",
+            "score": 34395,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "gi",
+            "score": 26679,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "g",
+            "score": 20717,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bm",
+            "score": 17810,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ob",
+            "score": 16211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alb",
+            "score": 12681,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stat",
+            "score": 12667,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lbl",
+            "score": 6425,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lbm",
+            "score": 6425,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beta",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "calamintha nepeta",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calamintha nepeta glantulosa",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carotene",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dvd",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field balm",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lesser calamint",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satureja calamintha glandulosa",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "satureja nepeta",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "terabyte",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "territorial army",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aa",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "b",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bl",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cc",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cv",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "db",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ev",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fr",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ft",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hp",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hr",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ib",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ii",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iv",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ix",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kb",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "khz",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "km",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kv",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mb",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mc",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "megabyte",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mev",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mhz",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ml",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mt",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mv",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mw",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pf",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sf",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sm",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sp",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tr",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vi",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vii",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "viii",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "xi",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gabe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gab",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "goob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gib",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gub",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gerb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "grb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gabb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bga",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rgb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "geib",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gebe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bgg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gubb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gbi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "agb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gbur",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "guib",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "abe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bff",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ib",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oob",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ibe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eeb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ube",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ubs",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ebe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "owb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "aub",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oub",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "aib",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "aube",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "aabb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "aab",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eab",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ubc",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ibg",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ivr",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obx",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ibb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oab",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ibt",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oib",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ubb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eib",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "uub",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ieb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hbg",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "a.b",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ayb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oyb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oeb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obg",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eub",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ibc",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obz",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "oobe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ubh",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "uhb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "e.b",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "o.b",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obw",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "i.b",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ibp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obc",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obh",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eyb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hbt",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "obp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ohb",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "umz",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gay",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ga",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gape",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gah",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gga",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gae",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaye",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gawp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaw",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gai",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaa",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gau",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaup",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geep",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gapp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gei",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaj",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cga",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaie",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geah",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gfi",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cgu",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gfa",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gb",
+            "score": 389
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "gb",
+            "score": 389
+        },
+        {
+            "word": "gbs",
+            "score": 165
+        },
+        {
+            "word": "gba",
+            "score": 85
+        },
+        {
+            "word": "gbh",
+            "score": 84
+        },
+        {
+            "word": "gbc",
+            "score": 75
+        },
+        {
+            "word": "gbm",
+            "score": 57
+        },
+        {
+            "word": "gbo",
+            "score": 55
+        },
+        {
+            "word": "gbe",
+            "score": 50
+        },
+        {
+            "word": "gbp",
+            "score": 45
+        },
+        {
+            "word": "gbk",
+            "score": 39
+        }
+    ]
+}

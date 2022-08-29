@@ -1,0 +1,1568 @@
+{
+    "term": "italy",
+    "means_like": [
+        {
+            "word": "italia",
+            "score": 93311,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "spain",
+            "score": 73562,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italians",
+            "score": 72576,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italian",
+            "score": 72386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portugal",
+            "score": 71834,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "france",
+            "score": 71759,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "greece",
+            "score": 70613,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "germany",
+            "score": 70328,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rome",
+            "score": 69929,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "denmark",
+            "score": 69911,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "belgium",
+            "score": 68939,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "austria",
+            "score": 68775,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "florence",
+            "score": 68305,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ireland",
+            "score": 68150,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "finland",
+            "score": 67259,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iceland",
+            "score": 66905,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "japan",
+            "score": 66563,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "netherlands",
+            "score": 66467,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italiana",
+            "score": 66339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italiano",
+            "score": 64837,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italien",
+            "score": 62402,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tuscany",
+            "score": 62328,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "luigi",
+            "score": 59501,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "country",
+            "score": 58008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machiavelli",
+            "score": 57991,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rai",
+            "score": 57695,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vogue",
+            "score": 54167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dini",
+            "score": 51154,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "espa\u00f1a",
+            "score": 51154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "italie",
+            "score": 51154,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "milan",
+            "score": 51152,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "europe",
+            "score": 51149,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lazio",
+            "score": 51147,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "milano",
+            "score": 51144,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "switzerland",
+            "score": 51142,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italian republic",
+            "score": 51140,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "barcelona",
+            "score": 51139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweden",
+            "score": 51138,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "england",
+            "score": 51136,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "madrid",
+            "score": 51135,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "raul",
+            "score": 51134,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "malta",
+            "score": 51133,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "diego",
+            "score": 51132,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ronaldo",
+            "score": 51131,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bayern",
+            "score": 51130,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "croatia",
+            "score": 51129,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "holland",
+            "score": 51128,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "south tyrol",
+            "score": 51127,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chelsea",
+            "score": 51126,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "liverpool",
+            "score": 51125,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "barca",
+            "score": 51124,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "italian region",
+            "score": 51123,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mancini",
+            "score": 51122,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rossi",
+            "score": 51121,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "torres",
+            "score": 51120,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ausonian",
+            "score": 51119,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bolton",
+            "score": 51118,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "serbia",
+            "score": 51117,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "capello",
+            "score": 51116,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gerrard",
+            "score": 51115,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kosovo",
+            "score": 51114,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "carlo",
+            "score": 51113,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "macedonia",
+            "score": 51112,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lyon",
+            "score": 51111,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "roma",
+            "score": 51110,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "messapian",
+            "score": 51109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argentina",
+            "score": 51108,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rooney",
+            "score": 51107,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "roberto",
+            "score": 51106,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "portsmouth",
+            "score": 51105,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "toni",
+            "score": 51104,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pepe",
+            "score": 51103,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ronnie",
+            "score": 51102,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "zidane",
+            "score": 51101,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "serie",
+            "score": 51100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rosario",
+            "score": 51098,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "european",
+            "score": 51097,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "porto",
+            "score": 51096,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "indonesia",
+            "score": 51095,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tottenham",
+            "score": 51094,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "newcastle",
+            "score": 51093,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fulham",
+            "score": 51092,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "seria",
+            "score": 51091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "usa",
+            "score": 51090,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "suarez",
+            "score": 51089,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "santa cruz",
+            "score": 51088,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "valencia",
+            "score": 51087,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beckham",
+            "score": 51086,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wigan",
+            "score": 51085,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "athens",
+            "score": 51084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hughes",
+            "score": 51083,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "perth",
+            "score": 51082,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alex",
+            "score": 51081,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "burnley",
+            "score": 51080,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ethiopia",
+            "score": 51079,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lebanon",
+            "score": 51078,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jose",
+            "score": 51077,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sicanian",
+            "score": 51076,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "french",
+            "score": 51075,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "egypt",
+            "score": 51074,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "italy",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "italie",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "ottilie",
+            "score": 93,
+            "numSyllables": 3
+        },
+        {
+            "word": "wittily",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "itol",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ittl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nittily",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "witily",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "italo",
+            "score": 88,
+            "numSyllables": 3
+        },
+        {
+            "word": "adelie",
+            "score": 88,
+            "numSyllables": 3
+        },
+        {
+            "word": "attila",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "atilla",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "vitelli",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "utterly",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "subtly",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "eerily",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "utley",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vitale",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "stilly",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "metally",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "etal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "giddily",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "ettle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "styli",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tidily",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "stelly",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "idli",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "etouffee",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "otello",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "idola",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "stelae",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stilley",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "siddeley",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "ettl",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pettily",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "etl",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "utl",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "itla",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "attalla",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "etel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nuttily",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "easily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "natalie",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "totally",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "ideally",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "ital",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "mightily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "steely",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "nathalie",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "fatally",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "atl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "attle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "vitally",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "staley",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "stoli",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "stoolie",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "nattily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "natalee",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "atle",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "naughtily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "atal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "otley",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "atul",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "itl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "attlee",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "oatley",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "ottley",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "itil",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "attal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "eitel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "outlie",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "otl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cattily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "chattily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "atala",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "stolley",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "outler",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "doughtily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "steelie",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "odale",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "outerly",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "artily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "atli",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "eatl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "coitally",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "tattily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "athalie",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "itala",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "meatily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "rattily",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "stahley",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitella",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "adela",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "adella",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "atel",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vitello",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "atilt",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "mitella",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "chihuly",
+            "score": 81,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "italy",
+            "score": 65179
+        },
+        {
+            "word": "ital",
+            "score": 243
+        },
+        {
+            "word": "italo",
+            "score": 86
+        },
+        {
+            "word": "itala",
+            "score": 65
+        },
+        {
+            "word": "vitaly",
+            "score": 33
+        },
+        {
+            "word": "iwaly",
+            "score": 6
+        },
+        {
+            "word": "itay",
+            "score": 4
+        },
+        {
+            "word": "itald",
+            "score": 1
+        },
+        {
+            "word": "italk",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "mussolini",
+            "score": 1424
+        },
+        {
+            "word": "sardinia",
+            "score": 1389
+        },
+        {
+            "word": "sicily",
+            "score": 1374
+        },
+        {
+            "word": "naples",
+            "score": 1353
+        },
+        {
+            "word": "turin",
+            "score": 1349
+        },
+        {
+            "word": "italian",
+            "score": 1346
+        },
+        {
+            "word": "bologna",
+            "score": 1338
+        },
+        {
+            "word": "fascist",
+            "score": 1337
+        },
+        {
+            "word": "genoa",
+            "score": 1331
+        },
+        {
+            "word": "milan",
+            "score": 1328
+        },
+        {
+            "word": "slovenia",
+            "score": 1323
+        },
+        {
+            "word": "switzerland",
+            "score": 1322
+        },
+        {
+            "word": "slovakia",
+            "score": 1317
+        },
+        {
+            "word": "spain",
+            "score": 1304
+        },
+        {
+            "word": "portugal",
+            "score": 1296
+        },
+        {
+            "word": "rome",
+            "score": 1294
+        },
+        {
+            "word": "greece",
+            "score": 1292
+        },
+        {
+            "word": "venice",
+            "score": 1290
+        },
+        {
+            "word": "luxembourg",
+            "score": 1286
+        },
+        {
+            "word": "austria",
+            "score": 1285
+        },
+        {
+            "word": "romania",
+            "score": 1283
+        },
+        {
+            "word": "albania",
+            "score": 1280
+        },
+        {
+            "word": "florence",
+            "score": 1279
+        },
+        {
+            "word": "serie",
+            "score": 1276
+        },
+        {
+            "word": "yugoslavia",
+            "score": 1273
+        },
+        {
+            "word": "netherlands",
+            "score": 1271
+        },
+        {
+            "word": "malta",
+            "score": 1259
+        },
+        {
+            "word": "croatia",
+            "score": 1257
+        },
+        {
+            "word": "hungary",
+            "score": 1249
+        },
+        {
+            "word": "belgium",
+            "score": 1244
+        },
+        {
+            "word": "bulgaria",
+            "score": 1238
+        },
+        {
+            "word": "sweden",
+            "score": 1233
+        },
+        {
+            "word": "turkey",
+            "score": 1230
+        },
+        {
+            "word": "france",
+            "score": 1219
+        },
+        {
+            "word": "germany",
+            "score": 1214
+        },
+        {
+            "word": "norway",
+            "score": 1211
+        },
+        {
+            "word": "serbia",
+            "score": 1207
+        },
+        {
+            "word": "russia",
+            "score": 1192
+        },
+        {
+            "word": "poland",
+            "score": 1191
+        },
+        {
+            "word": "mediterranean",
+            "score": 1186
+        },
+        {
+            "word": "denmark",
+            "score": 1181
+        },
+        {
+            "word": "argentina",
+            "score": 1177
+        },
+        {
+            "word": "czech",
+            "score": 1173
+        },
+        {
+            "word": "ukraine",
+            "score": 1170
+        },
+        {
+            "word": "fifa",
+            "score": 1166
+        },
+        {
+            "word": "finland",
+            "score": 1165
+        },
+        {
+            "word": "brazil",
+            "score": 1158
+        },
+        {
+            "word": "pope",
+            "score": 1154
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "italy",
+            "score": 65179
+        },
+        {
+            "word": "italys",
+            "score": 64661
+        },
+        {
+            "word": "italian",
+            "score": 698
+        },
+        {
+            "word": "italic",
+            "score": 442
+        },
+        {
+            "word": "italics",
+            "score": 310
+        },
+        {
+            "word": "italia",
+            "score": 276
+        },
+        {
+            "word": "ital",
+            "score": 243
+        },
+        {
+            "word": "italicized",
+            "score": 164
+        },
+        {
+            "word": "italiano",
+            "score": 149
+        },
+        {
+            "word": "italicize",
+            "score": 145
+        }
+    ]
+}

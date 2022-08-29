@@ -1,0 +1,810 @@
+{
+    "term": "fancy dress",
+    "means_like": [
+        {
+            "word": "masquerade",
+            "score": 99163,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "masquerade costume",
+            "score": 86154,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 73143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halloween",
+            "score": 73142,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 73141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carnival",
+            "score": 73140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "funfair",
+            "score": 73139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 73138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mardi gras",
+            "score": 73137,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "finery",
+            "score": 73136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonfire night",
+            "score": 73135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morris dance",
+            "score": 73134,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 73133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirndl",
+            "score": 73132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 73131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "festive",
+            "score": 73130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luau",
+            "score": 73129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tombola",
+            "score": 73128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gladrags",
+            "score": 73127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantomime",
+            "score": 73126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morris dancing",
+            "score": 73125,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "santas",
+            "score": 73124,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panto",
+            "score": 73123,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellies",
+            "score": 73122,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pajama",
+            "score": 73121,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pyjama",
+            "score": 73120,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "welly",
+            "score": 73119,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pudsey",
+            "score": 73118,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wellingtons",
+            "score": 73117,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skittles",
+            "score": 73116,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frocks",
+            "score": 73115,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gunge",
+            "score": 73114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddy",
+            "score": 73113,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 73112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trampolining",
+            "score": 73111,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceilidh",
+            "score": 73110,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waltzers",
+            "score": 73109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bognor regis",
+            "score": 73108,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "titfer",
+            "score": 73107,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarecrow",
+            "score": 73106,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellington boots",
+            "score": 73105,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fete",
+            "score": 73104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abseiling",
+            "score": 73103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pub crawl",
+            "score": 73102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plimsolls",
+            "score": 73101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "majorettes",
+            "score": 73100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conkers",
+            "score": 73099,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wheely",
+            "score": 73098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "starkers",
+            "score": 73097,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiaras",
+            "score": 73096,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trilby",
+            "score": 73095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beano",
+            "score": 73094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stag",
+            "score": 73093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailcoats",
+            "score": 73092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unbirthday",
+            "score": 73091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel coat",
+            "score": 73090,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knicker",
+            "score": 73089,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treasure hunt",
+            "score": 73088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 73087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kilt",
+            "score": 73086,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formals",
+            "score": 73085,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charabanc",
+            "score": 73084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dewsbury",
+            "score": 73083,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gurning",
+            "score": 73082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guy fawkes",
+            "score": 73081,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinafores",
+            "score": 73080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disco",
+            "score": 73079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressing gown",
+            "score": 73078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hogmanay",
+            "score": 73077,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tabard",
+            "score": 73076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cossie",
+            "score": 73075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shrovetide",
+            "score": 73074,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bovver boots",
+            "score": 73073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "regalia",
+            "score": 73072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boilersuit",
+            "score": 73071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "togged",
+            "score": 73070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "larked",
+            "score": 73069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scanties",
+            "score": 73068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whitsuntide",
+            "score": 73067,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chapeaus",
+            "score": 73066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basques",
+            "score": 73065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ilkley",
+            "score": 73064,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scruffiest",
+            "score": 73063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kissogram",
+            "score": 73062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eisteddfod",
+            "score": 73061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollies",
+            "score": 73060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toga",
+            "score": 73059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tutus",
+            "score": 73058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfits",
+            "score": 73057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jodhpurs",
+            "score": 73056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rnli",
+            "score": 73055,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shrove tuesday",
+            "score": 73054,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skivvy",
+            "score": 73053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colourful",
+            "score": 73052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lady godiva",
+            "score": 73051,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lycra",
+            "score": 73050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laddies",
+            "score": 73049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pageboys",
+            "score": 73048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pony trekking",
+            "score": 73047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raffle",
+            "score": 73046,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "fancy dress",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "fanciness",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "foundress",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "fancied",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "fancier",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "mini dress",
+            "score": 65,
+            "numSyllables": 3
+        },
+        {
+            "word": "cancerous",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "janitress",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "evening dress",
+            "score": 58,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "fancy dress",
+            "score": 129385
+        },
+        {
+            "word": "fancy-dress",
+            "score": 64660
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "fancy dress",
+            "score": 129385
+        },
+        {
+            "word": "fancy dress ball",
+            "score": 129329
+        },
+        {
+            "word": "fancy dress party",
+            "score": 129327
+        },
+        {
+            "word": "fancy-dress ball",
+            "score": 64682
+        },
+        {
+            "word": "fancy-dress",
+            "score": 64660
+        },
+        {
+            "word": "ranch dressing",
+            "score": 48
+        }
+    ]
+}

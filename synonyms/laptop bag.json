@@ -1,0 +1,762 @@
+{
+    "term": "laptop bag",
+    "means_like": [
+        {
+            "word": "skin",
+            "score": 12861,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 12600,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "battery",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cell",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "data",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dock",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icon",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptops",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menu",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mobile",
+            "score": 11882,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "mobiles",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notebooks",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portable",
+            "score": 11882,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "touchpad",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "user",
+            "score": 11882,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "byte",
+            "score": 11840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computer",
+            "score": 11840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computers",
+            "score": 11840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "convertible",
+            "score": 11840,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "enter",
+            "score": 11840,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "notebook",
+            "score": 11840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "type",
+            "score": 11840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "webcam",
+            "score": 11840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compound",
+            "score": 11579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napkin",
+            "score": 11579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baggage",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedroll",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "budget",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "budgeting",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caddy",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capture",
+            "score": 11381,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "carpetbag",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cust",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyst",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "driver",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dummy",
+            "score": 11381,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "grip",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gripping",
+            "score": 11381,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "holdall",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legs",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pocket",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pocketbook",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portfolio",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skinned",
+            "score": 11381,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "skinning",
+            "score": 11381,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "suitcase",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tent",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "traveling bag",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turtle",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utricle",
+            "score": 11381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acanthosis",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accident",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accommodation ladder",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "address",
+            "score": 11360,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "addressing",
+            "score": 11360,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "air cell",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airspace",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alveolus",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphiaster",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amylene",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analogue",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anasarca",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antenna",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antheridium",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antivirus",
+            "score": 11360,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "archegonium",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arduino",
+            "score": 11360,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "armoire",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ascus",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batting cage",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaver",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bezel",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biforine",
+            "score": 11360
+        },
+        {
+            "word": "bit",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black hole",
+            "score": 11360,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blackhole",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bluetooth",
+            "score": 11360,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bolt",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bomb",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bombe",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bombing",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 11360,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boul",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brazier",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breast drill",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breechblock",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase computer",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bunsen cell",
+            "score": 11360
+        },
+        {
+            "word": "bursa",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cage",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calash",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caliper",
+            "score": 11360,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "laptop",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "laptops",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "lap top",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "lapdog",
+            "score": 62,
+            "numSyllables": 2
+        },
+        {
+            "word": "lap dog",
+            "score": 62,
+            "numSyllables": 2
+        },
+        {
+            "word": "litterbug",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "litter bug",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "loopback",
+            "score": 60,
+            "numSyllables": 2
+        },
+        {
+            "word": "sleeping bag",
+            "score": 55,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

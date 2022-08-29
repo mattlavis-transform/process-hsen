@@ -1,0 +1,791 @@
+{
+    "term": "protective clothing",
+    "means_like": [
+        {
+            "word": "apron",
+            "score": 48467,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "armor",
+            "score": 48067,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "smock",
+            "score": 48067,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "clothes",
+            "score": 47988,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "coverall",
+            "score": 28867,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overall",
+            "score": 28467,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "armour",
+            "score": 28067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binding",
+            "score": 28067,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "balaclava",
+            "score": 28052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earplug",
+            "score": 28052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue-collar",
+            "score": 27988,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "boilersuit",
+            "score": 27988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coveralls",
+            "score": 27988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "white-collar",
+            "score": 27988,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "boilers suit",
+            "score": 27973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "back",
+            "score": 11667,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mail",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mothball",
+            "score": 11667,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "overcoat",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pad",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinafore",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shield",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shields",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shroud",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleeve",
+            "score": 11667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 11667,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "suited",
+            "score": 11667,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bak",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bare",
+            "score": 11607,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bosom",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clad",
+            "score": 11607,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cladding",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cot",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressed",
+            "score": 11607,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "glove",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headgear",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nack",
+            "score": 11607,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skin",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washboard",
+            "score": 11607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrap",
+            "score": 11607,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "convoy",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camouflage",
+            "score": 11588,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "camouflaged",
+            "score": 11588,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "canvas",
+            "score": 11588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gown",
+            "score": 11588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilskin",
+            "score": 11588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantyhose",
+            "score": 11527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilt",
+            "score": 11527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilted",
+            "score": 11527,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "quilts",
+            "score": 11527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shuck",
+            "score": 11527,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "skinned",
+            "score": 11527,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "skinning",
+            "score": 11527,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "slipover",
+            "score": 11527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tyre",
+            "score": 11527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anodize",
+            "score": 10637,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "anodized",
+            "score": 10637,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "aril",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armature",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awning",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biot",
+            "score": 10637,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 10637,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "canopy",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coat of mail",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cover",
+            "score": 10637,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "covers",
+            "score": 10637,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "doily",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "escutcheon",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "facing",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galvanize",
+            "score": 10637,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gasmask",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goalkeeper",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goaltender",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guard",
+            "score": 10637,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "guardian",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmet",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liner",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loricate",
+            "score": 10637,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "mailed",
+            "score": 10637,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mitt",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mothering",
+            "score": 10637,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "muzzle",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overprotective",
+            "score": 10637,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "panoply",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "passivate",
+            "score": 10637,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plastron",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressure suit",
+            "score": 10637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "protect",
+            "score": 10637,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "protective covering",
+            "score": 70,
+            "numSyllables": 6
+        },
+        {
+            "word": "productively",
+            "score": 49,
+            "numSyllables": 4
+        },
+        {
+            "word": "predictively",
+            "score": 42,
+            "numSyllables": 4
+        },
+        {
+            "word": "bed clothing",
+            "score": 28,
+            "numSyllables": 3
+        },
+        {
+            "word": "unproductively",
+            "score": 27,
+            "numSyllables": 5
+        },
+        {
+            "word": "seductively",
+            "score": 22,
+            "numSyllables": 4
+        },
+        {
+            "word": "unprotective",
+            "score": 20,
+            "numSyllables": 4
+        },
+        {
+            "word": "static cling",
+            "score": 18,
+            "numSyllables": 3
+        },
+        {
+            "word": "stocktaking",
+            "score": 13,
+            "numSyllables": 3
+        },
+        {
+            "word": "streptococci",
+            "score": 9,
+            "numSyllables": 5
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "protective clothing",
+            "score": 129327
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "protective clothing",
+            "score": 129327
+        }
+    ]
+}

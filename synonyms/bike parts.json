@@ -1,0 +1,921 @@
+{
+    "term": "bike parts",
+    "means_like": [
+        {
+            "word": "cycle",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gears",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machine",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "machinery",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motion",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rack",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 16029,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "saddle",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tandem",
+            "score": 16029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ten",
+            "score": 15988,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "moped",
+            "score": 15978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scooter",
+            "score": 15978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sidecar",
+            "score": 15978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "two",
+            "score": 15280,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "thorn",
+            "score": 15270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axle",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brake",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chain",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "draft",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fender",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hog",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "odometer",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedal",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoke",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tire",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trek",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vehicle",
+            "score": 15008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bell",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coast",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lane",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "path",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quad",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quads",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tube",
+            "score": 14968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basket",
+            "score": 14260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aberration",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accusative",
+            "score": 13613,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "act",
+            "score": 13613,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "acy",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "align",
+            "score": 13613,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "allowance",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anatomy",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arm",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arms",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "articulation",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemblage",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemble",
+            "score": 13613,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "assembler",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assembling",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axis",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axles",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backlash",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balance",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balancing",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrel",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bearing",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binding",
+            "score": 13613,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "biogeochemical",
+            "score": 13613,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boy",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breeching",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridle",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridled",
+            "score": 13613,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "broach",
+            "score": 13613,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "broached",
+            "score": 13613,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brush",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bucket",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumper",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bush",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candle",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannibalize",
+            "score": 13613,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cannon",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cape",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carriage",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrot",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 13613,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "caster",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "center",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chase",
+            "score": 13613,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chatter",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 13613,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 13613,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cheek",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chuck",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circle",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clearance",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clip",
+            "score": 13613,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bogarts",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "boycotts",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "body parts",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "block party",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "beach party",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "beaux arts",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "black arts",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "backbeats",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pie charts",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "back board",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "buckboard",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bayport",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "back porch",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "backbord",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "back court",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bacardi",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "buckets",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bogart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "passports",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "backyards",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barts",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "boggart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "by heart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "back brace",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "burkhart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "purports",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bartz",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "burkhardt",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "burkart",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "back yards",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bit part",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bipartite",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "big pot",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "backbar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "back pass",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bass part",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bit parts",
+            "score": 5
+        },
+        {
+            "word": "bike path",
+            "score": 4
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bit parts",
+            "score": 5
+        },
+        {
+            "word": "bike path",
+            "score": 4
+        }
+    ]
+}

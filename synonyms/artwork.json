@@ -1,0 +1,1529 @@
+{
+    "term": "artwork",
+    "means_like": [
+        {
+            "word": "art",
+            "score": 91366,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "graphics",
+            "score": 82327,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "nontextual matter",
+            "score": 71358,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "drawings",
+            "score": 71357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "painting",
+            "score": 70869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "designs",
+            "score": 64922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masterpiece",
+            "score": 64539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphic",
+            "score": 63952,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "sketch",
+            "score": 63952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artistic",
+            "score": 63743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "illustration",
+            "score": 62725,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arts",
+            "score": 62470,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picture",
+            "score": 62356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handiwork",
+            "score": 62014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paint",
+            "score": 61802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "design",
+            "score": 61743,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "depiction",
+            "score": 61681,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece",
+            "score": 61672,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "works",
+            "score": 61419,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawing",
+            "score": 59435,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illustrating",
+            "score": 58846,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "illustrated",
+            "score": 58327,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "illustrative",
+            "score": 58284,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "work",
+            "score": 58068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tables",
+            "score": 56529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "effort",
+            "score": 55284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chart",
+            "score": 54773,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figure",
+            "score": 54306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "model",
+            "score": 53856,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "place",
+            "score": 53168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enlightenment",
+            "score": 52967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "example",
+            "score": 52693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compact",
+            "score": 52153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "implementation",
+            "score": 51655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "effect",
+            "score": 51605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mock-up",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artist",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lithograph",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "painter",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serigraph",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratchboard",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printmaking",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallery",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illustrator",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linocut",
+            "score": 51015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketchbook",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "semiabstract",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sculptor",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lead pencil",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvas",
+            "score": 51010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paintings",
+            "score": 51009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "murals",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collages",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sculptures",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watercolors",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvases",
+            "score": 51003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illustrations",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reproductions",
+            "score": 51001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etchings",
+            "score": 51000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapestries",
+            "score": 50999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portraitures",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "painture",
+            "score": 50997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creations",
+            "score": 50996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carvings",
+            "score": 50995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glasswork",
+            "score": 50994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portraits",
+            "score": 50993,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photographs",
+            "score": 50992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookplates",
+            "score": 50991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art gallery",
+            "score": 50990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilt",
+            "score": 50989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plastic art",
+            "score": 50988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stained glass",
+            "score": 50987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masterpieces",
+            "score": 50986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woodcuts",
+            "score": 50985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prints",
+            "score": 50984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commercial art",
+            "score": 50983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gouaches",
+            "score": 50982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhibit",
+            "score": 50981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mosaics",
+            "score": 50980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ex libris",
+            "score": 50979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lithos",
+            "score": 50978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornament",
+            "score": 50977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rembrandt van rijn",
+            "score": 50976,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "maxfield parrish",
+            "score": 50975,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aquarellist",
+            "score": 50974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silkscreens",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drypoint",
+            "score": 50972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "craftwork",
+            "score": 50971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raoul dufy",
+            "score": 50970,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "miniatures",
+            "score": 50969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fraktur",
+            "score": 50968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alla prima",
+            "score": 50967,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "decoupage",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intaglios",
+            "score": 50965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mosiac",
+            "score": 50964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "renderings",
+            "score": 50963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photogram",
+            "score": 50962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketches",
+            "score": 50960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "andre derain",
+            "score": 50959,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "triptych",
+            "score": 50958,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "artwork",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "artworks",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yardwork",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "outwork",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard work",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "at work",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "artier",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "arctic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "artery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "artic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "artois",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arterie",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "arawak",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hartwig",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arteri",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hartwick",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "artcc",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "artek",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "footwork",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "foot work",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "network",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "net work",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "dirty work",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "fretwork",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightwork",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ironwork",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "seatwork",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "light work",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "knitwork",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "night work",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cutwork",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardour",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardore",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "art book",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "aardvark",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "arturo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "ardvark",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "arder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "artur",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard worker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "ordure",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fort worth",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ortner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardrey",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "outworked",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "artig",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "autarch",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardeur",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardra",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "aardvarc",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vorwerk",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "woodwork",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "firework",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "overwork",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "air walk",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "arty",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "ator",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "cartier",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "artie",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "partier",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "arora",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "partook",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "arti",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "aarti",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "partyer",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "martyre",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "heartier",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "artes",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "sartori",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "chartier",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "car tire",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "ardours",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "artsier",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "artio",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "partire",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "arc",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "archer",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "archery",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "archway",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "aart",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "arak",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "arek",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "aaronic",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "arec",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ardors",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "aarts",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "arac",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "archerie",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "arcc",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "arcieri",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "artwork",
+            "score": 130268
+        },
+        {
+            "word": "network",
+            "score": 2763
+        },
+        {
+            "word": "yardwork",
+            "score": 486
+        },
+        {
+            "word": "rework",
+            "score": 359
+        },
+        {
+            "word": "earthwork",
+            "score": 200
+        },
+        {
+            "word": "fretwork",
+            "score": 182
+        },
+        {
+            "word": "outwork",
+            "score": 166
+        },
+        {
+            "word": "artworks",
+            "score": 129
+        },
+        {
+            "word": "at work",
+            "score": 113
+        },
+        {
+            "word": "wartwort",
+            "score": 71
+        },
+        {
+            "word": "cutwork",
+            "score": 46
+        },
+        {
+            "word": "hartwort",
+            "score": 22
+        },
+        {
+            "word": "allwork",
+            "score": 21
+        },
+        {
+            "word": "awork",
+            "score": 19
+        },
+        {
+            "word": "antwort",
+            "score": 17
+        },
+        {
+            "word": "notwork",
+            "score": 16
+        },
+        {
+            "word": "farmwork",
+            "score": 9
+        },
+        {
+            "word": "part work",
+            "score": 6
+        },
+        {
+            "word": "artware",
+            "score": 5
+        },
+        {
+            "word": "wetwork",
+            "score": 4
+        },
+        {
+            "word": "twork",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "booklet",
+            "score": 1410
+        },
+        {
+            "word": "sleeve",
+            "score": 1400
+        },
+        {
+            "word": "poster",
+            "score": 1342
+        },
+        {
+            "word": "packaging",
+            "score": 1335
+        },
+        {
+            "word": "depicts",
+            "score": 1321
+        },
+        {
+            "word": "illustration",
+            "score": 1316
+        },
+        {
+            "word": "depicting",
+            "score": 1309
+        },
+        {
+            "word": "vinyl",
+            "score": 1306
+        },
+        {
+            "word": "listing",
+            "score": 1301
+        },
+        {
+            "word": "liner",
+            "score": 1298
+        },
+        {
+            "word": "cover",
+            "score": 1295
+        },
+        {
+            "word": "photograph",
+            "score": 1291
+        },
+        {
+            "word": "exhibited",
+            "score": 1285
+        },
+        {
+            "word": "graphic",
+            "score": 1282
+        },
+        {
+            "word": "artist",
+            "score": 1277
+        },
+        {
+            "word": "drawings",
+            "score": 1274
+        },
+        {
+            "word": "bonus",
+            "score": 1266
+        },
+        {
+            "word": "sculpture",
+            "score": 1264
+        },
+        {
+            "word": "photos",
+            "score": 1258
+        },
+        {
+            "word": "photography",
+            "score": 1254
+        },
+        {
+            "word": "promotional",
+            "score": 1252
+        },
+        {
+            "word": "art",
+            "score": 1238
+        },
+        {
+            "word": "gallery",
+            "score": 1237
+        },
+        {
+            "word": "displayed",
+            "score": 1235
+        },
+        {
+            "word": "photo",
+            "score": 1233
+        },
+        {
+            "word": "painting",
+            "score": 1231
+        },
+        {
+            "word": "comics",
+            "score": 1230
+        },
+        {
+            "word": "manga",
+            "score": 1228
+        },
+        {
+            "word": "logo",
+            "score": 1224
+        },
+        {
+            "word": "illustrated",
+            "score": 1219
+        },
+        {
+            "word": "comic",
+            "score": 1215
+        },
+        {
+            "word": "artists",
+            "score": 1214
+        },
+        {
+            "word": "photographer",
+            "score": 1211
+        },
+        {
+            "word": "painted",
+            "score": 1210
+        },
+        {
+            "word": "indianapolis",
+            "score": 1203
+        },
+        {
+            "word": "covers",
+            "score": 1196
+        },
+        {
+            "word": "images",
+            "score": 1193
+        },
+        {
+            "word": "depicted",
+            "score": 1190
+        },
+        {
+            "word": "exhibition",
+            "score": 1187
+        },
+        {
+            "word": "album",
+            "score": 1176
+        },
+        {
+            "word": "drawing",
+            "score": 1170
+        },
+        {
+            "word": "done",
+            "score": 1168
+        },
+        {
+            "word": "designs",
+            "score": 1165
+        },
+        {
+            "word": "installation",
+            "score": 1164
+        },
+        {
+            "word": "printed",
+            "score": 1163
+        },
+        {
+            "word": "animation",
+            "score": 1161
+        },
+        {
+            "word": "featured",
+            "score": 1159
+        },
+        {
+            "word": "disc",
+            "score": 1157
+        },
+        {
+            "word": "designed",
+            "score": 1156
+        },
+        {
+            "word": "graphics",
+            "score": 1155
+        },
+        {
+            "word": "designer",
+            "score": 1153
+        },
+        {
+            "word": "created",
+            "score": 1150
+        },
+        {
+            "word": "edition",
+            "score": 1148
+        },
+        {
+            "word": "themes",
+            "score": 1147
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "artwork",
+            "score": 130268
+        },
+        {
+            "word": "artworks",
+            "score": 129447
+        },
+        {
+            "word": "network",
+            "score": 2763
+        },
+        {
+            "word": "hardworking",
+            "score": 804
+        },
+        {
+            "word": "networking",
+            "score": 624
+        },
+        {
+            "word": "yardwork",
+            "score": 486
+        },
+        {
+            "word": "rework",
+            "score": 359
+        },
+        {
+            "word": "earthwork",
+            "score": 200
+        },
+        {
+            "word": "fretwork",
+            "score": 182
+        },
+        {
+            "word": "outwork",
+            "score": 166
+        }
+    ]
+}

@@ -1,0 +1,1743 @@
+{
+    "term": "signage",
+    "means_like": [
+        {
+            "word": "billboards",
+            "score": 49533,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billboard",
+            "score": 49188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banners",
+            "score": 46927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signs",
+            "score": 46707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posters",
+            "score": 45333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advertising",
+            "score": 44870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flyers",
+            "score": 44726,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advertisements",
+            "score": 44543,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "displays",
+            "score": 43751,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signpost",
+            "score": 43714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fliers",
+            "score": 43642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advertisement",
+            "score": 42507,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sign",
+            "score": 42391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display",
+            "score": 41785,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ads",
+            "score": 41542,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poster",
+            "score": 41466,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "traffic",
+            "score": 41066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "print",
+            "score": 41035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notices",
+            "score": 40417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boards",
+            "score": 40340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emblem",
+            "score": 40198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "labels",
+            "score": 40162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advert",
+            "score": 39378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "warning",
+            "score": 39233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "displaying",
+            "score": 39229,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "communication",
+            "score": 39205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panels",
+            "score": 38754,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lighthouse",
+            "score": 38604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "announcements",
+            "score": 38391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "communications",
+            "score": 38261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "publicity",
+            "score": 38049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signals",
+            "score": 38046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "literature",
+            "score": 37985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "labelling",
+            "score": 37844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swag",
+            "score": 37463,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posting",
+            "score": 37433,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marking",
+            "score": 36842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screen",
+            "score": 36691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "particulars",
+            "score": 36593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signal",
+            "score": 36540,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "label",
+            "score": 36488,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beacon",
+            "score": 36359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dissemination",
+            "score": 36306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulletin",
+            "score": 36235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "postings",
+            "score": 36118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagging",
+            "score": 35833,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "indications",
+            "score": 35259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 34963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prompts",
+            "score": 34816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "particleboard",
+            "score": 34753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "submission",
+            "score": 33891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 33605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signing",
+            "score": 33556,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signaling",
+            "score": 33473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indication",
+            "score": 33398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reporting",
+            "score": 33368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signalling",
+            "score": 32947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "announcement",
+            "score": 32894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affiches",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signposting",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signalization",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "logotype",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entranceway",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pictogram",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shopfront",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brochure",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signboards",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crosswalks",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lettering",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awnings",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "logos",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "landscaping",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marquees",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decals",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "markings",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scoreboards",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signposts",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "striping",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entrances",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signboard",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "murals",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parking",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "restrooms",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bollards",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canopies",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stickers",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kiosks",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frontage",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lighting",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "walkways",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "repainting",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neon",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stanchions",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "railings",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "branding",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bill sticker",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sidewalks",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entryways",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graffiti",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clearway",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "signage",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "stj",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "signing",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "sining",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "soonish",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "seining",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "snudge",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "snitch",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "sinning",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "sewage",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "singe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smidge",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sinai",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sunning",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sani",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sino",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "songe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sanj",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "siny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "swanage",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "synge",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sandage",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "senge",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "centage",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sign in",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "simich",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sandidge",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "saanich",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanae",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "stone-age",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sondage",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "santa",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sauna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cena",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinus",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "smudge",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "sana",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sona",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sina",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "senna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sena",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "so much",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "spinage",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sonna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sunnah",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "suna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sunna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "scena",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sign up",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinal",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "xana",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "saina",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sign-up",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinas",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "seinen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cyna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "signs",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "sines",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "signes",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "snig",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "cines",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "snigg",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "seines",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "sandwich",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sausage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cynic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "scenic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cinch",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cine",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "saneness",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "linage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sano",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanaa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "assigning",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "sanit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanny",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sany",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "saini",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cenis",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cindie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "saje",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "sanai",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "ciner",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sawney",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cyne",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cyno",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cine-",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cinis",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cni",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sandish",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanea",
+            "score": 80,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "signage",
+            "score": 130247
+        },
+        {
+            "word": "signate",
+            "score": 64950
+        },
+        {
+            "word": "lignage",
+            "score": 64661
+        },
+        {
+            "word": "signal",
+            "score": 1687
+        },
+        {
+            "word": "singe",
+            "score": 777
+        },
+        {
+            "word": "silage",
+            "score": 506
+        },
+        {
+            "word": "linage",
+            "score": 345
+        },
+        {
+            "word": "sirname",
+            "score": 226
+        },
+        {
+            "word": "sillage",
+            "score": 188
+        },
+        {
+            "word": "signee",
+            "score": 175
+        },
+        {
+            "word": "signals",
+            "score": 162
+        },
+        {
+            "word": "pinnage",
+            "score": 148
+        },
+        {
+            "word": "sipage",
+            "score": 143
+        },
+        {
+            "word": "ignace",
+            "score": 133
+        },
+        {
+            "word": "signore",
+            "score": 123
+        },
+        {
+            "word": "signa",
+            "score": 113
+        },
+        {
+            "word": "signe",
+            "score": 109
+        },
+        {
+            "word": "pigeage",
+            "score": 95
+        },
+        {
+            "word": "spinage",
+            "score": 79
+        },
+        {
+            "word": "viinage",
+            "score": 67
+        },
+        {
+            "word": "sigmate",
+            "score": 61
+        },
+        {
+            "word": "signable",
+            "score": 59
+        },
+        {
+            "word": "sinkage",
+            "score": 50
+        },
+        {
+            "word": "innage",
+            "score": 41
+        },
+        {
+            "word": "sinae",
+            "score": 38
+        },
+        {
+            "word": "swanage",
+            "score": 34
+        },
+        {
+            "word": "signac",
+            "score": 27
+        },
+        {
+            "word": "signary",
+            "score": 26
+        },
+        {
+            "word": "signages",
+            "score": 16
+        },
+        {
+            "word": "stanage",
+            "score": 12
+        },
+        {
+            "word": "igname",
+            "score": 7
+        },
+        {
+            "word": "binage",
+            "score": 4
+        },
+        {
+            "word": "sognare",
+            "score": 4
+        },
+        {
+            "word": "segnale",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "typeface",
+            "score": 1536
+        },
+        {
+            "word": "accessibility",
+            "score": 1523
+        },
+        {
+            "word": "cctv",
+            "score": 1467
+        },
+        {
+            "word": "signs",
+            "score": 1455
+        },
+        {
+            "word": "neon",
+            "score": 1446
+        },
+        {
+            "word": "ramps",
+            "score": 1438
+        },
+        {
+            "word": "landscaping",
+            "score": 1431
+        },
+        {
+            "word": "directional",
+            "score": 1424
+        },
+        {
+            "word": "font",
+            "score": 1384
+        },
+        {
+            "word": "lighting",
+            "score": 1363
+        },
+        {
+            "word": "bilingual",
+            "score": 1356
+        },
+        {
+            "word": "platforms",
+            "score": 1352
+        },
+        {
+            "word": "southbound",
+            "score": 1343
+        },
+        {
+            "word": "indicate",
+            "score": 1341
+        },
+        {
+            "word": "branding",
+            "score": 1340
+        },
+        {
+            "word": "motorway",
+            "score": 1338
+        },
+        {
+            "word": "freeway",
+            "score": 1330
+        },
+        {
+            "word": "options",
+            "score": 1319
+        },
+        {
+            "word": "logo",
+            "score": 1316
+        },
+        {
+            "word": "exit",
+            "score": 1314
+        },
+        {
+            "word": "displays",
+            "score": 1310
+        },
+        {
+            "word": "clearly",
+            "score": 1308
+        },
+        {
+            "word": "installed",
+            "score": 1305
+        },
+        {
+            "word": "screens",
+            "score": 1304
+        },
+        {
+            "word": "passenger",
+            "score": 1301
+        },
+        {
+            "word": "bypass",
+            "score": 1296
+        },
+        {
+            "word": "numbering",
+            "score": 1291
+        },
+        {
+            "word": "interchange",
+            "score": 1288
+        },
+        {
+            "word": "parkway",
+            "score": 1284
+        },
+        {
+            "word": "parking",
+            "score": 1283
+        },
+        {
+            "word": "interstate",
+            "score": 1281
+        },
+        {
+            "word": "intersection",
+            "score": 1275
+        },
+        {
+            "word": "advertisements",
+            "score": 1272
+        },
+        {
+            "word": "indicates",
+            "score": 1269
+        },
+        {
+            "word": "accordance",
+            "score": 1267
+        },
+        {
+            "word": "expressway",
+            "score": 1262
+        },
+        {
+            "word": "boulevard",
+            "score": 1260
+        },
+        {
+            "word": "subway",
+            "score": 1256
+        },
+        {
+            "word": "maps",
+            "score": 1255
+        },
+        {
+            "word": "indicating",
+            "score": 1253
+        },
+        {
+            "word": "advertising",
+            "score": 1250
+        },
+        {
+            "word": "route",
+            "score": 1247
+        },
+        {
+            "word": "designation",
+            "score": 1242
+        },
+        {
+            "word": "routes",
+            "score": 1238
+        },
+        {
+            "word": "installation",
+            "score": 1237
+        },
+        {
+            "word": "trail",
+            "score": 1233
+        },
+        {
+            "word": "traffic",
+            "score": 1231
+        },
+        {
+            "word": "highway",
+            "score": 1228
+        },
+        {
+            "word": "sign",
+            "score": 1225
+        },
+        {
+            "word": "stations",
+            "score": 1224
+        },
+        {
+            "word": "mall",
+            "score": 1218
+        },
+        {
+            "word": "roads",
+            "score": 1215
+        },
+        {
+            "word": "terminus",
+            "score": 1213
+        },
+        {
+            "word": "trails",
+            "score": 1212
+        },
+        {
+            "word": "renovation",
+            "score": 1210
+        },
+        {
+            "word": "removed",
+            "score": 1207
+        },
+        {
+            "word": "loop",
+            "score": 1205
+        },
+        {
+            "word": "trains",
+            "score": 1198
+        },
+        {
+            "word": "stretch",
+            "score": 1196
+        },
+        {
+            "word": "graphics",
+            "score": 1194
+        },
+        {
+            "word": "platform",
+            "score": 1187
+        },
+        {
+            "word": "display",
+            "score": 1186
+        },
+        {
+            "word": "updated",
+            "score": 1181
+        },
+        {
+            "word": "reflect",
+            "score": 1177
+        },
+        {
+            "word": "warning",
+            "score": 1175
+        },
+        {
+            "word": "improvements",
+            "score": 1174
+        },
+        {
+            "word": "stores",
+            "score": 1173
+        },
+        {
+            "word": "improved",
+            "score": 1169
+        },
+        {
+            "word": "entrance",
+            "score": 1167
+        },
+        {
+            "word": "erected",
+            "score": 1166
+        },
+        {
+            "word": "visitors",
+            "score": 1164
+        },
+        {
+            "word": "digital",
+            "score": 1157
+        },
+        {
+            "word": "predominantly",
+            "score": 1155
+        },
+        {
+            "word": "posted",
+            "score": 1154
+        },
+        {
+            "word": "utah",
+            "score": 1152
+        },
+        {
+            "word": "metro",
+            "score": 1149
+        },
+        {
+            "word": "ticket",
+            "score": 1146
+        },
+        {
+            "word": "truck",
+            "score": 1145
+        },
+        {
+            "word": "buses",
+            "score": 1139
+        },
+        {
+            "word": "bus",
+            "score": 1138
+        },
+        {
+            "word": "marketing",
+            "score": 1134
+        },
+        {
+            "word": "transit",
+            "score": 1132
+        },
+        {
+            "word": "displayed",
+            "score": 1130
+        },
+        {
+            "word": "segment",
+            "score": 1128
+        },
+        {
+            "word": "printed",
+            "score": 1125
+        },
+        {
+            "word": "road",
+            "score": 1122
+        },
+        {
+            "word": "downtown",
+            "score": 1120
+        },
+        {
+            "word": "colour",
+            "score": 1118
+        },
+        {
+            "word": "outdoor",
+            "score": 1117
+        },
+        {
+            "word": "lights",
+            "score": 1115
+        },
+        {
+            "word": "lane",
+            "score": 1112
+        },
+        {
+            "word": "retail",
+            "score": 1110
+        },
+        {
+            "word": "limits",
+            "score": 1108
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "signage",
+            "score": 130247
+        },
+        {
+            "word": "signages",
+            "score": 129334
+        },
+        {
+            "word": "signate",
+            "score": 64950
+        },
+        {
+            "word": "signaled",
+            "score": 64842
+        },
+        {
+            "word": "signaler",
+            "score": 64729
+        },
+        {
+            "word": "signalers",
+            "score": 64674
+        },
+        {
+            "word": "lignage",
+            "score": 64661
+        },
+        {
+            "word": "signature",
+            "score": 2099
+        },
+        {
+            "word": "signal",
+            "score": 1687
+        },
+        {
+            "word": "signatory",
+            "score": 1011
+        }
+    ]
+}

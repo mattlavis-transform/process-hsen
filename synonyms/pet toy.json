@@ -1,0 +1,1329 @@
+{
+    "term": "pet toy",
+    "means_like": [
+        {
+            "word": "dandle",
+            "score": 28034,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pekinese",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pekingese",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poodle",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elf",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapdog",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pug",
+            "score": 11614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dog",
+            "score": 11556,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blenheim spaniel",
+            "score": 11537,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "catnip",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ducky",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "king charles spaniel",
+            "score": 11537,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pup",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stray",
+            "score": 11537,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tin",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "animal",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beagle",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boar",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cat",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fishbowl",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "griffon",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hound",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mascot",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paw",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pussy",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "setter",
+            "score": 10595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silly",
+            "score": 10595,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "baby",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "car",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pets",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puppy",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aas",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloon",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbie",
+            "score": 10492,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bauble",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cao",
+            "score": 10492,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capped",
+            "score": 10492,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "capping",
+            "score": 10492,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "caps",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cricket",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dollhouse",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolly",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 10492,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "elmo",
+            "score": 10492,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "frisbee",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gewgaw",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hasbro",
+            "score": 10492,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hobby",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoop",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jack-in-the-box",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumping jack",
+            "score": 10492,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ken",
+            "score": 10492,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kite",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knack",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickknack",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maltese",
+            "score": 10492,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "marble",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniature",
+            "score": 10492,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "paddling",
+            "score": 10492,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "peke",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinata",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "play",
+            "score": 10492,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "playhouse",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popgun",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puppet",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandpit",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 10492,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sport",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sports",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffy",
+            "score": 10492,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tease",
+            "score": 10492,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "teddy",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddy bear",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terrier",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "top",
+            "score": 10492,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "trick",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinket",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water gun",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water pistol",
+            "score": 10492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affenpinscher",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "american white birch",
+            "score": 10473,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "andy",
+            "score": 10473,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "architect",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanbag",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanie",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bell",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bells",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "betula cordifolia",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "betula papyrifera",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bratz",
+            "score": 10473,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brick",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canoe birch",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapbook",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coral",
+            "score": 10473,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "cracker",
+            "score": 10473,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "petty",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "petit",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "petti",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "petta",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "petto",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peti",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peta-",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pity",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitty",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "putty",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitta",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "pittie",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "patay",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "patee",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "puttee",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitto",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "poteau",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "pet",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "potty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "patty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pita",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pouty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "puta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "patti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "puto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pedi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pattie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "petey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pito",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pato",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peado",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pata",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peddy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pati",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peaty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "piti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peddie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pett",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "poto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "potto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pota",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pyt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "patta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poeta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "potta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "patto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "putti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pitu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "puti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "patey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dpt",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pattee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "patu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "puttie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pedo-",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pattu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "potoo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "putto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "putu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pedi-",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poitou",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "p t",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pcti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "petg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "betty",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "betta",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bette",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bettie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "boy toy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bte",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "betti",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "pit",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "putt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "pitt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "puddy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "patois",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "putte",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "bitty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paddy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "butty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bittie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pada",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "buttie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "padi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bateau",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pado",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bdd",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "padow",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "padda",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "biti",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bateaux",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bitto",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "p.d",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "petty",
+            "score": 1528
+        },
+        {
+            "word": "get to",
+            "score": 340
+        },
+        {
+            "word": "petto",
+            "score": 248
+        },
+        {
+            "word": "set to",
+            "score": 196
+        },
+        {
+            "word": "peg top",
+            "score": 50
+        },
+        {
+            "word": "petitor",
+            "score": 47
+        },
+        {
+            "word": "put to",
+            "score": 44
+        },
+        {
+            "word": "petitory",
+            "score": 33
+        },
+        {
+            "word": "net ton",
+            "score": 31
+        },
+        {
+            "word": "sex toy",
+            "score": 20
+        },
+        {
+            "word": "petito",
+            "score": 6
+        },
+        {
+            "word": "set top",
+            "score": 5
+        },
+        {
+            "word": "set tos",
+            "score": 4
+        },
+        {
+            "word": "petitot",
+            "score": 1
+        },
+        {
+            "word": "pettey",
+            "score": 1
+        },
+        {
+            "word": "pot boy",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "petty",
+            "score": 1528
+        },
+        {
+            "word": "get together",
+            "score": 363
+        },
+        {
+            "word": "get to",
+            "score": 340
+        },
+        {
+            "word": "petto",
+            "score": 248
+        },
+        {
+            "word": "put together",
+            "score": 233
+        },
+        {
+            "word": "set to",
+            "score": 196
+        },
+        {
+            "word": "petty criticism",
+            "score": 144
+        },
+        {
+            "word": "pet food",
+            "score": 133
+        },
+        {
+            "word": "petty cash",
+            "score": 89
+        },
+        {
+            "word": "petty officer",
+            "score": 65
+        }
+    ]
+}

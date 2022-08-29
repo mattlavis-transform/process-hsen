@@ -1,0 +1,1748 @@
+{
+    "term": "headset",
+    "means_like": [
+        {
+            "word": "headphones",
+            "score": 75979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earpiece",
+            "score": 74152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headphone",
+            "score": 72908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earphone",
+            "score": 71854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmet",
+            "score": 67125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phone",
+            "score": 65977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handset",
+            "score": 65970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ear",
+            "score": 65904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headpiece",
+            "score": 62867,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headgear",
+            "score": 62404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hat",
+            "score": 61437,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headwear",
+            "score": 59367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tag",
+            "score": 57628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atria",
+            "score": 55446,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atrium",
+            "score": 54802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microphone",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "speakerphone",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earplug",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bluetooth",
+            "score": 51316,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earbuds",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckband",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stereo",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cell phone",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ipod",
+            "score": 51309,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "faceplate",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavalier",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mic",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette deck",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cellphone",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handheld",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subwoofer",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "walkman",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keypad",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amplifier",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audio",
+            "score": 51294,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "keyboard",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "walkie",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trackball",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transmitter",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earphones",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camcorder",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intercom",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telephone receiver",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanyard",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earplugs",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "joystick",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corded",
+            "score": 51278,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thumbwheel",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steering wheel",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charger",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavaliere",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoulder strap",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "device",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickstand",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chin strap",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visor",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchpad",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earmuffs",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stereo system",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beeper",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabineer",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kneepad",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "throat microphone",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headband",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "videophone",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scala",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watchband",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "styli",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gadget",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlenose pliers",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "condenser microphone",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ear trumpet",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet cable",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wearer",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "remotes",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goggles",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headrest",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "directional antenna",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buttons",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "projector",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wristwatch",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keychain",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backplate",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupholder",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toggle switch",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clix",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "edifier",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accelerometer",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strap",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape recorder",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trackpad",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gizmo",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boombox",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electret",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ringer",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "headset",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "headsets",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dead set",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "head smut",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "headshot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot seat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "handset",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedsit",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadst",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "hessite",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "head sea",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jetset",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jet set",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jet-set",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedsite",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "headed",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hassett",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hasset",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "house sit",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hussite",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "had it",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "wetsuit",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "wet suit",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "hindsight",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hideout",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hest",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "heavyset",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hide out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hide-out",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "heavy set",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "headright",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "head gate",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitsitt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitsett",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "headnote",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hudson",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "whatsit",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "hasid",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedside",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "wset",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "red cent",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "red setter",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "lets out",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "metsat",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hissed",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "heeded",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hooded",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hust",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "hided",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "headbutt",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot shit",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedda",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hachette",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "haddad",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "heads-up",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hodson",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hittite",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadnot",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "haded",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "heads up",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadad",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "husked",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "hassid",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "headhunt",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hit out",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "howzit",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "heskett",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "head-butt",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadsell",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hexit",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "holds it",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuts it",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "head butt",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "woodside",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "wouldst",
+            "score": 76,
+            "numSyllables": 1
+        },
+        {
+            "word": "t-dot",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "cadet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beset",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "casette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gets it",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cadette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cossette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "didst",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "bessette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bissette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bassette",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "adsit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beats it",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "haast",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "bedsitter",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "butts out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedsits",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "headset",
+            "score": 129606
+        },
+        {
+            "word": "headed",
+            "score": 951
+        },
+        {
+            "word": "hearse",
+            "score": 747
+        },
+        {
+            "word": "header",
+            "score": 630
+        },
+        {
+            "word": "headshot",
+            "score": 579
+        },
+        {
+            "word": "dead set",
+            "score": 473
+        },
+        {
+            "word": "hearst",
+            "score": 337
+        },
+        {
+            "word": "heavyset",
+            "score": 330
+        },
+        {
+            "word": "heads",
+            "score": 282
+        },
+        {
+            "word": "handset",
+            "score": 278
+        },
+        {
+            "word": "headrest",
+            "score": 248
+        },
+        {
+            "word": "hearsed",
+            "score": 90
+        },
+        {
+            "word": "headier",
+            "score": 83
+        },
+        {
+            "word": "headiest",
+            "score": 83
+        },
+        {
+            "word": "headmen",
+            "score": 59
+        },
+        {
+            "word": "headen",
+            "score": 52
+        },
+        {
+            "word": "gearset",
+            "score": 50
+        },
+        {
+            "word": "hadst",
+            "score": 49
+        },
+        {
+            "word": "hearses",
+            "score": 40
+        },
+        {
+            "word": "headsets",
+            "score": 39
+        },
+        {
+            "word": "headley",
+            "score": 37
+        },
+        {
+            "word": "wadset",
+            "score": 37
+        },
+        {
+            "word": "head sea",
+            "score": 27
+        },
+        {
+            "word": "tea set",
+            "score": 24
+        },
+        {
+            "word": "earset",
+            "score": 20
+        },
+        {
+            "word": "headsmen",
+            "score": 20
+        },
+        {
+            "word": "hasset",
+            "score": 7
+        },
+        {
+            "word": "headlee",
+            "score": 7
+        },
+        {
+            "word": "heade",
+            "score": 5
+        },
+        {
+            "word": "headsaw",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "oculus",
+            "score": 1753
+        },
+        {
+            "word": "jawbone",
+            "score": 1737
+        },
+        {
+            "word": "headphone",
+            "score": 1694
+        },
+        {
+            "word": "shure",
+            "score": 1688
+        },
+        {
+            "word": "headphones",
+            "score": 1661
+        },
+        {
+            "word": "microphone",
+            "score": 1659
+        },
+        {
+            "word": "handset",
+            "score": 1654
+        },
+        {
+            "word": "bluetooth",
+            "score": 1647
+        },
+        {
+            "word": "vive",
+            "score": 1602
+        },
+        {
+            "word": "threaded",
+            "score": 1592
+        },
+        {
+            "word": "voip",
+            "score": 1562
+        },
+        {
+            "word": "plugged",
+            "score": 1535
+        },
+        {
+            "word": "bose",
+            "score": 1528
+        },
+        {
+            "word": "usb",
+            "score": 1508
+        },
+        {
+            "word": "eeg",
+            "score": 1505
+        },
+        {
+            "word": "adapter",
+            "score": 1500
+        },
+        {
+            "word": "bearings",
+            "score": 1499
+        },
+        {
+            "word": "mic",
+            "score": 1497
+        },
+        {
+            "word": "charger",
+            "score": 1493
+        },
+        {
+            "word": "wearer",
+            "score": 1490
+        },
+        {
+            "word": "ces",
+            "score": 1481
+        },
+        {
+            "word": "bundled",
+            "score": 1476
+        },
+        {
+            "word": "xbox",
+            "score": 1474
+        },
+        {
+            "word": "rift",
+            "score": 1457
+        },
+        {
+            "word": "connector",
+            "score": 1453
+        },
+        {
+            "word": "chat",
+            "score": 1442
+        },
+        {
+            "word": "smartphone",
+            "score": 1438
+        },
+        {
+            "word": "wired",
+            "score": 1436
+        },
+        {
+            "word": "pause",
+            "score": 1434
+        },
+        {
+            "word": "wireless",
+            "score": 1424
+        },
+        {
+            "word": "stereo",
+            "score": 1420
+        },
+        {
+            "word": "phone",
+            "score": 1415
+        },
+        {
+            "word": "lcd",
+            "score": 1411
+        },
+        {
+            "word": "controller",
+            "score": 1402
+        },
+        {
+            "word": "accessory",
+            "score": 1401
+        },
+        {
+            "word": "cardboard",
+            "score": 1391
+        },
+        {
+            "word": "halo",
+            "score": 1386
+        },
+        {
+            "word": "compatible",
+            "score": 1372
+        },
+        {
+            "word": "virtual",
+            "score": 1365
+        },
+        {
+            "word": "laptop",
+            "score": 1361
+        },
+        {
+            "word": "fork",
+            "score": 1359
+        },
+        {
+            "word": "surround",
+            "score": 1355
+        },
+        {
+            "word": "iphone",
+            "score": 1350
+        },
+        {
+            "word": "skip",
+            "score": 1349
+        },
+        {
+            "word": "telephone",
+            "score": 1348
+        },
+        {
+            "word": "console",
+            "score": 1341
+        },
+        {
+            "word": "ears",
+            "score": 1338
+        },
+        {
+            "word": "playback",
+            "score": 1336
+        },
+        {
+            "word": "proprietary",
+            "score": 1334
+        },
+        {
+            "word": "charging",
+            "score": 1331
+        },
+        {
+            "word": "tube",
+            "score": 1329
+        },
+        {
+            "word": "plug",
+            "score": 1327
+        },
+        {
+            "word": "button",
+            "score": 1322
+        },
+        {
+            "word": "audio",
+            "score": 1317
+        },
+        {
+            "word": "commands",
+            "score": 1311
+        },
+        {
+            "word": "peripheral",
+            "score": 1308
+        },
+        {
+            "word": "ear",
+            "score": 1304
+        },
+        {
+            "word": "bolt",
+            "score": 1301
+        },
+        {
+            "word": "bicycle",
+            "score": 1300
+        },
+        {
+            "word": "gaming",
+            "score": 1298
+        },
+        {
+            "word": "antenna",
+            "score": 1296
+        },
+        {
+            "word": "profile",
+            "score": 1294
+        },
+        {
+            "word": "noise",
+            "score": 1289
+        },
+        {
+            "word": "switch",
+            "score": 1288
+        },
+        {
+            "word": "android",
+            "score": 1285
+        },
+        {
+            "word": "app",
+            "score": 1284
+        },
+        {
+            "word": "cellular",
+            "score": 1283
+        },
+        {
+            "word": "sensor",
+            "score": 1281
+        },
+        {
+            "word": "ambient",
+            "score": 1278
+        },
+        {
+            "word": "communicate",
+            "score": 1277
+        },
+        {
+            "word": "preference",
+            "score": 1273
+        },
+        {
+            "word": "google",
+            "score": 1266
+        },
+        {
+            "word": "lightweight",
+            "score": 1264
+        },
+        {
+            "word": "accessories",
+            "score": 1263
+        },
+        {
+            "word": "menu",
+            "score": 1260
+        },
+        {
+            "word": "stem",
+            "score": 1258
+        },
+        {
+            "word": "icon",
+            "score": 1257
+        },
+        {
+            "word": "repeat",
+            "score": 1251
+        },
+        {
+            "word": "device",
+            "score": 1249
+        },
+        {
+            "word": "connects",
+            "score": 1246
+        },
+        {
+            "word": "microsoft",
+            "score": 1243
+        },
+        {
+            "word": "valve",
+            "score": 1241
+        },
+        {
+            "word": "interface",
+            "score": 1237
+        },
+        {
+            "word": "tracking",
+            "score": 1234
+        },
+        {
+            "word": "steering",
+            "score": 1231
+        },
+        {
+            "word": "stems",
+            "score": 1230
+        },
+        {
+            "word": "sony",
+            "score": 1228
+        },
+        {
+            "word": "camera",
+            "score": 1224
+        },
+        {
+            "word": "batteries",
+            "score": 1218
+        },
+        {
+            "word": "slot",
+            "score": 1216
+        },
+        {
+            "word": "user",
+            "score": 1214
+        },
+        {
+            "word": "nintendo",
+            "score": 1212
+        },
+        {
+            "word": "speaker",
+            "score": 1210
+        },
+        {
+            "word": "reality",
+            "score": 1209
+        },
+        {
+            "word": "technically",
+            "score": 1206
+        },
+        {
+            "word": "beta",
+            "score": 1202
+        },
+        {
+            "word": "keyboard",
+            "score": 1201
+        },
+        {
+            "word": "voice",
+            "score": 1195
+        },
+        {
+            "word": "kit",
+            "score": 1194
+        },
+        {
+            "word": "protocol",
+            "score": 1191
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "headset",
+            "score": 129606
+        },
+        {
+            "word": "headsets",
+            "score": 129357
+        },
+        {
+            "word": "headstrong",
+            "score": 65211
+        },
+        {
+            "word": "headstart",
+            "score": 65044
+        },
+        {
+            "word": "headstone",
+            "score": 64959
+        },
+        {
+            "word": "headstock",
+            "score": 64805
+        },
+        {
+            "word": "headstand",
+            "score": 64754
+        },
+        {
+            "word": "headstall",
+            "score": 64747
+        },
+        {
+            "word": "headstream",
+            "score": 64733
+        },
+        {
+            "word": "headstocks",
+            "score": 64720
+        }
+    ]
+}

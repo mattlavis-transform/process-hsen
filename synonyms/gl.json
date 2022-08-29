@@ -1,0 +1,832 @@
+{
+    "term": "gl",
+    "means_like": [
+        {
+            "word": "dhp",
+            "score": 6365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nypl",
+            "score": 6365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "conglomerate",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gamma",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mouille",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "a",
+            "score": 5304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "81",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ap",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "b",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bl",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ci",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "d",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "e",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "f",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "g",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gastrointestinal",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gi",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ii",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iv",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "j",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "l",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lp",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "m",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pn",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pr",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "s",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sl",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sm",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "t",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tr",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tt",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "u",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "v",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "y",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gull",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "gul",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "gtl",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghul",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "guhl",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghl",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "gill",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "gil",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "gle",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "guil",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "guel",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "guill",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghyll",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaelle",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "gehl",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "gyl",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghil",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "goal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gale",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghoul",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "guile",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gall",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gail",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gol",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaul",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaol",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gayle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gile",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gael",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gool",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gole",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gule",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "goll",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "galle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "geel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "goole",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "geil",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "xxl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaulle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "goel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gowl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gille",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gayal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gyle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gawl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "goil",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaile",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghole",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gohl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gele",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaule",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gueule",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "golle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "goehl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gawm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "guyle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cull",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "cul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "kull",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "kul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "kuhl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "qul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ccl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "kgl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gung",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "girl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eagle",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gully",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulls",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gulch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "egal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "egale",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "egle",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulley",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "agel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "eagl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "egel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullah",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulla",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "guld",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gulled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "agil",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "goyal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gll",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "guller",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gothe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aegle",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aigle",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "agal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "agl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ckl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "egl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gfa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gpl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ergal",
+            "score": 90,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gl",
+            "score": 220
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "glass",
+            "score": 3894
+        },
+        {
+            "word": "gland",
+            "score": 2058
+        },
+        {
+            "word": "glean",
+            "score": 1918
+        },
+        {
+            "word": "gleep",
+            "score": 1894
+        },
+        {
+            "word": "glib",
+            "score": 1890
+        },
+        {
+            "word": "glory",
+            "score": 1818
+        },
+        {
+            "word": "gloam",
+            "score": 1758
+        },
+        {
+            "word": "global",
+            "score": 1736
+        },
+        {
+            "word": "glow",
+            "score": 1541
+        },
+        {
+            "word": "glance",
+            "score": 1471
+        }
+    ]
+}

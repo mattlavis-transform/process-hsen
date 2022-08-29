@@ -1,0 +1,1666 @@
+{
+    "term": "chess",
+    "means_like": [
+        {
+            "word": "cheat",
+            "score": 75051,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bromus secalinus",
+            "score": 69652,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chess game",
+            "score": 69652,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "chessboard",
+            "score": 69651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blindfold",
+            "score": 61001,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "game",
+            "score": 58156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kee",
+            "score": 54149,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "poorly",
+            "score": 52019,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "failure",
+            "score": 51440,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backgammon",
+            "score": 51257,
+            "tags": [
+                "n",
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "bad",
+            "score": 51257,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "failed",
+            "score": 51257,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "failures",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shogi",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billiards",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrabble",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cribbage",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mancala",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gin rummy",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solitaire",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badminton",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poker",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snooker",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tennis",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checkmate",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mahjong",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foosball",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sudoku",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zugzwang",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pawn",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shuffleboard",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parcheesi",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "croquet",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rook",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "endgame",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canasta",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scacchic",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackjack",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinochle",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grandmasters",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hockey",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anatoli karpov",
+            "score": 51227,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gary kasparov",
+            "score": 51226,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "korchnoi",
+            "score": 51225,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "japanese chess",
+            "score": 51224,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "karpov",
+            "score": 51223,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alekhine",
+            "score": 51222,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "botvinnik",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boris spassky",
+            "score": 51220,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kasparov",
+            "score": 51219,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "judo",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pingpong",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chessmaster",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "simul",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tricktrack",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrom",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mahjongg",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chess club",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capablanca",
+            "score": 51209,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ludo",
+            "score": 51208,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bobby fischer",
+            "score": 51207,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chess master",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chess move",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chesspiece",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viktor korchnoi",
+            "score": 51203,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "strip poker",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "korfball",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxing",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chessmen",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kabbadi",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dominoes",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polgar",
+            "score": 51196,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dodgeball",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kendo",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rummy",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hopscotch",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mathematics",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spassky",
+            "score": 51190,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bocce",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puzzles",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olympiad",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sambo",
+            "score": 51186,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ticktack",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiddlywinks",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "game of chance",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballroom dancing",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reversi",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marbles",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taekwondo",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grandmaster",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jujitsu",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crosswords",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "darts",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickboxing",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karate",
+            "score": 51173,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballroom dance",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cribbage board",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "racquetball",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quoits",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "chess",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ches",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "chus",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "choice",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "chase",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chace",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chese",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chez",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chasse",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chos",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chouse",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chois",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chaus",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chass",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cfc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chausse",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "csc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "choix",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "jess",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "shes",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gess",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jds",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "sjs",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jsw",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "chis",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "chiz",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "czyz",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "chest",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheese",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "choose",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chose",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "checks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "choas",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chees",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chews",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chaz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chex",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chas",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheeze",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jus",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheques",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gis",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cst",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chazz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schuss",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chais",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chech",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "juss",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chows",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gys",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shas",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chessie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "chesser",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "czechs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chesed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chaws",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tews",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "csb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "csg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tewes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheth",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jts",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "choughs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jys",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "h s",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cseh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "e s",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "less",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "juice",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "les",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "joyce",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hess",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gees",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hes",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "jace",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "joice",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "jes",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ness",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "joss",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "jez",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "jass",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "juce",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "kess",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "-less",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hesse",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "joce",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gez",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "juise",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cls",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "giese",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cesse",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "geus",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "josse",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "lecce",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "a s",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "jois",
+            "score": 88,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "chess",
+            "score": 65390
+        },
+        {
+            "word": "chest",
+            "score": 1496
+        },
+        {
+            "word": "cress",
+            "score": 948
+        },
+        {
+            "word": "cess",
+            "score": 533
+        },
+        {
+            "word": "chese",
+            "score": 316
+        },
+        {
+            "word": "hess",
+            "score": 313
+        },
+        {
+            "word": "chefs",
+            "score": 102
+        },
+        {
+            "word": "chews",
+            "score": 92
+        },
+        {
+            "word": "chests",
+            "score": 85
+        },
+        {
+            "word": "ches",
+            "score": 57
+        },
+        {
+            "word": "chass",
+            "score": 53
+        },
+        {
+            "word": "thess",
+            "score": 45
+        },
+        {
+            "word": "chels",
+            "score": 44
+        },
+        {
+            "word": "ghess",
+            "score": 36
+        },
+        {
+            "word": "chees",
+            "score": 22
+        },
+        {
+            "word": "chcss",
+            "score": 17
+        },
+        {
+            "word": "chiss",
+            "score": 14
+        },
+        {
+            "word": "chens",
+            "score": 8
+        },
+        {
+            "word": "chesh",
+            "score": 5
+        },
+        {
+            "word": "cheas",
+            "score": 3
+        },
+        {
+            "word": "checs",
+            "score": 2
+        },
+        {
+            "word": "chems",
+            "score": 2
+        },
+        {
+            "word": "ehess",
+            "score": 2
+        },
+        {
+            "word": "chers",
+            "score": 1
+        },
+        {
+            "word": "chesa",
+            "score": 1
+        },
+        {
+            "word": "choss",
+            "score": 1
+        },
+        {
+            "word": "chss",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "grandmaster",
+            "score": 1691
+        },
+        {
+            "word": "olympiad",
+            "score": 1678
+        },
+        {
+            "word": "fide",
+            "score": 1659
+        },
+        {
+            "word": "capablanca",
+            "score": 1640
+        },
+        {
+            "word": "shogi",
+            "score": 1589
+        },
+        {
+            "word": "endgame",
+            "score": 1578
+        },
+        {
+            "word": "elo",
+            "score": 1572
+        },
+        {
+            "word": "pawns",
+            "score": 1527
+        },
+        {
+            "word": "arbiter",
+            "score": 1519
+        },
+        {
+            "word": "checkers",
+            "score": 1507
+        },
+        {
+            "word": "gambit",
+            "score": 1490
+        },
+        {
+            "word": "rook",
+            "score": 1464
+        },
+        {
+            "word": "openings",
+            "score": 1451
+        },
+        {
+            "word": "pawn",
+            "score": 1448
+        },
+        {
+            "word": "blitz",
+            "score": 1433
+        },
+        {
+            "word": "fischer",
+            "score": 1418
+        },
+        {
+            "word": "correspondence",
+            "score": 1366
+        },
+        {
+            "word": "championship",
+            "score": 1359
+        },
+        {
+            "word": "federation",
+            "score": 1354
+        },
+        {
+            "word": "tied",
+            "score": 1346
+        },
+        {
+            "word": "variant",
+            "score": 1336
+        },
+        {
+            "word": "champion",
+            "score": 1328
+        },
+        {
+            "word": "master",
+            "score": 1325
+        },
+        {
+            "word": "tournament",
+            "score": 1314
+        },
+        {
+            "word": "moves",
+            "score": 1310
+        },
+        {
+            "word": "variants",
+            "score": 1307
+        },
+        {
+            "word": "estonian",
+            "score": 1300
+        },
+        {
+            "word": "notation",
+            "score": 1299
+        },
+        {
+            "word": "pieces",
+            "score": 1295
+        },
+        {
+            "word": "squares",
+            "score": 1288
+        },
+        {
+            "word": "boris",
+            "score": 1282
+        },
+        {
+            "word": "rating",
+            "score": 1280
+        },
+        {
+            "word": "strongest",
+            "score": 1277
+        },
+        {
+            "word": "solving",
+            "score": 1272
+        },
+        {
+            "word": "trainer",
+            "score": 1255
+        },
+        {
+            "word": "ussr",
+            "score": 1251
+        },
+        {
+            "word": "challenger",
+            "score": 1246
+        },
+        {
+            "word": "invented",
+            "score": 1234
+        },
+        {
+            "word": "armenia",
+            "score": 1228
+        },
+        {
+            "word": "player",
+            "score": 1227
+        },
+        {
+            "word": "players",
+            "score": 1226
+        },
+        {
+            "word": "istanbul",
+            "score": 1222
+        },
+        {
+            "word": "masters",
+            "score": 1218
+        },
+        {
+            "word": "piece",
+            "score": 1211
+        },
+        {
+            "word": "aires",
+            "score": 1207
+        },
+        {
+            "word": "won",
+            "score": 1199
+        },
+        {
+            "word": "bobby",
+            "score": 1195
+        },
+        {
+            "word": "draws",
+            "score": 1191
+        },
+        {
+            "word": "computer",
+            "score": 1176
+        },
+        {
+            "word": "moscow",
+            "score": 1171
+        },
+        {
+            "word": "warsaw",
+            "score": 1169
+        },
+        {
+            "word": "participants",
+            "score": 1167
+        },
+        {
+            "word": "column",
+            "score": 1165
+        },
+        {
+            "word": "armenian",
+            "score": 1164
+        },
+        {
+            "word": "club",
+            "score": 1163
+        },
+        {
+            "word": "munich",
+            "score": 1161
+        },
+        {
+            "word": "tennis",
+            "score": 1159
+        },
+        {
+            "word": "boxing",
+            "score": 1157
+        },
+        {
+            "word": "organised",
+            "score": 1153
+        },
+        {
+            "word": "shared",
+            "score": 1152
+        },
+        {
+            "word": "knight",
+            "score": 1147
+        },
+        {
+            "word": "server",
+            "score": 1146
+        },
+        {
+            "word": "bronze",
+            "score": 1144
+        },
+        {
+            "word": "rapid",
+            "score": 1143
+        },
+        {
+            "word": "board",
+            "score": 1140
+        },
+        {
+            "word": "computers",
+            "score": 1138
+        },
+        {
+            "word": "junior",
+            "score": 1136
+        },
+        {
+            "word": "variation",
+            "score": 1135
+        },
+        {
+            "word": "title",
+            "score": 1133
+        },
+        {
+            "word": "volleyball",
+            "score": 1132
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "chess",
+            "score": 65390
+        },
+        {
+            "word": "chessboard",
+            "score": 64958
+        },
+        {
+            "word": "chesses",
+            "score": 64858
+        },
+        {
+            "word": "chessman",
+            "score": 64791
+        },
+        {
+            "word": "chess club",
+            "score": 64761
+        },
+        {
+            "word": "chess game",
+            "score": 64761
+        },
+        {
+            "word": "chessel",
+            "score": 64754
+        },
+        {
+            "word": "chess piece",
+            "score": 64748
+        },
+        {
+            "word": "chessil",
+            "score": 64739
+        },
+        {
+            "word": "chessie",
+            "score": 64734
+        }
+    ]
+}

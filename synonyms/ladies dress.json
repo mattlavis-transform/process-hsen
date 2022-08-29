@@ -1,0 +1,794 @@
+{
+    "term": "ladies dress",
+    "means_like": [
+        {
+            "word": "modiste",
+            "score": 29915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "habit",
+            "score": 29515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "talma",
+            "score": 29515,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bluestocking",
+            "score": 29115,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duchess",
+            "score": 29115,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "french",
+            "score": 12715,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gallant",
+            "score": 12715,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "hoop",
+            "score": 12715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commode",
+            "score": 12672,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guys",
+            "score": 12672,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nine",
+            "score": 12672,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bertha",
+            "score": 12662,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "baldric",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 11694,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bended",
+            "score": 11694,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bends",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bens",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamberlain",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chenille",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "churchill",
+            "score": 11694,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cotillion",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "domina",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "domino",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duenna",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forsooth",
+            "score": 11694,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "gender",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harem",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lady",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marceline",
+            "score": 11694,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "miss",
+            "score": 11694,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "missed",
+            "score": 11694,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "misses",
+            "score": 11694,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "palla",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruelle",
+            "score": 11694,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tab",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tabbed",
+            "score": 11694,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "tailor",
+            "score": 11694,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tailored",
+            "score": 11694,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wac",
+            "score": 11694,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "women",
+            "score": 11694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bare",
+            "score": 11651,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "crown",
+            "score": 11651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crowning",
+            "score": 11651,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cute",
+            "score": 11651,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 11651,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fret",
+            "score": 11651,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fretfulness",
+            "score": 11651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fretting",
+            "score": 11651,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "gentleman",
+            "score": 11651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "girl",
+            "score": 11651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "move",
+            "score": 11651,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "moves",
+            "score": 11651,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "pug",
+            "score": 11651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brunswick",
+            "score": 11460,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "challis",
+            "score": 11460,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gayly",
+            "score": 11460,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "glass",
+            "score": 11460,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "devoir",
+            "score": 11417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ell",
+            "score": 11417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silent",
+            "score": 11417,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "accessory",
+            "score": 11247,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "aline",
+            "score": 11247,
+            "tags": [
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "ao dai",
+            "score": 11247,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "barb",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basque",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biggin",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackguard",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloomer",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boa",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodice",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bosom",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burka",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "busby",
+            "score": 11247,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bustier",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bustle",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabbage",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caftan",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capuchin",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheese",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemise",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemisette",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheongsam",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiffon",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "civvy",
+            "score": 11247,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "clas",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleavage",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "code",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cook",
+            "score": 11247,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cooked",
+            "score": 11247,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "coronet",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowl",
+            "score": 11247,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "ladies room",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "latendresse",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "lead astray",
+            "score": 65,
+            "numSyllables": 3
+        },
+        {
+            "word": "led astray",
+            "score": 65,
+            "numSyllables": 3
+        },
+        {
+            "word": "wedding dress",
+            "score": 63,
+            "numSyllables": 3
+        },
+        {
+            "word": "undesirous",
+            "score": 60,
+            "numSyllables": 4
+        },
+        {
+            "word": "underdress",
+            "score": 58,
+            "numSyllables": 3
+        },
+        {
+            "word": "slanderous",
+            "score": 54,
+            "numSyllables": 3
+        },
+        {
+            "word": "cd drive",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "sidedness",
+            "score": 45,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "ladies tresses",
+            "score": 64669
+        }
+    ]
+}

@@ -1,0 +1,1671 @@
+{
+    "term": "lingerie",
+    "means_like": [
+        {
+            "word": "underwear",
+            "score": 52734,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 51386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undies",
+            "score": 50340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 50150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undress",
+            "score": 42997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 42724,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundry",
+            "score": 37854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "everything",
+            "score": 33772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bikini",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beachwear",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimsuit",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hosiery",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantyhose",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brassiere",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemise",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monokini",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loungewear",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothes",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankini",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garter belt",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bras",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarments",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intimate apparel",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underthings",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfume",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shapewear",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantie",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nighties",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligees",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wonderbra",
+            "score": 31271,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "womenswear",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thongs",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panties",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemiloon",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leatherwear",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boudoir",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knicker",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarment",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thong",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casualwear",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing suit",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eveningwear",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etam",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frocks",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boutiques",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 31248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightie",
+            "score": 31247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basques",
+            "score": 31246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniskirts",
+            "score": 31245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fragrance",
+            "score": 31244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothier",
+            "score": 31243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 31242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 31241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding gown",
+            "score": 31240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgowns",
+            "score": 31239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catwalk",
+            "score": 31238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spaghetti strap",
+            "score": 31237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouses",
+            "score": 31236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligee",
+            "score": 31235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smallclothes",
+            "score": 31234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camis",
+            "score": 31233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scanties",
+            "score": 31232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitwear",
+            "score": 31231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 31230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dkny",
+            "score": 31229,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "babydoll",
+            "score": 31228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirndl",
+            "score": 31227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "french knickers",
+            "score": 31226,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 31225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haircare",
+            "score": 31224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eau de toilette",
+            "score": 31223,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fashion designer",
+            "score": 31222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "activewear",
+            "score": 31221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding dress",
+            "score": 31220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal gown",
+            "score": 31219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedlinen",
+            "score": 31218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtmaker",
+            "score": 31217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underlinen",
+            "score": 31216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "risque",
+            "score": 31215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 31214,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "lingerie",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "lamere",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "launcher",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "lounger",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "launchers",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "loungers",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamarre",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "luncher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lenora",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lyncher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lancia",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lunary",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "leanora",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "lunchers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lontar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lynchers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamoureux",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "laundry",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "lounge room",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "launer",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "linear",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "lenore",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanark",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamarr",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lennart",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamore",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lonzo",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lazare",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "loonier",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "linier",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "line art",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lonza",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanthorn",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanzar",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "laoghaire",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "leisure",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lantern",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "liner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lara",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leaner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lancer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laurie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "loaner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "liners",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lani",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "landry",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leasure",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lechery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lancers",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanier",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lano",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leandra",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laneway",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lauri",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lari",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "llano",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lemery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "linsay",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "loaners",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "linares",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanser",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "linter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laro",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lime tree",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "landra",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lehner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "linters",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "leiner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lenart",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanikai",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lanners",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "light ray",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "langtry",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "letchery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lanoue",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "layner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lamoreaux",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lanterne",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanterna",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lehnert",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laguerre",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "landgraf",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lanyer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "laru",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "linchi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lancha",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "linja",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "lacera",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "lineare",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "lingerie",
+            "score": 130181
+        },
+        {
+            "word": "singerie",
+            "score": 64678
+        },
+        {
+            "word": "linger",
+            "score": 1425
+        },
+        {
+            "word": "lingering",
+            "score": 908
+        },
+        {
+            "word": "lingered",
+            "score": 222
+        },
+        {
+            "word": "lingers",
+            "score": 124
+        },
+        {
+            "word": "lingerer",
+            "score": 83
+        },
+        {
+            "word": "ingenie",
+            "score": 42
+        },
+        {
+            "word": "lingence",
+            "score": 17
+        },
+        {
+            "word": "fingere",
+            "score": 16
+        },
+        {
+            "word": "lingeries",
+            "score": 13
+        },
+        {
+            "word": "tingere",
+            "score": 8
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "loungewear",
+            "score": 1921
+        },
+        {
+            "word": "swimwear",
+            "score": 1757
+        },
+        {
+            "word": "chantelle",
+            "score": 1738
+        },
+        {
+            "word": "provocateur",
+            "score": 1705
+        },
+        {
+            "word": "intimates",
+            "score": 1664
+        },
+        {
+            "word": "curvy",
+            "score": 1662
+        },
+        {
+            "word": "perla",
+            "score": 1660
+        },
+        {
+            "word": "hosiery",
+            "score": 1634
+        },
+        {
+            "word": "ultimo",
+            "score": 1626
+        },
+        {
+            "word": "underwear",
+            "score": 1612
+        },
+        {
+            "word": "bra",
+            "score": 1565
+        },
+        {
+            "word": "bras",
+            "score": 1535
+        },
+        {
+            "word": "swimsuit",
+            "score": 1534
+        },
+        {
+            "word": "bridal",
+            "score": 1527
+        },
+        {
+            "word": "retailer",
+            "score": 1512
+        },
+        {
+            "word": "stockings",
+            "score": 1496
+        },
+        {
+            "word": "apparel",
+            "score": 1490
+        },
+        {
+            "word": "lace",
+            "score": 1458
+        },
+        {
+            "word": "pillow",
+            "score": 1457
+        },
+        {
+            "word": "bikini",
+            "score": 1438
+        },
+        {
+            "word": "accessories",
+            "score": 1434
+        },
+        {
+            "word": "cosmetics",
+            "score": 1431
+        },
+        {
+            "word": "sexy",
+            "score": 1422
+        },
+        {
+            "word": "elle",
+            "score": 1417
+        },
+        {
+            "word": "dresses",
+            "score": 1412
+        },
+        {
+            "word": "playboy",
+            "score": 1406
+        },
+        {
+            "word": "boutique",
+            "score": 1402
+        },
+        {
+            "word": "maternity",
+            "score": 1399
+        },
+        {
+            "word": "posing",
+            "score": 1387
+        },
+        {
+            "word": "nude",
+            "score": 1384
+        },
+        {
+            "word": "garments",
+            "score": 1382
+        },
+        {
+            "word": "brand",
+            "score": 1375
+        },
+        {
+            "word": "jeans",
+            "score": 1373
+        },
+        {
+            "word": "heels",
+            "score": 1360
+        },
+        {
+            "word": "clothing",
+            "score": 1357
+        },
+        {
+            "word": "jewellery",
+            "score": 1356
+        },
+        {
+            "word": "bowl",
+            "score": 1352
+        },
+        {
+            "word": "triumph",
+            "score": 1350
+        },
+        {
+            "word": "intimate",
+            "score": 1348
+        },
+        {
+            "word": "garment",
+            "score": 1341
+        },
+        {
+            "word": "brands",
+            "score": 1333
+        },
+        {
+            "word": "fashion",
+            "score": 1329
+        },
+        {
+            "word": "shoes",
+            "score": 1318
+        },
+        {
+            "word": "erotic",
+            "score": 1310
+        },
+        {
+            "word": "bowls",
+            "score": 1306
+        },
+        {
+            "word": "shop",
+            "score": 1303
+        },
+        {
+            "word": "fabric",
+            "score": 1300
+        },
+        {
+            "word": "stores",
+            "score": 1299
+        },
+        {
+            "word": "jewelry",
+            "score": 1290
+        },
+        {
+            "word": "designer",
+            "score": 1289
+        },
+        {
+            "word": "feminine",
+            "score": 1287
+        },
+        {
+            "word": "store",
+            "score": 1284
+        },
+        {
+            "word": "secret",
+            "score": 1282
+        },
+        {
+            "word": "toys",
+            "score": 1280
+        },
+        {
+            "word": "dressing",
+            "score": 1278
+        },
+        {
+            "word": "modeling",
+            "score": 1271
+        },
+        {
+            "word": "wear",
+            "score": 1268
+        },
+        {
+            "word": "sells",
+            "score": 1267
+        },
+        {
+            "word": "outfit",
+            "score": 1262
+        },
+        {
+            "word": "runway",
+            "score": 1256
+        },
+        {
+            "word": "costumes",
+            "score": 1252
+        },
+        {
+            "word": "legends",
+            "score": 1238
+        },
+        {
+            "word": "clothes",
+            "score": 1236
+        },
+        {
+            "word": "shoot",
+            "score": 1227
+        },
+        {
+            "word": "dress",
+            "score": 1220
+        },
+        {
+            "word": "wearing",
+            "score": 1219
+        },
+        {
+            "word": "celebrity",
+            "score": 1214
+        },
+        {
+            "word": "leather",
+            "score": 1213
+        },
+        {
+            "word": "kate",
+            "score": 1208
+        },
+        {
+            "word": "settings",
+            "score": 1204
+        },
+        {
+            "word": "tape",
+            "score": 1202
+        },
+        {
+            "word": "beauty",
+            "score": 1201
+        },
+        {
+            "word": "model",
+            "score": 1198
+        },
+        {
+            "word": "worn",
+            "score": 1195
+        },
+        {
+            "word": "dancer",
+            "score": 1194
+        },
+        {
+            "word": "shopping",
+            "score": 1193
+        },
+        {
+            "word": "sex",
+            "score": 1184
+        },
+        {
+            "word": "collection",
+            "score": 1181
+        },
+        {
+            "word": "retail",
+            "score": 1179
+        },
+        {
+            "word": "photographer",
+            "score": 1177
+        },
+        {
+            "word": "favourite",
+            "score": 1169
+        },
+        {
+            "word": "manufacturer",
+            "score": 1164
+        },
+        {
+            "word": "shots",
+            "score": 1161
+        },
+        {
+            "word": "pink",
+            "score": 1157
+        },
+        {
+            "word": "bed",
+            "score": 1151
+        },
+        {
+            "word": "furniture",
+            "score": 1149
+        },
+        {
+            "word": "products",
+            "score": 1146
+        },
+        {
+            "word": "photo",
+            "score": 1145
+        },
+        {
+            "word": "girls",
+            "score": 1142
+        },
+        {
+            "word": "wedding",
+            "score": 1137
+        },
+        {
+            "word": "models",
+            "score": 1136
+        },
+        {
+            "word": "susan",
+            "score": 1135
+        },
+        {
+            "word": "advertising",
+            "score": 1132
+        },
+        {
+            "word": "items",
+            "score": 1130
+        },
+        {
+            "word": "hollywood",
+            "score": 1129
+        },
+        {
+            "word": "vegas",
+            "score": 1123
+        },
+        {
+            "word": "launched",
+            "score": 1119
+        },
+        {
+            "word": "goods",
+            "score": 1118
+        },
+        {
+            "word": "designs",
+            "score": 1112
+        },
+        {
+            "word": "inaugural",
+            "score": 1106
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "lingerie",
+            "score": 130181
+        },
+        {
+            "word": "lingeries",
+            "score": 129331
+        },
+        {
+            "word": "lingering",
+            "score": 65567
+        },
+        {
+            "word": "lingered",
+            "score": 64881
+        },
+        {
+            "word": "lingerer",
+            "score": 64742
+        },
+        {
+            "word": "lingeringly",
+            "score": 64729
+        },
+        {
+            "word": "singerie",
+            "score": 64678
+        },
+        {
+            "word": "lingerers",
+            "score": 64662
+        },
+        {
+            "word": "lingering over",
+            "score": 64661
+        },
+        {
+            "word": "lingered over",
+            "score": 64660
+        }
+    ]
+}

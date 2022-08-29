@@ -1,0 +1,747 @@
+{
+    "term": "bicycle parts",
+    "means_like": [
+        {
+            "word": "gears",
+            "score": 149445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "chain",
+            "score": 148445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "chainring",
+            "score": 147445,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 146445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "derailleur",
+            "score": 145445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "brake",
+            "score": 144445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "handlebar",
+            "score": 143445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "stem",
+            "score": 142445,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "seat",
+            "score": 141445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tire",
+            "score": 140445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "machine",
+            "score": 29445,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tandem",
+            "score": 29445,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemble",
+            "score": 29164,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "spread",
+            "score": 29164,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "spreading",
+            "score": 29164,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cotter",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cycle",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fork",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forking",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "geared",
+            "score": 13045,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gwar",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 13045,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "seats",
+            "score": 13045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tread",
+            "score": 13045,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "treading",
+            "score": 13045,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "machined",
+            "score": 13003,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "mount",
+            "score": 13003,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "round",
+            "score": 13003,
+            "tags": [
+                "adj",
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "saddle",
+            "score": 13003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lace",
+            "score": 12992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moped",
+            "score": 12992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ordinary",
+            "score": 12992,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "quadruplet",
+            "score": 12992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rickshaw",
+            "score": 12992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scooter",
+            "score": 12992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "links",
+            "score": 12764,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steel",
+            "score": 12722,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steels",
+            "score": 12722,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quintet",
+            "score": 12711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brevet",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyclometer",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fender",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handlebars",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mudguard",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "path",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedal",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penny",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recumbent",
+            "score": 12024,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "saddlebag",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splash-guard",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splash guard",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoke",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprocket",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "track",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracked",
+            "score": 12024,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tracking",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treadle",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velodrome",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wheel",
+            "score": 12024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ankle",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpedal",
+            "score": 11982,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bell",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chopper",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coast",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garth",
+            "score": 11982,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "header",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kangaroo",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lane",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mono",
+            "score": 11982,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "pannier",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pumps",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quad",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quads",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "race",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rider",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "riding",
+            "score": 11982,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ross",
+            "score": 11982,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skid",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "speed",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spin",
+            "score": 11982,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tracks",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trek",
+            "score": 11982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bicycle-built-for-two",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block chain",
+            "score": 11743
+        },
+        {
+            "word": "handle",
+            "score": 11743,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "headset",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mileometer",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naturism",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rearview mirror",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seated",
+            "score": 11743,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tandem bicycle",
+            "score": 11743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "banana",
+            "score": 11701,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bicycle race",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "bicycle rack",
+            "score": 55,
+            "numSyllables": 4
+        },
+        {
+            "word": "bicycle",
+            "score": 52,
+            "numSyllables": 3
+        },
+        {
+            "word": "bicicleta",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "bicyclette",
+            "score": 50,
+            "numSyllables": 3
+        },
+        {
+            "word": "bicicletta",
+            "score": 50,
+            "numSyllables": 4
+        },
+        {
+            "word": "bicolour",
+            "score": 47,
+            "numSyllables": 3
+        },
+        {
+            "word": "best part",
+            "score": 45,
+            "numSyllables": 2
+        },
+        {
+            "word": "bicolored",
+            "score": 45,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bicycle path",
+            "score": 5
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bicycle path",
+            "score": 5
+        }
+    ]
+}

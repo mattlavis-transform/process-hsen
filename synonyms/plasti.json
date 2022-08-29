@@ -1,0 +1,557 @@
+{
+    "term": "plasti",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "plasty",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "blasty",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaster",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasty",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "plast",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pastie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plassey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "blasto",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastic",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "placed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "plateau",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plce",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pesty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "platy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasto",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "planty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "postie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plessy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastique",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastik",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "plotty",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "posti",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "blast",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "blaster",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "blasts",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "blasta",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "basti",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "-blast",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "past",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "passed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "plenty",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pluto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "patty",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "platter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plaza",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plato",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pesto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plat",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "pasts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "paster",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "patti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pattie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastiche",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "platt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "plas",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "plasters",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plats",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "plata",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "platte",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "passy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plantae",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "posta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "platz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "pista",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plass",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "pilaster",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "planta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasterer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "passi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "presti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "passee",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "platts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "pesta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "posto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pasgt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "platea",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "plaisted",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasse",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "platn",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "pattee",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pluta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plateaux",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ploidy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "prosti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placide",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plashy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cheoplasty",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "pasay",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pastier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "piastre",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "paulista",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "plasticky",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "piatti",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "planxty",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "plashed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "placit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "placita",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "plan d",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "prostie",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "plast",
+            "score": 395
+        },
+        {
+            "word": "plasty",
+            "score": 241
+        },
+        {
+            "word": "pasti",
+            "score": 10
+        },
+        {
+            "word": "lasti",
+            "score": 3
+        },
+        {
+            "word": "vlasti",
+            "score": 3
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "plastic",
+            "score": 65652
+        },
+        {
+            "word": "plasticity",
+            "score": 65119
+        },
+        {
+            "word": "plasticine",
+            "score": 64929
+        },
+        {
+            "word": "plastics",
+            "score": 64823
+        },
+        {
+            "word": "plastid",
+            "score": 64799
+        },
+        {
+            "word": "plasticizer",
+            "score": 64791
+        },
+        {
+            "word": "plastic surgery",
+            "score": 64774
+        },
+        {
+            "word": "plastic deformation",
+            "score": 64762
+        },
+        {
+            "word": "plasticize",
+            "score": 64762
+        },
+        {
+            "word": "plastisol",
+            "score": 64752
+        }
+    ]
+}

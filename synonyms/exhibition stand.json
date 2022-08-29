@@ -1,0 +1,774 @@
+{
+    "term": "exhibition stand",
+    "means_like": [
+        {
+            "word": "pavilion",
+            "score": 28217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitch",
+            "score": 28217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitched",
+            "score": 28217,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "avatar",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demonstrate",
+            "score": 11817,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "easel",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entry",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "floor",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hang",
+            "score": 11817,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hold",
+            "score": 11817,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "mount",
+            "score": 11817,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "present",
+            "score": 11817,
+            "tags": [
+                "adj",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "presentation",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "presented",
+            "score": 11817,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11817,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "show",
+            "score": 11817,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "stage",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "staged",
+            "score": 11817,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "touch",
+            "score": 11817,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "touched",
+            "score": 11817,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "trick",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "view",
+            "score": 11817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "witness",
+            "score": 11817,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pace",
+            "score": 11768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "species",
+            "score": 11768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cebit",
+            "score": 11756,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "station",
+            "score": 11713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stationing",
+            "score": 11713,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stations",
+            "score": 11713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "method",
+            "score": 11664,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "industrial",
+            "score": 11652,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "acclamation",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphitheater",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "annex",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "appearance",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aquarium",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arboretum",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "array",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "article",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "articles",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barnstorm",
+            "score": 10793,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "barnstorming",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "benching",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "booth",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabinet",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carnival",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catafalque",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cinema",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circus",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curator",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demonstration",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "det",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "development",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diffusion",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diorama",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dissemination",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "draw",
+            "score": 10793,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "entertainment",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhibit",
+            "score": 10793,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "exposition",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exposure",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fair",
+            "score": 10793,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "flying circus",
+            "score": 10793
+        },
+        {
+            "word": "fuss",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallery",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gibbet",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "globe",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gush",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gymkhana",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handler",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "judge",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "manifestation",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marquee",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menagerie",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "midway",
+            "score": 10793,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "museum",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muster",
+            "score": 10793,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "mustering",
+            "score": 10793,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "nickelodeon",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "offer",
+            "score": 10793,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 10793,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "ostentation",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pageant",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parade",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parading",
+            "score": 10793,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "peacock",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "performance",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phantasmagoria",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pit",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitting",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "play",
+            "score": 10793,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "presentment",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "preview",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "previews",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "program",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "projection",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puppetry",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recital",
+            "score": 10793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "release",
+            "score": 10793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "exhibition season",
+            "score": 65,
+            "numSyllables": 6
+        },
+        {
+            "word": "exhibition game",
+            "score": 55,
+            "numSyllables": 5
+        },
+        {
+            "word": "exhibition",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "exhibition area",
+            "score": 50,
+            "numSyllables": 7
+        },
+        {
+            "word": "extubation",
+            "score": 35,
+            "numSyllables": 4
+        },
+        {
+            "word": "acceptancy",
+            "score": 32,
+            "numSyllables": 4
+        },
+        {
+            "word": "squinted",
+            "score": 15,
+            "numSyllables": 2
+        },
+        {
+            "word": "school system",
+            "score": 10,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

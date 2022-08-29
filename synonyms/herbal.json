@@ -1,0 +1,1678 @@
+{
+    "term": "herbal",
+    "means_like": [
+        {
+            "word": "medicinal",
+            "score": 75351,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbs",
+            "score": 73945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chrysanthemum",
+            "score": 64861,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "herbaceous",
+            "score": 64215,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "vegetable",
+            "score": 63849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "natural",
+            "score": 60493,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 60458,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grass",
+            "score": 57374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "homeopathic",
+            "score": 51086,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "botanical",
+            "score": 51085,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "american ginseng",
+            "score": 51084,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "sweet cicely",
+            "score": 51083,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "giant hyssop",
+            "score": 51082,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bush pea",
+            "score": 51081,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbal medicine",
+            "score": 51080,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rattlesnake root",
+            "score": 51079,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "neem",
+            "score": 51078,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "false foxglove",
+            "score": 51077,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wood mint",
+            "score": 51076,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "naturopathic",
+            "score": 51075,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cupflower",
+            "score": 51074,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "medicinable",
+            "score": 51073,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aromatic",
+            "score": 51072,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "homoeopathic",
+            "score": 51071,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "herbous",
+            "score": 51070,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "diapasm",
+            "score": 51069,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lichwort",
+            "score": 51068,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wild ginger",
+            "score": 51067,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbless",
+            "score": 51066,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbal tea",
+            "score": 51065,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "costmary",
+            "score": 51064,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ayapana",
+            "score": 51063,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbose",
+            "score": 51062,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "black horehound",
+            "score": 51061,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "pennyroyal",
+            "score": 51060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aphrodisiac",
+            "score": 51059,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hedge nettle",
+            "score": 51058,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "oolong",
+            "score": 51057,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gingko",
+            "score": 51056,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bioflavonoid",
+            "score": 51055,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stoneroot",
+            "score": 51054,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "materia medica",
+            "score": 51053,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "eugenol",
+            "score": 51052,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "antispasmodic",
+            "score": 51051,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brahmi",
+            "score": 51050,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "calamine",
+            "score": 51049,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "laetrile",
+            "score": 51048,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hierapicra",
+            "score": 51047,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "epicerastic",
+            "score": 51046,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "turmeric",
+            "score": 51045,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mangosteen",
+            "score": 51044,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "essential oil",
+            "score": 51043,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mentholated",
+            "score": 51042,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "antipyretic",
+            "score": 51041,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbescent",
+            "score": 51040,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "carminative",
+            "score": 51039,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tamarind",
+            "score": 51038,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bay rum",
+            "score": 51037,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "laxative",
+            "score": 51036,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "tumeric",
+            "score": 51035,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "antidiarrheal",
+            "score": 51034,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tetterwort",
+            "score": 51033,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pomegranate",
+            "score": 51032,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ayurvedic",
+            "score": 51031,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hyoscine",
+            "score": 51030,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "allopathic",
+            "score": 51029,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "probiotic",
+            "score": 51028,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nonaddictive",
+            "score": 51027,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pelargonium",
+            "score": 51026,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "psychoactive",
+            "score": 51025,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nutraceutical",
+            "score": 51024,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "apothecary",
+            "score": 51023,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lavender",
+            "score": 51022,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "smokable",
+            "score": 51021,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hemp nettle",
+            "score": 51020,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "oswego tea",
+            "score": 51019,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "acology",
+            "score": 51018,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "salicylic",
+            "score": 51017,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "narcotic",
+            "score": 51016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bible leaf",
+            "score": 51015,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "neroli",
+            "score": 51014,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lycium",
+            "score": 51013,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "geranium",
+            "score": 51012,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tassel flower",
+            "score": 51011,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "herbiferous",
+            "score": 51010,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "psychotropic",
+            "score": 51009,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chia",
+            "score": 51008,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "blue cohosh",
+            "score": 51007,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ergotamine",
+            "score": 51006,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "glycolic",
+            "score": 51005,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pawpaw",
+            "score": 51004,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "oil of wintergreen",
+            "score": 51003,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hallucinogen",
+            "score": 51002,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "areca",
+            "score": 51001,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "valerianic",
+            "score": 51000,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "astragalus",
+            "score": 50999,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dioscorea",
+            "score": 50998,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "oriental",
+            "score": 50997,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "catapasm",
+            "score": 50996,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "perfumy",
+            "score": 50995,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "herbal",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "erbil",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "urpl",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "rebel",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "rubble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "verbal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gerbil",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rabble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "burble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rouble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rul",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rull",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rubel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ribble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "roble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "verble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rabel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "robel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rabil",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wrobel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "raible",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rabal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "arbel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "urba",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kerbel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "erba",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruhl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jirrbal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "riebel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "roybal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "worble",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "robl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "zirbel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruybal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ible",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "eble",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ebel",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ibl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ubl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "obl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ebal",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ebl",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bhl",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "rebell",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "rel",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "rill",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "ril",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "rell",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "rle",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "rebelle",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhyl",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gerbille",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "ryl",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "rille",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "arbil",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "rdl",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "real",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "purple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rail",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "reel",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ral",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "raul",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "arielle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rall",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "furball",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rappel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rael",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "areal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rale",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rawl",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "curple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "airball",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fur ball",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hirple",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "arbol",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "irby",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rbi",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "repl",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "reil",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "erby",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rbe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rebol",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rele",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "rahl",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "areole",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rbo",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "erpa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rayl",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "raal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "erbia",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "rawle",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "erben",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rabaul",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ebill",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "air ball",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "reell",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ergal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rbl",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "herbal",
+            "score": 65140
+        },
+        {
+            "word": "verbal",
+            "score": 894
+        },
+        {
+            "word": "herba",
+            "score": 66
+        },
+        {
+            "word": "herbar",
+            "score": 31
+        },
+        {
+            "word": "hersal",
+            "score": 24
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "teas",
+            "score": 1750
+        },
+        {
+            "word": "remedies",
+            "score": 1732
+        },
+        {
+            "word": "essences",
+            "score": 1721
+        },
+        {
+            "word": "viagra",
+            "score": 1680
+        },
+        {
+            "word": "medicines",
+            "score": 1670
+        },
+        {
+            "word": "liqueur",
+            "score": 1658
+        },
+        {
+            "word": "pharmacopoeia",
+            "score": 1649
+        },
+        {
+            "word": "herbalist",
+            "score": 1639
+        },
+        {
+            "word": "laxative",
+            "score": 1632
+        },
+        {
+            "word": "diuretic",
+            "score": 1627
+        },
+        {
+            "word": "ayurvedic",
+            "score": 1618
+        },
+        {
+            "word": "ginseng",
+            "score": 1606
+        },
+        {
+            "word": "medicinal",
+            "score": 1602
+        },
+        {
+            "word": "acupuncture",
+            "score": 1578
+        },
+        {
+            "word": "herbs",
+            "score": 1574
+        },
+        {
+            "word": "remedy",
+            "score": 1572
+        },
+        {
+            "word": "supplements",
+            "score": 1554
+        },
+        {
+            "word": "extracts",
+            "score": 1547
+        },
+        {
+            "word": "ayurveda",
+            "score": 1542
+        },
+        {
+            "word": "medica",
+            "score": 1541
+        },
+        {
+            "word": "shampoo",
+            "score": 1535
+        },
+        {
+            "word": "infusion",
+            "score": 1517
+        },
+        {
+            "word": "tea",
+            "score": 1515
+        },
+        {
+            "word": "ailments",
+            "score": 1498
+        },
+        {
+            "word": "medicine",
+            "score": 1487
+        },
+        {
+            "word": "tonic",
+            "score": 1482
+        },
+        {
+            "word": "jelly",
+            "score": 1470
+        },
+        {
+            "word": "massage",
+            "score": 1469
+        },
+        {
+            "word": "cough",
+            "score": 1464
+        },
+        {
+            "word": "healer",
+            "score": 1457
+        },
+        {
+            "word": "incense",
+            "score": 1439
+        },
+        {
+            "word": "dietary",
+            "score": 1436
+        },
+        {
+            "word": "ingredients",
+            "score": 1435
+        },
+        {
+            "word": "formulas",
+            "score": 1433
+        },
+        {
+            "word": "herb",
+            "score": 1419
+        },
+        {
+            "word": "blends",
+            "score": 1413
+        },
+        {
+            "word": "cannabis",
+            "score": 1401
+        },
+        {
+            "word": "preparations",
+            "score": 1393
+        },
+        {
+            "word": "healing",
+            "score": 1388
+        },
+        {
+            "word": "cosmetics",
+            "score": 1383
+        },
+        {
+            "word": "extract",
+            "score": 1382
+        },
+        {
+            "word": "recipes",
+            "score": 1381
+        },
+        {
+            "word": "haryana",
+            "score": 1379
+        },
+        {
+            "word": "cigarettes",
+            "score": 1376
+        },
+        {
+            "word": "oils",
+            "score": 1372
+        },
+        {
+            "word": "aromatic",
+            "score": 1366
+        },
+        {
+            "word": "ingredient",
+            "score": 1364
+        },
+        {
+            "word": "nutritional",
+            "score": 1362
+        },
+        {
+            "word": "dried",
+            "score": 1359
+        },
+        {
+            "word": "supplement",
+            "score": 1345
+        },
+        {
+            "word": "prescription",
+            "score": 1341
+        },
+        {
+            "word": "treat",
+            "score": 1340
+        },
+        {
+            "word": "beverage",
+            "score": 1334
+        },
+        {
+            "word": "bark",
+            "score": 1329
+        },
+        {
+            "word": "efficacy",
+            "score": 1325
+        },
+        {
+            "word": "ginger",
+            "score": 1324
+        },
+        {
+            "word": "spices",
+            "score": 1323
+        },
+        {
+            "word": "paste",
+            "score": 1316
+        },
+        {
+            "word": "drinks",
+            "score": 1315
+        },
+        {
+            "word": "botanical",
+            "score": 1309
+        },
+        {
+            "word": "substances",
+            "score": 1308
+        },
+        {
+            "word": "medication",
+            "score": 1304
+        },
+        {
+            "word": "beverages",
+            "score": 1302
+        },
+        {
+            "word": "flavor",
+            "score": 1299
+        },
+        {
+            "word": "cure",
+            "score": 1293
+        },
+        {
+            "word": "vitamin",
+            "score": 1291
+        },
+        {
+            "word": "plants",
+            "score": 1285
+        },
+        {
+            "word": "pharmaceutical",
+            "score": 1279
+        },
+        {
+            "word": "products",
+            "score": 1275
+        },
+        {
+            "word": "bitter",
+            "score": 1271
+        },
+        {
+            "word": "malaria",
+            "score": 1270
+        },
+        {
+            "word": "drugs",
+            "score": 1267
+        },
+        {
+            "word": "therapeutic",
+            "score": 1266
+        },
+        {
+            "word": "adverse",
+            "score": 1264
+        },
+        {
+            "word": "synthetic",
+            "score": 1260
+        },
+        {
+            "word": "consumed",
+            "score": 1257
+        },
+        {
+            "word": "drink",
+            "score": 1253
+        },
+        {
+            "word": "directive",
+            "score": 1250
+        },
+        {
+            "word": "therapy",
+            "score": 1247
+        },
+        {
+            "word": "pharmacy",
+            "score": 1245
+        },
+        {
+            "word": "treating",
+            "score": 1244
+        },
+        {
+            "word": "blend",
+            "score": 1241
+        },
+        {
+            "word": "tobacco",
+            "score": 1236
+        },
+        {
+            "word": "honey",
+            "score": 1230
+        },
+        {
+            "word": "powder",
+            "score": 1226
+        },
+        {
+            "word": "liver",
+            "score": 1218
+        },
+        {
+            "word": "toxic",
+            "score": 1214
+        },
+        {
+            "word": "compounds",
+            "score": 1211
+        },
+        {
+            "word": "eaten",
+            "score": 1207
+        },
+        {
+            "word": "smoking",
+            "score": 1198
+        },
+        {
+            "word": "wounds",
+            "score": 1197
+        },
+        {
+            "word": "regulated",
+            "score": 1195
+        },
+        {
+            "word": "root",
+            "score": 1193
+        },
+        {
+            "word": "leaves",
+            "score": 1190
+        },
+        {
+            "word": "plant",
+            "score": 1187
+        },
+        {
+            "word": "seeds",
+            "score": 1186
+        },
+        {
+            "word": "foods",
+            "score": 1182
+        },
+        {
+            "word": "treatment",
+            "score": 1181
+        },
+        {
+            "word": "fever",
+            "score": 1177
+        },
+        {
+            "word": "garden",
+            "score": 1174
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "herbal",
+            "score": 65140
+        },
+        {
+            "word": "herbalist",
+            "score": 64875
+        },
+        {
+            "word": "herbal tea",
+            "score": 64730
+        },
+        {
+            "word": "herbalism",
+            "score": 64729
+        },
+        {
+            "word": "herbals",
+            "score": 64724
+        },
+        {
+            "word": "herbalists",
+            "score": 64687
+        },
+        {
+            "word": "herbal medicine",
+            "score": 64682
+        },
+        {
+            "word": "herbal teas",
+            "score": 64679
+        },
+        {
+            "word": "herbally",
+            "score": 64679
+        },
+        {
+            "word": "herbal supplement",
+            "score": 64678
+        }
+    ]
+}

@@ -1,0 +1,1176 @@
+{
+    "term": "power bank",
+    "means_like": [
+        {
+            "word": "managed currency",
+            "score": 28237
+        },
+        {
+            "word": "govern",
+            "score": 28180,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "governed",
+            "score": 28180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incorporate",
+            "score": 28180,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bank credit card",
+            "score": 28118
+        },
+        {
+            "word": "accommodation",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atm",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balance",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "central",
+            "score": 11837,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "charter",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 11837,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 11837,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "credit",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "draw",
+            "score": 11837,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "failure",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 11837,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "governor",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "horse",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "know",
+            "score": 11837,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "left",
+            "score": 11837,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lodge",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "memory",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "money",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "president",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "right",
+            "score": 11837,
+            "tags": [
+                "adj",
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "rights",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "runner",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "safe",
+            "score": 11837,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "saved",
+            "score": 11837,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "track",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracked",
+            "score": 11837,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tracking",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracks",
+            "score": 11837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cash",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaldea",
+            "score": 11780,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dam",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dummy",
+            "score": 11780,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "erode",
+            "score": 11780,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "horae",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jackson",
+            "score": 11780,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "keep",
+            "score": 11780,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "keeps",
+            "score": 11780,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "mutual savings bank",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pass",
+            "score": 11780,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "passed",
+            "score": 11780,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "peg",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11780,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "var",
+            "score": 11780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bounce",
+            "score": 11609,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cant",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coast",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drift",
+            "score": 11609,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eye",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interest",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invest",
+            "score": 11609,
+            "tags": [
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "place",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rest",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "runs",
+            "score": 11609,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "save",
+            "score": 11609,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "six day war",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspension",
+            "score": 11609,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curb",
+            "score": 11552,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "curbing",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drifting",
+            "score": 11552,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "enough",
+            "score": 11552,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "law",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patronage",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pipes",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plugged",
+            "score": 11552,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "root",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roots",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "second",
+            "score": 11552,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "seconds",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unit",
+            "score": 11552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acc",
+            "score": 11547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frank",
+            "score": 11547,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "convert",
+            "score": 11490,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cornea",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donor",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ferry",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "row",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abdicate",
+            "score": 10723,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "abdication",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ability",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acid",
+            "score": 10723,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "affordability",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agent",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angara",
+            "score": 10723,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "angel",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argentina",
+            "score": 10723,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audiometer",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aut",
+            "score": 10723
+        },
+        {
+            "word": "authority",
+            "score": 10723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auxiliary",
+            "score": 10723,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 10723,
+            "tags": [
+                "n",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "power pack",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "burbank",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "prank",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "bareback",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "powerball",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "payback",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "powering",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "paperback",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "princ",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "prink",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "pay back",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pronk",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "piggy bank",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "piggybank",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pushback",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "push back",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "barbing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "purbeck",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "prunk",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "barbaic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "penny bank",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "brank",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "branc",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "parboil",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "beer bong",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "fairbank",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "pouring",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "poring",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "parring",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "parekh",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pranks",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "pairing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "peering",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pirana",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "powerpoint",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pyrrhic",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "prang",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "pranked",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "paring",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pranker",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pank",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "prac",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "prak",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "borbon",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "power point",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pullback",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "parikh",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "parang",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "panc",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "pubbing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "poor boy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "paper bag",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pushbike",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barban",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "paperbag",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sperm bank",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barbin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "push bike",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pull back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "power on",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "peel back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "put back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "prayer book",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barbone",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "push-bike",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pass back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "powerboat",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "barbon",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "paid back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "harbach",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pyric",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "pickback",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warbeck",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bourbonnais",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "poor box",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "prayerbook",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "power boat",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "power hunger",
+            "score": 70,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "power pack",
+            "score": 112
+        },
+        {
+            "word": "power base",
+            "score": 35
+        },
+        {
+            "word": "lower back",
+            "score": 22
+        },
+        {
+            "word": "lower rank",
+            "score": 22
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "power pack",
+            "score": 112
+        },
+        {
+            "word": "power broker",
+            "score": 69
+        },
+        {
+            "word": "power base",
+            "score": 35
+        },
+        {
+            "word": "lower back",
+            "score": 22
+        },
+        {
+            "word": "lower rank",
+            "score": 22
+        },
+        {
+            "word": "power walking",
+            "score": 20
+        },
+        {
+            "word": "power takeoff",
+            "score": 16
+        },
+        {
+            "word": "lower ranking",
+            "score": 13
+        },
+        {
+            "word": "power packs",
+            "score": 13
+        },
+        {
+            "word": "power brake",
+            "score": 7
+        }
+    ]
+}

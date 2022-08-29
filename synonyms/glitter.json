@@ -1,0 +1,1946 @@
+{
+    "term": "glitter",
+    "means_like": [
+        {
+            "word": "sparkle",
+            "score": 94612,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "glisten",
+            "score": 89059,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "gleam",
+            "score": 86793,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "shine",
+            "score": 86306,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "glint",
+            "score": 84179,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "scintillation",
+            "score": 79212,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "glister",
+            "score": 76988,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "glow",
+            "score": 66942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twinkle",
+            "score": 63501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nonsense",
+            "score": 57358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaff",
+            "score": 54092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shimmer",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glitz",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinsel",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bling",
+            "score": 51010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diamante",
+            "score": 51007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dazzle",
+            "score": 51006,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "confetti",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pink",
+            "score": 51004,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cerulean blue",
+            "score": 51003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sequins",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spangles",
+            "score": 51001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rhinestones",
+            "score": 51000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glamor",
+            "score": 50999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinquant",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glam",
+            "score": 50997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fulgid",
+            "score": 50996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fulgency",
+            "score": 50995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fulgently",
+            "score": 50994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lipstick",
+            "score": 50993,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garishness",
+            "score": 50992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burnt umber",
+            "score": 50991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeliner",
+            "score": 50990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lip gloss",
+            "score": 50989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lurex",
+            "score": 50988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vermillion",
+            "score": 50987,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baubles",
+            "score": 50986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "razzmatazz",
+            "score": 50985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bronzer",
+            "score": 50984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillettes",
+            "score": 50983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blusher",
+            "score": 50982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neons",
+            "score": 50981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiaras",
+            "score": 50980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iridesce",
+            "score": 50979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glimmering",
+            "score": 50978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charmeuse",
+            "score": 50977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twinkling",
+            "score": 50975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lippie",
+            "score": 50974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stardust",
+            "score": 50973,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gaudiness",
+            "score": 50972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "organdy",
+            "score": 50971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillette",
+            "score": 50970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frippery",
+            "score": 50969,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pizzazz",
+            "score": 50968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crepe paper",
+            "score": 50967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rutilant",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tackiness",
+            "score": 50965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "golden glow",
+            "score": 50964,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mascara",
+            "score": 50963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kohl",
+            "score": 50962,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sequin",
+            "score": 50961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruffles",
+            "score": 50960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gladrags",
+            "score": 50958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beading",
+            "score": 50957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coral necklace",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail varnish",
+            "score": 50955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lustreless",
+            "score": 50954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rickrack",
+            "score": 50953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brightsome",
+            "score": 50952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunray",
+            "score": 50951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crinoline",
+            "score": 50949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "citrine",
+            "score": 50948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail polish",
+            "score": 50947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glimmer",
+            "score": 50946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeshadow",
+            "score": 50945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aventurine",
+            "score": 50944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tulle",
+            "score": 50943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "translucence",
+            "score": 50942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voluptuousness",
+            "score": 50941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loveliness",
+            "score": 50940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shiny",
+            "score": 50939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embellishments",
+            "score": 50938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "technicolor",
+            "score": 50937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furbelows",
+            "score": 50936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodypaint",
+            "score": 50935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pizzaz",
+            "score": 50934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lustring",
+            "score": 50933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "folderol",
+            "score": 50932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiffon",
+            "score": 50931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purplish pink",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feather boa",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voiles",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frosting",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabulousness",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyebrow pencil",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blueness",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheeny",
+            "score": 50923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "finery",
+            "score": 50922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shininess",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stonewash",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "glitter",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloater",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "glidder",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "clitter",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "clutter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "glider",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "glitters",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "glittery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "glittered",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gladder",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "glister",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gitter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "glit",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "glader",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aglitter",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "clatter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "clater",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "clotter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "claytor",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "clouter",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gutter",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "glare",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "getter",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "glut",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "glair",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "glaire",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "guetter",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gator",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glimmer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glacier",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glitz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glower",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glor",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glore",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gater",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloucester",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glute",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goiter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glazer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaiter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glot",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gritter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glaser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gleet",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glid",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gloor",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gloster",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glatt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gotter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glout",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goitre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glaciar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gatter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gluer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "geeter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glaeser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goter",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gritar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloire",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "glisser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glue ear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glaister",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "glozer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gauleiter",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "clear",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "clit",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "quitter",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "flitter",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "clowder",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "klit",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "slitter",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleere",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "clyster",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "elater",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "clytie",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "blitter",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "klear",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "klister",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "clir",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "quittor",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "colleter",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "klawitter",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "glover",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "glummer",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "gluts",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "gled",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "glud",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "claire",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clare",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clair",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "aglet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cler",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clet",
+            "score": 80,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "glitter",
+            "score": 130006
+        },
+        {
+            "word": "litter",
+            "score": 66187
+        },
+        {
+            "word": "flitter",
+            "score": 64975
+        },
+        {
+            "word": "glister",
+            "score": 64893
+        },
+        {
+            "word": "aglitter",
+            "score": 64866
+        },
+        {
+            "word": "slitter",
+            "score": 64800
+        },
+        {
+            "word": "gritter",
+            "score": 64775
+        },
+        {
+            "word": "clitter",
+            "score": 64768
+        },
+        {
+            "word": "gitter",
+            "score": 64749
+        },
+        {
+            "word": "blitter",
+            "score": 64729
+        },
+        {
+            "word": "letter",
+            "score": 2565
+        },
+        {
+            "word": "latter",
+            "score": 2308
+        },
+        {
+            "word": "bitter",
+            "score": 1555
+        },
+        {
+            "word": "flutter",
+            "score": 1308
+        },
+        {
+            "word": "clutter",
+            "score": 1229
+        },
+        {
+            "word": "blister",
+            "score": 1226
+        },
+        {
+            "word": "flatter",
+            "score": 1024
+        },
+        {
+            "word": "gutter",
+            "score": 1000
+        },
+        {
+            "word": "grifter",
+            "score": 830
+        },
+        {
+            "word": "slither",
+            "score": 790
+        },
+        {
+            "word": "twitter",
+            "score": 756
+        },
+        {
+            "word": "gaiter",
+            "score": 704
+        },
+        {
+            "word": "liter",
+            "score": 697
+        },
+        {
+            "word": "jitter",
+            "score": 654
+        },
+        {
+            "word": "fritter",
+            "score": 620
+        },
+        {
+            "word": "glimmer",
+            "score": 609
+        },
+        {
+            "word": "clatter",
+            "score": 575
+        },
+        {
+            "word": "critter",
+            "score": 550
+        },
+        {
+            "word": "fitter",
+            "score": 545
+        },
+        {
+            "word": "platter",
+            "score": 544
+        },
+        {
+            "word": "glider",
+            "score": 542
+        },
+        {
+            "word": "glisten",
+            "score": 503
+        },
+        {
+            "word": "titter",
+            "score": 502
+        },
+        {
+            "word": "sitter",
+            "score": 495
+        },
+        {
+            "word": "hitter",
+            "score": 493
+        },
+        {
+            "word": "goiter",
+            "score": 475
+        },
+        {
+            "word": "skitter",
+            "score": 444
+        },
+        {
+            "word": "splitter",
+            "score": 437
+        },
+        {
+            "word": "littler",
+            "score": 403
+        },
+        {
+            "word": "blotter",
+            "score": 401
+        },
+        {
+            "word": "ditter",
+            "score": 400
+        },
+        {
+            "word": "blither",
+            "score": 393
+        },
+        {
+            "word": "lister",
+            "score": 337
+        },
+        {
+            "word": "zitter",
+            "score": 319
+        },
+        {
+            "word": "getter",
+            "score": 297
+        },
+        {
+            "word": "plotter",
+            "score": 270
+        },
+        {
+            "word": "emitter",
+            "score": 251
+        },
+        {
+            "word": "clotter",
+            "score": 239
+        },
+        {
+            "word": "linter",
+            "score": 226
+        },
+        {
+            "word": "witter",
+            "score": 218
+        },
+        {
+            "word": "quitter",
+            "score": 208
+        },
+        {
+            "word": "ritter",
+            "score": 208
+        },
+        {
+            "word": "lifter",
+            "score": 203
+        },
+        {
+            "word": "blatter",
+            "score": 197
+        },
+        {
+            "word": "lither",
+            "score": 192
+        },
+        {
+            "word": "chitter",
+            "score": 190
+        },
+        {
+            "word": "knitter",
+            "score": 183
+        },
+        {
+            "word": "pitter",
+            "score": 182
+        },
+        {
+            "word": "glittery",
+            "score": 178
+        },
+        {
+            "word": "gloater",
+            "score": 154
+        },
+        {
+            "word": "flitted",
+            "score": 151
+        },
+        {
+            "word": "gritted",
+            "score": 150
+        },
+        {
+            "word": "glyster",
+            "score": 140
+        },
+        {
+            "word": "glutted",
+            "score": 131
+        },
+        {
+            "word": "glibber",
+            "score": 129
+        },
+        {
+            "word": "slitted",
+            "score": 129
+        },
+        {
+            "word": "slotter",
+            "score": 116
+        },
+        {
+            "word": "shitter",
+            "score": 105
+        },
+        {
+            "word": "spitter",
+            "score": 103
+        },
+        {
+            "word": "litten",
+            "score": 99
+        },
+        {
+            "word": "glite",
+            "score": 98
+        },
+        {
+            "word": "aliter",
+            "score": 89
+        },
+        {
+            "word": "flirter",
+            "score": 81
+        },
+        {
+            "word": "gotter",
+            "score": 81
+        },
+        {
+            "word": "grittier",
+            "score": 78
+        },
+        {
+            "word": "whitter",
+            "score": 75
+        },
+        {
+            "word": "glinted",
+            "score": 73
+        },
+        {
+            "word": "slatter",
+            "score": 73
+        },
+        {
+            "word": "blitzer",
+            "score": 72
+        },
+        {
+            "word": "omitter",
+            "score": 71
+        },
+        {
+            "word": "nitter",
+            "score": 68
+        },
+        {
+            "word": "klister",
+            "score": 65
+        },
+        {
+            "word": "lotter",
+            "score": 61
+        },
+        {
+            "word": "glitters",
+            "score": 60
+        },
+        {
+            "word": "lutter",
+            "score": 60
+        },
+        {
+            "word": "gloster",
+            "score": 49
+        },
+        {
+            "word": "flinter",
+            "score": 48
+        },
+        {
+            "word": "gritten",
+            "score": 46
+        },
+        {
+            "word": "alister",
+            "score": 43
+        },
+        {
+            "word": "mitter",
+            "score": 37
+        },
+        {
+            "word": "ginter",
+            "score": 33
+        },
+        {
+            "word": "gaither",
+            "score": 31
+        },
+        {
+            "word": "glitzier",
+            "score": 26
+        },
+        {
+            "word": "kritter",
+            "score": 25
+        },
+        {
+            "word": "flotter",
+            "score": 23
+        },
+        {
+            "word": "zwitter",
+            "score": 19
+        },
+        {
+            "word": "gitte",
+            "score": 18
+        },
+        {
+            "word": "glidder",
+            "score": 17
+        },
+        {
+            "word": "litster",
+            "score": 13
+        },
+        {
+            "word": "glaister",
+            "score": 12
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "fated",
+            "score": 1719
+        },
+        {
+            "word": "loverboy",
+            "score": 1706
+        },
+        {
+            "word": "sequins",
+            "score": 1696
+        },
+        {
+            "word": "glam",
+            "score": 1633
+        },
+        {
+            "word": "confetti",
+            "score": 1631
+        },
+        {
+            "word": "leander",
+            "score": 1629
+        },
+        {
+            "word": "gulch",
+            "score": 1584
+        },
+        {
+            "word": "gloss",
+            "score": 1481
+        },
+        {
+            "word": "carey",
+            "score": 1460
+        },
+        {
+            "word": "kitty",
+            "score": 1422
+        },
+        {
+            "word": "doom",
+            "score": 1420
+        },
+        {
+            "word": "gown",
+            "score": 1416
+        },
+        {
+            "word": "shiny",
+            "score": 1406
+        },
+        {
+            "word": "darius",
+            "score": 1397
+        },
+        {
+            "word": "jeans",
+            "score": 1385
+        },
+        {
+            "word": "reflective",
+            "score": 1383
+        },
+        {
+            "word": "nail",
+            "score": 1376
+        },
+        {
+            "word": "velvet",
+            "score": 1362
+        },
+        {
+            "word": "bowie",
+            "score": 1337
+        },
+        {
+            "word": "gary",
+            "score": 1319
+        },
+        {
+            "word": "boots",
+            "score": 1316
+        },
+        {
+            "word": "confined",
+            "score": 1309
+        },
+        {
+            "word": "rex",
+            "score": 1301
+        },
+        {
+            "word": "candy",
+            "score": 1298
+        },
+        {
+            "word": "balls",
+            "score": 1289
+        },
+        {
+            "word": "remix",
+            "score": 1284
+        },
+        {
+            "word": "accompanying",
+            "score": 1275
+        },
+        {
+            "word": "dome",
+            "score": 1272
+        },
+        {
+            "word": "soundtrack",
+            "score": 1271
+        },
+        {
+            "word": "fairy",
+            "score": 1262
+        },
+        {
+            "word": "roll",
+            "score": 1259
+        },
+        {
+            "word": "costumes",
+            "score": 1256
+        },
+        {
+            "word": "pink",
+            "score": 1255
+        },
+        {
+            "word": "punk",
+            "score": 1248
+        },
+        {
+            "word": "eyes",
+            "score": 1243
+        },
+        {
+            "word": "wearing",
+            "score": 1238
+        },
+        {
+            "word": "mike",
+            "score": 1231
+        },
+        {
+            "word": "rock",
+            "score": 1229
+        },
+        {
+            "word": "dust",
+            "score": 1227
+        },
+        {
+            "word": "bright",
+            "score": 1224
+        },
+        {
+            "word": "peaked",
+            "score": 1220
+        },
+        {
+            "word": "bombing",
+            "score": 1219
+        },
+        {
+            "word": "paint",
+            "score": 1218
+        },
+        {
+            "word": "pretty",
+            "score": 1213
+        },
+        {
+            "word": "promotional",
+            "score": 1211
+        },
+        {
+            "word": "particles",
+            "score": 1205
+        },
+        {
+            "word": "band",
+            "score": 1200
+        },
+        {
+            "word": "disappeared",
+            "score": 1198
+        },
+        {
+            "word": "sweet",
+            "score": 1196
+        },
+        {
+            "word": "pool",
+            "score": 1191
+        },
+        {
+            "word": "backing",
+            "score": 1190
+        },
+        {
+            "word": "sky",
+            "score": 1186
+        },
+        {
+            "word": "sample",
+            "score": 1180
+        },
+        {
+            "word": "ball",
+            "score": 1176
+        },
+        {
+            "word": "hair",
+            "score": 1171
+        },
+        {
+            "word": "purple",
+            "score": 1169
+        },
+        {
+            "word": "gay",
+            "score": 1167
+        },
+        {
+            "word": "touch",
+            "score": 1166
+        },
+        {
+            "word": "dancing",
+            "score": 1164
+        },
+        {
+            "word": "convicted",
+            "score": 1161
+        },
+        {
+            "word": "pop",
+            "score": 1159
+        },
+        {
+            "word": "plastic",
+            "score": 1158
+        },
+        {
+            "word": "singles",
+            "score": 1157
+        },
+        {
+            "word": "verse",
+            "score": 1153
+        },
+        {
+            "word": "makeup",
+            "score": 1152
+        },
+        {
+            "word": "waves",
+            "score": 1144
+        },
+        {
+            "word": "girls",
+            "score": 1141
+        },
+        {
+            "word": "gold",
+            "score": 1139
+        },
+        {
+            "word": "compilation",
+            "score": 1135
+        },
+        {
+            "word": "emotional",
+            "score": 1134
+        },
+        {
+            "word": "lights",
+            "score": 1132
+        },
+        {
+            "word": "vegas",
+            "score": 1131
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "glitter",
+            "score": 130006
+        },
+        {
+            "word": "glitterati",
+            "score": 129656
+        },
+        {
+            "word": "glittering",
+            "score": 129557
+        },
+        {
+            "word": "glittery",
+            "score": 129496
+        },
+        {
+            "word": "glitters",
+            "score": 129378
+        },
+        {
+            "word": "glittered",
+            "score": 129372
+        },
+        {
+            "word": "glitteringly",
+            "score": 129353
+        },
+        {
+            "word": "glitterand",
+            "score": 129331
+        },
+        {
+            "word": "glittertind",
+            "score": 129328
+        },
+        {
+            "word": "glitter rock",
+            "score": 129325
+        }
+    ]
+}

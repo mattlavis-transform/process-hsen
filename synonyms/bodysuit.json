@@ -1,0 +1,1253 @@
+{
+    "term": "bodysuit",
+    "means_like": [
+        {
+            "word": "leotard",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unitard",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lycra",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skintight",
+            "score": 51349,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper suit",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spandex",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monokini",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarment",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumpsuit",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandeau",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minidress",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bikini",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandarin collar",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankini",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tutu",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thong",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pant",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maillot",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgown",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undies",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilet",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimsuits",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bustier",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cossie",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniskirt",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burqini",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overskirt",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sequins",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrunchie",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armholes",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing suit",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillettes",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodypaint",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mohawk",
+            "score": 51307,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "harem pants",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headpiece",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spaghetti strap",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wetsuit",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kaftan",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brassiere",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairband",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choli",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "babydoll",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharkskin",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laceless",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crinoline",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drapey",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mermaid",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nipple shield",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hajib",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mary janes",
+            "score": 51288,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shirtwaister",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underskirt",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "getup",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "culotte",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toreador pants",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imitation leather",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pleats",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slinky",
+            "score": 51278,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lurex",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muumuu",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rhinestones",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirndl",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capri",
+            "score": 51271,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headress",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trousers",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chastity belt",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fishnets",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underpants",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peroxide blonde",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tophat",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lip synching",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mukluk",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leg warmers",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "codpiece",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooded cloak",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raglan",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligees",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peignoir",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bodysuit",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "body suit",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "body heat",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "body weight",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "potty seat",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "baddest",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "buddhist",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedsit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "body kit",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "bodices",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "body fat",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "bedsite",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "boodhist",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "podocyte",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "bawdiest",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "birthday suit",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "bodies",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bodied",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedside",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bodice",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "besot",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bomb site",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "box out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "baldest",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "box set",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "badia",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "betty white",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bad seed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "body art",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "batist",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beady-eyed",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "boddice",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "body pad",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "body waste",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "battiste",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "beats it",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bosset",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "battisti",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bomb sight",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bunny suit",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "butts out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "beady eyed",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "podest",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "bautista",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "bauxite",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "broadest",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "baud rate",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bounce out",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "baudet",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedsheet",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bed sheet",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bathing suit",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "bad hat",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bad shot",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "beast",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "backseat",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "badass",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babysit",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "back seat",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "basset",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bandicoot",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baddies",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bassett",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedecked",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "baby-sit",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "babysat",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bad mood",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedight",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "basu",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bed post",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bad taste",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "battista",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bad debt",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "badi",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedmate",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "backset",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedfast",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beauteousness",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bedewed",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beaudette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beady eyes",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "beaudet",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "baby sat",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bassette",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "battiest",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "beady eye",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby sit",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "backsight",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "b side",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "battiato",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "bdes",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "badea",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baptisia",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "basuto",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bed rest",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bodysuit",
+            "score": 129436
+        },
+        {
+            "word": "body suit",
+            "score": 64684
+        },
+        {
+            "word": "bodysurf",
+            "score": 67
+        },
+        {
+            "word": "bodysuits",
+            "score": 19
+        },
+        {
+            "word": "body kit",
+            "score": 15
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bodysuit",
+            "score": 129436
+        },
+        {
+            "word": "bodysuits",
+            "score": 129337
+        },
+        {
+            "word": "body suit",
+            "score": 64684
+        },
+        {
+            "word": "bodybuilding",
+            "score": 173
+        },
+        {
+            "word": "bodybuilder",
+            "score": 169
+        },
+        {
+            "word": "bodysurf",
+            "score": 67
+        },
+        {
+            "word": "bodybuilders",
+            "score": 29
+        },
+        {
+            "word": "bodysurfing",
+            "score": 28
+        },
+        {
+            "word": "bodysurfer",
+            "score": 19
+        },
+        {
+            "word": "body kit",
+            "score": 15
+        }
+    ]
+}

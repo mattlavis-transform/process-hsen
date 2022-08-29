@@ -1,0 +1,1697 @@
+{
+    "term": "dna",
+    "means_like": [
+        {
+            "word": "deoxyribonucleic acid",
+            "score": 81078,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "desoxyribonucleic acid",
+            "score": 65937,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "fingerprint",
+            "score": 65936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genetic",
+            "score": 64570,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "genetics",
+            "score": 61710,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genomic",
+            "score": 61506,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "arg",
+            "score": 61485,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dns",
+            "score": 61110,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genes",
+            "score": 61088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mrs",
+            "score": 61047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genome",
+            "score": 61022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gene",
+            "score": 59997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nucleotide",
+            "score": 59684,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fingerprinting",
+            "score": 59670,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sequence",
+            "score": 59072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molecular",
+            "score": 59010,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rna",
+            "score": 58603,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ano",
+            "score": 58399,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dnr",
+            "score": 58225,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "acid",
+            "score": 58119,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ind",
+            "score": 57979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biology",
+            "score": 57451,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arn",
+            "score": 57118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seabed",
+            "score": 56358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nad",
+            "score": 55957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed",
+            "score": 55325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottom",
+            "score": 53513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baroness",
+            "score": 53237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pit",
+            "score": 53140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lady",
+            "score": 52417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nra",
+            "score": 51430,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "adn",
+            "score": 50761,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dsa",
+            "score": 50761,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nads",
+            "score": 50761,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nfa",
+            "score": 50761,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pdr",
+            "score": 50761,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pnr",
+            "score": 50761,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "non",
+            "score": 50760,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "junk dna",
+            "score": 50759,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "homoplasmy",
+            "score": 50758,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "restriction enzyme",
+            "score": 50757,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genetic code",
+            "score": 50756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deoxyribonucleic",
+            "score": 50754,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "complementary dna",
+            "score": 50753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "regulatory gene",
+            "score": 50750,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lethal gene",
+            "score": 50749,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transfer rna",
+            "score": 50748,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "genetic fingerprint",
+            "score": 50746,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metaprotein",
+            "score": 50745,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polymerase",
+            "score": 50744,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "amphidiploid",
+            "score": 50743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ellis",
+            "score": 50742,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chromosome",
+            "score": 50741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bennett",
+            "score": 50740,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "polygene",
+            "score": 50739,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sex chromosome",
+            "score": 50738,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chromomere",
+            "score": 50737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karyology",
+            "score": 50736,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "point mutation",
+            "score": 50735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genetic fingerprinting",
+            "score": 50734,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "endopolyploidy",
+            "score": 50733,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nigel",
+            "score": 50732,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "heterochromosome",
+            "score": 50731,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mutation",
+            "score": 50730,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kingston",
+            "score": 50729,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brett",
+            "score": 50728,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "endomitosis",
+            "score": 50727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "semen",
+            "score": 50726,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "melanie",
+            "score": 50725,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mcafee",
+            "score": 50724,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "owens",
+            "score": 50723,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "diplont",
+            "score": 50722,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mrna",
+            "score": 50721,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jennifer lopez",
+            "score": 50720,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fallon",
+            "score": 50719,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "johnston",
+            "score": 50718,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ronald",
+            "score": 50717,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "netherlands",
+            "score": 50716,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "databasing",
+            "score": 50715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raymond",
+            "score": 50714,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rh factor",
+            "score": 50713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "melvin",
+            "score": 50712,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "plasmid",
+            "score": 50711,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "irl",
+            "score": 50710,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "simmons",
+            "score": 50709,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "messenger rna",
+            "score": 50708,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cyrus",
+            "score": 50707,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "obj",
+            "score": 50706,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forensic",
+            "score": 50705,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ure",
+            "score": 50704,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evans",
+            "score": 50703,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hpv",
+            "score": 50702,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "genetic drift",
+            "score": 50701,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "protein molecule",
+            "score": 50700,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steve",
+            "score": 50699,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "miranda",
+            "score": 50698,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hepadnavirus",
+            "score": 50697,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blake",
+            "score": 50696,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "protein",
+            "score": 50695,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "joshua",
+            "score": 50694,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "dna",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "deanna",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "deana",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "denay",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dionna",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "deonna",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "dnase",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "duenna",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "duena",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "dnz",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "denae",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "dunay",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "diana",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "dino",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dina",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "denny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dion",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "deon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dena",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "deena",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dianna",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "deni",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "deion",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dini",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dione",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dionne",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "deno",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dnd",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dennie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "denney",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "denni",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "drina",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "denna",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dyana",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "dnc",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "denno",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "diano",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "d m",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "demay",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "d.m",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "dunai",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "tiana",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "tianna",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "tiano",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "tiina",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "t n",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "deny",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dieing",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dyin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dian",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dunny",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dunno",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dyno",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "donee",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dinna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dyna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "doyen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dayan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "deum",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "do in",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dewan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "doyenne",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "diann",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dominee",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "dumais",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dunna",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "doyon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "die away",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "die in",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "duin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "danai",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "denault",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "d and d",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "doohan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dinu",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "duhan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "delaunay",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "dagenais",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "dinnae",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "damai",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "dwana",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "dhyana",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "da",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "danny",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dana",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dani",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "danni",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dano",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "danna",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "danae",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dannie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daina",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "danno",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "d j",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "danah",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dannah",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "d s",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "daena",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dahna",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "dna",
+            "score": 1241
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "polymerase",
+            "score": 1672
+        },
+        {
+            "word": "cytosine",
+            "score": 1637
+        },
+        {
+            "word": "replication",
+            "score": 1630
+        },
+        {
+            "word": "guanine",
+            "score": 1591
+        },
+        {
+            "word": "chromatin",
+            "score": 1584
+        },
+        {
+            "word": "sequencing",
+            "score": 1582
+        },
+        {
+            "word": "histone",
+            "score": 1579
+        },
+        {
+            "word": "plasmid",
+            "score": 1561
+        },
+        {
+            "word": "epigenetic",
+            "score": 1559
+        },
+        {
+            "word": "rna",
+            "score": 1551
+        },
+        {
+            "word": "electrophoresis",
+            "score": 1545
+        },
+        {
+            "word": "strands",
+            "score": 1538
+        },
+        {
+            "word": "nucleotide",
+            "score": 1534
+        },
+        {
+            "word": "homologous",
+            "score": 1529
+        },
+        {
+            "word": "strand",
+            "score": 1526
+        },
+        {
+            "word": "crick",
+            "score": 1515
+        },
+        {
+            "word": "nucleic",
+            "score": 1511
+        },
+        {
+            "word": "genome",
+            "score": 1497
+        },
+        {
+            "word": "eukaryotic",
+            "score": 1495
+        },
+        {
+            "word": "hybridization",
+            "score": 1494
+        },
+        {
+            "word": "profiling",
+            "score": 1492
+        },
+        {
+            "word": "recombinant",
+            "score": 1489
+        },
+        {
+            "word": "helix",
+            "score": 1487
+        },
+        {
+            "word": "transcription",
+            "score": 1481
+        },
+        {
+            "word": "genomic",
+            "score": 1472
+        },
+        {
+            "word": "chromosomes",
+            "score": 1470
+        },
+        {
+            "word": "mitochondrial",
+            "score": 1468
+        },
+        {
+            "word": "template",
+            "score": 1465
+        },
+        {
+            "word": "cloning",
+            "score": 1452
+        },
+        {
+            "word": "amplification",
+            "score": 1447
+        },
+        {
+            "word": "chromosome",
+            "score": 1442
+        },
+        {
+            "word": "repair",
+            "score": 1441
+        },
+        {
+            "word": "mrna",
+            "score": 1436
+        },
+        {
+            "word": "genes",
+            "score": 1432
+        },
+        {
+            "word": "coli",
+            "score": 1430
+        },
+        {
+            "word": "viruses",
+            "score": 1427
+        },
+        {
+            "word": "apoptosis",
+            "score": 1423
+        },
+        {
+            "word": "enzymes",
+            "score": 1420
+        },
+        {
+            "word": "pol",
+            "score": 1418
+        },
+        {
+            "word": "cleavage",
+            "score": 1412
+        },
+        {
+            "word": "molecule",
+            "score": 1410
+        },
+        {
+            "word": "primer",
+            "score": 1405
+        },
+        {
+            "word": "proteins",
+            "score": 1398
+        },
+        {
+            "word": "gel",
+            "score": 1397
+        },
+        {
+            "word": "mutation",
+            "score": 1384
+        },
+        {
+            "word": "synthesis",
+            "score": 1383
+        },
+        {
+            "word": "transcribed",
+            "score": 1377
+        },
+        {
+            "word": "binding",
+            "score": 1375
+        },
+        {
+            "word": "sequence",
+            "score": 1372
+        },
+        {
+            "word": "bacterial",
+            "score": 1367
+        },
+        {
+            "word": "complementary",
+            "score": 1363
+        },
+        {
+            "word": "genetic",
+            "score": 1362
+        },
+        {
+            "word": "molecules",
+            "score": 1360
+        },
+        {
+            "word": "restriction",
+            "score": 1359
+        },
+        {
+            "word": "protein",
+            "score": 1348
+        },
+        {
+            "word": "samples",
+            "score": 1346
+        },
+        {
+            "word": "fragment",
+            "score": 1344
+        },
+        {
+            "word": "enzyme",
+            "score": 1343
+        },
+        {
+            "word": "gene",
+            "score": 1342
+        },
+        {
+            "word": "viral",
+            "score": 1337
+        },
+        {
+            "word": "bind",
+            "score": 1331
+        },
+        {
+            "word": "organism",
+            "score": 1315
+        },
+        {
+            "word": "genetically",
+            "score": 1313
+        },
+        {
+            "word": "forensic",
+            "score": 1303
+        },
+        {
+            "word": "damages",
+            "score": 1299
+        },
+        {
+            "word": "coding",
+            "score": 1294
+        },
+        {
+            "word": "promoter",
+            "score": 1293
+        },
+        {
+            "word": "molecular",
+            "score": 1291
+        },
+        {
+            "word": "cell",
+            "score": 1290
+        },
+        {
+            "word": "extracted",
+            "score": 1289
+        },
+        {
+            "word": "testing",
+            "score": 1287
+        },
+        {
+            "word": "bacteria",
+            "score": 1282
+        },
+        {
+            "word": "analyses",
+            "score": 1281
+        },
+        {
+            "word": "nucleus",
+            "score": 1280
+        },
+        {
+            "word": "cellular",
+            "score": 1277
+        },
+        {
+            "word": "amino",
+            "score": 1276
+        },
+        {
+            "word": "virus",
+            "score": 1272
+        },
+        {
+            "word": "stranded",
+            "score": 1270
+        },
+        {
+            "word": "cells",
+            "score": 1268
+        },
+        {
+            "word": "pathway",
+            "score": 1267
+        },
+        {
+            "word": "organisms",
+            "score": 1264
+        },
+        {
+            "word": "sample",
+            "score": 1253
+        },
+        {
+            "word": "damage",
+            "score": 1247
+        },
+        {
+            "word": "genetics",
+            "score": 1242
+        },
+        {
+            "word": "matched",
+            "score": 1235
+        },
+        {
+            "word": "breaks",
+            "score": 1232
+        },
+        {
+            "word": "analysis",
+            "score": 1222
+        },
+        {
+            "word": "acids",
+            "score": 1220
+        },
+        {
+            "word": "tumor",
+            "score": 1218
+        },
+        {
+            "word": "activation",
+            "score": 1214
+        },
+        {
+            "word": "expression",
+            "score": 1213
+        },
+        {
+            "word": "aging",
+            "score": 1211
+        },
+        {
+            "word": "modification",
+            "score": 1206
+        },
+        {
+            "word": "pairs",
+            "score": 1202
+        },
+        {
+            "word": "database",
+            "score": 1198
+        },
+        {
+            "word": "bases",
+            "score": 1192
+        },
+        {
+            "word": "ancestry",
+            "score": 1191
+        },
+        {
+            "word": "mechanism",
+            "score": 1187
+        },
+        {
+            "word": "domains",
+            "score": 1183
+        },
+        {
+            "word": "tests",
+            "score": 1181
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "dna",
+            "score": 1241
+        },
+        {
+            "word": "dnase",
+            "score": 92
+        },
+        {
+            "word": "dnas",
+            "score": 56
+        },
+        {
+            "word": "dna chip",
+            "score": 30
+        },
+        {
+            "word": "dna fingerprint",
+            "score": 27
+        },
+        {
+            "word": "dna fingerprinting",
+            "score": 25
+        },
+        {
+            "word": "dna repair",
+            "score": 21
+        },
+        {
+            "word": "dna molecule",
+            "score": 19
+        },
+        {
+            "word": "dna structure",
+            "score": 18
+        },
+        {
+            "word": "dna ligase",
+            "score": 17
+        }
+    ]
+}

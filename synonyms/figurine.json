@@ -1,0 +1,1714 @@
+{
+    "term": "figurine",
+    "means_like": [
+        {
+            "word": "statuette",
+            "score": 87952,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 70833,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figure",
+            "score": 58721,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "statue",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornament",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sculpture",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bobblehead",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porcelain",
+            "score": 51272,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "vase",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maquette",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinket",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teapot",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperweight",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "netsuke",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candleholder",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendant",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gargoyle",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pewter",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "urn",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cherub",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloisonne",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diorama",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terracotta",
+            "score": 51257,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "dollhouse",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keepsake",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faience",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "replica",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lifesize",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amulet",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "likeness",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scepter",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mannequin",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ankh",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doubloon",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nutcracker",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armillary",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goblet",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crucifix",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plaster cast",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "medallion",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ewer",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coral necklace",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "standee",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklace",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickknack",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddy bear",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artifact",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "finial",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carvings",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tyrannosaurus rex",
+            "score": 51229,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mezuza",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miniatures",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skull",
+            "score": 51226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreamcatcher",
+            "score": 51225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "memento",
+            "score": 51224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moonstones",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garuda",
+            "score": 51222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hindu deity",
+            "score": 51221,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "headdress",
+            "score": 51220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarab",
+            "score": 51219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shagreen",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stickpin",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vitrine",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souvenir",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reliquary",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartouche",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waxwork",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footstool",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avalokitesvara",
+            "score": 51210,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bas relief",
+            "score": 51209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belt buckle",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankard",
+            "score": 51207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olivewood",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snuffbox",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apatosaurus",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demilune",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyepatch",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cutout",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kouros",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washstand",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gnome",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redware",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jardiniere",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shadowbox",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phallus",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatbox",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figural",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headpiece",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lithograph",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookcase",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookplate",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stela",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locket",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sterling silver",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quatrefoil",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signet ring",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artwork",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "china cabinet",
+            "score": 51180,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "figurine",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "figurines",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "figuring",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "figurant",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "figure",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "figures",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "figured",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "figure out",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "figure eight",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "figurer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "fig tree",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "figurate",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "figural",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "figure loom",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "foghorn",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "figaro",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "figuration",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "fearon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fog horn",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fullerene",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "finneran",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "figu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "factor in",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "faggery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "fig trees",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "figurally",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "furane",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "figwort",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fluorine",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "figura",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "vigneron",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "faring",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "farren",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferrin",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "farin",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "faren",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "faron",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "farron",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "fegan",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "pharaon",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferron",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "funrun",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferine",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferran",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "fun run",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "figurehead",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "figjam",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "fiction",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "foreign",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "factory",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fearing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fixin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fingering",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "factoring",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fakery",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "figger",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figgy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ficken",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fagan",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fishery",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fagin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figur",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figured out",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "forein",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figueroa",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "fieri",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fagen",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "foran",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fillion",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fixure",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fahren",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "filene",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "farran",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figging",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "farine",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "feagan",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "firry",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ficklin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "forren",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "food grain",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferien",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "figuring out",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "figueira",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "feigen",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fix on",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "feed grain",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figgum",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fitri",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "forerun",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fakhri",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fowl run",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ficarra",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "figlio",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "feirie",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "figures out",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fissuring",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "figure eights",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "figurine",
+            "score": 129716
+        },
+        {
+            "word": "figuring",
+            "score": 64769
+        },
+        {
+            "word": "figuline",
+            "score": 64735
+        },
+        {
+            "word": "figure",
+            "score": 3084
+        },
+        {
+            "word": "figurant",
+            "score": 210
+        },
+        {
+            "word": "figurate",
+            "score": 107
+        },
+        {
+            "word": "tigrine",
+            "score": 97
+        },
+        {
+            "word": "figurines",
+            "score": 90
+        },
+        {
+            "word": "figurial",
+            "score": 59
+        },
+        {
+            "word": "nigrine",
+            "score": 57
+        },
+        {
+            "word": "figurante",
+            "score": 49
+        },
+        {
+            "word": "tigerine",
+            "score": 39
+        },
+        {
+            "word": "figurist",
+            "score": 36
+        },
+        {
+            "word": "flourine",
+            "score": 32
+        },
+        {
+            "word": "fibrine",
+            "score": 31
+        },
+        {
+            "word": "figurae",
+            "score": 12
+        },
+        {
+            "word": "ligurite",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "statuette",
+            "score": 1688
+        },
+        {
+            "word": "olmec",
+            "score": 1578
+        },
+        {
+            "word": "paleolithic",
+            "score": 1552
+        },
+        {
+            "word": "tusk",
+            "score": 1508
+        },
+        {
+            "word": "terracotta",
+            "score": 1479
+        },
+        {
+            "word": "venus",
+            "score": 1445
+        },
+        {
+            "word": "goddess",
+            "score": 1427
+        },
+        {
+            "word": "mammoth",
+            "score": 1424
+        },
+        {
+            "word": "nude",
+            "score": 1417
+        },
+        {
+            "word": "breasts",
+            "score": 1413
+        },
+        {
+            "word": "downloadable",
+            "score": 1412
+        },
+        {
+            "word": "sculpted",
+            "score": 1401
+        },
+        {
+            "word": "porcelain",
+            "score": 1399
+        },
+        {
+            "word": "nigerian",
+            "score": 1396
+        },
+        {
+            "word": "meredith",
+            "score": 1394
+        },
+        {
+            "word": "cake",
+            "score": 1377
+        },
+        {
+            "word": "depicts",
+            "score": 1376
+        },
+        {
+            "word": "bce",
+            "score": 1371
+        },
+        {
+            "word": "ceramic",
+            "score": 1369
+        },
+        {
+            "word": "mona",
+            "score": 1365
+        },
+        {
+            "word": "carved",
+            "score": 1360
+        },
+        {
+            "word": "miniature",
+            "score": 1358
+        },
+        {
+            "word": "doll",
+            "score": 1354
+        },
+        {
+            "word": "ivory",
+            "score": 1353
+        },
+        {
+            "word": "neolithic",
+            "score": 1347
+        },
+        {
+            "word": "seated",
+            "score": 1344
+        },
+        {
+            "word": "deity",
+            "score": 1340
+        },
+        {
+            "word": "motif",
+            "score": 1337
+        },
+        {
+            "word": "depicting",
+            "score": 1333
+        },
+        {
+            "word": "merchandise",
+            "score": 1327
+        },
+        {
+            "word": "bust",
+            "score": 1320
+        },
+        {
+            "word": "excavated",
+            "score": 1318
+        },
+        {
+            "word": "pottery",
+            "score": 1315
+        },
+        {
+            "word": "pose",
+            "score": 1310
+        },
+        {
+            "word": "figure",
+            "score": 1305
+        },
+        {
+            "word": "artwork",
+            "score": 1304
+        },
+        {
+            "word": "wax",
+            "score": 1303
+        },
+        {
+            "word": "toy",
+            "score": 1294
+        },
+        {
+            "word": "bag",
+            "score": 1293
+        },
+        {
+            "word": "statue",
+            "score": 1292
+        },
+        {
+            "word": "toys",
+            "score": 1274
+        },
+        {
+            "word": "maker",
+            "score": 1273
+        },
+        {
+            "word": "naked",
+            "score": 1271
+        },
+        {
+            "word": "dated",
+            "score": 1270
+        },
+        {
+            "word": "bottle",
+            "score": 1264
+        },
+        {
+            "word": "mario",
+            "score": 1263
+        },
+        {
+            "word": "clay",
+            "score": 1253
+        },
+        {
+            "word": "cave",
+            "score": 1247
+        },
+        {
+            "word": "idol",
+            "score": 1244
+        },
+        {
+            "word": "sculpture",
+            "score": 1238
+        },
+        {
+            "word": "disney",
+            "score": 1232
+        },
+        {
+            "word": "represents",
+            "score": 1231
+        },
+        {
+            "word": "manga",
+            "score": 1228
+        },
+        {
+            "word": "marvel",
+            "score": 1221
+        },
+        {
+            "word": "dressed",
+            "score": 1215
+        },
+        {
+            "word": "figures",
+            "score": 1209
+        },
+        {
+            "word": "promotional",
+            "score": 1208
+        },
+        {
+            "word": "separately",
+            "score": 1207
+        },
+        {
+            "word": "depicted",
+            "score": 1205
+        },
+        {
+            "word": "bone",
+            "score": 1203
+        },
+        {
+            "word": "wearing",
+            "score": 1201
+        },
+        {
+            "word": "chest",
+            "score": 1199
+        },
+        {
+            "word": "dating",
+            "score": 1193
+        },
+        {
+            "word": "ago",
+            "score": 1192
+        },
+        {
+            "word": "anime",
+            "score": 1189
+        },
+        {
+            "word": "discovered",
+            "score": 1185
+        },
+        {
+            "word": "hidden",
+            "score": 1184
+        },
+        {
+            "word": "woman",
+            "score": 1183
+        },
+        {
+            "word": "archaeological",
+            "score": 1180
+        },
+        {
+            "word": "baby",
+            "score": 1178
+        },
+        {
+            "word": "dancing",
+            "score": 1177
+        },
+        {
+            "word": "sitting",
+            "score": 1176
+        },
+        {
+            "word": "decorated",
+            "score": 1174
+        },
+        {
+            "word": "paint",
+            "score": 1173
+        },
+        {
+            "word": "fantasy",
+            "score": 1171
+        },
+        {
+            "word": "hair",
+            "score": 1164
+        },
+        {
+            "word": "egyptian",
+            "score": 1160
+        },
+        {
+            "word": "grave",
+            "score": 1157
+        },
+        {
+            "word": "clothing",
+            "score": 1154
+        },
+        {
+            "word": "cinema",
+            "score": 1152
+        },
+        {
+            "word": "collection",
+            "score": 1151
+        },
+        {
+            "word": "plastic",
+            "score": 1148
+        },
+        {
+            "word": "ref",
+            "score": 1147
+        },
+        {
+            "word": "representation",
+            "score": 1146
+        },
+        {
+            "word": "display",
+            "score": 1141
+        },
+        {
+            "word": "broken",
+            "score": 1135
+        },
+        {
+            "word": "jesus",
+            "score": 1134
+        },
+        {
+            "word": "found",
+            "score": 1132
+        },
+        {
+            "word": "dog",
+            "score": 1130
+        },
+        {
+            "word": "pieces",
+            "score": 1129
+        },
+        {
+            "word": "box",
+            "score": 1127
+        },
+        {
+            "word": "dragon",
+            "score": 1126
+        },
+        {
+            "word": "edition",
+            "score": 1123
+        },
+        {
+            "word": "earliest",
+            "score": 1120
+        },
+        {
+            "word": "female",
+            "score": 1118
+        },
+        {
+            "word": "tall",
+            "score": 1116
+        },
+        {
+            "word": "throne",
+            "score": 1114
+        },
+        {
+            "word": "shield",
+            "score": 1112
+        },
+        {
+            "word": "displayed",
+            "score": 1110
+        },
+        {
+            "word": "bronze",
+            "score": 1109
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "figurine",
+            "score": 129716
+        },
+        {
+            "word": "figurines",
+            "score": 129408
+        },
+        {
+            "word": "figuring",
+            "score": 64769
+        },
+        {
+            "word": "figuline",
+            "score": 64735
+        },
+        {
+            "word": "figuring out",
+            "score": 64678
+        },
+        {
+            "word": "figuring on",
+            "score": 64660
+        },
+        {
+            "word": "figure",
+            "score": 3084
+        },
+        {
+            "word": "figures",
+            "score": 652
+        },
+        {
+            "word": "figure out",
+            "score": 562
+        },
+        {
+            "word": "figurehead",
+            "score": 492
+        }
+    ]
+}

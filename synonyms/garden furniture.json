@@ -1,0 +1,781 @@
+{
+    "term": "garden furniture",
+    "means_like": [
+        {
+            "word": "bed",
+            "score": 28040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lawn furniture",
+            "score": 28017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rattan",
+            "score": 28017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aster",
+            "score": 27973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironwork",
+            "score": 27973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rustic",
+            "score": 27973,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wrought iron",
+            "score": 27949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bef",
+            "score": 11640,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brd",
+            "score": 11640,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clean",
+            "score": 11640,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "adam",
+            "score": 11546,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 11546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cherry",
+            "score": 11546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallery",
+            "score": 11546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "table",
+            "score": 11546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tables",
+            "score": 11546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "truck",
+            "score": 11546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 11522,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "patio",
+            "score": 11522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "row",
+            "score": 11522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rowing",
+            "score": 11522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 11478,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedding",
+            "score": 11455,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mak",
+            "score": 11455,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acre",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirt",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "edger",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "espalier",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flied",
+            "score": 10593,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gate",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gnome",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haw",
+            "score": 10593,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hose",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoses",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kale",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchen garden",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "level",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "messuage",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mower",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "park",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peat",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plantation",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plat",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plot",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plotted",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plotting",
+            "score": 10593,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "pole",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "premises",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smilax",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sod",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soil",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stake",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "statue",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stone",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tard",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trellis",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "urn",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ziti",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 10526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleaned",
+            "score": 10526,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "compartment",
+            "score": 10526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "majolica",
+            "score": 10526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slope",
+            "score": 10526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antimacassar",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bak",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chair",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaise",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chase",
+            "score": 10506,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "chattel",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chip",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cornering",
+            "score": 10506,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "couch",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 10506,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cradle",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ditch",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "divan",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heirloom",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lounge",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lounging",
+            "score": 10506,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "movable",
+            "score": 10506,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nack",
+            "score": 10506,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "node",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ottoman",
+            "score": 10506,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "personal property",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "post",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "property",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rocker",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seat",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "settee",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sideboard",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slat",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sofa",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stool",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffing",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tarp",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teak",
+            "score": 10506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tidying",
+            "score": 10506,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "garden roller",
+            "score": 65,
+            "numSyllables": 4
+        },
+        {
+            "word": "jordan river",
+            "score": 56,
+            "numSyllables": 4
+        },
+        {
+            "word": "bartle frere",
+            "score": 43,
+            "numSyllables": 3
+        },
+        {
+            "word": "giardiniera",
+            "score": 43,
+            "numSyllables": 4
+        },
+        {
+            "word": "sardinian",
+            "score": 30,
+            "numSyllables": 4
+        },
+        {
+            "word": "sword fern",
+            "score": 30,
+            "numSyllables": 2
+        },
+        {
+            "word": "sardonic",
+            "score": 30,
+            "numSyllables": 3
+        },
+        {
+            "word": "sardonyx",
+            "score": 30,
+            "numSyllables": 3
+        },
+        {
+            "word": "sergeant major",
+            "score": 28,
+            "numSyllables": 4
+        },
+        {
+            "word": "solomonic",
+            "score": 13,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "patio furniture",
+            "score": 12
+        },
+        {
+            "word": "lawn furniture",
+            "score": 9
+        }
+    ]
+}

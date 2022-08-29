@@ -1,0 +1,1319 @@
+{
+    "term": "red wine",
+    "means_like": [
+        {
+            "word": "claret",
+            "score": 54095,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "merlot",
+            "score": 52895,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "port",
+            "score": 52495,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "medoc",
+            "score": 50031,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cabernet",
+            "score": 49695,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "zinfandel",
+            "score": 49695,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "rwd",
+            "score": 48460,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gamay",
+            "score": 48031,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vin",
+            "score": 48031,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "wines",
+            "score": 48031,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "chianti",
+            "score": 33596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sangria",
+            "score": 32031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgundy",
+            "score": 30895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaujolais",
+            "score": 30495,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vinaceous",
+            "score": 30460,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rioja",
+            "score": 29631,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boysenberry",
+            "score": 29260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tent",
+            "score": 29260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bordelaise",
+            "score": 29196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinot noir",
+            "score": 28895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saint",
+            "score": 28895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saints",
+            "score": 28895,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dubonnet",
+            "score": 28860,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ports",
+            "score": 28860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coq au vin",
+            "score": 28796,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hermitage",
+            "score": 28796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "syracuse",
+            "score": 28796,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blush wine",
+            "score": 28495,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catawba",
+            "score": 28495,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grape",
+            "score": 28495,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine-colored",
+            "score": 28495,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardinal",
+            "score": 28460,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ruby",
+            "score": 28460,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "tentatively",
+            "score": 28460,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "barbera",
+            "score": 28431,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bordeaux",
+            "score": 28431,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "malbec",
+            "score": 28431,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sangaree",
+            "score": 28431,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bourguignon",
+            "score": 28396,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chambertin",
+            "score": 28396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "constantia",
+            "score": 28396,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lambrusco",
+            "score": 28396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "resveratrol",
+            "score": 28396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elderberry",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glogg",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graves",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ink",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinky",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinot",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ros",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rose",
+            "score": 28095,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shiraz",
+            "score": 28095,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "syrah",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tartar",
+            "score": 28095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aristotelia racemosa",
+            "score": 28060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aristotelia serrata",
+            "score": 28060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boysenberry bush",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cab",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crimson",
+            "score": 28060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dash",
+            "score": 28060,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "inflame",
+            "score": 28060,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "inflaming",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inked",
+            "score": 28060,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "makomako",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mavrodaphne",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "new zealand wine berry",
+            "score": 28060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "port wine",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redwater",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinto",
+            "score": 28060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wineberry",
+            "score": 28060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgundy wine",
+            "score": 28031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabernet sauvignon",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cabernet sauvignon grape",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "carignan",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "macon",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "margaux",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pink wine",
+            "score": 28031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "red biddy",
+            "score": 28031
+        },
+        {
+            "word": "red bordeaux",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rose wine",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "saint emilion",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "white wine",
+            "score": 28031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "abronia maritima",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adelantadillo",
+            "score": 27996
+        },
+        {
+            "word": "bardolino",
+            "score": 27996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beach pancake",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beef bourguignon",
+            "score": 27996,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "beef bourguignonne",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boeuf bourguignon",
+            "score": 27996,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "boeuf bourguignonne",
+            "score": 27996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bourguignon sauce",
+            "score": 27996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bourguignonne",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgundy sauce",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "florence",
+            "score": 27996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lachryma christi",
+            "score": 27996,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "lachrymae christi",
+            "score": 27996,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "marchand de vin",
+            "score": 27996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mcon",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mdoc",
+            "score": 27996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mushroom wine sauce",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "redwine",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "red wine",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "ridwan",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "redline",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "radwan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "redwing",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "red line",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "red wing",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "red pine",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "redden",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "ruine",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "redman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "redlin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "red zone",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "reddin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "redmon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "read on",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "red man",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "road sign",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "red sun",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "red men",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "redway",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "read in",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "readman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "route one",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ridden",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudden",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "redon",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudeen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudman",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "radian",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "readying",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "radeon",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "rodion",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "rhodian",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "reading",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "radon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redeye",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "roadway",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redding",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redone",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "raiden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "riden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redbone",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "roden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rodin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "roadman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red-eye",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "breadline",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redrawn",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "radin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "right wing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rodan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "raden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red eye",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rodden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "raydon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "retin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ratline",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rawdon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rightwing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redwings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhoden",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rode on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "retine",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ride on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "readme",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redfin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "radman",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "retten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "roadmen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bread line",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "radan",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red lines",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red ring",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rdam",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red china",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "right line",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redlines",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "right-wing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red dye",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red rum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "redlined",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rdram",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "red tai",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reedman",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "red wine",
+            "score": 129376
+        },
+        {
+            "word": "red line",
+            "score": 64773
+        },
+        {
+            "word": "red pine",
+            "score": 64706
+        },
+        {
+            "word": "redwine",
+            "score": 64689
+        },
+        {
+            "word": "red wing",
+            "score": 64669
+        },
+        {
+            "word": "red wire",
+            "score": 64666
+        },
+        {
+            "word": "redline",
+            "score": 613
+        },
+        {
+            "word": "redefine",
+            "score": 347
+        },
+        {
+            "word": "redwing",
+            "score": 172
+        },
+        {
+            "word": "red zone",
+            "score": 108
+        },
+        {
+            "word": "red tide",
+            "score": 52
+        },
+        {
+            "word": "red ink",
+            "score": 42
+        },
+        {
+            "word": "red rice",
+            "score": 38
+        },
+        {
+            "word": "red fire",
+            "score": 35
+        },
+        {
+            "word": "fed wire",
+            "score": 30
+        },
+        {
+            "word": "red mite",
+            "score": 6
+        },
+        {
+            "word": "red wines",
+            "score": 6
+        },
+        {
+            "word": "red hind",
+            "score": 3
+        },
+        {
+            "word": "red kite",
+            "score": 2
+        },
+        {
+            "word": "red ring",
+            "score": 1
+        },
+        {
+            "word": "red urine",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "red wine",
+            "score": 129376
+        },
+        {
+            "word": "red wines",
+            "score": 129324
+        },
+        {
+            "word": "red wine vinegar",
+            "score": 129322
+        },
+        {
+            "word": "red line",
+            "score": 64773
+        },
+        {
+            "word": "red pine",
+            "score": 64706
+        },
+        {
+            "word": "redwine",
+            "score": 64689
+        },
+        {
+            "word": "red winged blackbird",
+            "score": 64685
+        },
+        {
+            "word": "red lines",
+            "score": 64674
+        },
+        {
+            "word": "red wing",
+            "score": 64669
+        },
+        {
+            "word": "red wire",
+            "score": 64666
+        }
+    ]
+}

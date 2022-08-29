@@ -1,0 +1,787 @@
+{
+    "term": "computer cable",
+    "means_like": [
+        {
+            "word": "peripheral",
+            "score": 28585,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "interactive",
+            "score": 28243,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "peripheral device",
+            "score": 28243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computer peripheral",
+            "score": 28185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electronic mail",
+            "score": 28185,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "external drive",
+            "score": 28185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hostname",
+            "score": 28185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "port",
+            "score": 28185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printer cable",
+            "score": 28181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bug",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bugged",
+            "score": 11843,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bugging",
+            "score": 11843,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cord",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "core",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "main",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nug",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pigtail",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "register",
+            "score": 11843,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "registered",
+            "score": 11843,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slot",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telecommunication",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teleprinter",
+            "score": 11843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terminal",
+            "score": 11843,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "dsl",
+            "score": 11785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "input",
+            "score": 11785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nox",
+            "score": 11785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ports",
+            "score": 11785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 11612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coring",
+            "score": 11612,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 11612,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "string",
+            "score": 11612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surge",
+            "score": 11612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worm",
+            "score": 11612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "channel",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "channelling",
+            "score": 11554,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "channels",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "controller",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "load",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snake",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "user",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utility",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basic",
+            "score": 11492,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "access",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accumulator",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemble",
+            "score": 10727,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "assembler",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 10727,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brains",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridge",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridged",
+            "score": 10727,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bridging",
+            "score": 10727,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cabinet",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cathode-ray tube",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "central",
+            "score": 10727,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circuit",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clicker",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coder",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "command",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compatible",
+            "score": 10727,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "concentrator",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connect",
+            "score": 10727,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "connected",
+            "score": 10727,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "connectivity",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console",
+            "score": 10727,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "contrast",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contrasted",
+            "score": 10727,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "contrasting",
+            "score": 10727,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cookie",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuts",
+            "score": 10727,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cyberspace",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinger",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dvd",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electronic",
+            "score": 10727,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "email",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "end",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exclusive",
+            "score": 10727,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "feed",
+            "score": 10727,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "finger",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "float",
+            "score": 10727,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fractal",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frame",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "home",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inline",
+            "score": 10727,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ins",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "install",
+            "score": 10727,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "instruction",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interconnection",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interface",
+            "score": 10727,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "computable",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "computer game",
+            "score": 65,
+            "numSyllables": 4
+        },
+        {
+            "word": "computer keyboard",
+            "score": 65,
+            "numSyllables": 5
+        },
+        {
+            "word": "computer code",
+            "score": 65,
+            "numSyllables": 4
+        },
+        {
+            "word": "comparable",
+            "score": 62,
+            "numSyllables": 4
+        },
+        {
+            "word": "completable",
+            "score": 55,
+            "numSyllables": 4
+        },
+        {
+            "word": "jumper cable",
+            "score": 53,
+            "numSyllables": 4
+        },
+        {
+            "word": "unmutable",
+            "score": 43,
+            "numSyllables": 4
+        },
+        {
+            "word": "uncomparable",
+            "score": 42,
+            "numSyllables": 5
+        },
+        {
+            "word": "sempiternal",
+            "score": 35,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "computerizable",
+            "score": 11
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "computerizable",
+            "score": 11
+        }
+    ]
+}

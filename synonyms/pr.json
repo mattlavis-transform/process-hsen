@@ -1,0 +1,1278 @@
+{
+    "term": "pr",
+    "means_like": [
+        {
+            "word": "praseodymium",
+            "score": 41230,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "atomic number 59",
+            "score": 37849,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "rm",
+            "score": 37848,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mf",
+            "score": 37840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stv",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abbe",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abstract",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "agent",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amour-propre",
+            "score": 6364
+        },
+        {
+            "word": "asserter",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beeb",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "been",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ben",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bit",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cello",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "climbing",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinometer",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compress",
+            "score": 6364,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "disappearing",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "dystocia",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eur",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "exposure",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fica",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fint",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hype",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "image",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "images",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impregnate",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "impress",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "imprint",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incorporate",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ink",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "isl",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "juan",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 6364,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "misprint",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "misset",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "outline",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "physicking",
+            "score": 6364,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "plot",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plotted",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plotting",
+            "score": 6364,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "precedent",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "precipitate",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "predominate",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "prescript",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "present",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "prostrate",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "release",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rep",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reprint",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shack",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spin",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "spinmeister",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stunt",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "summarize",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "summary",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touter",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trail",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tying",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vehemence",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wove",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "young",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "a",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ac",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ap",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "b",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "d",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "e",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fa",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ff",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fr",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "g",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gl",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "h",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ii",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "io",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iv",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "j",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "k",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "l",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mod",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nb",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "non",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nt",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "option",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pi",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "r",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "s",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sl",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sm",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sp",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "t",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tl",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tm",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "u",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "per",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "purr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pur",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pere",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pter",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "perr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "peor",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "p.r",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "perh",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "burr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ber",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bur",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bir",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "berr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "birr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "burh",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "beurre",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "beor",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "beur",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "pee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pearl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pair",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "p",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pear",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pea",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "par",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pare",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bck",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "payer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "parr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peir",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "apper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pcp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pero",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perce",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pera",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pearle",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pearch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "oper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perot",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "opper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "apr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peart",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perle",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pearse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paar",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pern",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paire",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "iper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "p.a",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pcr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paugh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "perg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "payor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cpy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peard",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pca",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paur",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "appr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "perche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peri-",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pcc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "opr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "apure",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ipr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "epar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "epr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fpa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "npy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pbx",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cper",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "dper",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ieper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pauw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "p-a",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paaa",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "pr",
+            "score": 711
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "process",
+            "score": 5811
+        },
+        {
+            "word": "principle",
+            "score": 5093
+        },
+        {
+            "word": "principal",
+            "score": 4123
+        },
+        {
+            "word": "practice",
+            "score": 3823
+        },
+        {
+            "word": "present",
+            "score": 3620
+        },
+        {
+            "word": "protocol",
+            "score": 3603
+        },
+        {
+            "word": "premise",
+            "score": 3549
+        },
+        {
+            "word": "program",
+            "score": 3462
+        },
+        {
+            "word": "pragmatic",
+            "score": 3304
+        },
+        {
+            "word": "provide",
+            "score": 3128
+        }
+    ]
+}

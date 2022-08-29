@@ -1,0 +1,758 @@
+{
+    "term": "wooden box",
+    "means_like": [
+        {
+            "word": "crate",
+            "score": 149638,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "casket",
+            "score": 148638,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "coffin",
+            "score": 147638,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "drab",
+            "score": 28747,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bunk",
+            "score": 28438,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 28438,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carboy",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cist",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cribbed",
+            "score": 28038,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hod",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinwheel",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soapbox",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tent",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunk",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunking",
+            "score": 28038,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "trunks",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monochord",
+            "score": 28020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skein",
+            "score": 28020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enclosed",
+            "score": 27965,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "garter",
+            "score": 27965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hopper",
+            "score": 27965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keeler",
+            "score": 27965,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kid",
+            "score": 27965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidding",
+            "score": 27965,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "kif",
+            "score": 27965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "koto",
+            "score": 27965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cashbox",
+            "score": 27947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kalimba",
+            "score": 27947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "martyr",
+            "score": 27947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tentatively",
+            "score": 27947,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "ark",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrel",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxing",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bush",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butt",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butted",
+            "score": 11638,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "caisson",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corf",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "driver",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drum",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 11638,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "frame",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frum",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housing",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hub",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jigger",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 11638,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "kir",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kit",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kut",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lining",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nox",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packing",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pallet",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panelled",
+            "score": 11638,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "panelling",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peg",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pin",
+            "score": 11638,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "roller",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roo",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "room",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rooms",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saddle",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scraper",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shed",
+            "score": 11638,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shell",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shutter",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slat",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "staple",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tabernacle",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tabernacles",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tail",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tee",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 11638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardwood",
+            "score": 11620,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow",
+            "score": 11567,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cao",
+            "score": 11567,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capped",
+            "score": 11567,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "capping",
+            "score": 11567,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "caps",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cask",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cutter",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dudgeon",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 11567,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jacked",
+            "score": 11567,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "jacking",
+            "score": 11567,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "jacks",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saltbox",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spar",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sparring",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trap",
+            "score": 11567,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "wine box",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wooden horse",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "window box",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "white box",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "ceding back",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "sardonyx",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "sominex",
+            "score": 45,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "wooden horse",
+            "score": 18
+        },
+        {
+            "word": "wooden combs",
+            "score": 3
+        },
+        {
+            "word": "wooden comb",
+            "score": 2
+        }
+    ]
+}

@@ -1,0 +1,786 @@
+{
+    "term": "wedding dress",
+    "means_like": [
+        {
+            "word": "wedding gown",
+            "score": 99938,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bridal gown",
+            "score": 97036,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "gown",
+            "score": 73593,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 73592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bride",
+            "score": 73591,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 73590,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding",
+            "score": 73589,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engagement ring",
+            "score": 73588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail dress",
+            "score": 73587,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 73586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiara",
+            "score": 73585,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 73584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal",
+            "score": 73583,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trousseau",
+            "score": 73582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 73581,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligee",
+            "score": 73580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 73579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headpiece",
+            "score": 73578,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corsage",
+            "score": 73577,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgown",
+            "score": 73576,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbag",
+            "score": 73575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sundress",
+            "score": 73574,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressmaker",
+            "score": 73573,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuxedo",
+            "score": 73572,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 73571,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 73570,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 73569,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kaftan",
+            "score": 73568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minidress",
+            "score": 73567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightie",
+            "score": 73566,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taffeta",
+            "score": 73565,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mink coat",
+            "score": 73564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 73563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trouser suit",
+            "score": 73562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding cake",
+            "score": 73561,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skirt",
+            "score": 73560,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strapless",
+            "score": 73559,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 73558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "updo",
+            "score": 73557,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing suit",
+            "score": 73556,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 73555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muumuu",
+            "score": 73554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lacy",
+            "score": 73553,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 73552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiffon",
+            "score": 73551,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 73550,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridesmaids",
+            "score": 73549,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes",
+            "score": 73548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monokini",
+            "score": 73547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broderie anglaise",
+            "score": 73546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peignoir",
+            "score": 73545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tux",
+            "score": 73544,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklace",
+            "score": 73543,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightdress",
+            "score": 73542,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overskirt",
+            "score": 73541,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoop skirt",
+            "score": 73540,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirndl",
+            "score": 73539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nuptials",
+            "score": 73538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 73537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemise",
+            "score": 73536,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruched",
+            "score": 73535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickers",
+            "score": 73534,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evening gown",
+            "score": 73533,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 73532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtdress",
+            "score": 73531,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tophat",
+            "score": 73530,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petticoat",
+            "score": 73529,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chantilly lace",
+            "score": 73528,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bodice",
+            "score": 73527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peau de soie",
+            "score": 73526,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 73525,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "organza",
+            "score": 73524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "titfer",
+            "score": 73523,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underskirt",
+            "score": 73522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfits",
+            "score": 73521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eveningwear",
+            "score": 73520,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shantung",
+            "score": 73519,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinafore",
+            "score": 73518,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diamante",
+            "score": 73517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheongsam",
+            "score": 73516,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coatdress",
+            "score": 73515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marchesa",
+            "score": 73514,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bikini",
+            "score": 73513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surplice",
+            "score": 73512,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tulle",
+            "score": 73511,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leotard",
+            "score": 73510,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaded",
+            "score": 73509,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "babydoll",
+            "score": 73508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pageboy",
+            "score": 73507,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lace",
+            "score": 73506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charmeuse",
+            "score": 73505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapeaus",
+            "score": 73504,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimsuit",
+            "score": 73503,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "millinery",
+            "score": 73502,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sari",
+            "score": 73501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunbonnet",
+            "score": 73500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressiest",
+            "score": 73499,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "princess",
+            "score": 73498,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choli",
+            "score": 73497,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satin",
+            "score": 73496,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "wedding dress",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "wedding dresses",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "wedding day",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "latendresse",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "wedding ring",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "wedding rings",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "wondrous",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "wonderous",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "pedigerous",
+            "score": 65,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "wedding dress",
+            "score": 129345
+        },
+        {
+            "word": "wedding dresses",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "wedding dress",
+            "score": 129345
+        },
+        {
+            "word": "wedding dresses",
+            "score": 129320
+        },
+        {
+            "word": "wedding present",
+            "score": 8
+        }
+    ]
+}

@@ -1,0 +1,776 @@
+{
+    "term": "ceramic mug",
+    "means_like": [
+        {
+            "word": "stein",
+            "score": 28434,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "por",
+            "score": 11634
+        },
+        {
+            "word": "potted",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "myg",
+            "score": 11564,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 11553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "celadon",
+            "score": 10593,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "china",
+            "score": 10593,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "crock",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delft",
+            "score": 10593,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "faience",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallipot",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jug",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marmite",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olla",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potsherd",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pottery",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sagger",
+            "score": 10593,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "stoneware",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tile",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedgwood",
+            "score": 10593,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bennington",
+            "score": 10523,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bong",
+            "score": 10523,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "amphora",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atm",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceramist",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chip",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cobalt",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "craft",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enamel",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fire",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firing",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flux",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glaze",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glue",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hybrid",
+            "score": 10513,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "kiln",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marble",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paste",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pasting",
+            "score": 10513,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "porcelain",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarab",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shard",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 10513,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slipped",
+            "score": 10513,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "slipping",
+            "score": 10513,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slips",
+            "score": 10513,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "urn",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vase",
+            "score": 10513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acetabulum",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adobe",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adobes",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art paper",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asmara",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aunt sally",
+            "score": 10454,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "basalt",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "betatron",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone china",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buck",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabaret",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calendar",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chelsea",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chillum",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "claymation",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crown derby",
+            "score": 10454
+        },
+        {
+            "word": "crucible",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cruse",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuvette",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daub",
+            "score": 10454,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "draw",
+            "score": 10454,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dutch oven",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "earthen",
+            "score": 10454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "editor",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyecup",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fable",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "famille",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fiesta",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firepot",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flatbed",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flowerpot",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frog",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gault",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "graniteware",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grog",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gumbo",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "head crash",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heads",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jar",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jarred",
+            "score": 10454,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "jsr",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jugged hare",
+            "score": 10454
+        },
+        {
+            "word": "jugs",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "just",
+            "score": 10454,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "kangri",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "keyboard",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "majolica",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marlite",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ming",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "operate",
+            "score": 10454,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "ceramic ware",
+            "score": 72,
+            "numSyllables": 4
+        },
+        {
+            "word": "ceramic",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "ceramics",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cdma",
+            "score": 62,
+            "numSyllables": 4
+        },
+        {
+            "word": "sermonic",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "sominex",
+            "score": 52,
+            "numSyllables": 3
+        },
+        {
+            "word": "samia",
+            "score": 52,
+            "numSyllables": 3
+        },
+        {
+            "word": "samaniego",
+            "score": 50,
+            "numSyllables": 4
+        },
+        {
+            "word": "sambucas",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "samba",
+            "score": 42,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "ceramic engineering",
+            "score": 2
+        }
+    ]
+}

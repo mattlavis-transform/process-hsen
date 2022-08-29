@@ -1,0 +1,761 @@
+{
+    "term": "air freshener",
+    "means_like": [
+        {
+            "word": "fragrance",
+            "score": 154564,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "perfume",
+            "score": 153564,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "deodorizer",
+            "score": 152564,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "scent",
+            "score": 55564,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "lilac",
+            "score": 35364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "odor",
+            "score": 35024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pine",
+            "score": 34964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glade",
+            "score": 34624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "musty",
+            "score": 33824,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aeration",
+            "score": 17184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fan",
+            "score": 17184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gargle",
+            "score": 17184,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gum",
+            "score": 17184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mist",
+            "score": 17184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mint",
+            "score": 16304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sachet",
+            "score": 16304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tictac",
+            "score": 16304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air out",
+            "score": 15424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "airs",
+            "score": 15424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freshen",
+            "score": 15424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "scented",
+            "score": 15424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "vent",
+            "score": 15424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "vented",
+            "score": 15424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ventilate",
+            "score": 15424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ventilated",
+            "score": 15424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "venting",
+            "score": 15424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cert",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perk",
+            "score": 15304,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "redecorate",
+            "score": 15304,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "deodorant",
+            "score": 11364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiseptic",
+            "score": 11304,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "soap",
+            "score": 11304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alpine",
+            "score": 10004,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "lemon",
+            "score": 10004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maid",
+            "score": 10004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "talc",
+            "score": 10004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balm",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brew",
+            "score": 5000,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cologne",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disinfectant",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fertilizer",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumes",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "repellent",
+            "score": 5000,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "restorative",
+            "score": 5000,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "salsa",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salve",
+            "score": 5000,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetener",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vanilla",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinegar",
+            "score": 5000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "a. testudineus",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aaa",
+            "score": 4424,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ablaqueation",
+            "score": 4424
+        },
+        {
+            "word": "absolute humidity",
+            "score": 4424
+        },
+        {
+            "word": "acc",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accordion",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ace",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acrid",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "act",
+            "score": 4424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "active air defense",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adaptation",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "admission",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advection",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advertisement",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adz",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeolian harp",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aer",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerate",
+            "score": 4424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "aerated",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aerator",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeri",
+            "score": 4424,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aerial",
+            "score": 4424,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "aerially",
+            "score": 4424,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "aero",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aero-",
+            "score": 4424
+        },
+        {
+            "word": "aerobe",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerobic",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aerobies",
+            "score": 4424
+        },
+        {
+            "word": "aerobiosis",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerodontalgia",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerodrome",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerodynamic",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aerodynamics",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerodyne",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeroembolism",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerofoil",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerogenesis",
+            "score": 4424
+        },
+        {
+            "word": "aerogenic",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aerography",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeromancy",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerometer",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeronaut",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeronautics",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aeronef",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerophilic",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aerophilous",
+            "score": 4424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aeroplane",
+            "score": 4424,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "air freshener",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "f region",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "aggression",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "agression",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "efron",
+            "score": 62,
+            "numSyllables": 2
+        },
+        {
+            "word": "effron",
+            "score": 60,
+            "numSyllables": 2
+        },
+        {
+            "word": "aggressions",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "efren",
+            "score": 60,
+            "numSyllables": 2
+        },
+        {
+            "word": "addression",
+            "score": 60,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "air freshener",
+            "score": 129344
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "air freshener",
+            "score": 129344
+        }
+    ]
+}

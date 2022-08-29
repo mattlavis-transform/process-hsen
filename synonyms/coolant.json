@@ -1,0 +1,1808 @@
+{
+    "term": "coolant",
+    "means_like": [
+        {
+            "word": "condenser",
+            "score": 71280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerant",
+            "score": 69715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooling",
+            "score": 68461,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fluid",
+            "score": 65561,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerating",
+            "score": 64387,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "refrigeration",
+            "score": 63955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liquid",
+            "score": 63879,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 63447,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cooler",
+            "score": 61367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerated",
+            "score": 60866,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "freezing",
+            "score": 58468,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chill",
+            "score": 55715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chilling",
+            "score": 52783,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "spanning",
+            "score": 51154,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "radiator",
+            "score": 51152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heat exchanger",
+            "score": 51151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valve",
+            "score": 51150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sump",
+            "score": 51149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lubrication",
+            "score": 51148,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immersion heater",
+            "score": 51147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhaust manifold",
+            "score": 51146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freon",
+            "score": 51145,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intercooler",
+            "score": 51144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combustion chamber",
+            "score": 51143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiator hose",
+            "score": 51142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cryogen",
+            "score": 51141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recirculation",
+            "score": 51140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ignition coil",
+            "score": 51139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compressor",
+            "score": 51138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhaust pipe",
+            "score": 51137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heater",
+            "score": 51136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hose",
+            "score": 51135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pcv valve",
+            "score": 51134,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "impeller",
+            "score": 51133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "combustor",
+            "score": 51131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fluids",
+            "score": 51130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vaporisation",
+            "score": 51129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nozzles",
+            "score": 51128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vapor",
+            "score": 51127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "degrease",
+            "score": 51126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nitriding",
+            "score": 51125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cryostat",
+            "score": 51124,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seawater",
+            "score": 51123,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brake fluid",
+            "score": 51122,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gasket",
+            "score": 51121,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lubricating oil",
+            "score": 51120,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overpressure",
+            "score": 51119,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solenoid",
+            "score": 51118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "condensation",
+            "score": 51117,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxidizer",
+            "score": 51116,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cavitation",
+            "score": 51115,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "activated carbon",
+            "score": 51114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swarf",
+            "score": 51113,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrolytic capacitor",
+            "score": 51112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desiccant",
+            "score": 51111,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "superheat",
+            "score": 51110,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drip pan",
+            "score": 51109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clarifier",
+            "score": 51108,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrolyte",
+            "score": 51107,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "economizer",
+            "score": 51106,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water vapor",
+            "score": 51105,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exothermic reaction",
+            "score": 51104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compressed air",
+            "score": 51103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "venturi",
+            "score": 51102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piston rod",
+            "score": 51101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "defroster",
+            "score": 51100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intake valve",
+            "score": 51099,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inlet manifold",
+            "score": 51098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ammonia",
+            "score": 51097,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nitrogen tetroxide",
+            "score": 51096,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glycol",
+            "score": 51095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydraulic pump",
+            "score": 51094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carburettor",
+            "score": 51093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demister",
+            "score": 51092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacrificial anode",
+            "score": 51091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nitrogen",
+            "score": 51090,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydrofluoric acid",
+            "score": 51089,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "upflow",
+            "score": 51088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crossflow",
+            "score": 51087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laminar flow",
+            "score": 51086,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alternator",
+            "score": 51085,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microchannel",
+            "score": 51084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxidisation",
+            "score": 51083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "psi",
+            "score": 51082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xenon",
+            "score": 51081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pentane",
+            "score": 51080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oxidiser",
+            "score": 51079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bilge pump",
+            "score": 51078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hypochlorite",
+            "score": 51077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peltier",
+            "score": 51076,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cuvette",
+            "score": 51075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suction",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antifreeze",
+            "score": 51073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toroidal",
+            "score": 51072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiper motor",
+            "score": 51071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viscosity",
+            "score": 51070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backflow",
+            "score": 51069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potassium hydroxide",
+            "score": 51068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reactor",
+            "score": 51067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capacitor",
+            "score": 51066,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "coolant",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "collant",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "callant",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "caliente",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coolen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coolants",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keulen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gallant",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "galant",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ulent",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "clint",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "cool it",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "klint",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "colony",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "coolest",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "couldnt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cullen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "killen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kellen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colonie",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "kalen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keelan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colons",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kellan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "collen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaylan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coulomb",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cullens",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cullet",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "collat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kelan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colorant",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "colones",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cool out",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caolan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cliente",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kailan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coulon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kelen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keilen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cailean",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "couchant",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coupland",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callens",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calanthe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "calot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kolon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "columned",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kolat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callat",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "callot",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cola nut",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "cholent",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "glunt",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "galland",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "halant",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "killin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "colin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cooling",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "collins",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "callin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "collin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "colette",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaelin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "collette",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaylynn",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "collet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalyn",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kailyn",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cailin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "calin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "klimt",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "keelin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "colins",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kellin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cullin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "collett",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "call in",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kellett",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaolin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kelin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "callet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "colet",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "collecte",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kilin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "call-in",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cullins",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaolinite",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "cool head",
+            "score": 82,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "coolant",
+            "score": 129595
+        },
+        {
+            "word": "coulant",
+            "score": 64694
+        },
+        {
+            "word": "collant",
+            "score": 64665
+        },
+        {
+            "word": "courant",
+            "score": 500
+        },
+        {
+            "word": "volant",
+            "score": 480
+        },
+        {
+            "word": "cooling",
+            "score": 413
+        },
+        {
+            "word": "coolest",
+            "score": 283
+        },
+        {
+            "word": "coolen",
+            "score": 274
+        },
+        {
+            "word": "colorant",
+            "score": 202
+        },
+        {
+            "word": "conant",
+            "score": 174
+        },
+        {
+            "word": "copland",
+            "score": 146
+        },
+        {
+            "word": "couldnt",
+            "score": 128
+        },
+        {
+            "word": "coogan",
+            "score": 93
+        },
+        {
+            "word": "callant",
+            "score": 83
+        },
+        {
+            "word": "cholent",
+            "score": 69
+        },
+        {
+            "word": "cotland",
+            "score": 67
+        },
+        {
+            "word": "coolung",
+            "score": 41
+        },
+        {
+            "word": "colan",
+            "score": 39
+        },
+        {
+            "word": "corant",
+            "score": 37
+        },
+        {
+            "word": "coonan",
+            "score": 32
+        },
+        {
+            "word": "collat",
+            "score": 30
+        },
+        {
+            "word": "coolwart",
+            "score": 30
+        },
+        {
+            "word": "cool it",
+            "score": 28
+        },
+        {
+            "word": "conlan",
+            "score": 26
+        },
+        {
+            "word": "coolants",
+            "score": 21
+        },
+        {
+            "word": "cholane",
+            "score": 19
+        },
+        {
+            "word": "copant",
+            "score": 18
+        },
+        {
+            "word": "doolan",
+            "score": 15
+        },
+        {
+            "word": "conlang",
+            "score": 14
+        },
+        {
+            "word": "chelant",
+            "score": 12
+        },
+        {
+            "word": "coplan",
+            "score": 11
+        },
+        {
+            "word": "caolan",
+            "score": 10
+        },
+        {
+            "word": "collana",
+            "score": 10
+        },
+        {
+            "word": "collan",
+            "score": 6
+        },
+        {
+            "word": "coola",
+            "score": 6
+        },
+        {
+            "word": "isolant",
+            "score": 5
+        },
+        {
+            "word": "coolaid",
+            "score": 4
+        },
+        {
+            "word": "voulant",
+            "score": 2
+        },
+        {
+            "word": "coolin",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "scram",
+            "score": 1720
+        },
+        {
+            "word": "antifreeze",
+            "score": 1692
+        },
+        {
+            "word": "thermostat",
+            "score": 1684
+        },
+        {
+            "word": "radiator",
+            "score": 1674
+        },
+        {
+            "word": "reactor",
+            "score": 1661
+        },
+        {
+            "word": "exchanger",
+            "score": 1652
+        },
+        {
+            "word": "gasket",
+            "score": 1627
+        },
+        {
+            "word": "moderator",
+            "score": 1616
+        },
+        {
+            "word": "condenser",
+            "score": 1590
+        },
+        {
+            "word": "glycol",
+            "score": 1578
+        },
+        {
+            "word": "zirconium",
+            "score": 1564
+        },
+        {
+            "word": "meltdown",
+            "score": 1561
+        },
+        {
+            "word": "containment",
+            "score": 1555
+        },
+        {
+            "word": "boiling",
+            "score": 1550
+        },
+        {
+            "word": "cooling",
+            "score": 1546
+        },
+        {
+            "word": "pumps",
+            "score": 1545
+        },
+        {
+            "word": "neutron",
+            "score": 1540
+        },
+        {
+            "word": "heater",
+            "score": 1532
+        },
+        {
+            "word": "reactivity",
+            "score": 1528
+        },
+        {
+            "word": "cladding",
+            "score": 1512
+        },
+        {
+            "word": "leak",
+            "score": 1504
+        },
+        {
+            "word": "molten",
+            "score": 1498
+        },
+        {
+            "word": "boil",
+            "score": 1493
+        },
+        {
+            "word": "vapour",
+            "score": 1488
+        },
+        {
+            "word": "shutdown",
+            "score": 1487
+        },
+        {
+            "word": "ethylene",
+            "score": 1481
+        },
+        {
+            "word": "pumped",
+            "score": 1477
+        },
+        {
+            "word": "fission",
+            "score": 1472
+        },
+        {
+            "word": "graphite",
+            "score": 1469
+        },
+        {
+            "word": "piping",
+            "score": 1468
+        },
+        {
+            "word": "rods",
+            "score": 1462
+        },
+        {
+            "word": "moderation",
+            "score": 1458
+        },
+        {
+            "word": "leakage",
+            "score": 1456
+        },
+        {
+            "word": "corrosion",
+            "score": 1443
+        },
+        {
+            "word": "radioactive",
+            "score": 1442
+        },
+        {
+            "word": "pump",
+            "score": 1429
+        },
+        {
+            "word": "throttle",
+            "score": 1419
+        },
+        {
+            "word": "heat",
+            "score": 1414
+        },
+        {
+            "word": "fluoride",
+            "score": 1413
+        },
+        {
+            "word": "plutonium",
+            "score": 1410
+        },
+        {
+            "word": "optimum",
+            "score": 1408
+        },
+        {
+            "word": "temperature",
+            "score": 1406
+        },
+        {
+            "word": "helium",
+            "score": 1405
+        },
+        {
+            "word": "liquid",
+            "score": 1403
+        },
+        {
+            "word": "sodium",
+            "score": 1399
+        },
+        {
+            "word": "generator",
+            "score": 1391
+        },
+        {
+            "word": "exhaust",
+            "score": 1384
+        },
+        {
+            "word": "fuel",
+            "score": 1383
+        },
+        {
+            "word": "bubbles",
+            "score": 1382
+        },
+        {
+            "word": "coefficient",
+            "score": 1371
+        },
+        {
+            "word": "fluid",
+            "score": 1370
+        },
+        {
+            "word": "grinding",
+            "score": 1369
+        },
+        {
+            "word": "loops",
+            "score": 1367
+        },
+        {
+            "word": "cylinder",
+            "score": 1365
+        },
+        {
+            "word": "steam",
+            "score": 1359
+        },
+        {
+            "word": "compartment",
+            "score": 1358
+        },
+        {
+            "word": "thermal",
+            "score": 1355
+        },
+        {
+            "word": "melting",
+            "score": 1350
+        },
+        {
+            "word": "sensor",
+            "score": 1347
+        },
+        {
+            "word": "loop",
+            "score": 1343
+        },
+        {
+            "word": "combustion",
+            "score": 1341
+        },
+        {
+            "word": "circulating",
+            "score": 1338
+        },
+        {
+            "word": "uranium",
+            "score": 1337
+        },
+        {
+            "word": "flow",
+            "score": 1336
+        },
+        {
+            "word": "injection",
+            "score": 1334
+        },
+        {
+            "word": "valve",
+            "score": 1328
+        },
+        {
+            "word": "heated",
+            "score": 1326
+        },
+        {
+            "word": "turbine",
+            "score": 1324
+        },
+        {
+            "word": "manifold",
+            "score": 1321
+        },
+        {
+            "word": "void",
+            "score": 1318
+        },
+        {
+            "word": "freeze",
+            "score": 1317
+        },
+        {
+            "word": "engine",
+            "score": 1313
+        },
+        {
+            "word": "absorb",
+            "score": 1312
+        },
+        {
+            "word": "flux",
+            "score": 1309
+        },
+        {
+            "word": "valves",
+            "score": 1308
+        },
+        {
+            "word": "core",
+            "score": 1306
+        },
+        {
+            "word": "intake",
+            "score": 1305
+        },
+        {
+            "word": "cooler",
+            "score": 1299
+        },
+        {
+            "word": "inlet",
+            "score": 1296
+        },
+        {
+            "word": "alloy",
+            "score": 1294
+        },
+        {
+            "word": "pipes",
+            "score": 1293
+        },
+        {
+            "word": "passive",
+            "score": 1280
+        },
+        {
+            "word": "pressure",
+            "score": 1278
+        },
+        {
+            "word": "conditioning",
+            "score": 1275
+        },
+        {
+            "word": "freezing",
+            "score": 1273
+        },
+        {
+            "word": "nuclear",
+            "score": 1272
+        },
+        {
+            "word": "bubble",
+            "score": 1261
+        },
+        {
+            "word": "hydrogen",
+            "score": 1256
+        },
+        {
+            "word": "nitrogen",
+            "score": 1254
+        },
+        {
+            "word": "hydraulic",
+            "score": 1252
+        },
+        {
+            "word": "contamination",
+            "score": 1250
+        },
+        {
+            "word": "outlet",
+            "score": 1248
+        },
+        {
+            "word": "vessel",
+            "score": 1241
+        },
+        {
+            "word": "aluminum",
+            "score": 1233
+        },
+        {
+            "word": "circulation",
+            "score": 1227
+        },
+        {
+            "word": "brake",
+            "score": 1223
+        },
+        {
+            "word": "debris",
+            "score": 1221
+        },
+        {
+            "word": "gases",
+            "score": 1220
+        },
+        {
+            "word": "dioxide",
+            "score": 1218
+        },
+        {
+            "word": "oil",
+            "score": 1217
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "coolant",
+            "score": 129595
+        },
+        {
+            "word": "coolants",
+            "score": 129339
+        },
+        {
+            "word": "coolant system",
+            "score": 129336
+        },
+        {
+            "word": "coulant",
+            "score": 64694
+        },
+        {
+            "word": "collant",
+            "score": 64665
+        },
+        {
+            "word": "colantonio",
+            "score": 64660
+        },
+        {
+            "word": "comlantareacogard",
+            "score": 64660
+        },
+        {
+            "word": "collateral",
+            "score": 2248
+        },
+        {
+            "word": "collate",
+            "score": 1661
+        },
+        {
+            "word": "cilantro",
+            "score": 645
+        }
+    ]
+}

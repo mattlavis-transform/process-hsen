@@ -1,0 +1,748 @@
+{
+    "term": "vinyl record",
+    "means_like": [
+        {
+            "word": "album",
+            "score": 149136,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "disc",
+            "score": 30579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disk",
+            "score": 30579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "groove",
+            "score": 30579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratch",
+            "score": 30136,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scratched",
+            "score": 30136,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "single",
+            "score": 30136,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "singling",
+            "score": 30136,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pressed",
+            "score": 14179,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "recorded",
+            "score": 14179,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "wax",
+            "score": 14138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recording",
+            "score": 13736,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snob",
+            "score": 13695,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neil",
+            "score": 13684,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rpm",
+            "score": 13684,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linoleum",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pvc",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saran",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "styrene",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tile",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinyl resin",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water bed",
+            "score": 13158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audiophile",
+            "score": 12715,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "lps",
+            "score": 12715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oldenburg",
+            "score": 12715,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "passe",
+            "score": 12715,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "joint",
+            "score": 12674,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "landau",
+            "score": 12674,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "acetate",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analysis",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartridge",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdr",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 12292,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 12292,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 12292,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "enter",
+            "score": 12292,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "error",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "film",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filming",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flied",
+            "score": 12292,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "item",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mag tape",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magnetic tape",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "material",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "memory",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notch",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "note",
+            "score": 12292,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "page",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "platter",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressing",
+            "score": 12292,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "rule",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "song",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soundtrack",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "streak",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taping",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trap",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 12292,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "word",
+            "score": 12292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acceleration",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acrylic",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adenosine",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive",
+            "score": 12272,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive bandage",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive tape",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerogel",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affect",
+            "score": 12272,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "agglutination",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "air cushion",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alpha paper",
+            "score": 12272
+        },
+        {
+            "word": "alumina",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amino plastic",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amino resin",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aminoplast",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ammonium",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ampoule",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "annul",
+            "score": 12272,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "annulated",
+            "score": 12272,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "anticipation",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apo",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aristotype",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artwork",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asbestos",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atom",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awning",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axle",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "badge",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baggies",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basha",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batten",
+            "score": 12272,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "on record",
+            "score": 58,
+            "numSyllables": 3
+        },
+        {
+            "word": "spinal cord",
+            "score": 55,
+            "numSyllables": 3
+        },
+        {
+            "word": "spinal chord",
+            "score": 55,
+            "numSyllables": 3
+        },
+        {
+            "word": "semiliquid",
+            "score": 41,
+            "numSyllables": 4
+        },
+        {
+            "word": "samurai sword",
+            "score": 40,
+            "numSyllables": 4
+        },
+        {
+            "word": "sound recording",
+            "score": 38,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "vital records",
+            "score": 18
+        }
+    ]
+}

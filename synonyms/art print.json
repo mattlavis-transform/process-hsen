@@ -1,0 +1,883 @@
+{
+    "term": "art print",
+    "means_like": [
+        {
+            "word": "typewriting",
+            "score": 28625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lithography",
+            "score": 28287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "original",
+            "score": 28287,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "parody",
+            "score": 28287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accent",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bold",
+            "score": 11887,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chiaroscuro",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "communication",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decal",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "detail",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engrave",
+            "score": 11887,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "engraving",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "erotica",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etch",
+            "score": 11887,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "etching",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyes",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gothic",
+            "score": 11887,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "graphic arts",
+            "score": 11887
+        },
+        {
+            "word": "halftone",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "image",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imaging",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ink",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intaglio",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "landscape",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "literature",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multimedia",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opera",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photography",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picture",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pictures",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picturing",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressed",
+            "score": 11887,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "printed",
+            "score": 11887,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "printing",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printmaking",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prints",
+            "score": 11887,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pull",
+            "score": 11887,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "pulling",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reproduction",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roman",
+            "score": 11887,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "rule",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sepia",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solid",
+            "score": 11887,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sort",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steel engraving",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stereotype",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thin",
+            "score": 11887,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thinned",
+            "score": 11887,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thinning",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "type",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "typography",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "version",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "volume",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wood engraving",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woodcut",
+            "score": 11887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imprimery",
+            "score": 11825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line-engraving",
+            "score": 11825
+        },
+        {
+            "word": "photogravure",
+            "score": 11825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retouch",
+            "score": 11822,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "terms",
+            "score": 11822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruled",
+            "score": 11639,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11639,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "runs",
+            "score": 11639,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "stain",
+            "score": 11639,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "contrast",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contrasted",
+            "score": 11575,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "contrasting",
+            "score": 11575,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rare",
+            "score": 11575,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "retouching",
+            "score": 11575,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "riff",
+            "score": 11575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mounting",
+            "score": 11513,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "preview",
+            "score": 11513,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "-type",
+            "score": 10763
+        },
+        {
+            "word": "advertisement",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aquatint",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blueprint",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boldface",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "braille",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bring",
+            "score": 10763,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bringing",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calico",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chain printer",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "challis",
+            "score": 10763,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "character",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "classified",
+            "score": 10763,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "classified ad",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "classified advertisement",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collotype",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "column",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copperplate",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copy",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copyright",
+            "score": 10763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copyrighted",
+            "score": 10763,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "copywrite",
+            "score": 10763,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "footprint",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "foot print",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "operant",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "arpent",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "overprint",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "ardent",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "godparent",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "chartrand",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "operand",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "ardiente",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "ardente",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "reprint",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "arborist",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "artin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "carteret",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "order in",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "arpin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "shirtfront",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "heir apparent",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "outpoint",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "outpourings",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "ahrendt",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "at point",
+            "score": 8
+        },
+        {
+            "word": "arprint",
+            "score": 2
+        },
+        {
+            "word": "pre print",
+            "score": 1
+        },
+        {
+            "word": "re print",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "dot printer",
+            "score": 23
+        },
+        {
+            "word": "bar printer",
+            "score": 20
+        },
+        {
+            "word": "bat printing",
+            "score": 18
+        },
+        {
+            "word": "art critic",
+            "score": 16
+        },
+        {
+            "word": "at point",
+            "score": 8
+        },
+        {
+            "word": "art criticism",
+            "score": 7
+        },
+        {
+            "word": "art critics",
+            "score": 3
+        },
+        {
+            "word": "arprint",
+            "score": 2
+        },
+        {
+            "word": "pre print",
+            "score": 1
+        },
+        {
+            "word": "re print",
+            "score": 1
+        }
+    ]
+}

@@ -1,0 +1,781 @@
+{
+    "term": "trading cards",
+    "means_like": [
+        {
+            "word": "aang",
+            "score": 28137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commerce",
+            "score": 11737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deal",
+            "score": 11737,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dealer",
+            "score": 11737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 11737,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "position",
+            "score": 11737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stock",
+            "score": 11737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trade",
+            "score": 11737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "close",
+            "score": 11684,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 11684,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "pio",
+            "score": 11684,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pip",
+            "score": 11684,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oost",
+            "score": 11671,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "post",
+            "score": 11671,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posted",
+            "score": 11671,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "speculation",
+            "score": 11671,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "act",
+            "score": 10711,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "amex",
+            "score": 10711,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arb",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auction market",
+            "score": 10711
+        },
+        {
+            "word": "curb",
+            "score": 10711,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "curb market",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curbing",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deals",
+            "score": 10711,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eec",
+            "score": 10711,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "era",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exchange",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exchanged",
+            "score": 10711,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "float",
+            "score": 10711,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "floor",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fund",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "funds",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insider trading",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interchange",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lamb",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "listed security",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "logrolling",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "making a market",
+            "score": 10711,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "market",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "not traded",
+            "score": 10711,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nundinal",
+            "score": 10711,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nyse",
+            "score": 10711,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "odd lot",
+            "score": 10711
+        },
+        {
+            "word": "open market",
+            "score": 10711
+        },
+        {
+            "word": "operations",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "otc",
+            "score": 10711,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "panic",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panicked",
+            "score": 10711,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pit",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redeem",
+            "score": 10711,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "registered representative",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sell",
+            "score": 10711,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "skipper",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stock exchange",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "technical",
+            "score": 10711,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "trader",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trades",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "traffic",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trafficking",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utter",
+            "score": 10711,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "uttered",
+            "score": 10711,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "volume",
+            "score": 10711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assets",
+            "score": 10658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloc",
+            "score": 10658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "call",
+            "score": 10658,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "high",
+            "score": 10658,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "house",
+            "score": 10658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karachi",
+            "score": 10658,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "monkey",
+            "score": 10658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thin",
+            "score": 10658,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thinned",
+            "score": 10658,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thinning",
+            "score": 10658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baseball card",
+            "score": 10619,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue-sky law",
+            "score": 10619
+        },
+        {
+            "word": "rbi",
+            "score": 10619,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "round lot",
+            "score": 10619
+        },
+        {
+            "word": "ante",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baccarat",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackjack",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "book",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booking",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "books",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burn",
+            "score": 10554,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardholder",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupon",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit card",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cribbed",
+            "score": 10554,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cut",
+            "score": 10554,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cuts",
+            "score": 10554,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cutting",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decking",
+            "score": 10554,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "deeds",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "discard",
+            "score": 10554,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "discarded",
+            "score": 10554,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "discarding",
+            "score": 10554,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "documentation",
+            "score": 10554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "draw",
+            "score": 10554,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "duplicate",
+            "score": 10554,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "trading cards",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "trading card",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "greeting cards",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "drawing card",
+            "score": 68,
+            "numSyllables": 3
+        },
+        {
+            "word": "drunkards",
+            "score": 62,
+            "numSyllables": 2
+        },
+        {
+            "word": "boarding card",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "streetcars",
+            "score": 50,
+            "numSyllables": 2
+        },
+        {
+            "word": "streetcar",
+            "score": 42,
+            "numSyllables": 2
+        },
+        {
+            "word": "street car",
+            "score": 42,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "trading cards",
+            "score": 129331
+        },
+        {
+            "word": "trading card",
+            "score": 64692
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "trading cards",
+            "score": 129331
+        },
+        {
+            "word": "trading card",
+            "score": 64692
+        }
+    ]
+}

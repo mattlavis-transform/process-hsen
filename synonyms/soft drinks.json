@@ -1,0 +1,814 @@
+{
+    "term": "soft drinks",
+    "means_like": [
+        {
+            "word": "beverage",
+            "score": 48938,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "drink",
+            "score": 48538,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 48538,
+            "tags": [
+                "syn",
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "soda",
+            "score": 48538,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "spirits",
+            "score": 48538,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "beverages",
+            "score": 48477,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "refreshments",
+            "score": 48477,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerants",
+            "score": 48477,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerant",
+            "score": 48437,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tartaric acid",
+            "score": 28776,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "premix",
+            "score": 28538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ales",
+            "score": 28477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colas",
+            "score": 28477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aspartame",
+            "score": 28437,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda fountain",
+            "score": 28437,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vending machine",
+            "score": 28437,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carbonate",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cola nut",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kola nut",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lolly water",
+            "score": 28376,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "pop bottle",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda bottle",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda can",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stick",
+            "score": 28376,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sticks",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "succession",
+            "score": 28376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cola",
+            "score": 12138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kola",
+            "score": 12138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mixer",
+            "score": 12138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sarsaparilla",
+            "score": 12138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tonic",
+            "score": 12138,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "alcopop",
+            "score": 12077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "juice",
+            "score": 12077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 12037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hard",
+            "score": 11894,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "soak",
+            "score": 11833,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "soaked",
+            "score": 11833,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lush",
+            "score": 11793,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pate",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rail",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rye",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "still",
+            "score": 11793,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "stilled",
+            "score": 11793,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tap",
+            "score": 11793,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "buffet",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carbon dioxide",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail table",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collins",
+            "score": 11016,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cooler",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glass",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "long",
+            "score": 11016,
+            "tags": [
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "milk bar",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mixed",
+            "score": 11016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "optic",
+            "score": 11016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "refreshment",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shaker",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shakes",
+            "score": 11016,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shot",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tall",
+            "score": 11016,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tea",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine",
+            "score": 11016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asa",
+            "score": 10936,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "back",
+            "score": 10936,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "bak",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bitter cassava",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boss",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cider",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coca-cola",
+            "score": 10936
+        },
+        {
+            "word": "coke",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cordial",
+            "score": 10936,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cotton",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cream soda",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decaf",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "down",
+            "score": 10936,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "erbium",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flip",
+            "score": 10936,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "float",
+            "score": 10936,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "flue",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fog",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fogged",
+            "score": 10936,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gari",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ghost",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ghosting",
+            "score": 10936,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "ginger ale",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphite",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indium",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanthanum",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapped",
+            "score": 10936,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "large",
+            "score": 10936,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lemon",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lime",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lite",
+            "score": 10936,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lithium",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lob",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandioc",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandioca",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manihot esculenta",
+            "score": 10936,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "soft drinks",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft drink",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "softdrink",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "soft drug",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "soldering",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "sodding",
+            "score": 50,
+            "numSyllables": 2
+        },
+        {
+            "word": "sarks",
+            "score": 50,
+            "numSyllables": 1
+        },
+        {
+            "word": "saric",
+            "score": 50,
+            "numSyllables": 2
+        },
+        {
+            "word": "sodic",
+            "score": 50,
+            "numSyllables": 2
+        },
+        {
+            "word": "sartoris",
+            "score": 50,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "soft drinks",
+            "score": 129339
+        },
+        {
+            "word": "soft drink",
+            "score": 64828
+        },
+        {
+            "word": "softdrink",
+            "score": 24
+        },
+        {
+            "word": "soft-drink",
+            "score": 9
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "soft drinks",
+            "score": 129339
+        },
+        {
+            "word": "soft drink",
+            "score": 64828
+        },
+        {
+            "word": "softdrink",
+            "score": 24
+        },
+        {
+            "word": "soft-drink",
+            "score": 9
+        }
+    ]
+}

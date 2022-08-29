@@ -1,0 +1,819 @@
+{
+    "term": "credit card",
+    "means_like": [
+        {
+            "word": "bank card",
+            "score": 75882,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "charge card",
+            "score": 75882,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "charge plate",
+            "score": 75882,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "debit card",
+            "score": 75881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creditcard",
+            "score": 75880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bankcard",
+            "score": 75879,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardholder",
+            "score": 75877,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit limit",
+            "score": 75875,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "identity theft",
+            "score": 75874,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit account",
+            "score": 75873,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overdraft",
+            "score": 75872,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 75871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debit",
+            "score": 75870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cashcard",
+            "score": 75869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mortgage",
+            "score": 75868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge account",
+            "score": 75866,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prepaid",
+            "score": 75865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "payment",
+            "score": 75864,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "positive identification",
+            "score": 75863,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checkbook",
+            "score": 75862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "citibank",
+            "score": 75861,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chequing",
+            "score": 75859,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checkless",
+            "score": 75858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosigner",
+            "score": 75857,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automated teller",
+            "score": 75856,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "personal identification number",
+            "score": 75855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magnetic stripe",
+            "score": 75854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checking account",
+            "score": 75853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biller",
+            "score": 75852,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "passwords",
+            "score": 75851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automated teller machine",
+            "score": 75850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 75849,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cahoot",
+            "score": 75848,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit",
+            "score": 75847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unsecured debt",
+            "score": 75846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cell phone",
+            "score": 75845,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bankbook",
+            "score": 75844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "layaway",
+            "score": 75843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bank",
+            "score": 75842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invoice",
+            "score": 75841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atms",
+            "score": 75840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paystub",
+            "score": 75839,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loan",
+            "score": 75838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cash dispenser",
+            "score": 75837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debts",
+            "score": 75836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "borrowers",
+            "score": 75835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "issuers",
+            "score": 75834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automatic teller",
+            "score": 75832,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "balances",
+            "score": 75830,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lenders",
+            "score": 75829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit side",
+            "score": 75828,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bills",
+            "score": 75827,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delinquencies",
+            "score": 75826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft loan",
+            "score": 75825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "car loan",
+            "score": 75824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transfund",
+            "score": 75823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cash machine",
+            "score": 75822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debt instrument",
+            "score": 75821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phish",
+            "score": 75820,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "phone",
+            "score": 75819,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cellphone",
+            "score": 75818,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automatic teller machine",
+            "score": 75816,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "refund",
+            "score": 75815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metrocard",
+            "score": 75814,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "debtors",
+            "score": 75813,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balloon payment",
+            "score": 75812,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mortage",
+            "score": 75810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accts",
+            "score": 75809,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phone card",
+            "score": 75808,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swiper",
+            "score": 75807,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phishing",
+            "score": 75806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keycard",
+            "score": 75805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scammers",
+            "score": 75804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accounts",
+            "score": 75803,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchant",
+            "score": 75802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cashbook",
+            "score": 75801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "account statement",
+            "score": 75800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telemarketer",
+            "score": 75799,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line of credit",
+            "score": 75798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refinancing",
+            "score": 75797,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "payee",
+            "score": 75796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mastercard",
+            "score": 75795,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "donor card",
+            "score": 75794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupons",
+            "score": 75793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transactions",
+            "score": 75792,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automated clearing house",
+            "score": 75791,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "depository financial institution",
+            "score": 75790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prepay",
+            "score": 75789,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dunning",
+            "score": 75787,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "giro",
+            "score": 75786,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "certificate of deposit",
+            "score": 75785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dollar bill",
+            "score": 75783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delinquent",
+            "score": 75782,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fees",
+            "score": 75781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cashier",
+            "score": 75780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "escheatment",
+            "score": 75779,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "defrayment",
+            "score": 75778,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "usury",
+            "score": 75777,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billfold",
+            "score": 75776,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shell company",
+            "score": 75775,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "credit card",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "creditcard",
+            "score": 97,
+            "numSyllables": 3
+        },
+        {
+            "word": "credit cards",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "credit score",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "credited",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "creditor",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "credit side",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "accredited",
+            "score": 62,
+            "numSyllables": 4
+        },
+        {
+            "word": "credit report",
+            "score": 62,
+            "numSyllables": 4
+        },
+        {
+            "word": "scratch card",
+            "score": 55,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "credit card",
+            "score": 129443
+        },
+        {
+            "word": "creditcard",
+            "score": 64695
+        },
+        {
+            "word": "credit-card",
+            "score": 64668
+        },
+        {
+            "word": "credit cards",
+            "score": 14
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "credit card",
+            "score": 129443
+        },
+        {
+            "word": "credit cards",
+            "score": 129332
+        },
+        {
+            "word": "creditcard",
+            "score": 64695
+        },
+        {
+            "word": "credit-card",
+            "score": 64668
+        },
+        {
+            "word": "credit crunch",
+            "score": 65
+        },
+        {
+            "word": "credit order",
+            "score": 27
+        },
+        {
+            "word": "credit market",
+            "score": 3
+        }
+    ]
+}

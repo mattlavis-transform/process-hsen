@@ -1,0 +1,1456 @@
+{
+    "term": "transceiver",
+    "means_like": [
+        {
+            "word": "transmitter",
+            "score": 50798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transponder",
+            "score": 46476,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "receiver",
+            "score": 40151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "receptor",
+            "score": 39693,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fob",
+            "score": 35910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "receiving",
+            "score": 31721,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "directional antenna",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demodulator",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antenna",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amplifier",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multimode",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dipole antenna",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wideband",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uhf",
+            "score": 31336,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "repeater",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multiplexer",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vhf",
+            "score": 31332,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "preamplifier",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subsystem",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yagi",
+            "score": 31329,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "frequency modulation",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diode",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photodiode",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modulator",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oscillator",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microprocessor",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "passband",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waveguide",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transducer",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "module",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zener diode",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wlan",
+            "score": 31317,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "analog",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transistor",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rectifier",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crystal oscillator",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duplexer",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "programmable",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uart",
+            "score": 31310,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "inductance",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dmos",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inductor",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "superheterodyne",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "router",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "omnidirectional antenna",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baud rate",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mux",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermistor",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capacitance",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voltage regulator",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oscilloscope",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interposer",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coprocessor",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impedances",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thyristor",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gige",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pams",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voltages",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photodetector",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "multimeter",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oring",
+            "score": 31288,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "demultiplexer",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pico",
+            "score": 31286,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thermocouple",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microwatt",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sideband",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "resistor",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waveform",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intermodulation",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heterodyne",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prost",
+            "score": 31278,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "voltage divider",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wpan",
+            "score": 31276,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "subminiature",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leadless",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ohm",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lightwave",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pcb",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vocable",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intermediate frequency",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waveband",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "convertor",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "encoder",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inverter",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firmware",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "khz",
+            "score": 31262,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "synchroniser",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "resonant cavity",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardioid",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bypass capacitor",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flyback",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupler",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sensor",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milliwatt",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electret",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fractus",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jitter",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "septentrio",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "transceiver",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "transire",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "transfer",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "transpire",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "transpor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "transpare",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "turnover",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "transverse",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "trances",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "trancing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "turn over",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "time saver",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "timesaver",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "transferer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "trouncer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "transferor",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "transferrer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "trench fever",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "dreamweaver",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "drancy",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "trance",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "transform",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transport",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "translator",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "tranny",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transpired",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "transferred",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transmitter",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "transpose",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transpires",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "transfers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transe",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "translater",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "tranced",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "trannie",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transducer",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "trannies",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "trouncing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "tensive",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "tranter",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "terranova",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "transferee",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "trashier",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "trendier",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transcender",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "trounces",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "turned over",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "tancer",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transue",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transl",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transpierce",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transporte",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transude",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "turnier",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "tansi",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transco",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transmove",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "transf",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "transp",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "true cedar",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "transceiver",
+            "score": 129646
+        },
+        {
+            "word": "transcriber",
+            "score": 171
+        },
+        {
+            "word": "transceivers",
+            "score": 83
+        },
+        {
+            "word": "transcender",
+            "score": 12
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "bts",
+            "score": 1798
+        },
+        {
+            "word": "handset",
+            "score": 1655
+        },
+        {
+            "word": "transponder",
+            "score": 1632
+        },
+        {
+            "word": "iridium",
+            "score": 1623
+        },
+        {
+            "word": "modem",
+            "score": 1607
+        },
+        {
+            "word": "ethernet",
+            "score": 1572
+        },
+        {
+            "word": "transmit",
+            "score": 1570
+        },
+        {
+            "word": "vhf",
+            "score": 1569
+        },
+        {
+            "word": "gsm",
+            "score": 1553
+        },
+        {
+            "word": "repeater",
+            "score": 1544
+        },
+        {
+            "word": "antenna",
+            "score": 1515
+        },
+        {
+            "word": "circuitry",
+            "score": 1510
+        },
+        {
+            "word": "ghz",
+            "score": 1497
+        },
+        {
+            "word": "ics",
+            "score": 1495
+        },
+        {
+            "word": "router",
+            "score": 1493
+        },
+        {
+            "word": "microprocessor",
+            "score": 1483
+        },
+        {
+            "word": "voip",
+            "score": 1480
+        },
+        {
+            "word": "receiver",
+            "score": 1477
+        },
+        {
+            "word": "transmitter",
+            "score": 1468
+        },
+        {
+            "word": "connector",
+            "score": 1466
+        },
+        {
+            "word": "beacon",
+            "score": 1458
+        },
+        {
+            "word": "handheld",
+            "score": 1454
+        },
+        {
+            "word": "watt",
+            "score": 1449
+        },
+        {
+            "word": "amplifier",
+            "score": 1443
+        },
+        {
+            "word": "bluetooth",
+            "score": 1435
+        },
+        {
+            "word": "watts",
+            "score": 1432
+        },
+        {
+            "word": "wireless",
+            "score": 1429
+        },
+        {
+            "word": "usb",
+            "score": 1428
+        },
+        {
+            "word": "fiber",
+            "score": 1425
+        },
+        {
+            "word": "frequency",
+            "score": 1419
+        },
+        {
+            "word": "node",
+            "score": 1416
+        },
+        {
+            "word": "optic",
+            "score": 1411
+        },
+        {
+            "word": "microphone",
+            "score": 1409
+        },
+        {
+            "word": "cactus",
+            "score": 1404
+        },
+        {
+            "word": "uhf",
+            "score": 1399
+        },
+        {
+            "word": "microwave",
+            "score": 1397
+        },
+        {
+            "word": "cellular",
+            "score": 1393
+        },
+        {
+            "word": "portable",
+            "score": 1382
+        },
+        {
+            "word": "signaling",
+            "score": 1377
+        },
+        {
+            "word": "ais",
+            "score": 1375
+        },
+        {
+            "word": "nodes",
+            "score": 1367
+        },
+        {
+            "word": "interface",
+            "score": 1364
+        },
+        {
+            "word": "controller",
+            "score": 1357
+        },
+        {
+            "word": "module",
+            "score": 1355
+        },
+        {
+            "word": "avalanche",
+            "score": 1353
+        },
+        {
+            "word": "pulse",
+            "score": 1351
+        },
+        {
+            "word": "gps",
+            "score": 1349
+        },
+        {
+            "word": "wired",
+            "score": 1346
+        },
+        {
+            "word": "tuned",
+            "score": 1345
+        },
+        {
+            "word": "functionality",
+            "score": 1340
+        },
+        {
+            "word": "accessories",
+            "score": 1334
+        },
+        {
+            "word": "optical",
+            "score": 1328
+        },
+        {
+            "word": "ieee",
+            "score": 1323
+        },
+        {
+            "word": "signal",
+            "score": 1322
+        },
+        {
+            "word": "torn",
+            "score": 1319
+        },
+        {
+            "word": "mast",
+            "score": 1316
+        },
+        {
+            "word": "switching",
+            "score": 1314
+        },
+        {
+            "word": "rom",
+            "score": 1310
+        },
+        {
+            "word": "meter",
+            "score": 1308
+        },
+        {
+            "word": "logic",
+            "score": 1306
+        },
+        {
+            "word": "electronics",
+            "score": 1299
+        },
+        {
+            "word": "bits",
+            "score": 1294
+        },
+        {
+            "word": "mobile",
+            "score": 1292
+        },
+        {
+            "word": "cable",
+            "score": 1291
+        },
+        {
+            "word": "telephone",
+            "score": 1289
+        },
+        {
+            "word": "distress",
+            "score": 1288
+        },
+        {
+            "word": "transmitted",
+            "score": 1284
+        },
+        {
+            "word": "chip",
+            "score": 1282
+        },
+        {
+            "word": "output",
+            "score": 1279
+        },
+        {
+            "word": "transmission",
+            "score": 1277
+        },
+        {
+            "word": "device",
+            "score": 1275
+        },
+        {
+            "word": "passive",
+            "score": 1273
+        },
+        {
+            "word": "chips",
+            "score": 1270
+        },
+        {
+            "word": "hardware",
+            "score": 1267
+        },
+        {
+            "word": "attachment",
+            "score": 1266
+        },
+        {
+            "word": "sensor",
+            "score": 1260
+        },
+        {
+            "word": "amateur",
+            "score": 1258
+        },
+        {
+            "word": "communicate",
+            "score": 1257
+        },
+        {
+            "word": "boot",
+            "score": 1255
+        },
+        {
+            "word": "channels",
+            "score": 1254
+        },
+        {
+            "word": "analog",
+            "score": 1251
+        },
+        {
+            "word": "serial",
+            "score": 1250
+        },
+        {
+            "word": "communications",
+            "score": 1246
+        },
+        {
+            "word": "processor",
+            "score": 1243
+        },
+        {
+            "word": "link",
+            "score": 1241
+        },
+        {
+            "word": "iso",
+            "score": 1239
+        },
+        {
+            "word": "radio",
+            "score": 1237
+        },
+        {
+            "word": "messages",
+            "score": 1233
+        },
+        {
+            "word": "communication",
+            "score": 1228
+        },
+        {
+            "word": "networking",
+            "score": 1227
+        },
+        {
+            "word": "compact",
+            "score": 1225
+        },
+        {
+            "word": "devices",
+            "score": 1224
+        },
+        {
+            "word": "battery",
+            "score": 1221
+        },
+        {
+            "word": "satellite",
+            "score": 1220
+        },
+        {
+            "word": "ham",
+            "score": 1216
+        },
+        {
+            "word": "specification",
+            "score": 1214
+        },
+        {
+            "word": "equipment",
+            "score": 1212
+        },
+        {
+            "word": "laser",
+            "score": 1211
+        },
+        {
+            "word": "phone",
+            "score": 1205
+        },
+        {
+            "word": "detected",
+            "score": 1203
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "transceiver",
+            "score": 129646
+        },
+        {
+            "word": "transceivers",
+            "score": 129401
+        },
+        {
+            "word": "transcriber",
+            "score": 171
+        },
+        {
+            "word": "transcender",
+            "score": 12
+        }
+    ]
+}

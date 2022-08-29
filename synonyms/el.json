@@ -1,0 +1,1317 @@
+{
+    "term": "el",
+    "means_like": [
+        {
+            "word": "alt",
+            "score": 47228,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "altitude",
+            "score": 46250,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "elevation",
+            "score": 43444,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "elevated railroad",
+            "score": 42912,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "elevated railway",
+            "score": 42912,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "overhead railway",
+            "score": 42912,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "jebel",
+            "score": 42911,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "medina",
+            "score": 40402,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kal",
+            "score": 40258,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jor",
+            "score": 40004,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kab",
+            "score": 39136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mik",
+            "score": 37924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beth",
+            "score": 36703,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "amarna",
+            "score": 35987,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gebel",
+            "score": 35404,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bravo",
+            "score": 34636,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "farah",
+            "score": 33903,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "guatemala",
+            "score": 32641,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "loz",
+            "score": 31810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pour",
+            "score": 28231,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "amama",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "balah",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beida",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hesi",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "isra",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kader",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kadr",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kelb",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "krim",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "melek",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oued",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sayed",
+            "score": 26365,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "zam",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alamein",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cid",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dorado",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "giza",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "greco",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "justification",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mari",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "salvador",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "the",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "train",
+            "score": 26364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "abd",
+            "score": 6424,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aden",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "adn",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "afghanistan",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "akhenaten",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alexandria",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "almaty",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "amd",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "and",
+            "score": 6364
+        },
+        {
+            "word": "andean",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "andes",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ane",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ans",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arequipa",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "armenia",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asturias",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "basra",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "belarus",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bernoulli",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bida",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blt",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boabdil",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bolivar",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bolivia",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "breuer",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bull",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cad",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cairo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "carriage",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "centavo",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "central america",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "child",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "childhood",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "children",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiromancy",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cinderella",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ciudad juarez",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "colon",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "country",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couscous",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crete",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dali",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "darfur",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "denmark",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "doha",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drought",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ecuador",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "el aaiun",
+            "score": 6364,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "el doradoes",
+            "score": 6364,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "el ferrol",
+            "score": 6364,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "el nino",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "el nino southern oscillation",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "el salvadoran colon",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "el salvadoran monetary unit",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eldorado",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "electroluminescence",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "l",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "el",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ell",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "elle",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ael",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "evn",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "-el",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "hlo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ehle",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ehl",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "elh",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "hlh",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ill",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ull",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ul",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "il",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ille",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "uhl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lll",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "yll",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "lhi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "all",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oil",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "owl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "al",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aisle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ale",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "isle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eel",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ole",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ail",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ile",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ool",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eal",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "awl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ele",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oll",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aile",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "iel",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "alle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oal",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "yle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aal",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "uel",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eil",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aoul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oel",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "isl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "olle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ysl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ohl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aull",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eale",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eall",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "iil",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ayle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eile",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "iid",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eol",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aille",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oyl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "eule",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "oeil",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahle",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "i ll",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aiel",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ohel",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ayl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aale",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ole",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "alh",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "iyl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aaww",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "all-",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ivl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "uwl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "aule",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nge",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "ng",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "eng",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "engh",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "dng",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "nng",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "ngt",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "jng",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "njb",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "nghe",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "bel",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bele",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "-le",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "behl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aela",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "aeh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "a l",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bdl",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "el",
+            "score": 830
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "elicit",
+            "score": 3432
+        },
+        {
+            "word": "elaborate",
+            "score": 2855
+        },
+        {
+            "word": "element",
+            "score": 2542
+        },
+        {
+            "word": "elain",
+            "score": 2537
+        },
+        {
+            "word": "elusive",
+            "score": 2323
+        },
+        {
+            "word": "elite",
+            "score": 2293
+        },
+        {
+            "word": "elucidate",
+            "score": 1987
+        },
+        {
+            "word": "eligible",
+            "score": 1941
+        },
+        {
+            "word": "elephant",
+            "score": 1795
+        },
+        {
+            "word": "elide",
+            "score": 1676
+        }
+    ]
+}

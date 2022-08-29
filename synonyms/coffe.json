@@ -1,0 +1,1348 @@
+{
+    "term": "coffe",
+    "means_like": [
+        {
+            "word": "coffee",
+            "score": 31364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "starbucks",
+            "score": 31363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "espresso",
+            "score": 31362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latte",
+            "score": 31361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "expresso",
+            "score": 31360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cappuccino",
+            "score": 31359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macchiato",
+            "score": 31358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuppa",
+            "score": 31357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mocha",
+            "score": 31356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeemaker",
+            "score": 31355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frappuccino",
+            "score": 31354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decaf",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee morning",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demitasse",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caff",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chai",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caffiene",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cofee",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "java",
+            "score": 31346,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "turkish coffee",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kopi",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capuccino",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slurpee",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bev",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "digestive biscuit",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pepsi",
+            "score": 31339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "joe",
+            "score": 31338,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bloody mary",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sammie",
+            "score": 31336,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iced tea",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mcdonalds",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carmel",
+            "score": 31333,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thermos flask",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "icebox cake",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glogg",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caf",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swedish meatball",
+            "score": 31328,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "castor sugar",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "au lait",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peppermint patty",
+            "score": 31325,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mulled cider",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anisette",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jamaica",
+            "score": 31322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apple fritter",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kahlua",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bellini",
+            "score": 31319,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kir",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doz",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raisin bran",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cruller",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coca cola",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tamarindo",
+            "score": 31313,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clorox",
+            "score": 31312,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chocs",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheetos",
+            "score": 31310,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chocolat",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cran",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nutella",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yummies",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fresca",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oreos",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tisane",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoppe",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limeade",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sammy",
+            "score": 31300,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "orgeat",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caffe",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creme de menthe",
+            "score": 31297,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cynthia",
+            "score": 31296,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "colada",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frig",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souffl",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molasses cookie",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "achar",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kfc",
+            "score": 31290,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coffeeroom",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "orangeade",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rickey",
+            "score": 31287,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "entr",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "front burner",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maraschino cherry",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choco",
+            "score": 31283,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "buffett",
+            "score": 31282,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "salad nicoise",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sloe gin",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spritzer",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camomile tea",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethan",
+            "score": 31277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "delish",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applesauce cake",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rita",
+            "score": 31274,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iced coffee",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "irish coffee",
+            "score": 31272,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "suger",
+            "score": 31271,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lapsang",
+            "score": 31270,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "butty",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hamburg",
+            "score": 31268,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "oatcake",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caffe latte",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tartare sauce",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cough",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "coffe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "coff",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "koff",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "kauf",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "cauf",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "qoph",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "coph",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "cof",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaf",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kof",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "koph",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "calf",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keef",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "caf",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kief",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "caff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keefe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kif",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "caffe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cofe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keif",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuf",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coiffe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kiff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kef",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coof",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuffe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaif",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cafr",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kafe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaffe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kuff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kefe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coaf",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "caph",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kieff",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "qif",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "goff",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gough",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "coffee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "scoff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "caw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coughed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coffer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coughs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cougher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kopf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coth",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "kerf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "skoff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "curf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "corf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "korf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coft",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cloff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "caughey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "koffer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "korff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coffa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "goffe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cawe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "qaw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "goof",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaff",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hoff",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gif",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gof",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "guff",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "giff",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "guf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hauf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gef",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hauff",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gafe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "geef",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "goaf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eoff",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "tgf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "bvf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gouf",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ca",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "cah",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "cao",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "carf",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "caa",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "cau",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "caah",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "cafa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "caffa",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "cafo",
+            "score": 87,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "coffe",
+            "score": 64747
+        },
+        {
+            "word": "coffee",
+            "score": 3227
+        },
+        {
+            "word": "loffe",
+            "score": 967
+        },
+        {
+            "word": "coffle",
+            "score": 253
+        },
+        {
+            "word": "caffe",
+            "score": 250
+        },
+        {
+            "word": "coiffe",
+            "score": 183
+        },
+        {
+            "word": "coff",
+            "score": 162
+        },
+        {
+            "word": "cofee",
+            "score": 58
+        },
+        {
+            "word": "goffe",
+            "score": 37
+        },
+        {
+            "word": "cuffe",
+            "score": 30
+        },
+        {
+            "word": "joffe",
+            "score": 25
+        },
+        {
+            "word": "cofe",
+            "score": 24
+        },
+        {
+            "word": "roffe",
+            "score": 21
+        },
+        {
+            "word": "coffs",
+            "score": 19
+        },
+        {
+            "word": "coffre",
+            "score": 16
+        },
+        {
+            "word": "coffie",
+            "score": 7
+        },
+        {
+            "word": "coffa",
+            "score": 5
+        },
+        {
+            "word": "cofhe",
+            "score": 3
+        },
+        {
+            "word": "cofre",
+            "score": 3
+        },
+        {
+            "word": "toffe",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "coffee",
+            "score": 67886
+        },
+        {
+            "word": "coffer",
+            "score": 65476
+        },
+        {
+            "word": "coffers",
+            "score": 65123
+        },
+        {
+            "word": "coffeemaker",
+            "score": 64913
+        },
+        {
+            "word": "coffeehouse",
+            "score": 64906
+        },
+        {
+            "word": "cofferdam",
+            "score": 64895
+        },
+        {
+            "word": "coffeepot",
+            "score": 64844
+        },
+        {
+            "word": "coffee grounds",
+            "score": 64813
+        },
+        {
+            "word": "coffey",
+            "score": 64811
+        },
+        {
+            "word": "coffeeshop",
+            "score": 64799
+        }
+    ]
+}

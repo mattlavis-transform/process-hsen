@@ -1,0 +1,1249 @@
+{
+    "term": "shower head",
+    "means_like": [
+        {
+            "word": "showering",
+            "score": 29286,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "meteor",
+            "score": 29275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mist",
+            "score": 29275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloud",
+            "score": 12886,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shave",
+            "score": 12886,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stall",
+            "score": 12886,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "steam",
+            "score": 12886,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affusion",
+            "score": 12844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drop",
+            "score": 12844,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pee",
+            "score": 12844,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "seal",
+            "score": 12844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 12844,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "spirit",
+            "score": 12844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splash",
+            "score": 12844,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 12844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lodging",
+            "score": 12833,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pane",
+            "score": 12833,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atlas",
+            "score": 12585,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "globe",
+            "score": 12585,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lay",
+            "score": 12585,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rod",
+            "score": 12585,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iron",
+            "score": 12575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "psycho",
+            "score": 12575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snatch",
+            "score": 12575,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "snatching",
+            "score": 12575,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "thong",
+            "score": 12575,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathe",
+            "score": 11865,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bathing",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathroom",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baths",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lave",
+            "score": 11865,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pelt",
+            "score": 11865,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rain",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainbow",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raining",
+            "score": 11865,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rains",
+            "score": 11865,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rinse",
+            "score": 11865,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "scud",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sewage",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soap",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stalls",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "storm",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tile",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "towel",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wash",
+            "score": 11865,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "washrag",
+            "score": 11865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cascade",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cascades",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flurry",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inn",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kill",
+            "score": 11823,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "robe",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scat",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scatter",
+            "score": 11823,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "snow",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tree",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weather",
+            "score": 11823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiant",
+            "score": 11606,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shrapnel",
+            "score": 11606,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrage",
+            "score": 11564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 11564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broom",
+            "score": 11564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canafistola",
+            "score": 11564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canafistula",
+            "score": 11564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leo",
+            "score": 11564,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "naked",
+            "score": 11564,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pbs",
+            "score": 11564,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "percolator",
+            "score": 11564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ache",
+            "score": 11369,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "antenna",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 11369,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bended",
+            "score": 11369,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bends",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bens",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biot",
+            "score": 11369,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blackcap",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 11369,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bore",
+            "score": 11369,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "boss",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottom",
+            "score": 11369,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bottoms",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brains",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 11369,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "captain",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catchword",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "center",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceremony",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clouded",
+            "score": 11369,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "come",
+            "score": 11369,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "commissar",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commode",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cone",
+            "score": 11369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conservative",
+            "score": 11369,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cool",
+            "score": 11369,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "shower head",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "sherrod",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharad",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "shred",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "showered",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "showerhead",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "charrette",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shard",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "shored",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "jarid",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "suret",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharett",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "shared",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jared",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shroud",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "charade",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shrewd",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheared",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jarod",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shrowd",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jerrod",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jerod",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sheard",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheered",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "showery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "charette",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "schrade",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "shrode",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "shrood",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sherard",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jerid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "schrod",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jerrid",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sore head",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shara",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "shorted",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharded",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "sciara",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "joyride",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "joy ride",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "see red",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "juried",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "short",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "shouted",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "horrid",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "torrid",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shari",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shira",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharia",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "shory",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "charlette",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shortt",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "shahid",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shera",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shorey",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shirah",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "charu",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shura",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "charest",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shahrzad",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "shoreside",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharked",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "sharri",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "schirra",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "schritt",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "lorid",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharp eyed",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "charged",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "charred",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "chard",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "jarred",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "lurid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "herod",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cherie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jarrett",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cheri",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jord",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "jard",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "jarret",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fore head",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "harrod",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jarhead",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gerrit",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "lorette",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "charde",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "laurette",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jorde",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "harod",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gsd",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "giard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chevrette",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jerrett",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "larid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chiru",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jurat",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jarratt",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "shower head",
+            "score": 129357
+        },
+        {
+            "word": "showerhead",
+            "score": 64922
+        },
+        {
+            "word": "flower head",
+            "score": 44
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "shower head",
+            "score": 129357
+        },
+        {
+            "word": "showerhead",
+            "score": 64922
+        },
+        {
+            "word": "showerheads",
+            "score": 64664
+        },
+        {
+            "word": "flower head",
+            "score": 44
+        },
+        {
+            "word": "sober headed",
+            "score": 13
+        },
+        {
+            "word": "flower heads",
+            "score": 4
+        }
+    ]
+}

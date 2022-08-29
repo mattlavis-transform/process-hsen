@@ -1,0 +1,1621 @@
+{
+    "term": "velcro",
+    "means_like": [
+        {
+            "word": "straps",
+            "score": 51041,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fastenings",
+            "score": 48182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fasteners",
+            "score": 44842,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "closures",
+            "score": 37442,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zipper",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neoprene",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bungee cord",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gripper",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive tape",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanyard",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nylon",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gusset",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bobby pin",
+            "score": 31318,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clasp",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snug",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabineer",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabiner",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grommets",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoulder strap",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elastics",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karabiner",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slide fastener",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allen wrench",
+            "score": 31306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grippers",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyelets",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snap fastener",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gaiter",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overhand knot",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embroidery hoop",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stockinette",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacers",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brads",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gusseted",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlenose pliers",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckband",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "midsole",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dowels",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saran wrap",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armholes",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backplate",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nosepiece",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "superglue",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothespin",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silicone rubber",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stiffener",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kneepad",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ripstop",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamois",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strap",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "webbing",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terry cloth",
+            "score": 31277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "raglan sleeve",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retractor",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outsole",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keyways",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable spanner",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clove hitch",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pegboard",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickstand",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoelaces",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tricot",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snell",
+            "score": 31265,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thumbtack",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocks",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zip",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyehole",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable wrench",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flanges",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laces",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countersink",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrunchie",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprocket",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chin strap",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scotch tape",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sellotape",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baseplate",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insoles",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinking shears",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandeau",
+            "score": 31248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "groundsheet",
+            "score": 31247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terrycloth",
+            "score": 31246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mudguard",
+            "score": 31245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hex nut",
+            "score": 31244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waterfield",
+            "score": 31243,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "crampon",
+            "score": 31242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foam rubber",
+            "score": 31241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplex",
+            "score": 31240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swivel",
+            "score": 31239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nipples",
+            "score": 31238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawstring bag",
+            "score": 31237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crazy glue",
+            "score": 31236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elastic band",
+            "score": 31235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splints",
+            "score": 31234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thumbscrews",
+            "score": 31233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mylar",
+            "score": 31232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "threader",
+            "score": 31231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwheel",
+            "score": 31230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wicking",
+            "score": 31229,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "velcro",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "velero",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "velcroed",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "valero",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "volker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "volkert",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "valko",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "voelker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "volcker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vulgar",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vickery",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "valera",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "vicary",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "vickrey",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "valerie",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "velour",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vero",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "velo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "valery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "valarie",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "valeri",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "vallery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "valorie",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "vecchio",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "valore",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "varo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "velours",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "valere",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "velar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "volary",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "vello",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "velure",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vellore",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "veltri",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "valora",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "villari",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "valori",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "vallary",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "welker",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "felker",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinco",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "fulcra",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "vulture",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vultures",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "valour",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vicar",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vulcan",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vickers",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vicars",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vicker",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "valerio",
+            "score": 77,
+            "numSyllables": 4
+        },
+        {
+            "word": "vulgaris",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "villar",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaccaro",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "vigra",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "viro",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "villiers",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "veilleux",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vulgarly",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "valcourt",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "valeur",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vilo",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pilcrow",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vulkan",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "viguerie",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "villars",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vulgarize",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "vulgarise",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "vengo",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "valor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vary",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vagary",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "vela",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vallejo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "valure",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "varie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vairy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaco",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "varro",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valeo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "velarde",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "vacher",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valkyr",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vallo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vallar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vecchi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "philco",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vcrs",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fulker",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vacco",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valors",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vealer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vallier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "vailer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "veco",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "veikko",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vacuo",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "velcro",
+            "score": 65215
+        },
+        {
+            "word": "velero",
+            "score": 23
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "fastener",
+            "score": 1890
+        },
+        {
+            "word": "fastenings",
+            "score": 1818
+        },
+        {
+            "word": "fastening",
+            "score": 1812
+        },
+        {
+            "word": "burdock",
+            "score": 1798
+        },
+        {
+            "word": "waistband",
+            "score": 1764
+        },
+        {
+            "word": "laces",
+            "score": 1759
+        },
+        {
+            "word": "straps",
+            "score": 1727
+        },
+        {
+            "word": "fasten",
+            "score": 1707
+        },
+        {
+            "word": "cuffs",
+            "score": 1690
+        },
+        {
+            "word": "crotch",
+            "score": 1676
+        },
+        {
+            "word": "strap",
+            "score": 1674
+        },
+        {
+            "word": "zipper",
+            "score": 1673
+        },
+        {
+            "word": "sewn",
+            "score": 1597
+        },
+        {
+            "word": "snaps",
+            "score": 1569
+        },
+        {
+            "word": "flap",
+            "score": 1548
+        },
+        {
+            "word": "gloves",
+            "score": 1539
+        },
+        {
+            "word": "pockets",
+            "score": 1532
+        },
+        {
+            "word": "removable",
+            "score": 1525
+        },
+        {
+            "word": "buttons",
+            "score": 1523
+        },
+        {
+            "word": "pads",
+            "score": 1513
+        },
+        {
+            "word": "tags",
+            "score": 1509
+        },
+        {
+            "word": "embroidered",
+            "score": 1501
+        },
+        {
+            "word": "mats",
+            "score": 1493
+        },
+        {
+            "word": "patches",
+            "score": 1492
+        },
+        {
+            "word": "strips",
+            "score": 1483
+        },
+        {
+            "word": "wrist",
+            "score": 1479
+        },
+        {
+            "word": "sleeves",
+            "score": 1472
+        },
+        {
+            "word": "electro",
+            "score": 1468
+        },
+        {
+            "word": "trousers",
+            "score": 1447
+        },
+        {
+            "word": "hook",
+            "score": 1439
+        },
+        {
+            "word": "attach",
+            "score": 1432
+        },
+        {
+            "word": "hooks",
+            "score": 1428
+        },
+        {
+            "word": "bizarre",
+            "score": 1419
+        },
+        {
+            "word": "mat",
+            "score": 1415
+        },
+        {
+            "word": "shoe",
+            "score": 1412
+        },
+        {
+            "word": "pants",
+            "score": 1396
+        },
+        {
+            "word": "insignia",
+            "score": 1395
+        },
+        {
+            "word": "pad",
+            "score": 1393
+        },
+        {
+            "word": "pocket",
+            "score": 1385
+        },
+        {
+            "word": "jacket",
+            "score": 1382
+        },
+        {
+            "word": "ankle",
+            "score": 1378
+        },
+        {
+            "word": "closure",
+            "score": 1375
+        },
+        {
+            "word": "cloth",
+            "score": 1369
+        },
+        {
+            "word": "fabric",
+            "score": 1365
+        },
+        {
+            "word": "reverend",
+            "score": 1363
+        },
+        {
+            "word": "shoes",
+            "score": 1361
+        },
+        {
+            "word": "cord",
+            "score": 1350
+        },
+        {
+            "word": "badge",
+            "score": 1339
+        },
+        {
+            "word": "shoulder",
+            "score": 1337
+        },
+        {
+            "word": "tag",
+            "score": 1334
+        },
+        {
+            "word": "shorts",
+            "score": 1332
+        },
+        {
+            "word": "worn",
+            "score": 1330
+        },
+        {
+            "word": "stuck",
+            "score": 1325
+        },
+        {
+            "word": "patch",
+            "score": 1322
+        },
+        {
+            "word": "ease",
+            "score": 1320
+        },
+        {
+            "word": "fly",
+            "score": 1319
+        },
+        {
+            "word": "underneath",
+            "score": 1317
+        },
+        {
+            "word": "suit",
+            "score": 1315
+        },
+        {
+            "word": "loop",
+            "score": 1309
+        },
+        {
+            "word": "uniform",
+            "score": 1306
+        },
+        {
+            "word": "balls",
+            "score": 1302
+        },
+        {
+            "word": "knee",
+            "score": 1297
+        },
+        {
+            "word": "button",
+            "score": 1292
+        },
+        {
+            "word": "breast",
+            "score": 1288
+        },
+        {
+            "word": "stick",
+            "score": 1286
+        },
+        {
+            "word": "tape",
+            "score": 1280
+        },
+        {
+            "word": "plastic",
+            "score": 1274
+        },
+        {
+            "word": "costume",
+            "score": 1273
+        },
+        {
+            "word": "attached",
+            "score": 1264
+        },
+        {
+            "word": "finnish",
+            "score": 1254
+        },
+        {
+            "word": "anchor",
+            "score": 1248
+        },
+        {
+            "word": "clothing",
+            "score": 1247
+        },
+        {
+            "word": "dogs",
+            "score": 1238
+        },
+        {
+            "word": "secure",
+            "score": 1237
+        },
+        {
+            "word": "backing",
+            "score": 1229
+        },
+        {
+            "word": "belt",
+            "score": 1224
+        },
+        {
+            "word": "wear",
+            "score": 1213
+        },
+        {
+            "word": "leg",
+            "score": 1199
+        },
+        {
+            "word": "onto",
+            "score": 1197
+        },
+        {
+            "word": "cargo",
+            "score": 1191
+        },
+        {
+            "word": "brand",
+            "score": 1187
+        },
+        {
+            "word": "strip",
+            "score": 1184
+        },
+        {
+            "word": "wall",
+            "score": 1173
+        },
+        {
+            "word": "normally",
+            "score": 1162
+        },
+        {
+            "word": "sides",
+            "score": 1158
+        },
+        {
+            "word": "storage",
+            "score": 1147
+        },
+        {
+            "word": "rugby",
+            "score": 1141
+        },
+        {
+            "word": "require",
+            "score": 1135
+        },
+        {
+            "word": "rank",
+            "score": 1130
+        },
+        {
+            "word": "allow",
+            "score": 1129
+        },
+        {
+            "word": "hands",
+            "score": 1124
+        },
+        {
+            "word": "ball",
+            "score": 1119
+        },
+        {
+            "word": "material",
+            "score": 1118
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "velcro",
+            "score": 65215
+        },
+        {
+            "word": "velcroed",
+            "score": 64768
+        },
+        {
+            "word": "velcroes",
+            "score": 64663
+        },
+        {
+            "word": "velcroing",
+            "score": 64661
+        },
+        {
+            "word": "velero",
+            "score": 23
+        }
+    ]
+}

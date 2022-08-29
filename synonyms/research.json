@@ -1,0 +1,1491 @@
+{
+    "term": "research",
+    "means_like": [
+        {
+            "word": "inquiry",
+            "score": 78897,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "search",
+            "score": 78894,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "explore",
+            "score": 77913,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "enquiry",
+            "score": 73845,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "study",
+            "score": 71092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scientific",
+            "score": 70043,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "studies",
+            "score": 69921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "researcher",
+            "score": 69379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "researchers",
+            "score": 68618,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analysis",
+            "score": 67480,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "science",
+            "score": 66928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scientists",
+            "score": 66805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "institute",
+            "score": 66084,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scientist",
+            "score": 65714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "survey",
+            "score": 65068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surveys",
+            "score": 65039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sciences",
+            "score": 64522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "technology",
+            "score": 64244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "development",
+            "score": 63301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "innovation",
+            "score": 62521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "discovery",
+            "score": 62215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "universities",
+            "score": 61963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "academic",
+            "score": 61744,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "investigations",
+            "score": 61744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "testing",
+            "score": 61312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinical",
+            "score": 61310,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "scholarly",
+            "score": 61308,
+            "tags": [
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "investigative",
+            "score": 60388,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "education",
+            "score": 60370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "investigator",
+            "score": 60269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exploration",
+            "score": 60099,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "investigation",
+            "score": 60056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scholars",
+            "score": 60052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "studied",
+            "score": 60007,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "university",
+            "score": 59938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "studying",
+            "score": 59552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "projects",
+            "score": 59405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "literature",
+            "score": 59202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examination",
+            "score": 59138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "investigatory",
+            "score": 58938,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "searches",
+            "score": 58920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "review",
+            "score": 58911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "work",
+            "score": 58869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "project",
+            "score": 58825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knowledge",
+            "score": 58791,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cancer",
+            "score": 58719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fellowship",
+            "score": 58231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examining",
+            "score": 58174,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "detection",
+            "score": 58168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "investigators",
+            "score": 58001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examined",
+            "score": 57900,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sourcing",
+            "score": 57854,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "homework",
+            "score": 57801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examine",
+            "score": 57734,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "legwork",
+            "score": 57727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recherche",
+            "score": 57727,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "exploring",
+            "score": 57668,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tracking",
+            "score": 57599,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "investigate",
+            "score": 57403,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "finding",
+            "score": 57220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "discussion",
+            "score": 57062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "health",
+            "score": 56946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reviews",
+            "score": 56923,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "explored",
+            "score": 56812,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "program",
+            "score": 56602,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "identification",
+            "score": 56535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "searchers",
+            "score": 56475,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scholarship",
+            "score": 56428,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inspection",
+            "score": 56402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inquiries",
+            "score": 56358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thematic",
+            "score": 56238,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "useful",
+            "score": 56143,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "identifying",
+            "score": 56116,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hunt",
+            "score": 56086,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "investigated",
+            "score": 56082,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "works",
+            "score": 56003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quest",
+            "score": 55851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nrc",
+            "score": 55840,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "investigating",
+            "score": 55791,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "score": 55707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "searchable",
+            "score": 55615,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 55431,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "identify",
+            "score": 55122,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "collation",
+            "score": 55105,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collection",
+            "score": 55004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pursuit",
+            "score": 54957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retrieval",
+            "score": 54865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrutinize",
+            "score": 54822,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "digging",
+            "score": 54784,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "searched",
+            "score": 54722,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 54655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pursuing",
+            "score": 54447,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "gathering",
+            "score": 54376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "look",
+            "score": 54318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vetting",
+            "score": 54308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "find",
+            "score": 54260,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "inquest",
+            "score": 54164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etudes",
+            "score": 54066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "searching",
+            "score": 54022,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "consideration",
+            "score": 53997,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "research",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "resurge",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "researcher",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "researched",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "rieser",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "reserve",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "racer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "racers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ricer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "reser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rosser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "recherche",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "reiser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ressource",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "risser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ricers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ressort",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "raysor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ryser",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "russer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "rosary",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "rosery",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "risi",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "ursery",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "recy",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "rsc",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "resurvey",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "reach",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "receive",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "razor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "recess",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "resort",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "resource",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rehearse",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "resign",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "receipt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reset",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reese",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "reece",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "riser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "greaser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "raiser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "razors",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhys",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "greasers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "razer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aris",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reacher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "risa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rissa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "researching",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "resell",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhesus",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "risers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rouser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rework",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reassert",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "reast",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "reso",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "raisers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "researchers",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "rizer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "roser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "raser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rasor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rece",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "resen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reech",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "reise",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "arisa",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "researches",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "reseal",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "riso",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reest",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "creaser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rozzer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reachers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arouser",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "raisor",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rousers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "re-emerge",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reuses",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rozzers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "riesen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "remerge",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "riess",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "razr",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rowser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crecer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rci",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "roeser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "resurged",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rozar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "recette",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rizzar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "grieser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "re-sign",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "reseize",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "rouzer",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "research",
+            "score": 132652
+        },
+        {
+            "word": "re-search",
+            "score": 64686
+        },
+        {
+            "word": "re search",
+            "score": 64660
+        },
+        {
+            "word": "search",
+            "score": 3983
+        },
+        {
+            "word": "reteach",
+            "score": 706
+        },
+        {
+            "word": "ensearch",
+            "score": 75
+        },
+        {
+            "word": "mesarch",
+            "score": 72
+        },
+        {
+            "word": "insearch",
+            "score": 47
+        },
+        {
+            "word": "genearch",
+            "score": 34
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "laboratories",
+            "score": 1344
+        },
+        {
+            "word": "laboratory",
+            "score": 1324
+        },
+        {
+            "word": "institute",
+            "score": 1299
+        },
+        {
+            "word": "biology",
+            "score": 1267
+        },
+        {
+            "word": "scientist",
+            "score": 1266
+        },
+        {
+            "word": "clinical",
+            "score": 1257
+        },
+        {
+            "word": "lab",
+            "score": 1255
+        },
+        {
+            "word": "papers",
+            "score": 1253
+        },
+        {
+            "word": "innovation",
+            "score": 1252
+        },
+        {
+            "word": "journals",
+            "score": 1251
+        },
+        {
+            "word": "findings",
+            "score": 1249
+        },
+        {
+            "word": "focuses",
+            "score": 1247
+        },
+        {
+            "word": "fellowship",
+            "score": 1244
+        },
+        {
+            "word": "sciences",
+            "score": 1240
+        },
+        {
+            "word": "molecular",
+            "score": 1237
+        },
+        {
+            "word": "scientific",
+            "score": 1235
+        },
+        {
+            "word": "phd",
+            "score": 1233
+        },
+        {
+            "word": "physics",
+            "score": 1231
+        },
+        {
+            "word": "grants",
+            "score": 1224
+        },
+        {
+            "word": "centers",
+            "score": 1217
+        },
+        {
+            "word": "associate",
+            "score": 1214
+        },
+        {
+            "word": "psychology",
+            "score": 1211
+        },
+        {
+            "word": "projects",
+            "score": 1210
+        },
+        {
+            "word": "focused",
+            "score": 1209
+        },
+        {
+            "word": "funded",
+            "score": 1207
+        },
+        {
+            "word": "chemistry",
+            "score": 1203
+        },
+        {
+            "word": "centres",
+            "score": 1201
+        },
+        {
+            "word": "interests",
+            "score": 1200
+        },
+        {
+            "word": "fellow",
+            "score": 1194
+        },
+        {
+            "word": "faculty",
+            "score": 1193
+        },
+        {
+            "word": "diseases",
+            "score": 1190
+        },
+        {
+            "word": "cancer",
+            "score": 1186
+        },
+        {
+            "word": "journal",
+            "score": 1181
+        },
+        {
+            "word": "science",
+            "score": 1179
+        },
+        {
+            "word": "technologies",
+            "score": 1178
+        },
+        {
+            "word": "biological",
+            "score": 1176
+        },
+        {
+            "word": "conducted",
+            "score": 1175
+        },
+        {
+            "word": "excellence",
+            "score": 1173
+        },
+        {
+            "word": "development",
+            "score": 1172
+        },
+        {
+            "word": "institutions",
+            "score": 1169
+        },
+        {
+            "word": "professor",
+            "score": 1168
+        },
+        {
+            "word": "studies",
+            "score": 1166
+        },
+        {
+            "word": "economics",
+            "score": 1165
+        },
+        {
+            "word": "publications",
+            "score": 1161
+        },
+        {
+            "word": "undergraduate",
+            "score": 1158
+        },
+        {
+            "word": "center",
+            "score": 1157
+        },
+        {
+            "word": "teaching",
+            "score": 1154
+        },
+        {
+            "word": "university",
+            "score": 1126
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "research",
+            "score": 132652
+        },
+        {
+            "word": "researcher",
+            "score": 129696
+        },
+        {
+            "word": "researches",
+            "score": 129526
+        },
+        {
+            "word": "researchers",
+            "score": 129402
+        },
+        {
+            "word": "researched",
+            "score": 129392
+        },
+        {
+            "word": "researchist",
+            "score": 129386
+        },
+        {
+            "word": "researching",
+            "score": 129375
+        },
+        {
+            "word": "research center",
+            "score": 129362
+        },
+        {
+            "word": "research facility",
+            "score": 129345
+        },
+        {
+            "word": "researchable",
+            "score": 129344
+        }
+    ]
+}

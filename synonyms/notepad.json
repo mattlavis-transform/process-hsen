@@ -1,0 +1,1572 @@
+{
+    "term": "notepad",
+    "means_like": [
+        {
+            "word": "notebook",
+            "score": 68639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scratchpad",
+            "score": 64997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diary",
+            "score": 63853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 53077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloc",
+            "score": 51839,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clipboard",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pencil",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballpoint pen",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jotter",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scribble",
+            "score": 51213,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pen",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whiteboard",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketch pad",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binder",
+            "score": 51209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketchbook",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notepaper",
+            "score": 51207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "typewriter",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foolscap",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filofax",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jot",
+            "score": 51202,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eraser",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "longhand",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "highlighter",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desk",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keyboard",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chalkboard",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperclip",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharpie",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printout",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steno",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "typewriter keyboard",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackboard",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrapbook",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fountain pen",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrawl",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape recorder",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napkin",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sketchpad",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "personal organizer",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dictaphone",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corkboard",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keep note",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biro",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightstand",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grease pencil",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tickler file",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keychain",
+            "score": 51173,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billfold",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "typing",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knapsack",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookshelf",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric typewriter",
+            "score": 51168,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bookstand",
+            "score": 51167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stopwatch",
+            "score": 51166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "easel",
+            "score": 51165,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legal pad",
+            "score": 51164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashcard",
+            "score": 51163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quill pen",
+            "score": 51162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satchel",
+            "score": 51161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outliner",
+            "score": 51160,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 51159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checkbook",
+            "score": 51158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 51157,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trusty",
+            "score": 51156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fanny pack",
+            "score": 51155,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pocket",
+            "score": 51154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee mug",
+            "score": 51153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylus",
+            "score": 51152,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawer",
+            "score": 51151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spreadsheets",
+            "score": 51150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penlight",
+            "score": 51149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pasteboard",
+            "score": 51148,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbag",
+            "score": 51147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manilla",
+            "score": 51146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "datebook",
+            "score": 51145,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inkpad",
+            "score": 51144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "light pen",
+            "score": 51143,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheaf",
+            "score": 51142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tote bag",
+            "score": 51141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballpoints",
+            "score": 51140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thesaurus",
+            "score": 51139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beermat",
+            "score": 51138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backspace",
+            "score": 51137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop computer",
+            "score": 51136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hip flask",
+            "score": 51135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hankie",
+            "score": 51134,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "folders",
+            "score": 51133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wastebasket",
+            "score": 51132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pancake turner",
+            "score": 51131,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dictionary",
+            "score": 51130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 51129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diagraming",
+            "score": 51128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backspace key",
+            "score": 51127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jottings",
+            "score": 51126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "personal digital assistant",
+            "score": 51125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kleenex",
+            "score": 51124,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "typer",
+            "score": 51123,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crossword puzzle",
+            "score": 51122,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "notepad",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "note pad",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "not bad",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "noted",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kneepad",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "knee pad",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot pad",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "knotted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knitted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knighted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "netted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knighthood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nutted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nighted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "notate",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "notepads",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "nitid",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knotweed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "night bird",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "net pay",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nutwood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "moped",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "moted",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "moated",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mitad",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot-pot",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "needed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nomad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nodded",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "neutered",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitwit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "no doubt",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "night out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nota",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "naiad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kneaded",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knee pads",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "neded",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "noto",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "unnoted",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kneepads",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "not that",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "noti",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nopa",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nattered",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "niad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightspot",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightside",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "footpad",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "not out",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nutate",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nopo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitpicked",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nut bread",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "no head",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nopd",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "nopi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knowbot",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "mated",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "matted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "moded",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "my bad",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "meted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotpot",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot pot",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "motet",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mousepad",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "meat head",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mooted",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotbed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "meated",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "motored",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "meat pie",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mop head",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "motard",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot-head",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mouse pad",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "white bead",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hodad",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "medad",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot bed",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "motat",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "shot-put",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mattoid",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "knotty",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "knout",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "know what",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "knappy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "knobbed",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "knapped",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "knolled",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "gnaw at",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "gnatty",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapweed",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "know apart",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "knighthoods",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "notepad",
+            "score": 129893
+        },
+        {
+            "word": "note pad",
+            "score": 64663
+        },
+        {
+            "word": "noted",
+            "score": 681
+        },
+        {
+            "word": "nepad",
+            "score": 162
+        },
+        {
+            "word": "notecard",
+            "score": 162
+        },
+        {
+            "word": "not bad",
+            "score": 71
+        },
+        {
+            "word": "hot pad",
+            "score": 30
+        },
+        {
+            "word": "notepads",
+            "score": 28
+        },
+        {
+            "word": "notehead",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "scintilla",
+            "score": 1934
+        },
+        {
+            "word": "freeware",
+            "score": 1681
+        },
+        {
+            "word": "exe",
+            "score": 1657
+        },
+        {
+            "word": "unicode",
+            "score": 1547
+        },
+        {
+            "word": "font",
+            "score": 1544
+        },
+        {
+            "word": "pencil",
+            "score": 1543
+        },
+        {
+            "word": "xml",
+            "score": 1508
+        },
+        {
+            "word": "edit",
+            "score": 1506
+        },
+        {
+            "word": "microsoft",
+            "score": 1500
+        },
+        {
+            "word": "pad",
+            "score": 1475
+        },
+        {
+            "word": "files",
+            "score": 1473
+        },
+        {
+            "word": "icons",
+            "score": 1465
+        },
+        {
+            "word": "windows",
+            "score": 1464
+        },
+        {
+            "word": "bug",
+            "score": 1461
+        },
+        {
+            "word": "text",
+            "score": 1448
+        },
+        {
+            "word": "syntax",
+            "score": 1446
+        },
+        {
+            "word": "lacks",
+            "score": 1445
+        },
+        {
+            "word": "yahoo",
+            "score": 1436
+        },
+        {
+            "word": "functionality",
+            "score": 1422
+        },
+        {
+            "word": "default",
+            "score": 1417
+        },
+        {
+            "word": "desktop",
+            "score": 1406
+        },
+        {
+            "word": "editor",
+            "score": 1394
+        },
+        {
+            "word": "file",
+            "score": 1381
+        },
+        {
+            "word": "editing",
+            "score": 1374
+        },
+        {
+            "word": "interface",
+            "score": 1358
+        },
+        {
+            "word": "ibm",
+            "score": 1348
+        },
+        {
+            "word": "supports",
+            "score": 1333
+        },
+        {
+            "word": "paint",
+            "score": 1324
+        },
+        {
+            "word": "mac",
+            "score": 1317
+        },
+        {
+            "word": "ted",
+            "score": 1313
+        },
+        {
+            "word": "phone",
+            "score": 1298
+        },
+        {
+            "word": "pages",
+            "score": 1291
+        },
+        {
+            "word": "application",
+            "score": 1288
+        },
+        {
+            "word": "user",
+            "score": 1285
+        },
+        {
+            "word": "window",
+            "score": 1282
+        },
+        {
+            "word": "tools",
+            "score": 1280
+        },
+        {
+            "word": "simple",
+            "score": 1275
+        },
+        {
+            "word": "document",
+            "score": 1273
+        },
+        {
+            "word": "saved",
+            "score": 1267
+        },
+        {
+            "word": "code",
+            "score": 1264
+        },
+        {
+            "word": "net",
+            "score": 1263
+        },
+        {
+            "word": "mode",
+            "score": 1261
+        },
+        {
+            "word": "terminal",
+            "score": 1251
+        },
+        {
+            "word": "notes",
+            "score": 1247
+        },
+        {
+            "word": "word",
+            "score": 1245
+        },
+        {
+            "word": "features",
+            "score": 1243
+        },
+        {
+            "word": "applications",
+            "score": 1241
+        },
+        {
+            "word": "replace",
+            "score": 1239
+        },
+        {
+            "word": "write",
+            "score": 1237
+        },
+        {
+            "word": "basic",
+            "score": 1234
+        },
+        {
+            "word": "programming",
+            "score": 1228
+        },
+        {
+            "word": "print",
+            "score": 1226
+        },
+        {
+            "word": "software",
+            "score": 1219
+        },
+        {
+            "word": "replacement",
+            "score": 1210
+        },
+        {
+            "word": "computer",
+            "score": 1200
+        },
+        {
+            "word": "completely",
+            "score": 1196
+        },
+        {
+            "word": "search",
+            "score": 1186
+        },
+        {
+            "word": "available",
+            "score": 1185
+        },
+        {
+            "word": "lyrics",
+            "score": 1184
+        },
+        {
+            "word": "operating",
+            "score": 1181
+        },
+        {
+            "word": "paper",
+            "score": 1179
+        },
+        {
+            "word": "plus",
+            "score": 1178
+        },
+        {
+            "word": "writing",
+            "score": 1171
+        },
+        {
+            "word": "web",
+            "score": 1165
+        },
+        {
+            "word": "display",
+            "score": 1162
+        },
+        {
+            "word": "etc",
+            "score": 1160
+        },
+        {
+            "word": "words",
+            "score": 1156
+        },
+        {
+            "word": "page",
+            "score": 1154
+        },
+        {
+            "word": "allows",
+            "score": 1145
+        },
+        {
+            "word": "memory",
+            "score": 1139
+        },
+        {
+            "word": "size",
+            "score": 1137
+        },
+        {
+            "word": "languages",
+            "score": 1135
+        },
+        {
+            "word": "advanced",
+            "score": 1131
+        },
+        {
+            "word": "does",
+            "score": 1128
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "notepad",
+            "score": 129893
+        },
+        {
+            "word": "notepads",
+            "score": 129346
+        },
+        {
+            "word": "notepaper",
+            "score": 64744
+        },
+        {
+            "word": "note pad",
+            "score": 64663
+        },
+        {
+            "word": "notepapers",
+            "score": 64662
+        },
+        {
+            "word": "noted",
+            "score": 681
+        },
+        {
+            "word": "notetaking",
+            "score": 288
+        },
+        {
+            "word": "notedly",
+            "score": 183
+        },
+        {
+            "word": "nepad",
+            "score": 162
+        },
+        {
+            "word": "notecard",
+            "score": 162
+        }
+    ]
+}

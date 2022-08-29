@@ -1,0 +1,775 @@
+{
+    "term": "cotton clothing",
+    "means_like": [
+        {
+            "word": "duck",
+            "score": 29563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jaconet",
+            "score": 28763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lungi",
+            "score": 28763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hopsack",
+            "score": 28434,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hopsacking",
+            "score": 28434,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tricot",
+            "score": 28434,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buckram",
+            "score": 28363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ducks",
+            "score": 28363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etamine",
+            "score": 28363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galatea",
+            "score": 28363,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 28363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "longyi",
+            "score": 28363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mangle",
+            "score": 28363,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "velveteen",
+            "score": 28363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broadcloth",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardboard",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "challis",
+            "score": 28034,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flannel",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 28034,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "merino",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muslin",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvas",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "etamin",
+            "score": 27963,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 27963,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "holland",
+            "score": 27963,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ihram",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jean",
+            "score": 27963,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lawn",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lungyi",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manta",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nainsook",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "percale",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poplin",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sailcloth",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrim",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seersucker",
+            "score": 27963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alpaca",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batiste",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chenille",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinchilla",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doff",
+            "score": 11634,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "eiderdown",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleece",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gimp",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grenadine",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambskin",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapped",
+            "score": 11634,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lint",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pad",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilt",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilted",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "quilts",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serge",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shawl",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffed",
+            "score": 11634,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thread",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velvet",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brushed",
+            "score": 11563,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "buckskin",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chambray",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chino",
+            "score": 11563,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cord",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crinoline",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diaper",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foulard",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gauze",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gingham",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gray",
+            "score": 11563,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "grays",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marquisette",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moleskin",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilskin",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pique",
+            "score": 11563,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "print",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purdah",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rag",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ragging",
+            "score": 11563,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "rags",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sackcloth",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sari",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleeve",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slicker",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slop",
+            "score": 11563,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slopped",
+            "score": 11563,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slops",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "starch",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiffany",
+            "score": 11563,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vest",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whites",
+            "score": 11563,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black",
+            "score": 11554,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 11554,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "concluding",
+            "score": 66,
+            "numSyllables": 3
+        },
+        {
+            "word": "conclusion",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "unclothing",
+            "score": 58,
+            "numSyllables": 3
+        },
+        {
+            "word": "underclothing",
+            "score": 53,
+            "numSyllables": 4
+        },
+        {
+            "word": "scuttling",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "saturnalia",
+            "score": 35,
+            "numSyllables": 5
+        },
+        {
+            "word": "soddenly",
+            "score": 33,
+            "numSyllables": 3
+        },
+        {
+            "word": "saddam hussein",
+            "score": 28,
+            "numSyllables": 4
+        },
+        {
+            "word": "sarkisian",
+            "score": 26,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "cotton cloth",
+            "score": 21
+        }
+    ]
+}

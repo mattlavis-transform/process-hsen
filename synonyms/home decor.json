@@ -1,0 +1,869 @@
+{
+    "term": "home decor",
+    "means_like": [
+        {
+            "word": "wallpaper",
+            "score": 53295,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "colonial",
+            "score": 15925,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "pillow",
+            "score": 15865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vase",
+            "score": 15865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beard",
+            "score": 15835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holly",
+            "score": 15835,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tie",
+            "score": 15835,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tinsel",
+            "score": 15835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wreath",
+            "score": 15835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chintzy",
+            "score": 15595,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plume",
+            "score": 15595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 15595,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "trim",
+            "score": 15595,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bee",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "braid",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carpet",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cold",
+            "score": 14804,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "curl",
+            "score": 14804,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drape",
+            "score": 14804,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ivy",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mirror",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mural",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obi",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinata",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sash",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seal",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spots",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teak",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tile",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wattle",
+            "score": 14804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acre",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "addition",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arles",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armoire",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asia",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "atlanta",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "balfour declaration",
+            "score": 14375,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "bed",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "board",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cane",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canton",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "castle",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapel",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chock",
+            "score": 14375,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "chore",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cone",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "console",
+            "score": 14375,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cradle",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crypt",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "csa",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "delay",
+            "score": 14375,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dell",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "department",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "door",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dovecote",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dvorak",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "empire",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "estate",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fairy",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 14375,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "forest",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "from",
+            "score": 14375
+        },
+        {
+            "word": "frome",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grom",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gun",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "here",
+            "score": 14375,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "homework",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "house",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "india",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "inhabit",
+            "score": 14375,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "interior",
+            "score": 14375,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 14375,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 14375,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "land",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "letterbox",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "library",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lot",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lots",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nursery",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pad",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "park",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parlor",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patio",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pen",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "place",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "placed",
+            "score": 14375,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "placing",
+            "score": 14375,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "plans",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pole",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porcelain",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quarter",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ranked",
+            "score": 14375,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ranking",
+            "score": 14375,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "recess",
+            "score": 14375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rescue",
+            "score": 14375,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "return",
+            "score": 14375,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "returning",
+            "score": 14375,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "returns",
+            "score": 14375,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rio",
+            "score": 14375,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "handcar",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "humdinger",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "home care",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "home maker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "manticore",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "homewrecker",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "home wrecker",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "panda car",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "honecker",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "hamilcar",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "haymaker",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "hindu kush",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "handicapper",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "chandigarh",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "home court",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamaker",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "homager",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "henniker",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "ham actor",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "hammaker",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "home depot",
+            "score": 41
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "home decoration",
+            "score": 129320
+        },
+        {
+            "word": "home economics",
+            "score": 60
+        },
+        {
+            "word": "home secretary",
+            "score": 46
+        },
+        {
+            "word": "home depot",
+            "score": 41
+        },
+        {
+            "word": "house decorator",
+            "score": 24
+        },
+        {
+            "word": "home economist",
+            "score": 18
+        },
+        {
+            "word": "home department",
+            "score": 8
+        }
+    ]
+}

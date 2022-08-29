@@ -1,0 +1,1696 @@
+{
+    "term": "funnel",
+    "means_like": [
+        {
+            "word": "funnel shape",
+            "score": 73404,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pipe",
+            "score": 59450,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pyramid",
+            "score": 58682,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shaped",
+            "score": 58635,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "channel",
+            "score": 58390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stack",
+            "score": 58075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harness",
+            "score": 57775,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 57769,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cone",
+            "score": 57368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pipeline",
+            "score": 56884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chimney",
+            "score": 55551,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hopper",
+            "score": 55530,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "niche",
+            "score": 55117,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buchner",
+            "score": 53958,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "flue",
+            "score": 53931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fireplace",
+            "score": 53478,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "column",
+            "score": 52810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mantel",
+            "score": 52350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "micropyle",
+            "score": 50974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "separatory",
+            "score": 50974,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "mantelpiece",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mantle",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "siphon",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conduit",
+            "score": 50972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flow",
+            "score": 50971,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "spigot",
+            "score": 50970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drain",
+            "score": 50969,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "passageway",
+            "score": 50968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spout",
+            "score": 50967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "infundibuliform",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skim",
+            "score": 50965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "launder",
+            "score": 50964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lure",
+            "score": 50963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "channeling",
+            "score": 50962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curry favor",
+            "score": 50961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trickles",
+            "score": 50960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sloshes",
+            "score": 50959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flush",
+            "score": 50958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bilk",
+            "score": 50957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tap",
+            "score": 50955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rake",
+            "score": 50954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "push",
+            "score": 50953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squeeze",
+            "score": 50952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seep",
+            "score": 50951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slush fund",
+            "score": 50950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slush",
+            "score": 50949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dupe",
+            "score": 50948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow net",
+            "score": 50947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pump",
+            "score": 50946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "siphonate",
+            "score": 50945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parlay",
+            "score": 50944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glom",
+            "score": 50943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "morph",
+            "score": 50942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prod",
+            "score": 50941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda siphon",
+            "score": 50940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liquify",
+            "score": 50939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "infiltrate",
+            "score": 50938,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choanoid",
+            "score": 50937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dump",
+            "score": 50936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gargoulette",
+            "score": 50935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainspout",
+            "score": 50934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shell",
+            "score": 50933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nephrostome",
+            "score": 50932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insert",
+            "score": 50931,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "coffers",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weave",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earmark",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sucking",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swamp",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "siphonobranchiate",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bypass",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickback",
+            "score": 50923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trogue",
+            "score": 50922,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bankroll",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waste pipe",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catapult",
+            "score": 50919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meld",
+            "score": 50917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diversion",
+            "score": 50916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "middleman",
+            "score": 50915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dangle",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unstack",
+            "score": 50913,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counterclockwise rotation",
+            "score": 50912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrape",
+            "score": 50911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stream",
+            "score": 50910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "floodgate",
+            "score": 50909,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spur",
+            "score": 50908,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circulates",
+            "score": 50907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filter",
+            "score": 50906,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sink",
+            "score": 50905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doles",
+            "score": 50904,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cripple",
+            "score": 50903,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asiphonate",
+            "score": 50902,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dovetail",
+            "score": 50901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nudge",
+            "score": 50900,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspiral",
+            "score": 50899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clamp",
+            "score": 50898,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrelhead",
+            "score": 50897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sway",
+            "score": 50896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pockets",
+            "score": 50895,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "funnel",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "funnell",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "fennel",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "phenol",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fennell",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "phenyl",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fenil",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "final",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fannel",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "fanal",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "fanale",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "faunal",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "phonal",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "fummel",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "funnily",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "funnels",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "funneled",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "funnelled",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fundal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "funchal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "affinal",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "phanuel",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "funning",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "finna",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "famille",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "finial",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "fanelli",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "fennelly",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "phenols",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fenchel",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fyna",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "funny",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "finally",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "female",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "finals",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "finale",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "fumble",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "flannel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fauna",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fondle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fina",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fungal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "flanel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phial",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "finning",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "femail",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fuzzle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fana",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fandel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fussell",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vanille",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fena",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fowle",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "flanell",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "farnell",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fnal",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pfenning",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fontal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fugl",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "thenal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fusel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vennel",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fayal",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faena",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faunally",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "finish",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "finnish",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "fenella",
+            "score": 84,
+            "numSyllables": 3
+        },
+        {
+            "word": "fewell",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "the nile",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "finella",
+            "score": 84,
+            "numSyllables": 3
+        },
+        {
+            "word": "tunnel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinyl",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "fanning",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "feigning",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "phoning",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "fawning",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "venal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "tunnell",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "fining",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "gunnel",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "veinal",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "gunnell",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "feral",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fany",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "farrel",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "femoral",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "fenny",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "farell",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "feni",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fessel",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fenno",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fecial",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "femeral",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferrol",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "farol",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fencl",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "fannish",
+            "score": 82,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "funnel",
+            "score": 65685
+        },
+        {
+            "word": "tunnel",
+            "score": 936
+        },
+        {
+            "word": "fennel",
+            "score": 532
+        },
+        {
+            "word": "funner",
+            "score": 364
+        },
+        {
+            "word": "runnel",
+            "score": 326
+        },
+        {
+            "word": "gunnel",
+            "score": 296
+        },
+        {
+            "word": "funned",
+            "score": 172
+        },
+        {
+            "word": "fannel",
+            "score": 50
+        },
+        {
+            "word": "funnell",
+            "score": 12
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "mainmast",
+            "score": 1662
+        },
+        {
+            "word": "quarterdeck",
+            "score": 1645
+        },
+        {
+            "word": "tendered",
+            "score": 1606
+        },
+        {
+            "word": "superstructure",
+            "score": 1601
+        },
+        {
+            "word": "amidships",
+            "score": 1596
+        },
+        {
+            "word": "aft",
+            "score": 1579
+        },
+        {
+            "word": "beaker",
+            "score": 1577
+        },
+        {
+            "word": "cunard",
+            "score": 1525
+        },
+        {
+            "word": "waterline",
+            "score": 1522
+        },
+        {
+            "word": "cakes",
+            "score": 1483
+        },
+        {
+            "word": "clouds",
+            "score": 1469
+        },
+        {
+            "word": "starboard",
+            "score": 1468
+        },
+        {
+            "word": "tornadoes",
+            "score": 1454
+        },
+        {
+            "word": "flotilla",
+            "score": 1452
+        },
+        {
+            "word": "squid",
+            "score": 1450
+        },
+        {
+            "word": "mast",
+            "score": 1449
+        },
+        {
+            "word": "hangar",
+            "score": 1447
+        },
+        {
+            "word": "silhouette",
+            "score": 1440
+        },
+        {
+            "word": "corvette",
+            "score": 1435
+        },
+        {
+            "word": "torpedo",
+            "score": 1426
+        },
+        {
+            "word": "tornado",
+            "score": 1422
+        },
+        {
+            "word": "exhaust",
+            "score": 1420
+        },
+        {
+            "word": "boiler",
+            "score": 1415
+        },
+        {
+            "word": "decks",
+            "score": 1406
+        },
+        {
+            "word": "deck",
+            "score": 1405
+        },
+        {
+            "word": "turret",
+            "score": 1403
+        },
+        {
+            "word": "armament",
+            "score": 1400
+        },
+        {
+            "word": "refit",
+            "score": 1399
+        },
+        {
+            "word": "buff",
+            "score": 1396
+        },
+        {
+            "word": "cloud",
+            "score": 1394
+        },
+        {
+            "word": "destroyer",
+            "score": 1387
+        },
+        {
+            "word": "spider",
+            "score": 1386
+        },
+        {
+            "word": "traps",
+            "score": 1378
+        },
+        {
+            "word": "fore",
+            "score": 1374
+        },
+        {
+            "word": "shaped",
+            "score": 1373
+        },
+        {
+            "word": "smoke",
+            "score": 1366
+        },
+        {
+            "word": "chatham",
+            "score": 1361
+        },
+        {
+            "word": "knot",
+            "score": 1359
+        },
+        {
+            "word": "locking",
+            "score": 1356
+        },
+        {
+            "word": "wight",
+            "score": 1345
+        },
+        {
+            "word": "cake",
+            "score": 1343
+        },
+        {
+            "word": "livery",
+            "score": 1340
+        },
+        {
+            "word": "armor",
+            "score": 1338
+        },
+        {
+            "word": "spiders",
+            "score": 1329
+        },
+        {
+            "word": "guns",
+            "score": 1327
+        },
+        {
+            "word": "hull",
+            "score": 1326
+        },
+        {
+            "word": "mantle",
+            "score": 1324
+        },
+        {
+            "word": "propeller",
+            "score": 1311
+        },
+        {
+            "word": "stern",
+            "score": 1300
+        },
+        {
+            "word": "fitted",
+            "score": 1299
+        },
+        {
+            "word": "touched",
+            "score": 1297
+        },
+        {
+            "word": "apparatus",
+            "score": 1293
+        },
+        {
+            "word": "gases",
+            "score": 1290
+        },
+        {
+            "word": "colours",
+            "score": 1286
+        },
+        {
+            "word": "hms",
+            "score": 1276
+        },
+        {
+            "word": "tube",
+            "score": 1272
+        },
+        {
+            "word": "filter",
+            "score": 1271
+        },
+        {
+            "word": "displaced",
+            "score": 1265
+        },
+        {
+            "word": "bow",
+            "score": 1262
+        },
+        {
+            "word": "cruiser",
+            "score": 1260
+        },
+        {
+            "word": "debris",
+            "score": 1258
+        },
+        {
+            "word": "liner",
+            "score": 1256
+        },
+        {
+            "word": "ships",
+            "score": 1249
+        },
+        {
+            "word": "steam",
+            "score": 1246
+        },
+        {
+            "word": "ship",
+            "score": 1244
+        },
+        {
+            "word": "sail",
+            "score": 1237
+        },
+        {
+            "word": "mounted",
+            "score": 1232
+        },
+        {
+            "word": "armour",
+            "score": 1228
+        },
+        {
+            "word": "trap",
+            "score": 1224
+        },
+        {
+            "word": "enclosed",
+            "score": 1222
+        },
+        {
+            "word": "logo",
+            "score": 1215
+        },
+        {
+            "word": "jet",
+            "score": 1211
+        },
+        {
+            "word": "painted",
+            "score": 1207
+        },
+        {
+            "word": "beam",
+            "score": 1201
+        },
+        {
+            "word": "web",
+            "score": 1198
+        },
+        {
+            "word": "estimates",
+            "score": 1196
+        },
+        {
+            "word": "helicopter",
+            "score": 1195
+        },
+        {
+            "word": "numbered",
+            "score": 1193
+        },
+        {
+            "word": "gun",
+            "score": 1190
+        },
+        {
+            "word": "shape",
+            "score": 1188
+        },
+        {
+            "word": "rear",
+            "score": 1186
+        },
+        {
+            "word": "twin",
+            "score": 1184
+        },
+        {
+            "word": "isle",
+            "score": 1181
+        },
+        {
+            "word": "removed",
+            "score": 1179
+        },
+        {
+            "word": "forward",
+            "score": 1176
+        },
+        {
+            "word": "thick",
+            "score": 1172
+        },
+        {
+            "word": "ferry",
+            "score": 1170
+        },
+        {
+            "word": "vessels",
+            "score": 1166
+        },
+        {
+            "word": "carry",
+            "score": 1165
+        },
+        {
+            "word": "narrow",
+            "score": 1161
+        },
+        {
+            "word": "radar",
+            "score": 1159
+        },
+        {
+            "word": "diameter",
+            "score": 1158
+        },
+        {
+            "word": "vertical",
+            "score": 1155
+        },
+        {
+            "word": "cap",
+            "score": 1150
+        },
+        {
+            "word": "installed",
+            "score": 1149
+        },
+        {
+            "word": "speed",
+            "score": 1145
+        },
+        {
+            "word": "protected",
+            "score": 1144
+        },
+        {
+            "word": "carried",
+            "score": 1142
+        },
+        {
+            "word": "winds",
+            "score": 1139
+        },
+        {
+            "word": "vessel",
+            "score": 1136
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "funnel",
+            "score": 65685
+        },
+        {
+            "word": "funneling",
+            "score": 64772
+        },
+        {
+            "word": "funnel shape",
+            "score": 64748
+        },
+        {
+            "word": "funnel web",
+            "score": 64720
+        },
+        {
+            "word": "funnel cake",
+            "score": 64718
+        },
+        {
+            "word": "funnelling",
+            "score": 64718
+        },
+        {
+            "word": "funnelled",
+            "score": 64716
+        },
+        {
+            "word": "funnels",
+            "score": 64711
+        },
+        {
+            "word": "funneled",
+            "score": 64708
+        },
+        {
+            "word": "funnelform",
+            "score": 64697
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "term": "jumpe",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "jump",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "jimp",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "gymp",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "jemp",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "jamp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chump",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumped",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "jumps",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chimp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumpy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "jum",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jup",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shimp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shemp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schempp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ginep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumbe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gump",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "yump",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "champ",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hump",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chomp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "shamp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "champe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "schamp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gym",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gem",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jim",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jimmy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jem",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gim",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jimmie",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jimi",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jip",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gyp",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jemmy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jep",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jdm",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gemmy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jym",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gep",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeppe",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jimmi",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jimm",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gemme",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gympie",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gipp",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gemm",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jepp",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jemi",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gemo",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gemmi",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gimp",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "jam",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jamie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeep",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "hemp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jame",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jammy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jape",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jami",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaimie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jayme",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jamb",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jammie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jme",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jamey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jaimee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jamy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jamo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "giap",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "joop",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jom",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jamee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jamm",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jomo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaim",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "himp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jime",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jammu",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jambe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gipe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jaap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "japp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeem",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jam up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jamn",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jimo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jomi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaam",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jmb",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jnr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "joam",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gee up",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "j-pop",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "jump",
+            "score": 1810
+        },
+        {
+            "word": "jumpy",
+            "score": 353
+        },
+        {
+            "word": "jupe",
+            "score": 190
+        },
+        {
+            "word": "jumps",
+            "score": 144
+        },
+        {
+            "word": "jumbe",
+            "score": 5
+        },
+        {
+            "word": "pumpe",
+            "score": 3
+        },
+        {
+            "word": "umpe",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "jumper",
+            "score": 65704
+        },
+        {
+            "word": "jumpers",
+            "score": 64878
+        },
+        {
+            "word": "jumped",
+            "score": 64821
+        },
+        {
+            "word": "jumper cable",
+            "score": 64712
+        },
+        {
+            "word": "jumped-up",
+            "score": 64708
+        },
+        {
+            "word": "jumper cables",
+            "score": 64706
+        },
+        {
+            "word": "jumper lead",
+            "score": 64680
+        },
+        {
+            "word": "jumped up",
+            "score": 64679
+        },
+        {
+            "word": "jumped bail",
+            "score": 64670
+        },
+        {
+            "word": "jumped out",
+            "score": 64668
+        }
+    ]
+}

@@ -1,0 +1,775 @@
+{
+    "term": "womens clothing",
+    "means_like": [
+        {
+            "word": "gsa",
+            "score": 17364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "accessory",
+            "score": 15324,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "aline",
+            "score": 15324,
+            "tags": [
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "barb",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodice",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bosom",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breast",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bugle",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burqa",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chador",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chambray",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chenille",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chic",
+            "score": 15324,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "chiffon",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinchilla",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloak",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloaked",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confection",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corselet",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couturier",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crinoline",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dickey",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "directoire",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 15324,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressmaker",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duster",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "empire",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flyaway",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furbelow",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "girlie",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gorget",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gown",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grenadine",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "habit",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kimono",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knockoff",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kurta",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lutestring",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mannequin",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manta",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mantua",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "marocain",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maxi",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "merino",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "midi",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mini",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mink",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miss",
+            "score": 15324,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "missed",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "misses",
+            "score": 15324,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "mode",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "model",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modi",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modiste",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muslin",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naked",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "new look",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nightie",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nude",
+            "score": 15324,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "number",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfit",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillette",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "palla",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantyhose",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "percale",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petite",
+            "score": 15324,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "petticoat",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piping",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pique",
+            "score": 15324,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poplin",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purdah",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "queen",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilt",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quilted",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "quilts",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ribbon",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "robe",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saree",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sari",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sash",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealskin",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shawl",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shift",
+            "score": 15324,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "shrug",
+            "score": 15324,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "skirt",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skirted",
+            "score": 15324,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "slacks",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slip",
+            "score": 15324,
+            "tags": [
+                "n",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "human cloning",
+            "score": 58,
+            "numSyllables": 4
+        },
+        {
+            "word": "womanizing",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "womanising",
+            "score": 50,
+            "numSyllables": 4
+        },
+        {
+            "word": "unclothing",
+            "score": 48,
+            "numSyllables": 3
+        },
+        {
+            "word": "simonizing",
+            "score": 43,
+            "numSyllables": 4
+        },
+        {
+            "word": "civilian clothing",
+            "score": 38,
+            "numSyllables": 5
+        },
+        {
+            "word": "samonella",
+            "score": 32,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "womans clothing",
+            "score": 64662
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "womans clothing",
+            "score": 64662
+        }
+    ]
+}

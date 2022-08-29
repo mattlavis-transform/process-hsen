@@ -1,0 +1,1537 @@
+{
+    "term": "paper",
+    "means_like": [
+        {
+            "word": "newspaper",
+            "score": 87891,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "report",
+            "score": 79291,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "newspaper publisher",
+            "score": 77752,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "wallpaper",
+            "score": 76316,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "composition",
+            "score": 75503,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "theme",
+            "score": 72321,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "printed",
+            "score": 67907,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "print",
+            "score": 67291,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "newsprint",
+            "score": 67196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardboard",
+            "score": 66490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "journal",
+            "score": 66052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ink",
+            "score": 65960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheet",
+            "score": 65785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheets",
+            "score": 65579,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "document",
+            "score": 65540,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardcopy",
+            "score": 65322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "newspapers",
+            "score": 65004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperboard",
+            "score": 64015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papermaking",
+            "score": 63940,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pulp",
+            "score": 63439,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printout",
+            "score": 63374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booklet",
+            "score": 63068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "book",
+            "score": 62937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "literature",
+            "score": 62549,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "publication",
+            "score": 62522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "article",
+            "score": 62402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copy",
+            "score": 62331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "books",
+            "score": 62191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notes",
+            "score": 62081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manuscript",
+            "score": 62052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stationery",
+            "score": 61813,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "textbook",
+            "score": 61564,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "documents",
+            "score": 61549,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "letter",
+            "score": 61361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "writing",
+            "score": 61237,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "magazine",
+            "score": 61192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fibreboard",
+            "score": 61071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "page",
+            "score": 60992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dissertation",
+            "score": 60935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "articles",
+            "score": 60927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece",
+            "score": 60799,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "material",
+            "score": 60548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essay",
+            "score": 60473,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monograph",
+            "score": 60451,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "documentation",
+            "score": 60385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "note",
+            "score": 60373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "written",
+            "score": 60256,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "leaf",
+            "score": 60066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diary",
+            "score": 60021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "text",
+            "score": 59756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrapping",
+            "score": 59730,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "workbook",
+            "score": 59637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corrigendum",
+            "score": 59348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daily",
+            "score": 59346,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "paperwork",
+            "score": 59297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 59273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulletin",
+            "score": 59195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gazette",
+            "score": 59158,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thesis",
+            "score": 59081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 59046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ledger",
+            "score": 58933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "explanatory",
+            "score": 58792,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "memorandum",
+            "score": 58536,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "author",
+            "score": 58471,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handout",
+            "score": 58467,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "story",
+            "score": 58410,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dossier",
+            "score": 58401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookbook",
+            "score": 58376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bible",
+            "score": 58321,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "backgrounder",
+            "score": 58141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papier",
+            "score": 58078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "theoretical",
+            "score": 57609,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "drawer",
+            "score": 57527,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "study",
+            "score": 57492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kite",
+            "score": 57435,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "theory",
+            "score": 57368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bills",
+            "score": 57297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "format",
+            "score": 57164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foil",
+            "score": 57093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefing",
+            "score": 57055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 56957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "statement",
+            "score": 56862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "green",
+            "score": 56799,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bond",
+            "score": 56794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 56622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "item",
+            "score": 56605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 56597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instrument",
+            "score": 56561,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "submission",
+            "score": 56533,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "log",
+            "score": 56503,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instruments",
+            "score": 56446,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "volume",
+            "score": 56413,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lecture",
+            "score": 56405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carte",
+            "score": 56373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "files",
+            "score": 56318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tangent",
+            "score": 56219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 56164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "survey",
+            "score": 56061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alternative",
+            "score": 55901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "section",
+            "score": 55876,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "paper",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "papar",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "piper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "popper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pooper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pauper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "papper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "peper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pipper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "papr",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pyper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "pieper",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "papir",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ppr",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "papers",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pape",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "payer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "peir",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "pbr",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papier",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "papered",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "payor",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pobre",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paperer",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "beeper",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bopper",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "baber",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wapper",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "bpr",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "babor",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "pair",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pear",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peep",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "par",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "papa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pier",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pep",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pamper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "papi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pip",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pager",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pare",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peppy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pacer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pappy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "parr",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "p.e",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "pappa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peepee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peepers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pater",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppered",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paer",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pappi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "papes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "papaw",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pee-pee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "papy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawpaw",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paupers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "papp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pepp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pepi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paar",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "piar",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paw paw",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paire",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peppard",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peopler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppi",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawer",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paup",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "piep",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "paap",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "paur",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "pepy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "peppler",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "perper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepperer",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "pee pee",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paw-paw",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "p r",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "p p",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pappe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "p.p",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "patre",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawp",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "papke",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "peppier",
+            "score": 85,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "paper",
+            "score": 68356
+        },
+        {
+            "word": "caper",
+            "score": 1354
+        },
+        {
+            "word": "taper",
+            "score": 1301
+        },
+        {
+            "word": "pauper",
+            "score": 779
+        },
+        {
+            "word": "pamper",
+            "score": 747
+        },
+        {
+            "word": "piper",
+            "score": 663
+        },
+        {
+            "word": "gaper",
+            "score": 505
+        },
+        {
+            "word": "pater",
+            "score": 500
+        },
+        {
+            "word": "payer",
+            "score": 431
+        },
+        {
+            "word": "pacer",
+            "score": 391
+        },
+        {
+            "word": "pager",
+            "score": 385
+        },
+        {
+            "word": "aper",
+            "score": 325
+        },
+        {
+            "word": "paver",
+            "score": 307
+        },
+        {
+            "word": "raper",
+            "score": 289
+        },
+        {
+            "word": "pape",
+            "score": 207
+        },
+        {
+            "word": "paler",
+            "score": 187
+        },
+        {
+            "word": "parer",
+            "score": 179
+        },
+        {
+            "word": "japer",
+            "score": 132
+        },
+        {
+            "word": "papel",
+            "score": 109
+        },
+        {
+            "word": "papier",
+            "score": 89
+        },
+        {
+            "word": "papen",
+            "score": 62
+        },
+        {
+            "word": "pawer",
+            "score": 55
+        },
+        {
+            "word": "pader",
+            "score": 39
+        },
+        {
+            "word": "peper",
+            "score": 29
+        },
+        {
+            "word": "kaper",
+            "score": 26
+        },
+        {
+            "word": "papar",
+            "score": 26
+        },
+        {
+            "word": "papes",
+            "score": 17
+        },
+        {
+            "word": "papr",
+            "score": 17
+        },
+        {
+            "word": "paer",
+            "score": 8
+        },
+        {
+            "word": "pamer",
+            "score": 8
+        },
+        {
+            "word": "papper",
+            "score": 8
+        },
+        {
+            "word": "papir",
+            "score": 5
+        },
+        {
+            "word": "laper",
+            "score": 3
+        },
+        {
+            "word": "epaper",
+            "score": 2
+        },
+        {
+            "word": "paner",
+            "score": 2
+        },
+        {
+            "word": "pyper",
+            "score": 2
+        },
+        {
+            "word": "saper",
+            "score": 2
+        },
+        {
+            "word": "paker",
+            "score": 1
+        },
+        {
+            "word": "papey",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "pulp",
+            "score": 1416
+        },
+        {
+            "word": "ink",
+            "score": 1357
+        },
+        {
+            "word": "circulation",
+            "score": 1351
+        },
+        {
+            "word": "mill",
+            "score": 1333
+        },
+        {
+            "word": "bag",
+            "score": 1318
+        },
+        {
+            "word": "printing",
+            "score": 1317
+        },
+        {
+            "word": "bags",
+            "score": 1311
+        },
+        {
+            "word": "sheets",
+            "score": 1290
+        },
+        {
+            "word": "printed",
+            "score": 1283
+        },
+        {
+            "word": "currency",
+            "score": 1281
+        },
+        {
+            "word": "mills",
+            "score": 1273
+        },
+        {
+            "word": "tape",
+            "score": 1269
+        },
+        {
+            "word": "papers",
+            "score": 1262
+        },
+        {
+            "word": "plastic",
+            "score": 1242
+        },
+        {
+            "word": "sheet",
+            "score": 1237
+        },
+        {
+            "word": "editorial",
+            "score": 1231
+        },
+        {
+            "word": "newspaper",
+            "score": 1230
+        },
+        {
+            "word": "publication",
+            "score": 1222
+        },
+        {
+            "word": "print",
+            "score": 1219
+        },
+        {
+            "word": "copies",
+            "score": 1217
+        },
+        {
+            "word": "pages",
+            "score": 1210
+        },
+        {
+            "word": "journal",
+            "score": 1205
+        },
+        {
+            "word": "weekly",
+            "score": 1200
+        },
+        {
+            "word": "daily",
+            "score": 1186
+        },
+        {
+            "word": "editor",
+            "score": 1184
+        },
+        {
+            "word": "publisher",
+            "score": 1183
+        },
+        {
+            "word": "published",
+            "score": 1180
+        },
+        {
+            "word": "describing",
+            "score": 1178
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "paper",
+            "score": 68356
+        },
+        {
+            "word": "paperwork",
+            "score": 65132
+        },
+        {
+            "word": "papers",
+            "score": 65079
+        },
+        {
+            "word": "paperclip",
+            "score": 64991
+        },
+        {
+            "word": "paperback",
+            "score": 64899
+        },
+        {
+            "word": "paperless",
+            "score": 64832
+        },
+        {
+            "word": "paper tiger",
+            "score": 64823
+        },
+        {
+            "word": "paper clip",
+            "score": 64806
+        },
+        {
+            "word": "papery",
+            "score": 64788
+        },
+        {
+            "word": "paperer",
+            "score": 64787
+        }
+    ]
+}

@@ -1,0 +1,785 @@
+{
+    "term": "medical equipment",
+    "means_like": [
+        {
+            "word": "armamentarium",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bioengineering",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "life-support system",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "life support",
+            "score": 28013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloodmobile",
+            "score": 27964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appliance",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autoclave",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 11634,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "device",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "devices",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kit",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pack",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "service",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "services",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "set",
+            "score": 11634,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "shot",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supply",
+            "score": 11634,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "weight",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "det",
+            "score": 11553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fare",
+            "score": 11553,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "instruments",
+            "score": 11553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sets",
+            "score": 11553,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scope",
+            "score": 11532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vial",
+            "score": 11532,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplies",
+            "score": 11483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "action",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjuvant",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aesculapian",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "affusion",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aid",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allergy",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allopathy",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "almoner",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anatomy",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angiography",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angostura",
+            "score": 10593,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assistance",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atomizer",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atropine",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auscultation",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autoinjector",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballistocardiograph",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bath",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baths",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biocompatibility",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biomaterial",
+            "score": 10593,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "biotechnology",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bougie",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brace",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buffer",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caduceus",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannabis",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardiograph",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "care",
+            "score": 10593,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "caregiving",
+            "score": 10593,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "caring",
+            "score": 10593,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 10593,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cat",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cat scan",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catheter",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cautery",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdc",
+            "score": 10593,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chiropractic",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinic",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinical",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "clinical test",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinical trial",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinicians",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clinics",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "code",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coding",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compress",
+            "score": 10593,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "compressor",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concoction",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "condition",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consultant",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "control",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "controlled",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "controlling",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "coriander",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corpsman",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crepe rubber",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "critical",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cryonics",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cure",
+            "score": 10593,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cured",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "curet",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cycle",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daycare",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "depressor",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diagnose",
+            "score": 10593,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "diagnostic",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "diagnostics",
+            "score": 10593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diathermic",
+            "score": 10593,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "naval equipment",
+            "score": 58,
+            "numSyllables": 5
+        },
+        {
+            "word": "medical examiner",
+            "score": 55,
+            "numSyllables": 7
+        },
+        {
+            "word": "metacognition",
+            "score": 44,
+            "numSyllables": 6
+        },
+        {
+            "word": "cricket equipment",
+            "score": 42,
+            "numSyllables": 5
+        },
+        {
+            "word": "bowling equipment",
+            "score": 33,
+            "numSyllables": 5
+        },
+        {
+            "word": "sports equipment",
+            "score": 13,
+            "numSyllables": 4
+        },
+        {
+            "word": "self development",
+            "score": 9,
+            "numSyllables": 5
+        },
+        {
+            "word": "semiliquid",
+            "score": 8,
+            "numSyllables": 4
+        },
+        {
+            "word": "soliloquist",
+            "score": 5,
+            "numSyllables": 4
+        },
+        {
+            "word": "soliloquizing",
+            "score": -3,
+            "numSyllables": 5
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "medical equipment",
+            "score": 129327
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "medical equipment",
+            "score": 129327
+        }
+    ]
+}

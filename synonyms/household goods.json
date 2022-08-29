@@ -1,0 +1,785 @@
+{
+    "term": "household goods",
+    "means_like": [
+        {
+            "word": "furniture",
+            "score": 148206,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "furnishings",
+            "score": 147206,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "appliances",
+            "score": 146206,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "home",
+            "score": 48206,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "housework",
+            "score": 48206,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "movable",
+            "score": 48206,
+            "tags": [
+                "syn",
+                "adj"
+            ]
+        },
+        {
+            "word": "mover",
+            "score": 29006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 28606,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supermarket",
+            "score": 28503,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "closet",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "durable goods",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "durables",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "five-and-ten",
+            "score": 28206
+        },
+        {
+            "word": "geared",
+            "score": 28206,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "good",
+            "score": 28206,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gwar",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hope chest",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffed",
+            "score": 28206,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "trap",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trapped",
+            "score": 28206,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "trapping",
+            "score": 28206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding chest",
+            "score": 28193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whites",
+            "score": 28193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conestoga wagon",
+            "score": 28103,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "packer",
+            "score": 28103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "royal warrant",
+            "score": 28091,
+            "tags": [
+                "prop"
+            ]
+        },
+        {
+            "word": "appliance",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "domestic",
+            "score": 11806,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "economic",
+            "score": 11806,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "economy",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grocery",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hall",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "house",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "income",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lace",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "market",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rent",
+            "score": 11806,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ship",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shipped",
+            "score": 11806,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "van",
+            "score": 11806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wash",
+            "score": 11806,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "allowance",
+            "score": 11793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "economics",
+            "score": 11756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "provision",
+            "score": 11756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "revenues",
+            "score": 11756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beetle",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belonging",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marshal",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "master",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mastering",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microeconomics",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serve",
+            "score": 11744,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "durable",
+            "score": 11703,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "storeroom",
+            "score": 11703,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plunder",
+            "score": 11654,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "plundered",
+            "score": 11654,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "plundering",
+            "score": 11654,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consumer credit",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inferior",
+            "score": 11642,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "purveyance",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refrigerator",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "revenue",
+            "score": 11642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acetone",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aloe",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ammonia",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antique",
+            "score": 10781,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "apartment",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "borax",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breadwinner",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brownie",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butler",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabinetmaker",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabinetmaking",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cat",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "china",
+            "score": 10781,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cleanser",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cost of living",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "die",
+            "score": 10781,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dir",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dryer",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dust",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dustpan",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eod",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "equipage",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "familial",
+            "score": 10781,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "family",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fixture",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garage sale",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goodman",
+            "score": 10781,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grocer",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "homes",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housekeeper",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housekeeping",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "houses",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housewares",
+            "score": 10781,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "household goods",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "households",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "household",
+            "score": 62,
+            "numSyllables": 2
+        },
+        {
+            "word": "house of lords",
+            "score": 51,
+            "numSyllables": 3
+        },
+        {
+            "word": "high holy day",
+            "score": 50,
+            "numSyllables": 4
+        },
+        {
+            "word": "used goods",
+            "score": 49,
+            "numSyllables": 2
+        },
+        {
+            "word": "beholders",
+            "score": 46,
+            "numSyllables": 3
+        },
+        {
+            "word": "placeholders",
+            "score": 44,
+            "numSyllables": 3
+        },
+        {
+            "word": "betelgeuse",
+            "score": 41,
+            "numSyllables": 3
+        },
+        {
+            "word": "stolen goods",
+            "score": 39,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "household goods",
+            "score": 129340
+        },
+        {
+            "word": "household gods",
+            "score": 64667
+        },
+        {
+            "word": "household words",
+            "score": 3
+        },
+        {
+            "word": "household god",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "household goods",
+            "score": 129340
+        },
+        {
+            "word": "household gods",
+            "score": 64667
+        },
+        {
+            "word": "household words",
+            "score": 3
+        },
+        {
+            "word": "household god",
+            "score": 1
+        }
+    ]
+}

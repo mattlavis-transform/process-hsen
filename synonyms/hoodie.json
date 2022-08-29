@@ -1,0 +1,1496 @@
+{
+    "term": "hoodie",
+    "means_like": [
+        {
+            "word": "sweatshirt",
+            "score": 55481,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 52100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 50272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 49919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hood",
+            "score": 45772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 45233,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vest",
+            "score": 44144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowl",
+            "score": 42870,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 38313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulletproof",
+            "score": 37607,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pull",
+            "score": 34930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanie",
+            "score": 31414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pullover",
+            "score": 31412,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatpants",
+            "score": 31410,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 31409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windbreaker",
+            "score": 31408,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tracksuit",
+            "score": 31407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crewneck",
+            "score": 31406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel coat",
+            "score": 31405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turtleneck",
+            "score": 31404,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parka",
+            "score": 31403,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat shirt",
+            "score": 31402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandana",
+            "score": 31401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bomber jacket",
+            "score": 31400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilet",
+            "score": 31399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windcheater",
+            "score": 31398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatsuit",
+            "score": 31397,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polo shirt",
+            "score": 31396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undershirt",
+            "score": 31395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarf",
+            "score": 31394,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onesie",
+            "score": 31393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper suit",
+            "score": 31392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waistcoat",
+            "score": 31391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hat",
+            "score": 31390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "henley",
+            "score": 31389,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "panama hat",
+            "score": 31388,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "poncho",
+            "score": 31387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anorak",
+            "score": 31386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoody",
+            "score": 31385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balaclava",
+            "score": 31384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trench coat",
+            "score": 31383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandanna",
+            "score": 31382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooded coat",
+            "score": 31381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pants",
+            "score": 31380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bunny hug",
+            "score": 31379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle coat",
+            "score": 31378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 31377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazer",
+            "score": 31376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trilby",
+            "score": 31375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocking cap",
+            "score": 31374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 31373,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 31372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski mask",
+            "score": 31371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breeks",
+            "score": 31370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tshirt",
+            "score": 31369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peacoat",
+            "score": 31368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plimsolls",
+            "score": 31367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 31366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglasses",
+            "score": 31365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat pants",
+            "score": 31364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boilersuit",
+            "score": 31363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overcoat",
+            "score": 31362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport coat",
+            "score": 31361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trenchcoat",
+            "score": 31360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 31359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "norfolk jacket",
+            "score": 31358,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "stetson",
+            "score": 31357,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boxer shorts",
+            "score": 31356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuque",
+            "score": 31355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheepskin coat",
+            "score": 31354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eton jacket",
+            "score": 31353,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "watch cap",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy duke",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porkpie hat",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zip up",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snood",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fedora",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trousers",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earflaps",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raincoat",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corduroys",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooded cloak",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argyle",
+            "score": 31340,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "titfer",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sneakers",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "getup",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "babydoll",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toque",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mess jacket",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreadlocks",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shorts",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moggan",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mohawk",
+            "score": 31329,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski parka",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport jacket",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headband",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "hoodie",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoody",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "heidi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "howdy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "heady",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hootie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoodoo",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "huda",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hooty",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "huddy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoddy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hidey",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "haidee",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hidy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hodie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "haydee",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadji",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "hooda",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "houdah",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "haddie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "howdie",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "heedy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "wudi",
+            "score": 91,
+            "numSyllables": 2
+        },
+        {
+            "word": "hottie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "haiti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "haughty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoodies",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "heyday",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hattie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hati",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hooey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hatty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hutu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hetty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hitty",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "heda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "heidy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "haddow",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hatti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hada",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hettie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hutto",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "haida",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoofd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hodo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "high tea",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hida",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "howdah",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hydo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hiti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hittie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "how do",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hayti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "huta",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoodia",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "heti",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "heida",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "high day",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "htg",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "udy",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "udi",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "eudy",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "tudi",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "moody",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "judy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "doody",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "boody",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "judi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "moodie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "coody",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rudie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "boodie",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ludy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "roody",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "ludi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "budi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "sudi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "dudi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeudi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "nudi",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "rhudy",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "weedy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "waddy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "wadi",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "waddie",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "wady",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "hathi",
+            "score": 86,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "hoodie",
+            "score": 65139
+        },
+        {
+            "word": "foodie",
+            "score": 577
+        },
+        {
+            "word": "goodie",
+            "score": 253
+        },
+        {
+            "word": "woodie",
+            "score": 143
+        },
+        {
+            "word": "hookie",
+            "score": 75
+        },
+        {
+            "word": "hoolie",
+            "score": 74
+        },
+        {
+            "word": "howdie",
+            "score": 45
+        },
+        {
+            "word": "hootie",
+            "score": 38
+        },
+        {
+            "word": "moodie",
+            "score": 37
+        },
+        {
+            "word": "hodie",
+            "score": 35
+        },
+        {
+            "word": "boodie",
+            "score": 19
+        },
+        {
+            "word": "hoodia",
+            "score": 11
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "sprig",
+            "score": 1854
+        },
+        {
+            "word": "semolina",
+            "score": 1843
+        },
+        {
+            "word": "sweatshirt",
+            "score": 1803
+        },
+        {
+            "word": "enchanted",
+            "score": 1594
+        },
+        {
+            "word": "rosemary",
+            "score": 1569
+        },
+        {
+            "word": "jeans",
+            "score": 1538
+        },
+        {
+            "word": "interruption",
+            "score": 1536
+        },
+        {
+            "word": "boogie",
+            "score": 1516
+        },
+        {
+            "word": "jacket",
+            "score": 1508
+        },
+        {
+            "word": "aviator",
+            "score": 1502
+        },
+        {
+            "word": "pants",
+            "score": 1480
+        },
+        {
+            "word": "hood",
+            "score": 1462
+        },
+        {
+            "word": "allen",
+            "score": 1459
+        },
+        {
+            "word": "ghosts",
+            "score": 1455
+        },
+        {
+            "word": "shirt",
+            "score": 1453
+        },
+        {
+            "word": "wears",
+            "score": 1416
+        },
+        {
+            "word": "rapper",
+            "score": 1405
+        },
+        {
+            "word": "crow",
+            "score": 1402
+        },
+        {
+            "word": "snake",
+            "score": 1389
+        },
+        {
+            "word": "robot",
+            "score": 1371
+        },
+        {
+            "word": "worn",
+            "score": 1368
+        },
+        {
+            "word": "wearing",
+            "score": 1363
+        },
+        {
+            "word": "costume",
+            "score": 1361
+        },
+        {
+            "word": "sovereign",
+            "score": 1356
+        },
+        {
+            "word": "nintendo",
+            "score": 1335
+        },
+        {
+            "word": "hop",
+            "score": 1329
+        },
+        {
+            "word": "cameron",
+            "score": 1316
+        },
+        {
+            "word": "youtube",
+            "score": 1311
+        },
+        {
+            "word": "hip",
+            "score": 1309
+        },
+        {
+            "word": "talking",
+            "score": 1301
+        },
+        {
+            "word": "clothing",
+            "score": 1285
+        },
+        {
+            "word": "uniform",
+            "score": 1272
+        },
+        {
+            "word": "videos",
+            "score": 1261
+        },
+        {
+            "word": "wear",
+            "score": 1247
+        },
+        {
+            "word": "phone",
+            "score": 1241
+        },
+        {
+            "word": "hair",
+            "score": 1231
+        },
+        {
+            "word": "appearing",
+            "score": 1230
+        },
+        {
+            "word": "video",
+            "score": 1229
+        },
+        {
+            "word": "lady",
+            "score": 1220
+        },
+        {
+            "word": "titled",
+            "score": 1212
+        },
+        {
+            "word": "boy",
+            "score": 1209
+        },
+        {
+            "word": "chapter",
+            "score": 1205
+        },
+        {
+            "word": "wanted",
+            "score": 1199
+        },
+        {
+            "word": "martin",
+            "score": 1198
+        },
+        {
+            "word": "tour",
+            "score": 1197
+        },
+        {
+            "word": "fox",
+            "score": 1195
+        },
+        {
+            "word": "master",
+            "score": 1192
+        },
+        {
+            "word": "boys",
+            "score": 1178
+        },
+        {
+            "word": "black",
+            "score": 1171
+        },
+        {
+            "word": "face",
+            "score": 1161
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "hoodie",
+            "score": 65139
+        },
+        {
+            "word": "hoodies",
+            "score": 64732
+        },
+        {
+            "word": "hoodie crow",
+            "score": 64661
+        },
+        {
+            "word": "foodie",
+            "score": 577
+        },
+        {
+            "word": "hoosier",
+            "score": 484
+        },
+        {
+            "word": "goodies",
+            "score": 366
+        },
+        {
+            "word": "goodie",
+            "score": 253
+        },
+        {
+            "word": "hooded",
+            "score": 197
+        },
+        {
+            "word": "woodie",
+            "score": 143
+        },
+        {
+            "word": "moodier",
+            "score": 120
+        }
+    ]
+}

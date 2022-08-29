@@ -1,0 +1,765 @@
+{
+    "term": "childrens clothing",
+    "means_like": [
+        {
+            "word": "apron",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bibbed",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothe",
+            "score": 15324,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galatea",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "holland",
+            "score": 15324,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kilt",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lapped",
+            "score": 15324,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "layette",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "percale",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petticoat",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinafore",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pique",
+            "score": 15324,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poplin",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ragamuffin",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "short",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "shorts",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "small",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sunsuit",
+            "score": 15324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undress",
+            "score": 15324,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "undressed",
+            "score": 15324,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "undressing",
+            "score": 15324,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "adaptive",
+            "score": 15314,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "identify",
+            "score": 15314,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "neglect",
+            "score": 15314,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "preteen",
+            "score": 15314,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "toddler",
+            "score": 15314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aguayo",
+            "score": 15304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apostrophe",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bambino",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bearing cloth",
+            "score": 15304
+        },
+        {
+            "word": "bonnet",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boondoggle",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chrisom",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creeper",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dack",
+            "score": 15304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll up",
+            "score": 15304,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dress up",
+            "score": 15304,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "flounce",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 15304,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gaberdine",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garibaldi",
+            "score": 15304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 15304,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "guttersnipe",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halloween",
+            "score": 15304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hippie",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kachina",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legging",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "level",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mutch",
+            "score": 15304,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "night",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obi",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outgrowing",
+            "score": 15304,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pantalet",
+            "score": 15304
+        },
+        {
+            "word": "pantomime",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paternity",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pelisse",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rebozo",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "romper suit",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rompers",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruff",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sack",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacked",
+            "score": 15304,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sailor suit",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scuffer",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt waist",
+            "score": 15304
+        },
+        {
+            "word": "shirtwaist",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slipper",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snowsuit",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taw",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toddle",
+            "score": 15304,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "water wings",
+            "score": 15304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black",
+            "score": 15284,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "bosom",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brat",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brown",
+            "score": 15284,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "camp",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 15284,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "clown",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "color",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "common",
+            "score": 15284,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cot",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "count",
+            "score": 15284,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "counting",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delicate",
+            "score": 15284,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "diaper",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dickey",
+            "score": 15284,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "duck",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ducks",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fitter",
+            "score": 15284,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "frog",
+            "score": 15284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hang",
+            "score": 15284,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "civilian clothing",
+            "score": 38,
+            "numSyllables": 5
+        },
+        {
+            "word": "saline solution",
+            "score": 22,
+            "numSyllables": 5
+        },
+        {
+            "word": "strickling",
+            "score": 22,
+            "numSyllables": 2
+        },
+        {
+            "word": "street clothes",
+            "score": 19,
+            "numSyllables": 2
+        },
+        {
+            "word": "silencing",
+            "score": 20,
+            "numSyllables": 3
+        },
+        {
+            "word": "satirization",
+            "score": 15,
+            "numSyllables": 5
+        },
+        {
+            "word": "soliloquizing",
+            "score": 13,
+            "numSyllables": 5
+        },
+        {
+            "word": "solecism",
+            "score": 7,
+            "numSyllables": 4
+        },
+        {
+            "word": "solid solution",
+            "score": 5,
+            "numSyllables": 5
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

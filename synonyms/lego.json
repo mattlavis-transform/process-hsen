@@ -1,0 +1,1689 @@
+{
+    "term": "lego",
+    "means_like": [
+        {
+            "word": "toy",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spiderman",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zelda",
+            "score": 31346,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mario",
+            "score": 31345,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "spongebob",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dollhouse",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jedi",
+            "score": 31342,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "plasticine",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disney",
+            "score": 31340,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nintendo",
+            "score": 31339,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "diorama",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandbox",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tetris",
+            "score": 31336,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tinkertoy",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meccano",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spidey",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pixar",
+            "score": 31332,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "activision",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gamecube",
+            "score": 31330,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sodoku",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spirograph",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elfs",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harry potter",
+            "score": 31326,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "heath ledger",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playstation",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pogs",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "starwars",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trekkie",
+            "score": 31321,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "papier",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tangram",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zoetrope",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vader",
+            "score": 31317,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gba",
+            "score": 31316,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "einstein",
+            "score": 31315,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ikea",
+            "score": 31314,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gameboard",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mii",
+            "score": 31312,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "steampunk",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ritchie",
+            "score": 31310,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "godzilla",
+            "score": 31309,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "king kong",
+            "score": 31308,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tribble",
+            "score": 31307,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cube",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ftw",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mod",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doodad",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "royce",
+            "score": 31302,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "easter egg",
+            "score": 31301,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "elmo",
+            "score": 31300,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "herman",
+            "score": 31299,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nerf",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donny",
+            "score": 31297,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ludo",
+            "score": 31296,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "octagons",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subbuteo",
+            "score": 31294,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lotr",
+            "score": 31293,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "materia",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pog",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ajax",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xxl",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandcastle",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cgi",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scotty",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hobbie",
+            "score": 31285,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "duckie",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mikey",
+            "score": 31283,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rupert",
+            "score": 31282,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nolan",
+            "score": 31281,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ickle",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scholes",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toy chest",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tardis",
+            "score": 31277,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alice",
+            "score": 31276,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "seymour",
+            "score": 31275,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "balsa wood",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instancing",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kombat",
+            "score": 31272,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "robots",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parcheesi",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gryphon",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thingy",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marilyn monroe",
+            "score": 31267,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wii",
+            "score": 31266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "orc",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monet",
+            "score": 31264,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "casio",
+            "score": 31263,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "okc",
+            "score": 31262,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dreadnaught",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ernie",
+            "score": 31260,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "madden",
+            "score": 31259,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "purdy",
+            "score": 31258,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jigsaws",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saturn",
+            "score": 31256,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ufo",
+            "score": 31255,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mosiac",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frankenstein",
+            "score": 31253,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "puzzles",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidz",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pacman",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shooty",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "lego",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "leggo",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "legault",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "logo",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "leggy",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "lago",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "lugo",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "ligo",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "leco",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "lecco",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "lecho",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "loogie",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "luggie",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "legs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "leg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "loco",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "loko",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "let go",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lega",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "legg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "liga",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lugi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "leigha",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "longa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lecky",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "luga",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "laga",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "leckie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "loggy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lico",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "legge",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "loga",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "luco",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lacko",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "loggie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "leki",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "laco",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "leko",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "legro",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "leca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "leuko",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lagu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "laico",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "legno",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lecca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cego",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yego",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "lucky",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "lingo",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "lug",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "lugs",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "lig",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "luckey",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "luckie",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "lugg",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "liki",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "ligs",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "lungo",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "lyg",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "ligge",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "legi",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "ledgy",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "lujo",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "league",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lag",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "leagues",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "leaky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lackey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "largo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "laug",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lect",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lags",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lech",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "leck",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "laka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lakey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lango",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lec",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "laika",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lagg",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "leakey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "leeg",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "laca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "blago",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "layo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "laki",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "laky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "laig",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lecs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "laag",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "chigoe",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lechwe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "lagoa",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "lacca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "laku",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "lbk",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ldg",
+            "score": 85,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "lego",
+            "score": 466
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "bionicle",
+            "score": 1854
+        },
+        {
+            "word": "technic",
+            "score": 1840
+        },
+        {
+            "word": "pneumatics",
+            "score": 1705
+        },
+        {
+            "word": "bricks",
+            "score": 1612
+        },
+        {
+            "word": "hobbit",
+            "score": 1570
+        },
+        {
+            "word": "videogame",
+            "score": 1563
+        },
+        {
+            "word": "robotics",
+            "score": 1539
+        },
+        {
+            "word": "studs",
+            "score": 1536
+        },
+        {
+            "word": "pompeii",
+            "score": 1534
+        },
+        {
+            "word": "toy",
+            "score": 1487
+        },
+        {
+            "word": "batman",
+            "score": 1468
+        },
+        {
+            "word": "programmable",
+            "score": 1462
+        },
+        {
+            "word": "toys",
+            "score": 1454
+        },
+        {
+            "word": "creations",
+            "score": 1432
+        },
+        {
+            "word": "dimensions",
+            "score": 1427
+        },
+        {
+            "word": "jurassic",
+            "score": 1412
+        },
+        {
+            "word": "sets",
+            "score": 1404
+        },
+        {
+            "word": "undercover",
+            "score": 1400
+        },
+        {
+            "word": "potter",
+            "score": 1383
+        },
+        {
+            "word": "heroes",
+            "score": 1363
+        },
+        {
+            "word": "clone",
+            "score": 1359
+        },
+        {
+            "word": "themed",
+            "score": 1351
+        },
+        {
+            "word": "interactive",
+            "score": 1346
+        },
+        {
+            "word": "kit",
+            "score": 1344
+        },
+        {
+            "word": "wii",
+            "score": 1343
+        },
+        {
+            "word": "theme",
+            "score": 1342
+        },
+        {
+            "word": "marvel",
+            "score": 1341
+        },
+        {
+            "word": "robot",
+            "score": 1334
+        },
+        {
+            "word": "builder",
+            "score": 1332
+        },
+        {
+            "word": "atlantis",
+            "score": 1327
+        },
+        {
+            "word": "movie",
+            "score": 1319
+        },
+        {
+            "word": "kits",
+            "score": 1318
+        },
+        {
+            "word": "tales",
+            "score": 1315
+        },
+        {
+            "word": "brick",
+            "score": 1312
+        },
+        {
+            "word": "bros",
+            "score": 1302
+        },
+        {
+            "word": "mega",
+            "score": 1300
+        },
+        {
+            "word": "pirates",
+            "score": 1297
+        },
+        {
+            "word": "gameplay",
+            "score": 1293
+        },
+        {
+            "word": "merchandise",
+            "score": 1287
+        },
+        {
+            "word": "creator",
+            "score": 1284
+        },
+        {
+            "word": "kirk",
+            "score": 1282
+        },
+        {
+            "word": "crystals",
+            "score": 1276
+        },
+        {
+            "word": "blocks",
+            "score": 1273
+        },
+        {
+            "word": "pieces",
+            "score": 1270
+        },
+        {
+            "word": "pirate",
+            "score": 1269
+        },
+        {
+            "word": "animated",
+            "score": 1266
+        },
+        {
+            "word": "nintendo",
+            "score": 1263
+        },
+        {
+            "word": "rings",
+            "score": 1261
+        },
+        {
+            "word": "sequel",
+            "score": 1259
+        },
+        {
+            "word": "universe",
+            "score": 1258
+        },
+        {
+            "word": "plastic",
+            "score": 1254
+        },
+        {
+            "word": "compatible",
+            "score": 1252
+        },
+        {
+            "word": "star",
+            "score": 1249
+        },
+        {
+            "word": "mini",
+            "score": 1244
+        },
+        {
+            "word": "themes",
+            "score": 1242
+        },
+        {
+            "word": "xbox",
+            "score": 1241
+        },
+        {
+            "word": "warner",
+            "score": 1238
+        },
+        {
+            "word": "pack",
+            "score": 1230
+        },
+        {
+            "word": "cartoon",
+            "score": 1228
+        },
+        {
+            "word": "legends",
+            "score": 1225
+        },
+        {
+            "word": "ore",
+            "score": 1218
+        },
+        {
+            "word": "voiced",
+            "score": 1216
+        },
+        {
+            "word": "licensed",
+            "score": 1213
+        },
+        {
+            "word": "disney",
+            "score": 1211
+        },
+        {
+            "word": "adventure",
+            "score": 1208
+        },
+        {
+            "word": "discontinued",
+            "score": 1204
+        },
+        {
+            "word": "models",
+            "score": 1203
+        },
+        {
+            "word": "microsoft",
+            "score": 1198
+        },
+        {
+            "word": "franchise",
+            "score": 1196
+        },
+        {
+            "word": "harry",
+            "score": 1195
+        },
+        {
+            "word": "super",
+            "score": 1193
+        },
+        {
+            "word": "indiana",
+            "score": 1192
+        },
+        {
+            "word": "danish",
+            "score": 1186
+        },
+        {
+            "word": "animation",
+            "score": 1180
+        },
+        {
+            "word": "worlds",
+            "score": 1179
+        },
+        {
+            "word": "figures",
+            "score": 1178
+        },
+        {
+            "word": "comics",
+            "score": 1173
+        },
+        {
+            "word": "video",
+            "score": 1169
+        },
+        {
+            "word": "brand",
+            "score": 1167
+        },
+        {
+            "word": "characters",
+            "score": 1164
+        },
+        {
+            "word": "product",
+            "score": 1155
+        },
+        {
+            "word": "denmark",
+            "score": 1150
+        },
+        {
+            "word": "ideas",
+            "score": 1149
+        },
+        {
+            "word": "manufactured",
+            "score": 1147
+        },
+        {
+            "word": "game",
+            "score": 1146
+        },
+        {
+            "word": "build",
+            "score": 1145
+        },
+        {
+            "word": "website",
+            "score": 1140
+        },
+        {
+            "word": "rock",
+            "score": 1138
+        },
+        {
+            "word": "hero",
+            "score": 1137
+        },
+        {
+            "word": "adventures",
+            "score": 1135
+        },
+        {
+            "word": "fun",
+            "score": 1132
+        },
+        {
+            "word": "jones",
+            "score": 1129
+        },
+        {
+            "word": "fans",
+            "score": 1123
+        },
+        {
+            "word": "logo",
+            "score": 1116
+        },
+        {
+            "word": "factory",
+            "score": 1114
+        },
+        {
+            "word": "designer",
+            "score": 1112
+        },
+        {
+            "word": "chase",
+            "score": 1110
+        },
+        {
+            "word": "giant",
+            "score": 1108
+        },
+        {
+            "word": "kids",
+            "score": 1107
+        },
+        {
+            "word": "tech",
+            "score": 1106
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "lego",
+            "score": 466
+        },
+        {
+            "word": "legolas",
+            "score": 99
+        },
+        {
+            "word": "legomenon",
+            "score": 72
+        },
+        {
+            "word": "legos",
+            "score": 56
+        },
+        {
+            "word": "legong",
+            "score": 33
+        },
+        {
+            "word": "legol",
+            "score": 28
+        },
+        {
+            "word": "lego-literary",
+            "score": 19
+        },
+        {
+            "word": "lego set",
+            "score": 17
+        },
+        {
+            "word": "legoland",
+            "score": 9
+        },
+        {
+            "word": "legomena",
+            "score": 6
+        }
+    ]
+}

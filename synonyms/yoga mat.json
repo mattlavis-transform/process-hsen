@@ -1,0 +1,939 @@
+{
+    "term": "yoga mat",
+    "means_like": [
+        {
+            "word": "headstand",
+            "score": 28092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raja",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "namaste",
+            "score": 10667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ana",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balance",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ball",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 10617,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "lotus",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plank",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pose",
+            "score": 10617,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "spa",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spine",
+            "score": 10617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squat",
+            "score": 10617,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "skate",
+            "score": 10567,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "aura",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doom",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "erotica",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fortune",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kong",
+            "score": 10517,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lama",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "later",
+            "score": 10517,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "maya",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "more",
+            "score": 10517,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "ranee",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rani",
+            "score": 10517,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ruler",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sex",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skating",
+            "score": 10517,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "why",
+            "score": 10517,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "being",
+            "score": 10166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buddhist",
+            "score": 10166,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dharma",
+            "score": 10166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haiku",
+            "score": 10166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "man",
+            "score": 10166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asana",
+            "score": 4705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hindu",
+            "score": 4705,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "kriya",
+            "score": 4705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kundalini",
+            "score": 4705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotus position",
+            "score": 4705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tantric",
+            "score": 4705,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "vaishnavism",
+            "score": 4705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogi",
+            "score": 4705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogic",
+            "score": 4705,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ache",
+            "score": 4605,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "agile",
+            "score": 4605,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ashram",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ashtanga",
+            "score": 4605,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bodywork",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breathe",
+            "score": 4605,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chakra",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "esotericism",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhale",
+            "score": 4605,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "inhale",
+            "score": 4605,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lithe",
+            "score": 4605,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "maharishis",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mudra",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pranayama",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relax",
+            "score": 4605,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sadhu",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sign up",
+            "score": 4605,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vinyasa",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogism",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogistic",
+            "score": 4605,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "yuga",
+            "score": 4605,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adepts",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advaita",
+            "score": 4505,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "bhakta",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chant",
+            "score": 4505,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "chanted",
+            "score": 4505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chieftain",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "darsana",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "destiny",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fate",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guru",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatha yoga",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incantation",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indeterminism",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intone",
+            "score": 4505,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "kama",
+            "score": 4505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "karmapa",
+            "score": 4505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "karmic",
+            "score": 4505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "lennon",
+            "score": 4505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "maharaja",
+            "score": 4505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "maharajah",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mala",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mimamsa",
+            "score": 4505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "miniature",
+            "score": 4505,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "minotaur",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monetary",
+            "score": 4505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "mystical",
+            "score": 4505,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "nirvana",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ohm",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peace",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perseveration",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rajas",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rajput",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shankaracharya",
+            "score": 4505,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shaster",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shine",
+            "score": 4505,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "smarta",
+            "score": 4505,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "yoga mat",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "huguenot",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "tagamet",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "wagonette",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "huguenots",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "yogourt",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "yocum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoakum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "yocom",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "yokum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoakam",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "umat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoyo mode",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "eugeny",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "coconut",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "recommit",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "shogunate",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "wygant",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "yakima",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "yogin",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "ujamaa",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "yoga",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogurt",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogas",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "looking at",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "you got it",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "umut",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yo yo ma",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "yoko ono",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "umad",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yakult",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "eugen",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "you name it",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "uint",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "umit",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yakama",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "yakut",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yochum",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "euglenoid",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "yoga mat",
+            "score": 129327
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "yoga mat",
+            "score": 129327
+        }
+    ]
+}

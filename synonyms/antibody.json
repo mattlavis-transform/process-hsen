@@ -1,0 +1,1306 @@
+{
+    "term": "antibody",
+    "means_like": [
+        {
+            "word": "immunologic",
+            "score": 70144,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "serologic",
+            "score": 67408,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "urticaria",
+            "score": 59423,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blood",
+            "score": 58714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immunity",
+            "score": 56823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "testing",
+            "score": 55665,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dependent",
+            "score": 53935,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ana",
+            "score": 52809,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antigen",
+            "score": 50745,
+            "tags": [
+                "n",
+                "v",
+                "adv"
+            ]
+        },
+        {
+            "word": "monoclonal antibody",
+            "score": 50744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monoclonal",
+            "score": 50743,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "peptide",
+            "score": 50742,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immunoglobulin",
+            "score": 50741,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "mab",
+            "score": 50740,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "epitope",
+            "score": 50739,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autoantibody",
+            "score": 50738,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recombinant",
+            "score": 50737,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "igg",
+            "score": 50736,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "protein",
+            "score": 50735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cytokine",
+            "score": 50734,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immunotherapy",
+            "score": 50733,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glycoprotein",
+            "score": 50732,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interferon",
+            "score": 50731,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "protease",
+            "score": 50730,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hybridoma",
+            "score": 50729,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phage",
+            "score": 50728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "receptor",
+            "score": 50727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interleukin",
+            "score": 50726,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serum",
+            "score": 50725,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "titer",
+            "score": 50724,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polypeptide",
+            "score": 50723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rna",
+            "score": 50722,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tumor necrosis factor",
+            "score": 50721,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autoimmune",
+            "score": 50720,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enzyme",
+            "score": 50719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immunomodulator",
+            "score": 50718,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vlps",
+            "score": 50717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antisense",
+            "score": 50716,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oligonucleotide",
+            "score": 50715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poxvirus",
+            "score": 50714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ligand",
+            "score": 50713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tyrosine kinase inhibitor",
+            "score": 50712,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molecule",
+            "score": 50711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kinase",
+            "score": 50710,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autoantibodies",
+            "score": 50709,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "murine",
+            "score": 50708,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "gastrin",
+            "score": 50707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angiogenesis inhibitor",
+            "score": 50706,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "immunoglobulin g",
+            "score": 50705,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nucleic acid",
+            "score": 50704,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cytomegalovirus",
+            "score": 50703,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "replicon",
+            "score": 50702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vitro",
+            "score": 50701,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polysaccharide",
+            "score": 50700,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cytotoxicity",
+            "score": 50699,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vivo",
+            "score": 50698,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bacteriophage",
+            "score": 50697,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nuclease",
+            "score": 50696,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gene expression",
+            "score": 50695,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "proteinase",
+            "score": 50694,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mrna",
+            "score": 50693,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "phospholipid",
+            "score": 50692,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "virions",
+            "score": 50691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "isoantigen",
+            "score": 50690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mir",
+            "score": 50689,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "avidin",
+            "score": 50688,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anticancer",
+            "score": 50687,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kallikrein",
+            "score": 50686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amyloid",
+            "score": 50685,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ligase",
+            "score": 50684,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agglutinogen",
+            "score": 50683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trypsin",
+            "score": 50682,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "polymerase",
+            "score": 50681,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdna",
+            "score": 50680,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "passive immunity",
+            "score": 50679,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rnase",
+            "score": 50678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transferrin",
+            "score": 50677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "conjugates",
+            "score": 50676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "busulfan",
+            "score": 50675,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cytotoxin",
+            "score": 50674,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oligo",
+            "score": 50673,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ribonuclease",
+            "score": 50672,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lentivirus",
+            "score": 50671,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glycosylation",
+            "score": 50670,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telomerase",
+            "score": 50669,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suppressor gene",
+            "score": 50668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chlamydial",
+            "score": 50667,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "lipid",
+            "score": 50666,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hapten",
+            "score": 50665,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "therapeutics",
+            "score": 50664,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adenovirus",
+            "score": 50663,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cysteine",
+            "score": 50662,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "protease inhibitor",
+            "score": 50661,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inhibitor",
+            "score": 50660,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mannose",
+            "score": 50659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parainfluenza virus",
+            "score": 50658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "osteoclast",
+            "score": 50657,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "b lymphocyte",
+            "score": 50656,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elastase",
+            "score": 50655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cytidine",
+            "score": 50654,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "antibody",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "antibodies",
+            "score": 90,
+            "numSyllables": 4
+        },
+        {
+            "word": "antipode",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "antipathy",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "antipodes",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "antipodal",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "anybody",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "unibody",
+            "score": 73,
+            "numSyllables": 4
+        },
+        {
+            "word": "antabuse",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "anted",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "entebbe",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "ant bird",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "antipasti",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "andreotti",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "antipope",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "out of body",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "antiblack",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fat body",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "antipole",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "anticity",
+            "score": 70,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "antibody",
+            "score": 129966
+        },
+        {
+            "word": "antimony",
+            "score": 804
+        },
+        {
+            "word": "antipode",
+            "score": 558
+        },
+        {
+            "word": "antinomy",
+            "score": 461
+        },
+        {
+            "word": "anybody",
+            "score": 324
+        },
+        {
+            "word": "antilogy",
+            "score": 166
+        },
+        {
+            "word": "antinode",
+            "score": 101
+        },
+        {
+            "word": "unibody",
+            "score": 69
+        },
+        {
+            "word": "antipod",
+            "score": 17
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "epitope",
+            "score": 1824
+        },
+        {
+            "word": "titer",
+            "score": 1816
+        },
+        {
+            "word": "antigen",
+            "score": 1756
+        },
+        {
+            "word": "monoclonal",
+            "score": 1745
+        },
+        {
+            "word": "antibodies",
+            "score": 1721
+        },
+        {
+            "word": "ige",
+            "score": 1707
+        },
+        {
+            "word": "immunoglobulin",
+            "score": 1705
+        },
+        {
+            "word": "agglutination",
+            "score": 1694
+        },
+        {
+            "word": "chimeric",
+            "score": 1676
+        },
+        {
+            "word": "autoantibodies",
+            "score": 1674
+        },
+        {
+            "word": "mab",
+            "score": 1627
+        },
+        {
+            "word": "conjugated",
+            "score": 1623
+        },
+        {
+            "word": "phage",
+            "score": 1613
+        },
+        {
+            "word": "analyte",
+            "score": 1610
+        },
+        {
+            "word": "cytotoxic",
+            "score": 1602
+        },
+        {
+            "word": "rheumatoid",
+            "score": 1600
+        },
+        {
+            "word": "linker",
+            "score": 1578
+        },
+        {
+            "word": "elisa",
+            "score": 1575
+        },
+        {
+            "word": "autoimmune",
+            "score": 1569
+        },
+        {
+            "word": "cytokine",
+            "score": 1564
+        },
+        {
+            "word": "fab",
+            "score": 1559
+        },
+        {
+            "word": "recombinant",
+            "score": 1551
+        },
+        {
+            "word": "iga",
+            "score": 1547
+        },
+        {
+            "word": "therapeutics",
+            "score": 1540
+        },
+        {
+            "word": "specificity",
+            "score": 1534
+        },
+        {
+            "word": "metastatic",
+            "score": 1526
+        },
+        {
+            "word": "serum",
+            "score": 1524
+        },
+        {
+            "word": "assays",
+            "score": 1520
+        },
+        {
+            "word": "immune",
+            "score": 1515
+        },
+        {
+            "word": "bind",
+            "score": 1511
+        },
+        {
+            "word": "assay",
+            "score": 1500
+        },
+        {
+            "word": "lymphoma",
+            "score": 1485
+        },
+        {
+            "word": "melanoma",
+            "score": 1481
+        },
+        {
+            "word": "lupus",
+            "score": 1474
+        },
+        {
+            "word": "nucleic",
+            "score": 1473
+        },
+        {
+            "word": "peptide",
+            "score": 1462
+        },
+        {
+            "word": "molecule",
+            "score": 1455
+        },
+        {
+            "word": "receptor",
+            "score": 1454
+        },
+        {
+            "word": "secreted",
+            "score": 1451
+        },
+        {
+            "word": "arthritis",
+            "score": 1449
+        },
+        {
+            "word": "tumour",
+            "score": 1448
+        },
+        {
+            "word": "binding",
+            "score": 1446
+        },
+        {
+            "word": "fluorescent",
+            "score": 1442
+        },
+        {
+            "word": "inhibitor",
+            "score": 1441
+        },
+        {
+            "word": "fragment",
+            "score": 1439
+        },
+        {
+            "word": "conjugate",
+            "score": 1434
+        },
+        {
+            "word": "affinity",
+            "score": 1433
+        },
+        {
+            "word": "vaccine",
+            "score": 1431
+        },
+        {
+            "word": "vaccination",
+            "score": 1424
+        },
+        {
+            "word": "inhibits",
+            "score": 1422
+        },
+        {
+            "word": "hepatitis",
+            "score": 1420
+        },
+        {
+            "word": "allergic",
+            "score": 1418
+        },
+        {
+            "word": "fluorescence",
+            "score": 1416
+        },
+        {
+            "word": "toxin",
+            "score": 1407
+        },
+        {
+            "word": "protein",
+            "score": 1405
+        },
+        {
+            "word": "vitro",
+            "score": 1400
+        },
+        {
+            "word": "pharmaceuticals",
+            "score": 1392
+        },
+        {
+            "word": "tumor",
+            "score": 1384
+        },
+        {
+            "word": "intracellular",
+            "score": 1382
+        },
+        {
+            "word": "mediated",
+            "score": 1379
+        },
+        {
+            "word": "asthma",
+            "score": 1377
+        },
+        {
+            "word": "amplification",
+            "score": 1376
+        },
+        {
+            "word": "therapeutic",
+            "score": 1373
+        },
+        {
+            "word": "inflammatory",
+            "score": 1371
+        },
+        {
+            "word": "receptors",
+            "score": 1366
+        },
+        {
+            "word": "infection",
+            "score": 1364
+        },
+        {
+            "word": "virus",
+            "score": 1363
+        },
+        {
+            "word": "labeling",
+            "score": 1359
+        },
+        {
+            "word": "proteins",
+            "score": 1358
+        },
+        {
+            "word": "molecules",
+            "score": 1355
+        },
+        {
+            "word": "cells",
+            "score": 1353
+        },
+        {
+            "word": "influenza",
+            "score": 1351
+        },
+        {
+            "word": "roche",
+            "score": 1350
+        },
+        {
+            "word": "responses",
+            "score": 1349
+        },
+        {
+            "word": "soluble",
+            "score": 1347
+        },
+        {
+            "word": "detection",
+            "score": 1345
+        },
+        {
+            "word": "immunity",
+            "score": 1344
+        },
+        {
+            "word": "enzyme",
+            "score": 1337
+        },
+        {
+            "word": "chains",
+            "score": 1335
+        },
+        {
+            "word": "complement",
+            "score": 1330
+        },
+        {
+            "word": "biotechnology",
+            "score": 1329
+        },
+        {
+            "word": "viruses",
+            "score": 1326
+        },
+        {
+            "word": "targeting",
+            "score": 1319
+        },
+        {
+            "word": "viral",
+            "score": 1317
+        },
+        {
+            "word": "detect",
+            "score": 1309
+        },
+        {
+            "word": "beads",
+            "score": 1308
+        },
+        {
+            "word": "bacterial",
+            "score": 1304
+        },
+        {
+            "word": "cell",
+            "score": 1302
+        },
+        {
+            "word": "diagnosis",
+            "score": 1299
+        },
+        {
+            "word": "systemic",
+            "score": 1294
+        },
+        {
+            "word": "treatment",
+            "score": 1291
+        },
+        {
+            "word": "labelled",
+            "score": 1290
+        },
+        {
+            "word": "fda",
+            "score": 1288
+        },
+        {
+            "word": "detected",
+            "score": 1286
+        },
+        {
+            "word": "diagnostic",
+            "score": 1285
+        },
+        {
+            "word": "plasma",
+            "score": 1282
+        },
+        {
+            "word": "hiv",
+            "score": 1280
+        },
+        {
+            "word": "amino",
+            "score": 1279
+        },
+        {
+            "word": "drug",
+            "score": 1278
+        },
+        {
+            "word": "clinical",
+            "score": 1276
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "antibody",
+            "score": 129966
+        },
+        {
+            "word": "antibody half-life",
+            "score": 129326
+        },
+        {
+            "word": "antibody half life",
+            "score": 129325
+        },
+        {
+            "word": "antibody-antigen complex",
+            "score": 129324
+        },
+        {
+            "word": "antibody antigen complex",
+            "score": 129323
+        },
+        {
+            "word": "antibody mediated immunity",
+            "score": 129323
+        },
+        {
+            "word": "antibody-mediated immunity",
+            "score": 129322
+        },
+        {
+            "word": "antibody therapy",
+            "score": 129322
+        },
+        {
+            "word": "antibody-producing cells",
+            "score": 129321
+        },
+        {
+            "word": "antibody formation",
+            "score": 129321
+        }
+    ]
+}

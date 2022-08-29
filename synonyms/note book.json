@@ -1,0 +1,1278 @@
+{
+    "term": "note book",
+    "means_like": [
+        {
+            "word": "notebook",
+            "score": 148055,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "jotter",
+            "score": 147055,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tables",
+            "score": 48055,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "score",
+            "score": 48039,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "table-book",
+            "score": 47962,
+            "tags": [
+                "syn"
+            ]
+        },
+        {
+            "word": "comment",
+            "score": 29255,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "record",
+            "score": 28855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strain",
+            "score": 28855,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "postscript",
+            "score": 28455,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recorded",
+            "score": 28455,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "annotation",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booking",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "books",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colophon",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "correct",
+            "score": 28055,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "endnote",
+            "score": 28055,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "folio",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footnote",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "margin",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notice",
+            "score": 28055,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pocketbook",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "section",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sectioned",
+            "score": 28055,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "sectioning",
+            "score": 28055,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "table",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "close",
+            "score": 28039,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "cross-index",
+            "score": 28039,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "from",
+            "score": 28039
+        },
+        {
+            "word": "frome",
+            "score": 28039,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grom",
+            "score": 28039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appreciated",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "appreciating",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "authentic",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cheque",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "citation",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collate",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "collation",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "continuation",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "date",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dating",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dedication",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "document",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "down",
+            "score": 11655,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "end",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enter",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "entry",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fundamental",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "guide",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "head",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heads",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "index",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inscription",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "introduction",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "john",
+            "score": 11655,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 11655,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leave",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "leaving",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "letter",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "libretto",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "list",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "log",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "long",
+            "score": 11655,
+            "tags": [
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "mak",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "mark",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "memoir",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noticed",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "noticing",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "novel",
+            "score": 11655,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "oed",
+            "score": 11655,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "oost",
+            "score": 11655,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 11655,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paragraph",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parallel",
+            "score": 11655,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "pass",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "passage",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "placed",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "placing",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "plot",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "point",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "post",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "posted",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "quotation",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quote",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "quotes",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "read",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "reference",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "referenced",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "register",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "roget",
+            "score": 11655,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "roots",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "notebook",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "note book",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "netbook",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "notebooks",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "netback",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitpick",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "noetic",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nit pick",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nutbag",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nit-pick",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "white book",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "nighthawk",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nautic",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "natick",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nubuck",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "night hawk",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nodak",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nosebag",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nautique",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knocked back",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nethack",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "motorbike",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "wetback",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "motor bike",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "matchbook",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hit back",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "meat hook",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiteback",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mobic",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitbeck",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "netball",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nobu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nota",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "noto",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nobi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nobo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "datebook",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "noti",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "naidoc",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "net ball",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knockback",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitpicker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "nitpicky",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "knock back",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "noba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "noic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knapik",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ntic",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "night walk",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitpicked",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "net pay",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "codebook",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "night bell",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nut bar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nit picker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "nobuko",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "matic",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "setback",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "maybach",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "metic",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mattock",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "set back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "guidebook",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "get back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "sit back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "seat back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mattick",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "head back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "seatback",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "good book",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "tote bag",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "got back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "redbook",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "the book",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "set-back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "maybeck",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "right back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mudbug",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoback",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mitic",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "red book",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "guide book",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "sat back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot pack",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "art book",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "matoke",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mtech",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "chibouk",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "mug book",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "road bike",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "write back",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "net work",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "knitwork",
+            "score": 71,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "note book",
+            "score": 129334
+        },
+        {
+            "word": "notebook",
+            "score": 65112
+        },
+        {
+            "word": "note-book",
+            "score": 64670
+        },
+        {
+            "word": "code book",
+            "score": 13
+        },
+        {
+            "word": "dope book",
+            "score": 9
+        },
+        {
+            "word": "noteboom",
+            "score": 6
+        },
+        {
+            "word": "cite book",
+            "score": 5
+        },
+        {
+            "word": "no book",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "note book",
+            "score": 129334
+        },
+        {
+            "word": "notebook",
+            "score": 65112
+        },
+        {
+            "word": "notebooks",
+            "score": 64705
+        },
+        {
+            "word": "notebook computer",
+            "score": 64685
+        },
+        {
+            "word": "note-book",
+            "score": 64670
+        },
+        {
+            "word": "notebook entry",
+            "score": 64669
+        },
+        {
+            "word": "notebook computers",
+            "score": 64667
+        },
+        {
+            "word": "net book value",
+            "score": 21
+        },
+        {
+            "word": "code book",
+            "score": 13
+        },
+        {
+            "word": "dope book",
+            "score": 9
+        }
+    ]
+}

@@ -1,0 +1,1431 @@
+{
+    "term": "keychain",
+    "means_like": [
+        {
+            "word": "password",
+            "score": 41945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ring",
+            "score": 38507,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 34498,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lanyard",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wristlet",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabineer",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklace",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabiner",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locket",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendant",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drawstring bag",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watchband",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle opener",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bracelet",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee mug",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouch",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billfold",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "padlock",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wristband",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clasp",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wristwatch",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cigar cutter",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinket",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashlight",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keepsake",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperweight",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "medallion",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screwdriver",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sticker",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keyring",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doohickey",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fanny pack",
+            "score": 31322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "faceplate",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backpack",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tote bag",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dogtag",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoulder strap",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bobby pin",
+            "score": 31316,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "waterfield",
+            "score": 31315,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ballpoint pen",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earphones",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doodad",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapstick",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notepad",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earbuds",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffle",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earrings",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velcro",
+            "score": 31306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hatbox",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vacuum flask",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glove compartment",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holster",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ipod",
+            "score": 31301,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sewing kit",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cigarette lighter",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlenose pliers",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swiper",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backplate",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decal",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatband",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckband",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mousepad",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belt buckle",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedometer",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headphones",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charger",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toothbrush",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pacifier",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "battery charger",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karabiner",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylus",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potholder",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carryall",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartridge",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookbag",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanie",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strap",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable wrench",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermos",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupholder",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thumbtack",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stickpin",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toothpick",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key ring",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lunchbox",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headset",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adapter",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweatshirt",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatpin",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddy bear",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sun visor",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmut",
+            "score": 31260,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hip flask",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briefcase",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knapsack",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foldover",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recharger",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "keychain",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "chn",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "keegan",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "keagan",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cochon",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocon",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kochan",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kochen",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "koken",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "keuken",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kokan",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kickin",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "kick in",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "kikin",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "kachin",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocaine",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocoon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocain",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cacoon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kian",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coccoon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kagan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kegan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coogan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cogan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kogan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kokain",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kirchen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cacaine",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kagen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cagan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cogen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "keygen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cockayne",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kick on",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coggan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kokum",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kikka",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kokoon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cooking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "kicking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "caking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "coking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "caulking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "key in",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "coggin",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "quyen",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "calking",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "cwn",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "ccn",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "cancun",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keaton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "geeking",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cowan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cochran",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keelan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cochrane",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cowen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keeton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "chieko",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coxon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coction",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cookson",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kelan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cacca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kayan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ca ca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "creegan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gookin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keown",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocom",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ca-ca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cancon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauthen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cawthon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "crooken",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cokenay",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "cookman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kathan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cockman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keilen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cahan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cmn",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "kaca",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kacang",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kalkun",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "keychain",
+            "score": 129719
+        },
+        {
+            "word": "key chain",
+            "score": 64661
+        },
+        {
+            "word": "enchain",
+            "score": 133
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "keyring",
+            "score": 2015
+        },
+        {
+            "word": "login",
+            "score": 1802
+        },
+        {
+            "word": "password",
+            "score": 1712
+        },
+        {
+            "word": "bop",
+            "score": 1625
+        },
+        {
+            "word": "token",
+            "score": 1532
+        },
+        {
+            "word": "logistics",
+            "score": 1495
+        },
+        {
+            "word": "ios",
+            "score": 1476
+        },
+        {
+            "word": "mac",
+            "score": 1452
+        },
+        {
+            "word": "item",
+            "score": 1429
+        },
+        {
+            "word": "apple",
+            "score": 1414
+        },
+        {
+            "word": "file",
+            "score": 1398
+        },
+        {
+            "word": "lock",
+            "score": 1386
+        },
+        {
+            "word": "automatically",
+            "score": 1372
+        },
+        {
+            "word": "connects",
+            "score": 1356
+        },
+        {
+            "word": "plastic",
+            "score": 1349
+        },
+        {
+            "word": "user",
+            "score": 1332
+        },
+        {
+            "word": "application",
+            "score": 1314
+        },
+        {
+            "word": "chain",
+            "score": 1310
+        },
+        {
+            "word": "camera",
+            "score": 1297
+        },
+        {
+            "word": "device",
+            "score": 1290
+        },
+        {
+            "word": "key",
+            "score": 1288
+        },
+        {
+            "word": "stores",
+            "score": 1278
+        },
+        {
+            "word": "access",
+            "score": 1261
+        },
+        {
+            "word": "security",
+            "score": 1252
+        },
+        {
+            "word": "edition",
+            "score": 1250
+        },
+        {
+            "word": "applications",
+            "score": 1243
+        },
+        {
+            "word": "cost",
+            "score": 1234
+        },
+        {
+            "word": "typically",
+            "score": 1230
+        },
+        {
+            "word": "allows",
+            "score": 1217
+        },
+        {
+            "word": "room",
+            "score": 1214
+        },
+        {
+            "word": "removed",
+            "score": 1210
+        },
+        {
+            "word": "store",
+            "score": 1205
+        },
+        {
+            "word": "version",
+            "score": 1195
+        },
+        {
+            "word": "software",
+            "score": 1193
+        },
+        {
+            "word": "online",
+            "score": 1190
+        },
+        {
+            "word": "directly",
+            "score": 1185
+        },
+        {
+            "word": "allow",
+            "score": 1183
+        },
+        {
+            "word": "introduced",
+            "score": 1171
+        },
+        {
+            "word": "library",
+            "score": 1169
+        },
+        {
+            "word": "variety",
+            "score": 1162
+        },
+        {
+            "word": "network",
+            "score": 1160
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "keychain",
+            "score": 129719
+        },
+        {
+            "word": "key chain",
+            "score": 64661
+        },
+        {
+            "word": "enchain",
+            "score": 133
+        },
+        {
+            "word": "enchained",
+            "score": 55
+        },
+        {
+            "word": "kerching",
+            "score": 44
+        },
+        {
+            "word": "enchainment",
+            "score": 37
+        },
+        {
+            "word": "enchains",
+            "score": 16
+        },
+        {
+            "word": "enchaining",
+            "score": 12
+        },
+        {
+            "word": "key change",
+            "score": 6
+        },
+        {
+            "word": "deschaine",
+            "score": 5
+        }
+    ]
+}

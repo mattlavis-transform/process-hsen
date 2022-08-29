@@ -1,0 +1,778 @@
+{
+    "term": "plastic toys",
+    "means_like": [
+        {
+            "word": "toy",
+            "score": 28978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lego",
+            "score": 28814,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 12335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dildo",
+            "score": 12171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flirt",
+            "score": 11457,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "nerf",
+            "score": 11292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 11249,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 11249,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "dice",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "domino",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drum",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fold",
+            "score": 11249,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "footbag",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frisbee",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glockenspiel",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paddling",
+            "score": 11249,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "racket",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shuttlecock",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 11249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "two",
+            "score": 11249,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "fashioning",
+            "score": 11214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "games",
+            "score": 11214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "play",
+            "score": 11214,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "puppet",
+            "score": 11214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rafts",
+            "score": 11214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teddy bear",
+            "score": 11214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vehicle",
+            "score": 11214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beach ball",
+            "score": 11189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chip",
+            "score": 11189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "platter",
+            "score": 11189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "table tennis",
+            "score": 11189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wading pool",
+            "score": 11189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ace",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "action",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "actor",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agate",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "animal",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "athletic",
+            "score": 11128,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "backhand",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bagpipe",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandy",
+            "score": 11128,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "bat",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanbag",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beater",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billiards",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bit",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blocking",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bocce",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bodhran",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boe",
+            "score": 11128,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bopeep",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow",
+            "score": 11128,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "box office",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxed",
+            "score": 11128,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bratz",
+            "score": 11128,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bridge",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridged",
+            "score": 11128,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "bridging",
+            "score": 11128,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bully",
+            "score": 11128,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cameo",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camogie",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "character",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheat",
+            "score": 11128,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cheated",
+            "score": 11128,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chicane",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chukka boot",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chunk",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chunking",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "club",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clubbing",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clubs",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "co-star",
+            "score": 11128,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cocteau",
+            "score": 11128,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "comedy",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "convention",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costar",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cudgel",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cue",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cut",
+            "score": 11128,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dally",
+            "score": 11128,
+            "tags": [
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "denouement",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "det",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deuce",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialogue",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diddle",
+            "score": 11128,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "direct",
+            "score": 11128,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "direction",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "director",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "docudrama",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doddart",
+            "score": 11128
+        },
+        {
+            "word": "dodgeball",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doh",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dollhouse",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doublet",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreidel",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drumstick",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duke wayne",
+            "score": 11128,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dulcimer",
+            "score": 11128,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "plastics",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastids",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasticky",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastic",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastique",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastic bags",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastik",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastical",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "postictal",
+            "score": 65,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "plastic toy poisoning",
+            "score": 64669
+        }
+    ]
+}

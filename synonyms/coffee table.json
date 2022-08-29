@@ -1,0 +1,816 @@
+{
+    "term": "coffee table",
+    "means_like": [
+        {
+            "word": "cocktail table",
+            "score": 28932,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "coffeepot",
+            "score": 28931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "folio",
+            "score": 28451,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coaster",
+            "score": 28144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leg",
+            "score": 28144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oval",
+            "score": 28144,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pane",
+            "score": 28144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shin",
+            "score": 28144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noun",
+            "score": 28131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweet",
+            "score": 28131,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "coffee-table book",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slop basin",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slop bowl",
+            "score": 28038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barred",
+            "score": 11744,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupped",
+            "score": 11744,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "cups",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "over",
+            "score": 11744,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "por",
+            "score": 11744
+        },
+        {
+            "word": "pot",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potted",
+            "score": 11744,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 11744,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "saucer",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tables",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "urn",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "var",
+            "score": 11744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cup",
+            "score": 11691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carafe",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocoa",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cream",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamer",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drink",
+            "score": 11678,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "grocer",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "para",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pick",
+            "score": 11678,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "plunger",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stool",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teaspoon",
+            "score": 11678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ten",
+            "score": 11678,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "viennese",
+            "score": 11599,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "job",
+            "score": 11586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arabia",
+            "score": 10717,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arabian coffee",
+            "score": 10717,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arabica",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aut",
+            "score": 10717
+        },
+        {
+            "word": "bag",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bagel",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bean",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blackjack",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "break",
+            "score": 10717,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "brew",
+            "score": 10717,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cabaret",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cafe",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 10717,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "canister",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannister",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 10717,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 10717,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chasse",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffea",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffea arabica",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee bag",
+            "score": 10717
+        },
+        {
+            "word": "coffee bean",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee berry",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeehouse",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "continental breakfast",
+            "score": 10717,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cupful",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupping",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "danish",
+            "score": 10717,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "deli",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demi-tasse",
+            "score": 10717
+        },
+        {
+            "word": "demitasse",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "express",
+            "score": 10717,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 10717,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "grocery",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ground",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grounded",
+            "score": 10717,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "italian",
+            "score": 10717,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "kola",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lid",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milk",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mocha",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nestle",
+            "score": 10717,
+            "tags": [
+                "n",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "out",
+            "score": 10717,
+            "tags": [
+                "n",
+                "v",
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "percolator",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perk",
+            "score": 10717,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "petit dejeuner",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rest",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "settle",
+            "score": 10717,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "settled",
+            "score": 10717,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "snack",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "still",
+            "score": 10717,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "stilled",
+            "score": 10717,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stir",
+            "score": 10717,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tea",
+            "score": 10717,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "coffee table",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "contable",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cartable",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "giftable",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "countable",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "covetable",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "comfortable",
+            "score": 72,
+            "numSyllables": 4
+        },
+        {
+            "word": "quotable",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "creatable",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "cuttable",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "castable",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "card table",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "coffee table",
+            "score": 129409
+        },
+        {
+            "word": "coffee tables",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "coffee table",
+            "score": 129409
+        },
+        {
+            "word": "coffee table book",
+            "score": 129346
+        },
+        {
+            "word": "coffee table books",
+            "score": 129320
+        },
+        {
+            "word": "coffee tables",
+            "score": 129319
+        },
+        {
+            "word": "coffee-table book",
+            "score": 64682
+        },
+        {
+            "word": "coffee-table books",
+            "score": 64660
+        }
+    ]
+}

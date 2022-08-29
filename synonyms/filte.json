@@ -1,0 +1,600 @@
+{
+    "term": "filte",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "flt",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "filt",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "felt",
+            "score": 99,
+            "numSyllables": 1
+        },
+        {
+            "word": "feldt",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "fault",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "filled",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "falt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "folt",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "falte",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "fld",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "feld",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "felled",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "field",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fit",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fill",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fold",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "failed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filth",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "feild",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fooled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "phil",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "philly",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "filed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fills",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filet",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "filly",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fished",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "foiled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fil",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fouled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fille",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fitt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "phillie",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "filla",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "phily",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "phils",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fulled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fuld",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "phyllo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fili",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fils",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filles",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "phyll",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fitte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filched",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "phit",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fauld",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "philter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "filley",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "foaled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "foled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fyl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "folde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fillo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "philtre",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "phyllite",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fald",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fylde",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "philae",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fill out",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fichte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fitched",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filtre",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "filh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filate",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "filz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "flvs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fytte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "filete",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "phil-",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "vilt",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "fell",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fellow",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fella",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fetched",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fet",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fel",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fells",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "felts",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fellah",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "felch",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fellate",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fela",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "felly",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "felty",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "felloe",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fels",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "felter",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "feli",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fele",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "feltz",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "felle",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fa la",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "feltes",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fehl",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fell out",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fdt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "fal la",
+            "score": 87,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "file",
+            "score": 3199
+        },
+        {
+            "word": "filth",
+            "score": 556
+        },
+        {
+            "word": "filate",
+            "score": 457
+        },
+        {
+            "word": "fite",
+            "score": 257
+        },
+        {
+            "word": "fille",
+            "score": 251
+        },
+        {
+            "word": "filt",
+            "score": 63
+        },
+        {
+            "word": "eilte",
+            "score": 16
+        },
+        {
+            "word": "falte",
+            "score": 15
+        },
+        {
+            "word": "filtre",
+            "score": 13
+        },
+        {
+            "word": "fitte",
+            "score": 12
+        },
+        {
+            "word": "filete",
+            "score": 9
+        },
+        {
+            "word": "filme",
+            "score": 4
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "filter",
+            "score": 66348
+        },
+        {
+            "word": "filtering",
+            "score": 64841
+        },
+        {
+            "word": "filters",
+            "score": 64780
+        },
+        {
+            "word": "filtered",
+            "score": 64778
+        },
+        {
+            "word": "filterable",
+            "score": 64744
+        },
+        {
+            "word": "filter out",
+            "score": 64739
+        },
+        {
+            "word": "filter-tipped",
+            "score": 64705
+        },
+        {
+            "word": "filter tip",
+            "score": 64703
+        },
+        {
+            "word": "filter paper",
+            "score": 64695
+        },
+        {
+            "word": "filter bed",
+            "score": 64689
+        }
+    ]
+}

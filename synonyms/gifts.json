@@ -1,0 +1,1427 @@
+{
+    "term": "gifts",
+    "means_like": [
+        {
+            "word": "endow",
+            "score": 87803,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "endowment",
+            "score": 87088,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "giving",
+            "score": 84241,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "endue",
+            "score": 83139,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "present",
+            "score": 83119,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "give",
+            "score": 82492,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "invest",
+            "score": 81631,
+            "tags": [
+                "syn",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "talent",
+            "score": 80906,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "empower",
+            "score": 80640,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "indue",
+            "score": 76822,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "natural endowment",
+            "score": 76822,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "donations",
+            "score": 69164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goodies",
+            "score": 68877,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freebies",
+            "score": 67982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souvenirs",
+            "score": 66607,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donation",
+            "score": 65537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contributions",
+            "score": 65098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "payoffs",
+            "score": 64743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blessings",
+            "score": 64457,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bequests",
+            "score": 64133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treats",
+            "score": 63903,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "donors",
+            "score": 63700,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donated",
+            "score": 63553,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "rewards",
+            "score": 63211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prizes",
+            "score": 63038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "giveaways",
+            "score": 63011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treasures",
+            "score": 62795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "favors",
+            "score": 62526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donating",
+            "score": 62449,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "presents",
+            "score": 62311,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "donor",
+            "score": 62247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handouts",
+            "score": 62244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donate",
+            "score": 62193,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tokens",
+            "score": 61888,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pledges",
+            "score": 60983,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grants",
+            "score": 60396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "talents",
+            "score": 60354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "endowments",
+            "score": 60116,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "things",
+            "score": 59432,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "funds",
+            "score": 58658,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grant",
+            "score": 57793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shops",
+            "score": 57646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abilities",
+            "score": 57161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deliveries",
+            "score": 56539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skills",
+            "score": 56421,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "offers",
+            "score": 55837,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "offerings",
+            "score": 55800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tenders",
+            "score": 53585,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lol",
+            "score": 53469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "don",
+            "score": 53032,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dons",
+            "score": 51615,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "giftware",
+            "score": 50973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valentines",
+            "score": 50970,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baubles",
+            "score": 50968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decorations",
+            "score": 50967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toys",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinkets",
+            "score": 50965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornaments",
+            "score": 50964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "givers",
+            "score": 50962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gratuities",
+            "score": 50961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "items",
+            "score": 50960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "greetings",
+            "score": 50959,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweets",
+            "score": 50958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gift wrapping",
+            "score": 50957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressie",
+            "score": 50956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keepsakes",
+            "score": 50955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolates",
+            "score": 50954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickknacks",
+            "score": 50953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donees",
+            "score": 50952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocking stuffer",
+            "score": 50951,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holiday",
+            "score": 50950,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perks",
+            "score": 50949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy",
+            "score": 50948,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gratifications",
+            "score": 50947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "layettes",
+            "score": 50945,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invitations",
+            "score": 50944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "largesse",
+            "score": 50943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vouchers",
+            "score": 50942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luxuries",
+            "score": 50941,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupons",
+            "score": 50939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valentine day",
+            "score": 50938,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "greeting card",
+            "score": 50937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vacations",
+            "score": 50936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swag",
+            "score": 50935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gelt",
+            "score": 50934,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flowers",
+            "score": 50933,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garlands",
+            "score": 50932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toiletries",
+            "score": 50931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "generosity",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "benefactions",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boxful",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruitcakes",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "benefactors",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "largess",
+            "score": 50923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necessities",
+            "score": 50922,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meals",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hugs",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinners",
+            "score": 50919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bouquets",
+            "score": 50918,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gifts",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "gift",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gets",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gits",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gifs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "guts",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gft",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "getz",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "goetz",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "getts",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "geft",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "guffs",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gates",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goats",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gats",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gots",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goofs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gatz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goofed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "guilts",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaits",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghats",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goofus",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "grafts",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gotts",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gilts",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gouts",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gatts",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gotz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gofs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geitz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gafs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaetz",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gafas",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "shifts",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "kits",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "lifts",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "rifts",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "kitts",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "sifts",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "kitz",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "kift",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "guests",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "gusts",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "guffaws",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "get",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gifted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghosts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuffs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "git",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "glitz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "grits",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuffed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gif",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "greets",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "tufts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gifting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kets",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "lefts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "grift",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "giff",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "glyphs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gritz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "giffy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gett",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "ifts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cutts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "girts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clefts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "giss",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "kutz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gitt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "griffis",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gertz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "guids",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghit",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "goates",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "giftless",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gibt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gitte",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gurts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "graetz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "goetze",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "grots",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "gty",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gleiwitz",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "goltz",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "griffes",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuft",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "hefts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "grts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "kuts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "wefts",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "jits",
+            "score": 79,
+            "numSyllables": 1
+        },
+        {
+            "word": "jiffs",
+            "score": 79,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gifts",
+            "score": 64916
+        },
+        {
+            "word": "gift",
+            "score": 1739
+        },
+        {
+            "word": "lifts",
+            "score": 132
+        },
+        {
+            "word": "gifs",
+            "score": 82
+        },
+        {
+            "word": "gits",
+            "score": 66
+        },
+        {
+            "word": "gilts",
+            "score": 64
+        },
+        {
+            "word": "rifts",
+            "score": 61
+        },
+        {
+            "word": "gists",
+            "score": 44
+        },
+        {
+            "word": "grifts",
+            "score": 34
+        },
+        {
+            "word": "girts",
+            "score": 31
+        },
+        {
+            "word": "sifts",
+            "score": 30
+        },
+        {
+            "word": "ifts",
+            "score": 22
+        },
+        {
+            "word": "gitts",
+            "score": 6
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "gift",
+            "score": 1413
+        },
+        {
+            "word": "prophecy",
+            "score": 1380
+        },
+        {
+            "word": "bride",
+            "score": 1352
+        },
+        {
+            "word": "jewelry",
+            "score": 1344
+        },
+        {
+            "word": "bestowed",
+            "score": 1326
+        },
+        {
+            "word": "healing",
+            "score": 1317
+        },
+        {
+            "word": "toys",
+            "score": 1308
+        },
+        {
+            "word": "endowment",
+            "score": 1298
+        },
+        {
+            "word": "spirit",
+            "score": 1286
+        },
+        {
+            "word": "christmas",
+            "score": 1270
+        },
+        {
+            "word": "talents",
+            "score": 1265
+        },
+        {
+            "word": "grants",
+            "score": 1249
+        },
+        {
+            "word": "holy",
+            "score": 1241
+        },
+        {
+            "word": "charitable",
+            "score": 1240
+        },
+        {
+            "word": "clothes",
+            "score": 1232
+        },
+        {
+            "word": "presents",
+            "score": 1224
+        },
+        {
+            "word": "clothing",
+            "score": 1219
+        },
+        {
+            "word": "items",
+            "score": 1218
+        },
+        {
+            "word": "wedding",
+            "score": 1216
+        },
+        {
+            "word": "donated",
+            "score": 1202
+        },
+        {
+            "word": "gods",
+            "score": 1199
+        },
+        {
+            "word": "cash",
+            "score": 1192
+        },
+        {
+            "word": "abbey",
+            "score": 1188
+        },
+        {
+            "word": "holiday",
+            "score": 1182
+        },
+        {
+            "word": "spiritual",
+            "score": 1180
+        },
+        {
+            "word": "money",
+            "score": 1178
+        },
+        {
+            "word": "custom",
+            "score": 1177
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "gifts",
+            "score": 64916
+        },
+        {
+            "word": "gift",
+            "score": 1739
+        },
+        {
+            "word": "gifted",
+            "score": 543
+        },
+        {
+            "word": "lifts",
+            "score": 132
+        },
+        {
+            "word": "gifting",
+            "score": 119
+        },
+        {
+            "word": "giftedly",
+            "score": 118
+        },
+        {
+            "word": "gifs",
+            "score": 82
+        },
+        {
+            "word": "gift-giving",
+            "score": 80
+        },
+        {
+            "word": "gift of gab",
+            "score": 74
+        },
+        {
+            "word": "giftware",
+            "score": 69
+        }
+    ]
+}

@@ -1,0 +1,865 @@
+{
+    "term": "gift box",
+    "means_like": [
+        {
+            "word": "bow",
+            "score": 28059,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 28059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nox",
+            "score": 28059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alms",
+            "score": 28044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardboard",
+            "score": 27981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camera",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "control",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heart",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iron",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manual",
+            "score": 11659,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "option",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "receive",
+            "score": 11659,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ring",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "string",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape",
+            "score": 11659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "christmas",
+            "score": 11644,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "car",
+            "score": 11597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 11597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ear",
+            "score": 11597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toy",
+            "score": 11597,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elder",
+            "score": 11582,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "mrs",
+            "score": 11582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rice",
+            "score": 11582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squeeze",
+            "score": 11582,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "tee",
+            "score": 11582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toaster",
+            "score": 11582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tote",
+            "score": 11582,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pouch",
+            "score": 11581,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tin",
+            "score": 11581,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "razor",
+            "score": 11504,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ability",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "above",
+            "score": 10628,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "apple",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belt",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boe",
+            "score": 10628,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bonus",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boutique",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "browse",
+            "score": 10628,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "confirmation",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupon",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crepe",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dash",
+            "score": 10628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "dative",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dispose",
+            "score": 10628,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "don",
+            "score": 10628,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "endowment",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entail",
+            "score": 10628,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "favor",
+            "score": 10628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fire",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "free",
+            "score": 10628,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "freeing",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gift-wrap",
+            "score": 10628,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "give",
+            "score": 10628,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "grace",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gracefulness",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graces",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heir",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instant",
+            "score": 10628,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "intelligence",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mint",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modus",
+            "score": 10628,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "offering",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patron",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfume",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plant",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "power",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "powered",
+            "score": 10628,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "present",
+            "score": 10628,
+            "tags": [
+                "adj",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "presentation",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "presented",
+            "score": 10628,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "presenter",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "presents",
+            "score": 10628,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "santa",
+            "score": 10628,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "send",
+            "score": 10628,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shop",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shower",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "store",
+            "score": 10628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stringing",
+            "score": 10628,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "strings",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subsidy",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supply",
+            "score": 10628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "talent",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tie",
+            "score": 10628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "tip",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tipped",
+            "score": 10628,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tithe",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "token",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touch",
+            "score": 10628,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "touched",
+            "score": 10628,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "transfer",
+            "score": 10628,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "valentine",
+            "score": 10628,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wish",
+            "score": 10628,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cigar",
+            "score": 10566,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrap",
+            "score": 10566,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "book token",
+            "score": 10550,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cat box",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gearbox",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cutbacks",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gear box",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guidebooks",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "good books",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "givebacks",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gift tax",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "shitbox",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "get back",
+            "score": 74,
+            "numSyllables": 2
+        },
+        {
+            "word": "guy fawkes",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gift horse",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "gifts",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "giftless",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "got back",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gift tax",
+            "score": 26
+        },
+        {
+            "word": "gift book",
+            "score": 2
+        },
+        {
+            "word": "list box",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "gift book",
+            "score": 64661
+        },
+        {
+            "word": "gift of gab",
+            "score": 74
+        },
+        {
+            "word": "gift horse",
+            "score": 43
+        },
+        {
+            "word": "gift of the gab",
+            "score": 27
+        },
+        {
+            "word": "gift tax",
+            "score": 26
+        },
+        {
+            "word": "gift coin",
+            "score": 17
+        },
+        {
+            "word": "gift of tongues",
+            "score": 14
+        },
+        {
+            "word": "gift token",
+            "score": 14
+        },
+        {
+            "word": "gift of discernment",
+            "score": 13
+        },
+        {
+            "word": "gift voucher",
+            "score": 7
+        }
+    ]
+}

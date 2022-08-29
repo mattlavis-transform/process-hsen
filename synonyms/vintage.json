@@ -1,0 +1,1683 @@
+{
+    "term": "vintage",
+    "means_like": [
+        {
+            "word": "time of origin",
+            "score": 69445,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "classic",
+            "score": 69444,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "historic",
+            "score": 63107,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "collector",
+            "score": 62839,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vin",
+            "score": 61295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "historical",
+            "score": 60310,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "old",
+            "score": 60129,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "classical",
+            "score": 59214,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cru",
+            "score": 58914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiquity",
+            "score": 58294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ancient",
+            "score": 57437,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "raw",
+            "score": 56978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "excellent",
+            "score": 56703,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "traditional",
+            "score": 56309,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "crop",
+            "score": 55570,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paperback",
+            "score": 55387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ancestral",
+            "score": 55142,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "generation",
+            "score": 54612,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harvest",
+            "score": 54485,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "add",
+            "score": 54423,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "version",
+            "score": 54347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "former",
+            "score": 54275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thought",
+            "score": 53758,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "year",
+            "score": 53275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aboriginal",
+            "score": 53153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boaters",
+            "score": 52759,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harvesting",
+            "score": 52355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seniority",
+            "score": 51861,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antique",
+            "score": 51245,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "retro",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "memorabilia",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art deco",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "victoriana",
+            "score": 51240,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "victorian",
+            "score": 51239,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "heirloom",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deco",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collection",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vindemial",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collectibles",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "majolica",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locomobile",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bibelots",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gtos",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ephemera",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phonographs",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vespas",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hot rod",
+            "score": 51226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duesenberg",
+            "score": 51225,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "groovy",
+            "score": 51224,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "antiquist",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phaeton",
+            "score": 51222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yesteryear",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "circa",
+            "score": 51220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartes de visite",
+            "score": 51219,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "victrola",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hollowware",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "highboy",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delftware",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "throwback",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nostalgia",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delft",
+            "score": 51212,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "harpsichords",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enamelware",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leatherwear",
+            "score": 51209,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "craftsmanship",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reproductions",
+            "score": 51207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biedermeier",
+            "score": 51206,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kitschy",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "velocipede",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connoisseur",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cypres",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "willys",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgundies",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brazilian rosewood",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biplanes",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aficionado",
+            "score": 51197,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stanley steamer",
+            "score": 51196,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drophead",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muscadet",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "samovars",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stonewash",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art nouveau",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "erte",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandolins",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coachbuilder",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steampunk",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bakelite",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ukes",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barolo",
+            "score": 51184,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "duncan phyfe",
+            "score": 51183,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ormolu",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barware",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinoiserie",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copperware",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gimcracks",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "classis",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coral necklace",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "replicas",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nostalgists",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "styles",
+            "score": 51173,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "vintage",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventage",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "vantage",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "venting",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinta",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "vonage",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaunting",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinti",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "venta",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "wantage",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "windage",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "chantage",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "vestige",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vented",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vending",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "venti",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vento",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinton",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "avantage",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "vanta",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinda",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vantaa",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventil",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "vintager",
+            "score": 81,
+            "numSyllables": 3
+        },
+        {
+            "word": "vanish",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "voltage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaunted",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vint",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "mintage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vintages",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "veinte",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "centage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vintry",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinge",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "rentage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinje",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "tentage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "vertige",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventus",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "venda",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "vendange",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "windish",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "vent",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "visage",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vents",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "venge",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "venter",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vetting",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vanda",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vendee",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vente",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "eventing",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "ventre",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vonda",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vendo",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vendue",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vended",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinden",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vitta",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "venning",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "one touch",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vnt",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "ventail",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventouse",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventro",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventry",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "intj",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventile",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventose",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventri",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "ventr",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinho",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "village",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "advantage",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "vinci",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinnie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vant",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "vaunt",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "vandy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vining",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vind",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "vinay",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "frontage",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vantages",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "vignesh",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kentish",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vange",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "vingt",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "vandyck",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "veining",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinit",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vanning",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vaunts",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "vaunter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vinic",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "finta",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "vernish",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "vintage",
+            "score": 131377
+        },
+        {
+            "word": "vantage",
+            "score": 65539
+        },
+        {
+            "word": "ventage",
+            "score": 64836
+        },
+        {
+            "word": "mintage",
+            "score": 64819
+        },
+        {
+            "word": "montage",
+            "score": 1107
+        },
+        {
+            "word": "vitae",
+            "score": 1054
+        },
+        {
+            "word": "lineage",
+            "score": 1049
+        },
+        {
+            "word": "visage",
+            "score": 982
+        },
+        {
+            "word": "intake",
+            "score": 951
+        },
+        {
+            "word": "village",
+            "score": 922
+        },
+        {
+            "word": "linkage",
+            "score": 561
+        },
+        {
+            "word": "voltage",
+            "score": 521
+        },
+        {
+            "word": "linage",
+            "score": 345
+        },
+        {
+            "word": "windage",
+            "score": 177
+        },
+        {
+            "word": "pinnage",
+            "score": 148
+        },
+        {
+            "word": "tentage",
+            "score": 139
+        },
+        {
+            "word": "wantage",
+            "score": 137
+        },
+        {
+            "word": "rentage",
+            "score": 130
+        },
+        {
+            "word": "vitale",
+            "score": 129
+        },
+        {
+            "word": "vonage",
+            "score": 129
+        },
+        {
+            "word": "viage",
+            "score": 117
+        },
+        {
+            "word": "centage",
+            "score": 104
+        },
+        {
+            "word": "vintager",
+            "score": 97
+        },
+        {
+            "word": "vitrage",
+            "score": 91
+        },
+        {
+            "word": "vittae",
+            "score": 91
+        },
+        {
+            "word": "pontage",
+            "score": 88
+        },
+        {
+            "word": "vittate",
+            "score": 75
+        },
+        {
+            "word": "viinage",
+            "score": 67
+        },
+        {
+            "word": "incage",
+            "score": 63
+        },
+        {
+            "word": "pinotage",
+            "score": 59
+        },
+        {
+            "word": "fontage",
+            "score": 58
+        },
+        {
+            "word": "sinkage",
+            "score": 50
+        },
+        {
+            "word": "innage",
+            "score": 41
+        },
+        {
+            "word": "vintages",
+            "score": 38
+        },
+        {
+            "word": "vinagre",
+            "score": 36
+        },
+        {
+            "word": "vinta",
+            "score": 29
+        },
+        {
+            "word": "avantage",
+            "score": 24
+        },
+        {
+            "word": "viduage",
+            "score": 23
+        },
+        {
+            "word": "virage",
+            "score": 19
+        },
+        {
+            "word": "vineale",
+            "score": 16
+        },
+        {
+            "word": "vintaged",
+            "score": 12
+        },
+        {
+            "word": "vendage",
+            "score": 11
+        },
+        {
+            "word": "vinge",
+            "score": 10
+        },
+        {
+            "word": "pintade",
+            "score": 9
+        },
+        {
+            "word": "einlage",
+            "score": 7
+        },
+        {
+            "word": "binage",
+            "score": 4
+        },
+        {
+            "word": "vitare",
+            "score": 2
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "yachting",
+            "score": 1658
+        },
+        {
+            "word": "chardonnay",
+            "score": 1526
+        },
+        {
+            "word": "amps",
+            "score": 1510
+        },
+        {
+            "word": "cabernet",
+            "score": 1495
+        },
+        {
+            "word": "fender",
+            "score": 1481
+        },
+        {
+            "word": "wines",
+            "score": 1467
+        },
+        {
+            "word": "pinot",
+            "score": 1460
+        },
+        {
+            "word": "trolley",
+            "score": 1445
+        },
+        {
+            "word": "champagne",
+            "score": 1422
+        },
+        {
+            "word": "retro",
+            "score": 1418
+        },
+        {
+            "word": "winery",
+            "score": 1404
+        },
+        {
+            "word": "grapes",
+            "score": 1397
+        },
+        {
+            "word": "memorabilia",
+            "score": 1387
+        },
+        {
+            "word": "antique",
+            "score": 1385
+        },
+        {
+            "word": "wine",
+            "score": 1381
+        },
+        {
+            "word": "enthusiasts",
+            "score": 1362
+        },
+        {
+            "word": "vineyard",
+            "score": 1357
+        },
+        {
+            "word": "clothing",
+            "score": 1341
+        },
+        {
+            "word": "noir",
+            "score": 1338
+        },
+        {
+            "word": "motorcycle",
+            "score": 1328
+        },
+        {
+            "word": "grape",
+            "score": 1323
+        },
+        {
+            "word": "cars",
+            "score": 1312
+        },
+        {
+            "word": "analog",
+            "score": 1297
+        },
+        {
+            "word": "jewelry",
+            "score": 1289
+        },
+        {
+            "word": "rides",
+            "score": 1279
+        },
+        {
+            "word": "prints",
+            "score": 1269
+        },
+        {
+            "word": "rally",
+            "score": 1263
+        },
+        {
+            "word": "gibson",
+            "score": 1254
+        },
+        {
+            "word": "footage",
+            "score": 1251
+        },
+        {
+            "word": "classics",
+            "score": 1248
+        },
+        {
+            "word": "classic",
+            "score": 1247
+        },
+        {
+            "word": "vinyl",
+            "score": 1241
+        },
+        {
+            "word": "clothes",
+            "score": 1233
+        },
+        {
+            "word": "guitar",
+            "score": 1232
+        },
+        {
+            "word": "instruments",
+            "score": 1229
+        },
+        {
+            "word": "custom",
+            "score": 1218
+        },
+        {
+            "word": "gear",
+            "score": 1215
+        },
+        {
+            "word": "photos",
+            "score": 1214
+        },
+        {
+            "word": "stakes",
+            "score": 1212
+        },
+        {
+            "word": "crop",
+            "score": 1211
+        },
+        {
+            "word": "car",
+            "score": 1205
+        },
+        {
+            "word": "equipment",
+            "score": 1203
+        },
+        {
+            "word": "furniture",
+            "score": 1198
+        },
+        {
+            "word": "vehicles",
+            "score": 1192
+        },
+        {
+            "word": "sounds",
+            "score": 1191
+        },
+        {
+            "word": "racing",
+            "score": 1189
+        },
+        {
+            "word": "drum",
+            "score": 1187
+        },
+        {
+            "word": "fashion",
+            "score": 1182
+        },
+        {
+            "word": "items",
+            "score": 1177
+        },
+        {
+            "word": "steam",
+            "score": 1175
+        },
+        {
+            "word": "machines",
+            "score": 1173
+        },
+        {
+            "word": "locomotive",
+            "score": 1167
+        },
+        {
+            "word": "random",
+            "score": 1162
+        },
+        {
+            "word": "shop",
+            "score": 1160
+        },
+        {
+            "word": "aircraft",
+            "score": 1156
+        },
+        {
+            "word": "soul",
+            "score": 1153
+        },
+        {
+            "word": "collection",
+            "score": 1151
+        },
+        {
+            "word": "models",
+            "score": 1144
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "vintage",
+            "score": 131377
+        },
+        {
+            "word": "vintager",
+            "score": 129415
+        },
+        {
+            "word": "vintage car",
+            "score": 129366
+        },
+        {
+            "word": "vintages",
+            "score": 129356
+        },
+        {
+            "word": "vintage wine",
+            "score": 129340
+        },
+        {
+            "word": "vintaged",
+            "score": 129330
+        },
+        {
+            "word": "vintage cars",
+            "score": 129323
+        },
+        {
+            "word": "vintagers",
+            "score": 129323
+        },
+        {
+            "word": "vintage year",
+            "score": 129322
+        },
+        {
+            "word": "vintage spring",
+            "score": 129321
+        }
+    ]
+}

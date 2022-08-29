@@ -1,0 +1,1521 @@
+{
+    "term": "win",
+    "means_like": [
+        {
+            "word": "gain",
+            "score": 100431,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "winnings",
+            "score": 99847,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "advance",
+            "score": 99612,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "gain ground",
+            "score": 96444,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "profits",
+            "score": 95515,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "make headway",
+            "score": 94848,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "get ahead",
+            "score": 90463,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "victory",
+            "score": 90462,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "victories",
+            "score": 87217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "triumph",
+            "score": 86390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "defeat",
+            "score": 84440,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "beat",
+            "score": 83841,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "victorious",
+            "score": 82779,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "defeats",
+            "score": 82305,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "winner",
+            "score": 82098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "championship",
+            "score": 81247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earn",
+            "score": 78135,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "champion",
+            "score": 78027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "berth",
+            "score": 77387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prevail",
+            "score": 77090,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lose",
+            "score": 76864,
+            "tags": [
+                "v",
+                "ant"
+            ]
+        },
+        {
+            "word": "success",
+            "score": 75871,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "succeed",
+            "score": 75287,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 74789,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "regain",
+            "score": 74703,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "overcome",
+            "score": 74577,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "earning",
+            "score": 74480,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vanquish",
+            "score": 74392,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "secure",
+            "score": 74346,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "garner",
+            "score": 73782,
+            "tags": [
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "overturn",
+            "score": 73774,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "capture",
+            "score": 73693,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "conquer",
+            "score": 73466,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "victoire",
+            "score": 73010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "achieve",
+            "score": 72886,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "take",
+            "score": 72856,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "deserve",
+            "score": 72476,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gaining",
+            "score": 72077,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "earns",
+            "score": 72029,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "reach",
+            "score": 71850,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "enjoy",
+            "score": 71563,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "attract",
+            "score": 71475,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "seize",
+            "score": 71443,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "attain",
+            "score": 71192,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "collect",
+            "score": 71059,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "reap",
+            "score": 71011,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rally",
+            "score": 70990,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "save",
+            "score": 70625,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "convince",
+            "score": 70583,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 70324,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "receive",
+            "score": 70290,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stake",
+            "score": 70199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bring",
+            "score": 70188,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "persuade",
+            "score": 69984,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "instill",
+            "score": 69711,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "build",
+            "score": 69467,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "obtain",
+            "score": 69433,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gagne",
+            "score": 69415,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "benefit",
+            "score": 69380,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "buy",
+            "score": 69060,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "captivate",
+            "score": 68931,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "profit",
+            "score": 68884,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grow",
+            "score": 68659,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "revenue",
+            "score": 68554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acquire",
+            "score": 68426,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "enlist",
+            "score": 68187,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "seek",
+            "score": 68088,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "curry",
+            "score": 68075,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "derive",
+            "score": 67910,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "become",
+            "score": 67883,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "canvass",
+            "score": 67486,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "wen",
+            "score": 67469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "income",
+            "score": 67149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seduce",
+            "score": 66920,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "extract",
+            "score": 66807,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gather",
+            "score": 66704,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "saving",
+            "score": 66626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine",
+            "score": 66506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obtaining",
+            "score": 66455,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shortfall",
+            "score": 66343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "victoria",
+            "score": 66091,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "access",
+            "score": 65899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oscar",
+            "score": 65786,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "trixie",
+            "score": 65782,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gana",
+            "score": 65780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obtained",
+            "score": 65682,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "squeaky",
+            "score": 65216,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "balloon",
+            "score": 65129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foregone",
+            "score": 64919,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ballon",
+            "score": 64683,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vince",
+            "score": 64214,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dows",
+            "score": 63864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gagnant",
+            "score": 63864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gagner",
+            "score": 63864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masaru",
+            "score": 63864,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "seung",
+            "score": 63864,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sheng",
+            "score": 63864,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "thang",
+            "score": 63864,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wim",
+            "score": 63864,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "win-win",
+            "score": 63864,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "win",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "when",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "winn",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "winne",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "whin",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wynn",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wynne",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wyn",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "one",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "won",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wen",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wun",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wehn",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wne",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wenn",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wehen",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwn",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "wine",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wing",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wayne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whine",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whim",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "juan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wane",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ween",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wean",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wain",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wim",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "dwn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whinge",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wone",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wein",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woon",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wien",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wann",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wyne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "uan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wayn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wown",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "-one",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wene",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "waan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "waun",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wahn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wagn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wym",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wimm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wohn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "yin",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "wenge",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "whem",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "weng",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "wem",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "wung",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "wum",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "lmw",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "hin",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "hinn",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "hyn",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "twin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "which",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "quinn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wham",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "quin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "irwin",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "whiney",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "swin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "erwin",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gwyn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schwinn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "whang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gwynn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "weem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gwynne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wern",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wame",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gwinn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "rwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "weam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "weigh-in",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "dwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "iwin",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "whame",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "weigh in",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kwin",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wahm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wamm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "waam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wamb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "waim",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "way in",
+            "score": 90,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "win",
+            "score": 2186
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "streak",
+            "score": 1335
+        },
+        {
+            "word": "lengths",
+            "score": 1308
+        },
+        {
+            "word": "playoff",
+            "score": 1299
+        },
+        {
+            "word": "aggregate",
+            "score": 1294
+        },
+        {
+            "word": "heavyweight",
+            "score": 1289
+        },
+        {
+            "word": "slam",
+            "score": 1286
+        },
+        {
+            "word": "stakes",
+            "score": 1284
+        },
+        {
+            "word": "overtime",
+            "score": 1281
+        },
+        {
+            "word": "mvp",
+            "score": 1276
+        },
+        {
+            "word": "championship",
+            "score": 1273
+        },
+        {
+            "word": "scored",
+            "score": 1268
+        },
+        {
+            "word": "afc",
+            "score": 1266
+        },
+        {
+            "word": "consecutive",
+            "score": 1265
+        },
+        {
+            "word": "tag",
+            "score": 1262
+        },
+        {
+            "word": "trophy",
+            "score": 1257
+        },
+        {
+            "word": "beating",
+            "score": 1253
+        },
+        {
+            "word": "cup",
+            "score": 1246
+        },
+        {
+            "word": "derby",
+            "score": 1236
+        },
+        {
+            "word": "wins",
+            "score": 1235
+        },
+        {
+            "word": "draw",
+            "score": 1233
+        },
+        {
+            "word": "match",
+            "score": 1231
+        },
+        {
+            "word": "rivals",
+            "score": 1229
+        },
+        {
+            "word": "victory",
+            "score": 1228
+        },
+        {
+            "word": "goal",
+            "score": 1226
+        },
+        {
+            "word": "scoring",
+            "score": 1224
+        },
+        {
+            "word": "title",
+            "score": 1222
+        },
+        {
+            "word": "bowl",
+            "score": 1220
+        },
+        {
+            "word": "loss",
+            "score": 1209
+        },
+        {
+            "word": "tournament",
+            "score": 1208
+        },
+        {
+            "word": "lose",
+            "score": 1207
+        },
+        {
+            "word": "champions",
+            "score": 1206
+        },
+        {
+            "word": "arsenal",
+            "score": 1205
+        },
+        {
+            "word": "tie",
+            "score": 1201
+        },
+        {
+            "word": "innings",
+            "score": 1197
+        },
+        {
+            "word": "goals",
+            "score": 1194
+        },
+        {
+            "word": "medal",
+            "score": 1193
+        },
+        {
+            "word": "substitute",
+            "score": 1191
+        },
+        {
+            "word": "beat",
+            "score": 1188
+        },
+        {
+            "word": "winning",
+            "score": 1186
+        },
+        {
+            "word": "victories",
+            "score": 1185
+        },
+        {
+            "word": "prix",
+            "score": 1182
+        },
+        {
+            "word": "rookie",
+            "score": 1179
+        },
+        {
+            "word": "titles",
+            "score": 1177
+        },
+        {
+            "word": "losing",
+            "score": 1171
+        },
+        {
+            "word": "points",
+            "score": 1170
+        },
+        {
+            "word": "promotion",
+            "score": 1169
+        },
+        {
+            "word": "ncaa",
+            "score": 1165
+        },
+        {
+            "word": "finish",
+            "score": 1163
+        },
+        {
+            "word": "stanley",
+            "score": 1162
+        },
+        {
+            "word": "straight",
+            "score": 1160
+        },
+        {
+            "word": "finished",
+            "score": 1159
+        },
+        {
+            "word": "rangers",
+            "score": 1156
+        },
+        {
+            "word": "final",
+            "score": 1155
+        },
+        {
+            "word": "nba",
+            "score": 1153
+        },
+        {
+            "word": "race",
+            "score": 1151
+        },
+        {
+            "word": "game",
+            "score": 1149
+        },
+        {
+            "word": "round",
+            "score": 1147
+        },
+        {
+            "word": "qualify",
+            "score": 1145
+        },
+        {
+            "word": "triple",
+            "score": 1144
+        },
+        {
+            "word": "super",
+            "score": 1142
+        },
+        {
+            "word": "finishing",
+            "score": 1141
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "win",
+            "score": 2186
+        },
+        {
+            "word": "wind",
+            "score": 5071
+        },
+        {
+            "word": "wine",
+            "score": 2097
+        },
+        {
+            "word": "wing",
+            "score": 2011
+        },
+        {
+            "word": "window",
+            "score": 2004
+        },
+        {
+            "word": "winter",
+            "score": 1701
+        },
+        {
+            "word": "winsome",
+            "score": 1195
+        },
+        {
+            "word": "wince",
+            "score": 1086
+        },
+        {
+            "word": "winnow",
+            "score": 980
+        },
+        {
+            "word": "winch",
+            "score": 975
+        }
+    ]
+}

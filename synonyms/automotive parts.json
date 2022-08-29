@@ -1,0 +1,757 @@
+{
+    "term": "automotive parts",
+    "means_like": [
+        {
+            "word": "gears",
+            "score": 34226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transmission",
+            "score": 34216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interchangeable",
+            "score": 33261,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 17826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grille",
+            "score": 17826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snowmobile",
+            "score": 17826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tongue",
+            "score": 17826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "train",
+            "score": 17826,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 17785,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "interlock",
+            "score": 17785,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "automobile",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automobiles",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axle",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brake",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chrome",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ford",
+            "score": 16806,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fuse",
+            "score": 16806,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "garage",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hauler",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headrest",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "industry",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mirror",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muffler",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olds",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "omnibus",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiator",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retread",
+            "score": 16806,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "speed",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transaxle",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trucked",
+            "score": 16806,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "trucks",
+            "score": 16806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aaa",
+            "score": 16765,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cars",
+            "score": 16765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "classic",
+            "score": 16765,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "gas",
+            "score": 16765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "high",
+            "score": 16765,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "honda",
+            "score": 16765,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "low",
+            "score": 16765,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "smog",
+            "score": 16765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "truck",
+            "score": 16765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filling station",
+            "score": 15841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nipple",
+            "score": 15841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puncture",
+            "score": 15801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puncturing",
+            "score": 15801,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "accessory",
+            "score": 14897,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "acupressure",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjust",
+            "score": 14897,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "adjusting",
+            "score": 14897,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "align",
+            "score": 14897,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "asbestos",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bar",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bone",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brakes",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breeching",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brush",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumper",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caltrop",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannibalize",
+            "score": 14897,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "carriage",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 14897,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "catwalk",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chop shop",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clearance",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clutch",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "column",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commutator",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupe",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupling",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowl",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowling",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curb",
+            "score": 14897,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "curbing",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuts",
+            "score": 14897,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cwmbran",
+            "score": 14897,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cycle",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "design",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "designed",
+            "score": 14897,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 14897,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dual",
+            "score": 14897,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "elevator",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entrails",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eod",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "excavator",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fiberglass",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fins",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fit",
+            "score": 14897,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fitted",
+            "score": 14897,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "flange",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 14897,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fork",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frost",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gangway",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gig",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guard",
+            "score": 14897,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gut",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guts",
+            "score": 14897,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "automotives",
+            "score": 55,
+            "numSyllables": 4
+        },
+        {
+            "word": "automotive",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "stand apart",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "scientists",
+            "score": 25,
+            "numSyllables": 3
+        },
+        {
+            "word": "street smarts",
+            "score": 23,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "automotive paint",
+            "score": 11
+        }
+    ]
+}

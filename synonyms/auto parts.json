@@ -1,0 +1,805 @@
+{
+    "term": "auto parts",
+    "means_like": [
+        {
+            "word": "gears",
+            "score": 49067,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "napa",
+            "score": 30440,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "brakes",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumper",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coupe",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 12667,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "engine",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fins",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grille",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heater",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hood",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "horn",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interior",
+            "score": 12667,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 12667,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "landau",
+            "score": 12667,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mechanics",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "midget",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "part",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rack",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 12667,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "robot",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saab",
+            "score": 12667,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scraper",
+            "score": 12667,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tread",
+            "score": 12667,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "trim",
+            "score": 12667,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "harness",
+            "score": 12656,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aut",
+            "score": 12625
+        },
+        {
+            "word": "caravan",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crash",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fin",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "first",
+            "score": 12625,
+            "tags": [
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "grand",
+            "score": 12625,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "labor",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 12625,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "out",
+            "score": 12625,
+            "tags": [
+                "n",
+                "v",
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "rust",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "year",
+            "score": 12625,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exhaust",
+            "score": 12614,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "grease",
+            "score": 12614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ins",
+            "score": 12614,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acupressure",
+            "score": 12440,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transverse",
+            "score": 12398,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "artery",
+            "score": 12387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotus",
+            "score": 12387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steel",
+            "score": 12387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerial",
+            "score": 11646,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "armrest",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automatic",
+            "score": 11646,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "automobiles",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "axle",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brake",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cab",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "car",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "choke",
+            "score": 11646,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chrome",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "club",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creeper",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dashboard",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dealer",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dealership",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deicer",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fan",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fender",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garage",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gearbox",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardtop",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headrest",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hose",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hubcap",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limousine",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mechanic",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motel",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motor",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olds",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pit",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitting",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "radiator",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roadster",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sedan",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "servo",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skid",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "starter",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunroof",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailpipe",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tank",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tire",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tonneau",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trunk",
+            "score": 11646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aaa",
+            "score": 11603,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "air",
+            "score": 11603,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alarm",
+            "score": 11603,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "automotive",
+            "score": 11603,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cord",
+            "score": 11603,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dale",
+            "score": 11603,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "epa",
+            "score": 11603,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "auto part",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "body parts",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "departs",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "imparts",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "reports",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "supports",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "imports",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "autobot",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "outputs",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "autobus",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "azzopardi",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "seaports",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "deports",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "auto part",
+            "score": 64690
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "auto part",
+            "score": 64690
+        }
+    ]
+}

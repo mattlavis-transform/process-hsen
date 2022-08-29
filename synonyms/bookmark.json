@@ -1,0 +1,1468 @@
+{
+    "term": "bookmark",
+    "means_like": [
+        {
+            "word": "bookmarker",
+            "score": 66162,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "thumbnail",
+            "score": 66161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "favorite",
+            "score": 60661,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialer",
+            "score": 60582,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "placeholder",
+            "score": 58774,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dial",
+            "score": 58570,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "add",
+            "score": 58331,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tick",
+            "score": 57472,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signet",
+            "score": 57141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pen",
+            "score": 56491,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 56382,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dialing",
+            "score": 56300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marker",
+            "score": 55588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holder",
+            "score": 55507,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scoreboard",
+            "score": 54825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchor",
+            "score": 54806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "score",
+            "score": 54676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 54644,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mark",
+            "score": 54347,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "favourite",
+            "score": 54309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagging",
+            "score": 54183,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "markers",
+            "score": 54171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flags",
+            "score": 54080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marking",
+            "score": 53724,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caller",
+            "score": 53362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookmarked",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maker",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "widget",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "folder",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "upload",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "browse",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toolbar",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "webpage",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scroll",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "homepage",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lewis carroll",
+            "score": 51297,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "webpages",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "annotate",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "click",
+            "score": 51294,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "scrapbook",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookmarklet",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "submenu",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sidebar",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wordle",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ical",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "annotations",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "web browser",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dogear",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "web",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clickable",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "app",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "churchill downs",
+            "score": 51281,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scratchpad",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keychain",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tickler file",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drupal",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "highlighter",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiki",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intitle",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ibiza",
+            "score": 51273,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "download",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mistype",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sortable",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autocorrect",
+            "score": 51269,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "checkbox",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kentucky derby",
+            "score": 51266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "command prompt",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "friendster",
+            "score": 51264,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bookclub",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tabs",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mapquest",
+            "score": 51261,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coupon",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharable",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screensaver",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calculator",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "login",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tablature",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "customise",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plain text",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "metapsychology",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outliner",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialog box",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toggle",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moused",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gwyneth paltrow",
+            "score": 51247,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "url",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file folder",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreamcatcher",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "personalise",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retweet",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aspx",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "findable",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gnome",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "webform",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dfw",
+            "score": 51237,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "classified ad",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "readme",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ftp",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "username",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "searchable",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bookmark",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookmarks",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookmarked",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookmarker",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "pockmark",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "black mark",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "birthmark",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "birth mark",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "bismarck",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bismark",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookwork",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "bachmeier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "boocock",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pathmark",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "pockmarked",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "big mac",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "benchmark",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "buckaroo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "checkmark",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bench mark",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "check mark",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bognar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bomar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookmaker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bukhari",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bucaro",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bakari",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bukhara",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "baccara",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bemock",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "biomarker",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "bjarke",
+            "score": 73,
+            "numSyllables": 1
+        },
+        {
+            "word": "blackmore",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "blakemore",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "birthmarks",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "burn mark",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "braemar",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bark",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "booker",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "besmirch",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barque",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "buckner",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bjork",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "backache",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barch",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "barke",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "bogar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bushra",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookman",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "begar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bourque",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "buckeroo",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bacchic",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barc",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "back ache",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bakeware",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "book keeper",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "beckner",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bemire",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "book cover",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bcar",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "buchner",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bull shark",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bummery",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bocock",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bmr",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bachner",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookmakers",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "brc",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "black maire",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "boychik",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bagarre",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bawcock",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bochner",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "back kick",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "back matter",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bocook",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bookmen",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bookmark",
+            "score": 129831
+        },
+        {
+            "word": "book mark",
+            "score": 64660
+        },
+        {
+            "word": "pockmark",
+            "score": 233
+        },
+        {
+            "word": "bookwork",
+            "score": 163
+        },
+        {
+            "word": "bookman",
+            "score": 91
+        },
+        {
+            "word": "footmark",
+            "score": 77
+        },
+        {
+            "word": "bookmate",
+            "score": 46
+        },
+        {
+            "word": "bookmarks",
+            "score": 42
+        },
+        {
+            "word": "bookrack",
+            "score": 21
+        },
+        {
+            "word": "hoofmark",
+            "score": 20
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "url",
+            "score": 1624
+        },
+        {
+            "word": "tagging",
+            "score": 1611
+        },
+        {
+            "word": "firefox",
+            "score": 1582
+        },
+        {
+            "word": "delicious",
+            "score": 1573
+        },
+        {
+            "word": "browser",
+            "score": 1571
+        },
+        {
+            "word": "javascript",
+            "score": 1560
+        },
+        {
+            "word": "tags",
+            "score": 1527
+        },
+        {
+            "word": "metadata",
+            "score": 1509
+        },
+        {
+            "word": "pdf",
+            "score": 1494
+        },
+        {
+            "word": "chrome",
+            "score": 1472
+        },
+        {
+            "word": "menu",
+            "score": 1459
+        },
+        {
+            "word": "apps",
+            "score": 1445
+        },
+        {
+            "word": "web",
+            "score": 1439
+        },
+        {
+            "word": "email",
+            "score": 1431
+        },
+        {
+            "word": "pages",
+            "score": 1423
+        },
+        {
+            "word": "generator",
+            "score": 1403
+        },
+        {
+            "word": "html",
+            "score": 1395
+        },
+        {
+            "word": "mini",
+            "score": 1387
+        },
+        {
+            "word": "button",
+            "score": 1385
+        },
+        {
+            "word": "user",
+            "score": 1379
+        },
+        {
+            "word": "update",
+            "score": 1360
+        },
+        {
+            "word": "page",
+            "score": 1358
+        },
+        {
+            "word": "tag",
+            "score": 1346
+        },
+        {
+            "word": "files",
+            "score": 1341
+        },
+        {
+            "word": "add",
+            "score": 1335
+        },
+        {
+            "word": "google",
+            "score": 1328
+        },
+        {
+            "word": "facebook",
+            "score": 1324
+        },
+        {
+            "word": "favorite",
+            "score": 1317
+        },
+        {
+            "word": "search",
+            "score": 1312
+        },
+        {
+            "word": "sharing",
+            "score": 1309
+        },
+        {
+            "word": "links",
+            "score": 1306
+        },
+        {
+            "word": "file",
+            "score": 1296
+        },
+        {
+            "word": "allows",
+            "score": 1275
+        },
+        {
+            "word": "images",
+            "score": 1273
+        },
+        {
+            "word": "internet",
+            "score": 1271
+        },
+        {
+            "word": "sites",
+            "score": 1267
+        },
+        {
+            "word": "link",
+            "score": 1262
+        },
+        {
+            "word": "string",
+            "score": 1260
+        },
+        {
+            "word": "bar",
+            "score": 1248
+        },
+        {
+            "word": "attached",
+            "score": 1238
+        },
+        {
+            "word": "screen",
+            "score": 1233
+        },
+        {
+            "word": "accounts",
+            "score": 1230
+        },
+        {
+            "word": "text",
+            "score": 1228
+        },
+        {
+            "word": "card",
+            "score": 1211
+        },
+        {
+            "word": "online",
+            "score": 1209
+        },
+        {
+            "word": "windows",
+            "score": 1206
+        },
+        {
+            "word": "content",
+            "score": 1205
+        },
+        {
+            "word": "opera",
+            "score": 1201
+        },
+        {
+            "word": "address",
+            "score": 1198
+        },
+        {
+            "word": "feature",
+            "score": 1197
+        },
+        {
+            "word": "reference",
+            "score": 1187
+        },
+        {
+            "word": "website",
+            "score": 1185
+        },
+        {
+            "word": "features",
+            "score": 1183
+        },
+        {
+            "word": "box",
+            "score": 1182
+        },
+        {
+            "word": "software",
+            "score": 1179
+        },
+        {
+            "word": "view",
+            "score": 1177
+        },
+        {
+            "word": "incorporated",
+            "score": 1176
+        },
+        {
+            "word": "manager",
+            "score": 1174
+        },
+        {
+            "word": "mobile",
+            "score": 1172
+        },
+        {
+            "word": "reading",
+            "score": 1171
+        },
+        {
+            "word": "specific",
+            "score": 1165
+        },
+        {
+            "word": "cover",
+            "score": 1161
+        },
+        {
+            "word": "articles",
+            "score": 1156
+        },
+        {
+            "word": "notes",
+            "score": 1150
+        },
+        {
+            "word": "keep",
+            "score": 1147
+        },
+        {
+            "word": "share",
+            "score": 1143
+        },
+        {
+            "word": "unique",
+            "score": 1140
+        },
+        {
+            "word": "book",
+            "score": 1136
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bookmark",
+            "score": 129831
+        },
+        {
+            "word": "bookmarking",
+            "score": 129361
+        },
+        {
+            "word": "bookmarks",
+            "score": 129360
+        },
+        {
+            "word": "bookmarker",
+            "score": 129359
+        },
+        {
+            "word": "bookmarklet",
+            "score": 129351
+        },
+        {
+            "word": "bookmarked",
+            "score": 129345
+        },
+        {
+            "word": "bookmarkers",
+            "score": 129327
+        },
+        {
+            "word": "bookmarklets",
+            "score": 129321
+        },
+        {
+            "word": "bookmaker",
+            "score": 64997
+        },
+        {
+            "word": "bookmaking",
+            "score": 64726
+        }
+    ]
+}

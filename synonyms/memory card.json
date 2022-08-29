@@ -1,0 +1,814 @@
+{
+    "term": "memory card",
+    "means_like": [
+        {
+            "word": "map",
+            "score": 48055,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tickler",
+            "score": 28055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concentration",
+            "score": 27978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overplay",
+            "score": 27978,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pelmanism",
+            "score": 27978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mass card",
+            "score": 27962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vmu",
+            "score": 27962,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aut",
+            "score": 11655
+        },
+        {
+            "word": "bit",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bits",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blank",
+            "score": 11655,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "blanking",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burn",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "clipboard",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cue",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuts",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "data",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "down",
+            "score": 11655,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "field",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flag",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashcard",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flied",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "list",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meg",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "name",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "out",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v",
+                "adj",
+                "adv"
+            ]
+        },
+        {
+            "word": "repeat",
+            "score": 11655,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "repeated",
+            "score": 11655,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "review",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stamp",
+            "score": 11655,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sticks",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tag",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tagging",
+            "score": 11655,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "wit",
+            "score": 11655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bug",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "christmas",
+            "score": 11592,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "commit",
+            "score": 11592,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "con",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 11592,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 11592,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "heart",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 11592,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "place",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "point",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "points",
+            "score": 11592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "revoke",
+            "score": 11592,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11592,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "stick",
+            "score": 11592,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "touch",
+            "score": 11592,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "touched",
+            "score": 11592,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bury",
+            "score": 11576,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "gift",
+            "score": 11576,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitch",
+            "score": 11576,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitched",
+            "score": 11576,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slot",
+            "score": 11515,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magnet",
+            "score": 11499,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "random",
+            "score": 11499,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "rub",
+            "score": 11499,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "sled",
+            "score": 11499,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "address",
+            "score": 10624,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "addressing",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "album",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allocate",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "amnesia",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bootstrap",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brain",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cache",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cached",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "clear",
+            "score": 10624,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cleared",
+            "score": 10624,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "commemorate",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "commemoration",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computer",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "core",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coring",
+            "score": 10624,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cpu",
+            "score": 10624,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "disc",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disk",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embed",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "epitaph",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eprom",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "escape",
+            "score": 10624,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "escaped",
+            "score": 10624,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "faculty",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fic",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fix",
+            "score": 10624,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "flagged",
+            "score": 10624,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "flash",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forget",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "forgetting",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fresh",
+            "score": 10624,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "history",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "honour",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "idea",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "image",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imagination",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impress",
+            "score": 10624,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "impression",
+            "score": 10624,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impressively",
+            "score": 10624,
+            "tags": [
+                "adv"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "memory card",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "metrocard",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "memory board",
+            "score": 77,
+            "numSyllables": 4
+        },
+        {
+            "word": "memory cache",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "minicar",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "merekat",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "murray cod",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "memory card",
+            "score": 129349
+        },
+        {
+            "word": "memory board",
+            "score": 29
+        },
+        {
+            "word": "memory cards",
+            "score": 5
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "memory card",
+            "score": 129349
+        },
+        {
+            "word": "memory cards",
+            "score": 129323
+        },
+        {
+            "word": "memory cache",
+            "score": 107
+        },
+        {
+            "word": "memory board",
+            "score": 29
+        },
+        {
+            "word": "memory address",
+            "score": 7
+        },
+        {
+            "word": "memory farts",
+            "score": 7
+        },
+        {
+            "word": "memory address space",
+            "score": 5
+        },
+        {
+            "word": "memory capacity",
+            "score": 1
+        }
+    ]
+}

@@ -1,0 +1,1183 @@
+{
+    "term": "facemask",
+    "means_like": [
+        {
+            "word": "helmet",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mask",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visor",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chest protector",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glove",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earflap",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chin",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muff",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chin strap",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incompletion",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mitt",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleats",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchback",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forearm",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backboard",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "offsides",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stinger",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballcarrier",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "padless",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fumble",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crosse",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "splint",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intentional foul",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elbow",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shin",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "placekick",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sideline",
+            "score": 31320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "downfield",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "concussion",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stickum",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shinpad",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knee",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neck brace",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lateraling",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fouls",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "runback",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timeout",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face guard",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noggin",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrimmage",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linesman",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headband",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interception",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refs",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "groin",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchdown",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goalpost",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yarder",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headset",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inbounds",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goggles",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ball",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pads",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gumshield",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gauze bandage",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jersey",
+            "score": 31291,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tackler",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinky",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "football helmet",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whizzer",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yardline",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandaging",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timeouts",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fingertip",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinkie",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wrist",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hashmark",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jawing",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forehead",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrunchie",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pickoff",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jockstrap",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headlock",
+            "score": 31274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailbone",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adhesive bandage",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pylon",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stretcher",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "punts",
+            "score": 31269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hyperextension",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fibula",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tube sock",
+            "score": 31266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ankle",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bullrush",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pant leg",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yellow card",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirttail",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miscue",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nose",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pilon",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blitzer",
+            "score": 31256,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kneecap",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmut",
+            "score": 31254,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kneepad",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nylon stocking",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sternum",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laces",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compression bandage",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "juke",
+            "score": 31248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backside",
+            "score": 31247,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "facemask",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "face mask",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "gas mask",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "famous",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "phasis",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gasmask",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "faces",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "facebook",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "faceless",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "famos",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "physis",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fossick",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "facies",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "phasma",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "famoso",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "famis",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "face pack",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "physik",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasc",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "fascis",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "physios",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "physick",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "faceman",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fascias",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pharmac",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fish mousse",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "feyness",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "femis",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "forasmuch",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fusus",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "facemask",
+            "score": 129473
+        },
+        {
+            "word": "face mask",
+            "score": 64750
+        },
+        {
+            "word": "faceman",
+            "score": 33
+        },
+        {
+            "word": "racemase",
+            "score": 15
+        },
+        {
+            "word": "facemail",
+            "score": 6
+        },
+        {
+            "word": "facemasks",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "orthodontic",
+            "score": 1774
+        },
+        {
+            "word": "headgear",
+            "score": 1735
+        },
+        {
+            "word": "maxillary",
+            "score": 1707
+        },
+        {
+            "word": "helmet",
+            "score": 1654
+        },
+        {
+            "word": "tackling",
+            "score": 1626
+        },
+        {
+            "word": "penalty",
+            "score": 1593
+        },
+        {
+            "word": "appliance",
+            "score": 1586
+        },
+        {
+            "word": "pants",
+            "score": 1550
+        },
+        {
+            "word": "stripe",
+            "score": 1529
+        },
+        {
+            "word": "fined",
+            "score": 1474
+        },
+        {
+            "word": "mask",
+            "score": 1472
+        },
+        {
+            "word": "jaw",
+            "score": 1463
+        },
+        {
+            "word": "threw",
+            "score": 1459
+        },
+        {
+            "word": "touchdown",
+            "score": 1437
+        },
+        {
+            "word": "logo",
+            "score": 1432
+        },
+        {
+            "word": "bars",
+            "score": 1397
+        },
+        {
+            "word": "tech",
+            "score": 1388
+        },
+        {
+            "word": "nose",
+            "score": 1384
+        },
+        {
+            "word": "wore",
+            "score": 1382
+        },
+        {
+            "word": "uniform",
+            "score": 1373
+        },
+        {
+            "word": "ball",
+            "score": 1372
+        },
+        {
+            "word": "gray",
+            "score": 1371
+        },
+        {
+            "word": "yard",
+            "score": 1347
+        },
+        {
+            "word": "worn",
+            "score": 1338
+        },
+        {
+            "word": "yards",
+            "score": 1332
+        },
+        {
+            "word": "patient",
+            "score": 1329
+        },
+        {
+            "word": "adding",
+            "score": 1328
+        },
+        {
+            "word": "lions",
+            "score": 1327
+        },
+        {
+            "word": "pass",
+            "score": 1320
+        },
+        {
+            "word": "wear",
+            "score": 1312
+        },
+        {
+            "word": "nfl",
+            "score": 1289
+        },
+        {
+            "word": "mouth",
+            "score": 1285
+        },
+        {
+            "word": "quarter",
+            "score": 1276
+        },
+        {
+            "word": "grey",
+            "score": 1273
+        },
+        {
+            "word": "jersey",
+            "score": 1269
+        },
+        {
+            "word": "defensive",
+            "score": 1266
+        },
+        {
+            "word": "drive",
+            "score": 1265
+        },
+        {
+            "word": "giving",
+            "score": 1263
+        },
+        {
+            "word": "requires",
+            "score": 1258
+        },
+        {
+            "word": "face",
+            "score": 1249
+        },
+        {
+            "word": "gave",
+            "score": 1243
+        },
+        {
+            "word": "yellow",
+            "score": 1240
+        },
+        {
+            "word": "injury",
+            "score": 1236
+        },
+        {
+            "word": "plays",
+            "score": 1233
+        },
+        {
+            "word": "blue",
+            "score": 1219
+        },
+        {
+            "word": "goal",
+            "score": 1207
+        },
+        {
+            "word": "running",
+            "score": 1201
+        },
+        {
+            "word": "white",
+            "score": 1200
+        },
+        {
+            "word": "black",
+            "score": 1198
+        },
+        {
+            "word": "treatment",
+            "score": 1197
+        },
+        {
+            "word": "play",
+            "score": 1192
+        },
+        {
+            "word": "line",
+            "score": 1191
+        },
+        {
+            "word": "call",
+            "score": 1184
+        },
+        {
+            "word": "inside",
+            "score": 1181
+        },
+        {
+            "word": "carolina",
+            "score": 1179
+        },
+        {
+            "word": "scored",
+            "score": 1176
+        },
+        {
+            "word": "ohio",
+            "score": 1172
+        },
+        {
+            "word": "players",
+            "score": 1168
+        },
+        {
+            "word": "louis",
+            "score": 1166
+        },
+        {
+            "word": "loss",
+            "score": 1160
+        },
+        {
+            "word": "down",
+            "score": 1154
+        },
+        {
+            "word": "added",
+            "score": 1149
+        },
+        {
+            "word": "field",
+            "score": 1138
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "facemask",
+            "score": 129473
+        },
+        {
+            "word": "facemasks",
+            "score": 129319
+        },
+        {
+            "word": "face mask",
+            "score": 64750
+        },
+        {
+            "word": "face masks",
+            "score": 64667
+        },
+        {
+            "word": "pacemaker",
+            "score": 545
+        },
+        {
+            "word": "lacemakers",
+            "score": 46
+        },
+        {
+            "word": "pacemakers",
+            "score": 44
+        },
+        {
+            "word": "faceman",
+            "score": 33
+        },
+        {
+            "word": "pacemaking",
+            "score": 33
+        },
+        {
+            "word": "lacemaking",
+            "score": 21
+        }
+    ]
+}

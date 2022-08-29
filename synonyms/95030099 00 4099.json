@@ -1,0 +1,753 @@
+{
+    "term": "95030099 00 4099",
+    "means_like": [
+        {
+            "word": "indeterminate",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "neodymium",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "otto",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "teeny",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "1",
+            "score": 5304,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "02",
+            "score": 5060
+        },
+        {
+            "word": "10",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "100",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "1000",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "125",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "14",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "15",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "150",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "16",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "180",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "200",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "28",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "2e",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "300",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "35",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "36",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "40",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "400",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "50",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "500",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "aug",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dec",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jul",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jun",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mid",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "nov",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "oct",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "oo",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sep",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sept",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "are",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eye",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "i",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "a",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "er",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "e",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "o",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "awe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aye",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "err",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ai",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "au",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eigh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "igh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aux",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eau",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "o.g",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eur",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "isy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ty",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ehh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "awh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "o.k",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eaux",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hty",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "oah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aue",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "irr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eeh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "auh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eure",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "auw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aaah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aigh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eaw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "iee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eyt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ayi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "erh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "iye",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aou",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lfs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aaw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aeh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ngh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ajj",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eugh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aau",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ahw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lfo",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aiy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aih",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ayh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aoh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eiw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lfa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lgi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "o-o",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aoy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eai",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "htt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ule",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ajh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "bcr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aiw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "e-e",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "a.e",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "earsh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ieh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "eih",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hvh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "irh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lfi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "lxa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nnw",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": []
+}

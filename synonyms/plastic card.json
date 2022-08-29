@@ -1,0 +1,832 @@
+{
+    "term": "plastic card",
+    "means_like": [
+        {
+            "word": "visa",
+            "score": 48796,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "keycard",
+            "score": 29181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 28477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cash",
+            "score": 28077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 28077,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 28077,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "counter",
+            "score": 28077,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "credit card",
+            "score": 28077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge card",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge plate",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clipboard",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "template",
+            "score": 27996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debit card",
+            "score": 27981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smart card",
+            "score": 27981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "credit",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drum",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fan",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "float",
+            "score": 11677,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hook",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pick",
+            "score": 11677,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "plate",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tag",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tagging",
+            "score": 11677,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "tile",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 11677,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "twist",
+            "score": 11677,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "two",
+            "score": 11677,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "visor",
+            "score": 11677,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "latex",
+            "score": 11663,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barb",
+            "score": 11619,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comb",
+            "score": 11619,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "combatively",
+            "score": 11619,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "combed",
+            "score": 11619,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "deck",
+            "score": 11619,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "draw",
+            "score": 11619,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pin",
+            "score": 11619,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 11619,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoeing",
+            "score": 11619,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 11619,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "punch",
+            "score": 11604,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "real",
+            "score": 11604,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "badge",
+            "score": 11596,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squeeze",
+            "score": 11596,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "apr",
+            "score": 11537,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "board",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debit",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debt",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lure",
+            "score": 11537,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "memory",
+            "score": 11537,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pay",
+            "score": 11537,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "solo",
+            "score": 11537,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "spend",
+            "score": 11537,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dent",
+            "score": 11522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marker",
+            "score": 11522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acetate",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acrylic",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amino plastic",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amino resin",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aminoplast",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artwork",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batten",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 10648,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bended",
+            "score": 10648,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bends",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bens",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blanket",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blow moulding",
+            "score": 10648
+        },
+        {
+            "word": "box",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cannister",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cao",
+            "score": 10648,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capped",
+            "score": 10648,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "capping",
+            "score": 10648,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "caps",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier bag",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassette",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 10648,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "chisel",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cleat",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dack",
+            "score": 10648,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "deform",
+            "score": 10648,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ductile",
+            "score": 10648,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "elastic",
+            "score": 10648,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "electrotype",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "extrude",
+            "score": 10648,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fanned",
+            "score": 10648,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fanning",
+            "score": 10648,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fiberglass",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fibre",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "film",
+            "score": 10648,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "plastic art",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "postcard",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "post card",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasticky",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "place card",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "postal card",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastic",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastered",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastics",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastid",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastique",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plastic wrap",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastik",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "plasticized",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastical",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "plastically",
+            "score": 70,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "plastic art",
+            "score": 51
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "plastic art",
+            "score": 51
+        },
+        {
+            "word": "plastic arts",
+            "score": 27
+        },
+        {
+            "word": "elastic cartilage",
+            "score": 8
+        },
+        {
+            "word": "plastic paddy",
+            "score": 4
+        }
+    ]
+}

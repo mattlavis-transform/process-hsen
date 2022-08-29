@@ -1,0 +1,1350 @@
+{
+    "term": "gift",
+    "means_like": [
+        {
+            "word": "endow",
+            "score": 87874,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "endowment",
+            "score": 87159,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "giving",
+            "score": 84312,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "endue",
+            "score": 83210,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "present",
+            "score": 83190,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "give",
+            "score": 82563,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "invest",
+            "score": 81702,
+            "tags": [
+                "syn",
+                "v",
+                "prop"
+            ]
+        },
+        {
+            "word": "talent",
+            "score": 80977,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "empower",
+            "score": 80711,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "indue",
+            "score": 76893,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "natural endowment",
+            "score": 76893,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "valentine",
+            "score": 69028,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "donation",
+            "score": 68899,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "giver",
+            "score": 66733,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "donations",
+            "score": 66326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blessing",
+            "score": 65110,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donated",
+            "score": 64819,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "donor",
+            "score": 64727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souvenir",
+            "score": 64476,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "giveaway",
+            "score": 64219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donate",
+            "score": 63889,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "donating",
+            "score": 63809,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "benevolence",
+            "score": 63569,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freebies",
+            "score": 62664,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bargain",
+            "score": 62391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prize",
+            "score": 61876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "presents",
+            "score": 61618,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "donee",
+            "score": 61464,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charity",
+            "score": 61157,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchandise",
+            "score": 61101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonus",
+            "score": 60974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grant",
+            "score": 60757,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "something",
+            "score": 60278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grants",
+            "score": 59723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goody",
+            "score": 59651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocking",
+            "score": 59351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pledge",
+            "score": 59118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courtesy",
+            "score": 59031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "miracle",
+            "score": 58975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dowry",
+            "score": 58936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bribe",
+            "score": 58772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "genius",
+            "score": 58520,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "offer",
+            "score": 58507,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "store",
+            "score": 58501,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lucy",
+            "score": 58427,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boon",
+            "score": 58398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shop",
+            "score": 58379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boutique",
+            "score": 58194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treat",
+            "score": 57669,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "offering",
+            "score": 57433,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "recipe",
+            "score": 57266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceremony",
+            "score": 57221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacrifice",
+            "score": 56651,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knack",
+            "score": 56453,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "offered",
+            "score": 56378,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "this",
+            "score": 56313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 56151,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "owner",
+            "score": 56088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skill",
+            "score": 55846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instinct",
+            "score": 55287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lord",
+            "score": 55102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "empire",
+            "score": 55094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "savant",
+            "score": 54862,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poison",
+            "score": 54740,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flair",
+            "score": 54643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "archbishop",
+            "score": 54405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dong",
+            "score": 54235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ability",
+            "score": 53891,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 53704,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "favor",
+            "score": 53559,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mojo",
+            "score": 53448,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "don",
+            "score": 52662,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dom",
+            "score": 52630,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toxin",
+            "score": 52595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "martial",
+            "score": 51729,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "giftware",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heba",
+            "score": 51044,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hiba",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engineering",
+            "score": 51043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quixote",
+            "score": 51043,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "keepsake",
+            "score": 51041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gift certificate",
+            "score": 51040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornament",
+            "score": 51039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "housewarming",
+            "score": 51037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "memento",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bouquet",
+            "score": 51033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freebie",
+            "score": 51032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decoration",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gift wrap",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinket",
+            "score": 51029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holiday",
+            "score": 51028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goodie",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voucher",
+            "score": 51026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocking stuffer",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "party favor",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressie",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportule",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "premious",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "largition",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gift",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "geft",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "goofed",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffed",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kift",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "get",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gifts",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "git",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuffed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gif",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "grift",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "giff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "giffy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gett",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gitt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ghit",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gibt",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gitte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuft",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coughed",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "coiffed",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "caft",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "coifed",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "coft",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "calfed",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "iift",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "kieft",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaft",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "gut",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "guffaw",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gof",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "guff",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gutt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gft",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "guffy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gulfed",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "guf",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "guffey",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "geffert",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gef",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "govt",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "tgf",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gruft",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "got",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gate",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "guilt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goofy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goof",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gait",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gout",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "graft",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaff",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gilt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "guid",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goff",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gough",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gifs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "graphed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gott",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gatt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geet",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goot",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gifford",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gst",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gote",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaut",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goit",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "golfed",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gipped",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "go it",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "guist",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gete",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gafe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaffey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "geef",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "geit",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "xyst",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gafa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "goaf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goutte",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gaat",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "giffard",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghaut",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "goffe",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gowt",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gouf",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "gyte",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kit",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "clift",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "kif",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "kiff",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "biffed",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "hift",
+            "score": 83,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gift",
+            "score": 1739
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "shop",
+            "score": 1434
+        },
+        {
+            "word": "prophecy",
+            "score": 1405
+        },
+        {
+            "word": "gifts",
+            "score": 1403
+        },
+        {
+            "word": "donation",
+            "score": 1344
+        },
+        {
+            "word": "donor",
+            "score": 1329
+        },
+        {
+            "word": "cards",
+            "score": 1290
+        },
+        {
+            "word": "card",
+            "score": 1234
+        },
+        {
+            "word": "god",
+            "score": 1232
+        },
+        {
+            "word": "christmas",
+            "score": 1230
+        },
+        {
+            "word": "gods",
+            "score": 1224
+        },
+        {
+            "word": "certificate",
+            "score": 1222
+        },
+        {
+            "word": "birthday",
+            "score": 1219
+        },
+        {
+            "word": "recipient",
+            "score": 1212
+        },
+        {
+            "word": "donated",
+            "score": 1211
+        },
+        {
+            "word": "items",
+            "score": 1196
+        },
+        {
+            "word": "wedding",
+            "score": 1190
+        },
+        {
+            "word": "tax",
+            "score": 1185
+        },
+        {
+            "word": "mrs",
+            "score": 1183
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "gift",
+            "score": 1739
+        },
+        {
+            "word": "gifted",
+            "score": 543
+        },
+        {
+            "word": "gifts",
+            "score": 257
+        },
+        {
+            "word": "gifting",
+            "score": 119
+        },
+        {
+            "word": "giftedly",
+            "score": 118
+        },
+        {
+            "word": "gift-giving",
+            "score": 80
+        },
+        {
+            "word": "gift of gab",
+            "score": 74
+        },
+        {
+            "word": "giftware",
+            "score": 69
+        },
+        {
+            "word": "giftedness",
+            "score": 65
+        },
+        {
+            "word": "gift-wrap",
+            "score": 62
+        }
+    ]
+}

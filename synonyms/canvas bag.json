@@ -1,0 +1,794 @@
+{
+    "term": "canvas bag",
+    "means_like": [
+        {
+            "word": "satchel",
+            "score": 148462,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bookbag",
+            "score": 146462,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "duffel",
+            "score": 48462,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tote",
+            "score": 48076,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 28476,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "haversack",
+            "score": 28476,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knapsack",
+            "score": 28476,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel bag",
+            "score": 28462,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mailbag",
+            "score": 28395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sea bag",
+            "score": 28380
+        },
+        {
+            "word": "duffle",
+            "score": 28076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sack",
+            "score": 28076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feedbag",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gamebag",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice bag",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kit",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitbag",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "musette",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nosebag",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packsack",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweat bag",
+            "score": 27995,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "musette bag",
+            "score": 27980
+        },
+        {
+            "word": "seabag",
+            "score": 27980,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bagging",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burlap",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dack",
+            "score": 11676,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drogue",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pocket",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rag",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacked",
+            "score": 11676,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "swag",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tent",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woolpack",
+            "score": 11676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skin",
+            "score": 11618,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soil",
+            "score": 11618,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sneaker",
+            "score": 11603,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "art",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awning",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bolster",
+            "score": 10647,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bolt",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breadth",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camp chair",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canvass",
+            "score": 10647,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "canvasses",
+            "score": 10647,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "canvassing",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cao",
+            "score": 10647,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capped",
+            "score": 10647,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "capping",
+            "score": 10647,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "caps",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cot",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curtain",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curtains",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirt",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drabbler",
+            "score": 10647
+        },
+        {
+            "word": "easel",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embroidery",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fill",
+            "score": 10647,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "flat",
+            "score": 10647,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "flies",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fly",
+            "score": 10647,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fly sheet",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frame",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gasket",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gesso",
+            "score": 10647,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "gore",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gored",
+            "score": 10647,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "goring",
+            "score": 10647,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ground",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grounded",
+            "score": 10647,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "hammock",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hemp",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "impasto",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 10647,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lining",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linoleum",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "manta",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marl",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "painting",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pall",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pane",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panel",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "panelled",
+            "score": 10647,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "panelling",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pole",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouncing",
+            "score": 10647,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ragging",
+            "score": 10647,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "rainfly",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reef-band",
+            "score": 10647
+        },
+        {
+            "word": "sail",
+            "score": 10647,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "salt",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screen",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seam",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheet",
+            "score": 10647,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "canvasback",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "canvas",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "canvass",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "canvases",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "canvasses",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "canvassing",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "canvassed",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "canvasing",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "canvasser",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "canvased",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "canvas back",
+            "score": 8
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "canvas back",
+            "score": 64667
+        },
+        {
+            "word": "canvasback",
+            "score": 147
+        },
+        {
+            "word": "canvasback duck",
+            "score": 22
+        },
+        {
+            "word": "canvasbacks",
+            "score": 17
+        },
+        {
+            "word": "canvas-back",
+            "score": 2
+        }
+    ]
+}

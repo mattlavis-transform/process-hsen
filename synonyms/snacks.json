@@ -1,0 +1,1694 @@
+{
+    "term": "snacks",
+    "means_like": [
+        {
+            "word": "nosh",
+            "score": 91443,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bite",
+            "score": 85650,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "collation",
+            "score": 79443,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "sandwiches",
+            "score": 70546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biscuits",
+            "score": 69538,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "munchies",
+            "score": 68695,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crackers",
+            "score": 67705,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "noshes",
+            "score": 67376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookies",
+            "score": 67169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupcakes",
+            "score": 66858,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "appetizers",
+            "score": 66773,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cakes",
+            "score": 66248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saltines",
+            "score": 65847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "noodles",
+            "score": 64718,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delicacies",
+            "score": 64521,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eats",
+            "score": 62449,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hors",
+            "score": 59543,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beverages",
+            "score": 51136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sodas",
+            "score": 51135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drinks",
+            "score": 51134,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refreshments",
+            "score": 51133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meals",
+            "score": 51132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pretzels",
+            "score": 51131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweets",
+            "score": 51129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "donuts",
+            "score": 51128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desserts",
+            "score": 51127,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lunches",
+            "score": 51126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baked goods",
+            "score": 51125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pastries",
+            "score": 51123,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smoothies",
+            "score": 51122,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hotdogs",
+            "score": 51121,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popcorn",
+            "score": 51120,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy",
+            "score": 51119,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foods",
+            "score": 51118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yummies",
+            "score": 51117,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brownies",
+            "score": 51115,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snack bar",
+            "score": 51114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruit juice",
+            "score": 51113,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "granola bar",
+            "score": 51112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "condiments",
+            "score": 51111,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salads",
+            "score": 51110,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollies",
+            "score": 51109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muffins",
+            "score": 51108,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft drink",
+            "score": 51107,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogurt",
+            "score": 51106,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nachos",
+            "score": 51105,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice cream",
+            "score": 51103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crisps",
+            "score": 51102,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iced tea",
+            "score": 51101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "juice",
+            "score": 51100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hamburgers",
+            "score": 51099,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beef jerky",
+            "score": 51098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottled water",
+            "score": 51096,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda pop",
+            "score": 51095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peach ice cream",
+            "score": 51094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bagels",
+            "score": 51092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milkshakes",
+            "score": 51091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puppy chow",
+            "score": 51090,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breakfast",
+            "score": 51089,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "orangeade",
+            "score": 51088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "munchie",
+            "score": 51087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "continental breakfast",
+            "score": 51085,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "crudites",
+            "score": 51083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "veggies",
+            "score": 51082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "savories",
+            "score": 51081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buffet",
+            "score": 51080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soups",
+            "score": 51079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cokes",
+            "score": 51078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toiletries",
+            "score": 51077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate",
+            "score": 51076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gorp",
+            "score": 51075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vittles",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dried fruit",
+            "score": 51073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee",
+            "score": 51072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramel apple",
+            "score": 51071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canteens",
+            "score": 51070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smores",
+            "score": 51069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goodies",
+            "score": 51068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "libations",
+            "score": 51067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheetos",
+            "score": 51066,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sundaes",
+            "score": 51065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cinnamon toast",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crafts",
+            "score": 51062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "honey bun",
+            "score": 51061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applesauce cake",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tamarindo",
+            "score": 51059,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "salisbury steak",
+            "score": 51058,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wholewheat",
+            "score": 51057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playtime",
+            "score": 51056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breads",
+            "score": 51055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pickles",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pancakes",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bean dip",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marshmallows",
+            "score": 51051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vending machine",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "limeade",
+            "score": 51048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "french fries",
+            "score": 51047,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "soya milk",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetmeats",
+            "score": 51045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beer",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "snacks",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "snax",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "snakes",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneaks",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "smacks",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "snooks",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "snicks",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "snix",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "smax",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "snecks",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "snack",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sacks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sax",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "smokes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "snak",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sacs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "snags",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "snaky",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sachs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "saks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "smocks",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "snac",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "saxe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "smex",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "saxs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "anax",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "six",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sex",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snake",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "socks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smack",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneaky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sneak",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sox",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "seeks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snag",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "slacks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snuck",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sakes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sicks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snook",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smirks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "socs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneek",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sonics",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cynics",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snakey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snacker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snick",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "secs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "soaks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snoke",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sikes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sics",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snus",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smak",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snacked",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "soxs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snugs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sikhs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sixx",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snoose",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "seks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snogs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "souks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "smac",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snackers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "smas",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cex",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snuggs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "secks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sneck",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sooks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snik",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sechs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snaggy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snic",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snugness",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snarks",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sekes",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "psychs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "saix",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cix",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cmas",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "socx",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "senex",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "seax",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "scenics",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sinex",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snoek",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "skx",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "sdx",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snigs",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "cics",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "snoc",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "sonex",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "snow ice",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "snacks",
+            "score": 64867
+        },
+        {
+            "word": "snack",
+            "score": 1024
+        },
+        {
+            "word": "slacks",
+            "score": 404
+        },
+        {
+            "word": "stacks",
+            "score": 377
+        },
+        {
+            "word": "sacks",
+            "score": 152
+        },
+        {
+            "word": "smacks",
+            "score": 109
+        },
+        {
+            "word": "knacks",
+            "score": 50
+        },
+        {
+            "word": "shacks",
+            "score": 49
+        },
+        {
+            "word": "snicks",
+            "score": 37
+        },
+        {
+            "word": "snarks",
+            "score": 15
+        },
+        {
+            "word": "snecks",
+            "score": 8
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "calories",
+            "score": 1743
+        },
+        {
+            "word": "snack",
+            "score": 1733
+        },
+        {
+            "word": "crisps",
+            "score": 1699
+        },
+        {
+            "word": "nutrient",
+            "score": 1685
+        },
+        {
+            "word": "glutinous",
+            "score": 1612
+        },
+        {
+            "word": "refreshments",
+            "score": 1589
+        },
+        {
+            "word": "desserts",
+            "score": 1586
+        },
+        {
+            "word": "popcorn",
+            "score": 1581
+        },
+        {
+            "word": "pastries",
+            "score": 1567
+        },
+        {
+            "word": "beverages",
+            "score": 1556
+        },
+        {
+            "word": "sandwiches",
+            "score": 1551
+        },
+        {
+            "word": "drinks",
+            "score": 1545
+        },
+        {
+            "word": "foods",
+            "score": 1537
+        },
+        {
+            "word": "candies",
+            "score": 1531
+        },
+        {
+            "word": "sweets",
+            "score": 1523
+        },
+        {
+            "word": "item",
+            "score": 1517
+        },
+        {
+            "word": "meals",
+            "score": 1513
+        },
+        {
+            "word": "biscuits",
+            "score": 1511
+        },
+        {
+            "word": "crackers",
+            "score": 1501
+        },
+        {
+            "word": "vending",
+            "score": 1488
+        },
+        {
+            "word": "complimentary",
+            "score": 1483
+        },
+        {
+            "word": "confectionery",
+            "score": 1480
+        },
+        {
+            "word": "spicy",
+            "score": 1475
+        },
+        {
+            "word": "noodles",
+            "score": 1473
+        },
+        {
+            "word": "peanuts",
+            "score": 1469
+        },
+        {
+            "word": "chips",
+            "score": 1467
+        },
+        {
+            "word": "roasted",
+            "score": 1465
+        },
+        {
+            "word": "cakes",
+            "score": 1457
+        },
+        {
+            "word": "fried",
+            "score": 1456
+        },
+        {
+            "word": "souvenirs",
+            "score": 1439
+        },
+        {
+            "word": "potato",
+            "score": 1438
+        },
+        {
+            "word": "pies",
+            "score": 1433
+        },
+        {
+            "word": "cookies",
+            "score": 1431
+        },
+        {
+            "word": "competitive",
+            "score": 1425
+        },
+        {
+            "word": "dishes",
+            "score": 1420
+        },
+        {
+            "word": "nuts",
+            "score": 1390
+        },
+        {
+            "word": "stalls",
+            "score": 1389
+        },
+        {
+            "word": "candy",
+            "score": 1377
+        },
+        {
+            "word": "additionally",
+            "score": 1375
+        },
+        {
+            "word": "baked",
+            "score": 1374
+        },
+        {
+            "word": "meal",
+            "score": 1371
+        },
+        {
+            "word": "pork",
+            "score": 1369
+        },
+        {
+            "word": "cheese",
+            "score": 1361
+        },
+        {
+            "word": "cereal",
+            "score": 1358
+        },
+        {
+            "word": "cuisine",
+            "score": 1355
+        },
+        {
+            "word": "spices",
+            "score": 1352
+        },
+        {
+            "word": "maximum",
+            "score": 1349
+        },
+        {
+            "word": "bakery",
+            "score": 1346
+        },
+        {
+            "word": "treats",
+            "score": 1340
+        },
+        {
+            "word": "steamed",
+            "score": 1337
+        },
+        {
+            "word": "boiled",
+            "score": 1335
+        },
+        {
+            "word": "juice",
+            "score": 1333
+        },
+        {
+            "word": "breakfast",
+            "score": 1332
+        },
+        {
+            "word": "sauce",
+            "score": 1331
+        },
+        {
+            "word": "eaten",
+            "score": 1329
+        },
+        {
+            "word": "standards",
+            "score": 1328
+        },
+        {
+            "word": "alcoholic",
+            "score": 1325
+        },
+        {
+            "word": "recipe",
+            "score": 1323
+        },
+        {
+            "word": "dried",
+            "score": 1318
+        },
+        {
+            "word": "lunch",
+            "score": 1316
+        },
+        {
+            "word": "vendors",
+            "score": 1311
+        },
+        {
+            "word": "soup",
+            "score": 1307
+        },
+        {
+            "word": "coconut",
+            "score": 1305
+        },
+        {
+            "word": "chocolate",
+            "score": 1302
+        },
+        {
+            "word": "meet",
+            "score": 1297
+        },
+        {
+            "word": "cake",
+            "score": 1296
+        },
+        {
+            "word": "sells",
+            "score": 1295
+        },
+        {
+            "word": "tea",
+            "score": 1292
+        },
+        {
+            "word": "flour",
+            "score": 1289
+        },
+        {
+            "word": "brands",
+            "score": 1287
+        },
+        {
+            "word": "convenience",
+            "score": 1283
+        },
+        {
+            "word": "meaning",
+            "score": 1280
+        },
+        {
+            "word": "ingredients",
+            "score": 1279
+        },
+        {
+            "word": "bars",
+            "score": 1275
+        },
+        {
+            "word": "coffee",
+            "score": 1273
+        },
+        {
+            "word": "vegetables",
+            "score": 1272
+        },
+        {
+            "word": "fruits",
+            "score": 1270
+        },
+        {
+            "word": "rice",
+            "score": 1268
+        },
+        {
+            "word": "bread",
+            "score": 1266
+        },
+        {
+            "word": "cream",
+            "score": 1264
+        },
+        {
+            "word": "pizza",
+            "score": 1263
+        },
+        {
+            "word": "grocery",
+            "score": 1260
+        },
+        {
+            "word": "chicken",
+            "score": 1259
+        },
+        {
+            "word": "fruit",
+            "score": 1256
+        },
+        {
+            "word": "bags",
+            "score": 1251
+        },
+        {
+            "word": "corn",
+            "score": 1250
+        },
+        {
+            "word": "vegetable",
+            "score": 1247
+        },
+        {
+            "word": "menu",
+            "score": 1245
+        },
+        {
+            "word": "beer",
+            "score": 1240
+        },
+        {
+            "word": "toys",
+            "score": 1239
+        },
+        {
+            "word": "sweet",
+            "score": 1237
+        },
+        {
+            "word": "beans",
+            "score": 1225
+        },
+        {
+            "word": "food",
+            "score": 1221
+        },
+        {
+            "word": "sold",
+            "score": 1219
+        },
+        {
+            "word": "healthy",
+            "score": 1212
+        },
+        {
+            "word": "dish",
+            "score": 1211
+        },
+        {
+            "word": "eat",
+            "score": 1210
+        },
+        {
+            "word": "gifts",
+            "score": 1209
+        },
+        {
+            "word": "packaging",
+            "score": 1204
+        },
+        {
+            "word": "branded",
+            "score": 1199
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "snacks",
+            "score": 64867
+        },
+        {
+            "word": "snack",
+            "score": 1024
+        },
+        {
+            "word": "slacks",
+            "score": 404
+        },
+        {
+            "word": "stacks",
+            "score": 377
+        },
+        {
+            "word": "snack bar",
+            "score": 177
+        },
+        {
+            "word": "sacks",
+            "score": 152
+        },
+        {
+            "word": "smacks",
+            "score": 109
+        },
+        {
+            "word": "snacking",
+            "score": 85
+        },
+        {
+            "word": "snacker",
+            "score": 61
+        },
+        {
+            "word": "knacks",
+            "score": 50
+        }
+    ]
+}

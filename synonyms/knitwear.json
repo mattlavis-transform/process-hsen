@@ -1,0 +1,1463 @@
+{
+    "term": "knitwear",
+    "means_like": [
+        {
+            "word": "knitting",
+            "score": 47712,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cashmere",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woolen",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hosiery",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "textile",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "womenswear",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pashmina",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yarn",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merino",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silk",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "activewear",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedlinen",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leatherwear",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knits",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabrics",
+            "score": 31326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed linen",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirting",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casualwear",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harris tweed",
+            "score": 31320,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cottons",
+            "score": 31319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 31318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport coat",
+            "score": 31317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wools",
+            "score": 31316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tweed",
+            "score": 31315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigan",
+            "score": 31314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacquard",
+            "score": 31313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "millinery",
+            "score": 31312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweaters",
+            "score": 31311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embroidery",
+            "score": 31310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handicraft",
+            "score": 31309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moggan",
+            "score": 31308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shawls",
+            "score": 31307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtwaist",
+            "score": 31306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigans",
+            "score": 31305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loungewear",
+            "score": 31304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitted fabric",
+            "score": 31303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viscose",
+            "score": 31302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handloom",
+            "score": 31301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 31300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ratteen",
+            "score": 31299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workwear",
+            "score": 31298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouses",
+            "score": 31297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suitings",
+            "score": 31296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitster",
+            "score": 31295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garment",
+            "score": 31294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weavers",
+            "score": 31293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtmaker",
+            "score": 31292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jamdani",
+            "score": 31291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angora",
+            "score": 31290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 31289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambswool",
+            "score": 31288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 31287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 31286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jute",
+            "score": 31285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milliner",
+            "score": 31284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sewing",
+            "score": 31283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intimate apparel",
+            "score": 31282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waistcoating",
+            "score": 31281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleecy",
+            "score": 31280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "greige",
+            "score": 31279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotton cloth",
+            "score": 31278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport jacket",
+            "score": 31277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toilinette",
+            "score": 31276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lace",
+            "score": 31275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shantung",
+            "score": 31274,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "khadi",
+            "score": 31273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embroiderers",
+            "score": 31272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woollens",
+            "score": 31271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coir",
+            "score": 31270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kurtis",
+            "score": 31269,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "spun yarn",
+            "score": 31268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 31267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pima cotton",
+            "score": 31266,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shapewear",
+            "score": 31265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 31264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckwear",
+            "score": 31263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viyella",
+            "score": 31262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainwear",
+            "score": 31261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satins",
+            "score": 31260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smock frock",
+            "score": 31259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ramie",
+            "score": 31258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shearling",
+            "score": 31257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "streetwear",
+            "score": 31256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haute couture",
+            "score": 31255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batik",
+            "score": 31254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couturier",
+            "score": 31253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pullover",
+            "score": 31252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleeces",
+            "score": 31251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wool",
+            "score": 31250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woollen",
+            "score": 31249,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "knitwear",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightwear",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "nowhere",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightmare",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "notare",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitwit",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "neckwear",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitr",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "nuttier",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "natuur",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "mature",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knitter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "midyear",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "not sure",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "naughtier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "nitter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightwalker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "night walker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "mutare",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "knitwork",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "nattier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "newswire",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "midair",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mid-air",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotwire",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "hot wire",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "hot war",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mid air",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "witwer",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "network",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "unaware",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "nutter",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "netter",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "networth",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "new year",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "headwear",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "net work",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "mateer",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "networker",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "netzer",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitpicker",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "nitta",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "natera",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "net worth",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "new-year",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "natator",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "nutmegger",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "nut bar",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "nutwood",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "nit picker",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "anywhere",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "nightmares",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitro",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nighter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "neuter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "neater",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitty",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "natter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "footwear",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "natur",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nater",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "metier",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "niter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "needier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "nitre",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitti",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitto",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "niti",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "foot wear",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nightjar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "najar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nat turner",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "nightwork",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "netr",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knotter",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "najjar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "night watch",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "knotweed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "meet with",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "night walk",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hit with",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "niftier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "night letter",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "night work",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "metayer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "metoyer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "nidre",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nippier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "neutre",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "night terror",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "nitro-",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "nitze",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "knitwear",
+            "score": 129483
+        },
+        {
+            "word": "knitter",
+            "score": 183
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "hosiery",
+            "score": 1741
+        },
+        {
+            "word": "cashmere",
+            "score": 1714
+        },
+        {
+            "word": "sportswear",
+            "score": 1694
+        },
+        {
+            "word": "footwear",
+            "score": 1685
+        },
+        {
+            "word": "scarves",
+            "score": 1683
+        },
+        {
+            "word": "apparel",
+            "score": 1680
+        },
+        {
+            "word": "knitting",
+            "score": 1665
+        },
+        {
+            "word": "knitted",
+            "score": 1656
+        },
+        {
+            "word": "knit",
+            "score": 1645
+        },
+        {
+            "word": "dyeing",
+            "score": 1616
+        },
+        {
+            "word": "garments",
+            "score": 1615
+        },
+        {
+            "word": "jute",
+            "score": 1610
+        },
+        {
+            "word": "yarn",
+            "score": 1570
+        },
+        {
+            "word": "merchandising",
+            "score": 1565
+        },
+        {
+            "word": "couture",
+            "score": 1550
+        },
+        {
+            "word": "accessories",
+            "score": 1536
+        },
+        {
+            "word": "tweed",
+            "score": 1531
+        },
+        {
+            "word": "trades",
+            "score": 1526
+        },
+        {
+            "word": "woven",
+            "score": 1521
+        },
+        {
+            "word": "textile",
+            "score": 1506
+        },
+        {
+            "word": "textiles",
+            "score": 1491
+        },
+        {
+            "word": "garment",
+            "score": 1488
+        },
+        {
+            "word": "dresses",
+            "score": 1473
+        },
+        {
+            "word": "fashionable",
+            "score": 1471
+        },
+        {
+            "word": "casual",
+            "score": 1445
+        },
+        {
+            "word": "shirts",
+            "score": 1431
+        },
+        {
+            "word": "designer",
+            "score": 1412
+        },
+        {
+            "word": "clothing",
+            "score": 1399
+        },
+        {
+            "word": "factory",
+            "score": 1392
+        },
+        {
+            "word": "export",
+            "score": 1387
+        },
+        {
+            "word": "shoes",
+            "score": 1385
+        },
+        {
+            "word": "wool",
+            "score": 1381
+        },
+        {
+            "word": "leather",
+            "score": 1377
+        },
+        {
+            "word": "manufacturer",
+            "score": 1357
+        },
+        {
+            "word": "wear",
+            "score": 1351
+        },
+        {
+            "word": "fabric",
+            "score": 1347
+        },
+        {
+            "word": "fashion",
+            "score": 1345
+        },
+        {
+            "word": "designs",
+            "score": 1320
+        },
+        {
+            "word": "brand",
+            "score": 1314
+        },
+        {
+            "word": "manufacturing",
+            "score": 1303
+        },
+        {
+            "word": "spencer",
+            "score": 1300
+        },
+        {
+            "word": "brands",
+            "score": 1291
+        },
+        {
+            "word": "products",
+            "score": 1286
+        },
+        {
+            "word": "machines",
+            "score": 1275
+        },
+        {
+            "word": "worn",
+            "score": 1271
+        },
+        {
+            "word": "merger",
+            "score": 1259
+        },
+        {
+            "word": "goods",
+            "score": 1242
+        },
+        {
+            "word": "marks",
+            "score": 1238
+        },
+        {
+            "word": "collection",
+            "score": 1234
+        },
+        {
+            "word": "items",
+            "score": 1233
+        },
+        {
+            "word": "industry",
+            "score": 1231
+        },
+        {
+            "word": "stores",
+            "score": 1227
+        },
+        {
+            "word": "sector",
+            "score": 1201
+        },
+        {
+            "word": "mill",
+            "score": 1193
+        },
+        {
+            "word": "store",
+            "score": 1190
+        },
+        {
+            "word": "evening",
+            "score": 1185
+        },
+        {
+            "word": "employees",
+            "score": 1173
+        },
+        {
+            "word": "union",
+            "score": 1172
+        },
+        {
+            "word": "industrial",
+            "score": 1157
+        },
+        {
+            "word": "company",
+            "score": 1155
+        },
+        {
+            "word": "technical",
+            "score": 1151
+        },
+        {
+            "word": "billion",
+            "score": 1148
+        },
+        {
+            "word": "founded",
+            "score": 1142
+        },
+        {
+            "word": "design",
+            "score": 1138
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "knitwear",
+            "score": 129483
+        },
+        {
+            "word": "knitter",
+            "score": 183
+        },
+        {
+            "word": "knitwork",
+            "score": 55
+        },
+        {
+            "word": "knitters",
+            "score": 17
+        }
+    ]
+}

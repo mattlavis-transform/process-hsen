@@ -1,0 +1,1612 @@
+{
+    "term": "costume",
+    "means_like": [
+        {
+            "word": "dress",
+            "score": 71522,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "getup",
+            "score": 69817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 69699,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 69161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfits",
+            "score": 68069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garb",
+            "score": 67897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "regalia",
+            "score": 67371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gown",
+            "score": 67230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tux",
+            "score": 67161,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuxedo",
+            "score": 66752,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 63860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garment",
+            "score": 63391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wear",
+            "score": 63204,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "uniform",
+            "score": 62702,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfit",
+            "score": 62333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacket",
+            "score": 61964,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bunny",
+            "score": 61636,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 61439,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashion",
+            "score": 61288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disguise",
+            "score": 61222,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "novelty",
+            "score": 60131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imitation",
+            "score": 59926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 59595,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imaginative",
+            "score": 58838,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "playful",
+            "score": 58652,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "custom",
+            "score": 57859,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disguised",
+            "score": 57738,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "fanciful",
+            "score": 57690,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "fantasy",
+            "score": 56798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whim",
+            "score": 56660,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "matching",
+            "score": 56268,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ellis",
+            "score": 55032,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "morality",
+            "score": 54835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fad",
+            "score": 54785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fancy",
+            "score": 54696,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "usual",
+            "score": 54673,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "gravy",
+            "score": 54414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "customary",
+            "score": 54408,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "habit",
+            "score": 52936,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "favor",
+            "score": 52047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suite",
+            "score": 51754,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "held",
+            "score": 51537,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bright",
+            "score": 51307,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "get-up",
+            "score": 50850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandy",
+            "score": 50849,
+            "tags": [
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "fancy dress",
+            "score": 50847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 50846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halloween",
+            "score": 50842,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "headpiece",
+            "score": 50841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tutu",
+            "score": 50840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 50839,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costumer",
+            "score": 50838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headdress",
+            "score": 50836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costumier",
+            "score": 50835,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toga",
+            "score": 50833,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leotard",
+            "score": 50832,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dirndl",
+            "score": 50831,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 50830,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll",
+            "score": 50829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 50828,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hat",
+            "score": 50827,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoop skirt",
+            "score": 50826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mask",
+            "score": 50825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "finery",
+            "score": 50824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ao dai",
+            "score": 50823,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cocktail dress",
+            "score": 50822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pajama",
+            "score": 50821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "academic costume",
+            "score": 50819,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scarecrow",
+            "score": 50817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume designer",
+            "score": 50816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapeaus",
+            "score": 50815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cape",
+            "score": 50813,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "academic gown",
+            "score": 50812,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "muumuu",
+            "score": 50811,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unitard",
+            "score": 50810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kilt",
+            "score": 50809,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 50808,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chainmail",
+            "score": 50807,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pantaloons",
+            "score": 50806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyepatch",
+            "score": 50804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing suit",
+            "score": 50803,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zoot suit",
+            "score": 50802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding dress",
+            "score": 50801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decorations",
+            "score": 50800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding gown",
+            "score": 50799,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinner dress",
+            "score": 50798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress suit",
+            "score": 50797,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "togated",
+            "score": 50796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costumery",
+            "score": 50795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doll up",
+            "score": 50794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merkin",
+            "score": 50793,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mother hubbard",
+            "score": 50792,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aguise",
+            "score": 50791,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headgear",
+            "score": 50790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailcoat",
+            "score": 50789,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal gown",
+            "score": 50788,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 50787,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes",
+            "score": 50786,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lampshade",
+            "score": 50785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boa",
+            "score": 50784,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "costume",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "custom",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "costumes",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "costumer",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "costin",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "koston",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coston",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "kosten",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "costing",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "costen",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "costumed",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "coasting",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casting",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keystone",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "khartoum",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "qasim",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cottam",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kasim",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kasten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "caston",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "costain",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "key stone",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "casten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cast on",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coutume",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "csta",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kostya",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "costa",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "costo",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "costae",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kosti",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cost",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cotton",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cartoon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "customer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "costs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "costly",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "customs",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kirsten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cotten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "accustom",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "castillo",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "costal",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kirstin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosm",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "costumers",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "kosta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "costley",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cousteau",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "karsten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kost",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "carsten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kerstin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "customed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "casta",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "accosting",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "kassem",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "casto",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kersten",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "contemn",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "christom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kassim",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "custo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "castine",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "castano",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "croston",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "costi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "costuming",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "katu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kostal",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kostka",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "caast",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "casti",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "custa",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kirstein",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kista",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "costage",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "casu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "castoreum",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "costings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cantoon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "costia",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosseting",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "costus",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kostel",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "catu",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "caught on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "castrum",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaston",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghosting",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gusting",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghosty",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gustin",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "guestroom",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "guest room",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "guesting",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "guston",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gustine",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "costco",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "costas",
+            "score": 77,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "costume",
+            "score": 130277
+        },
+        {
+            "word": "coutume",
+            "score": 64673
+        },
+        {
+            "word": "costumi",
+            "score": 64666
+        },
+        {
+            "word": "couture",
+            "score": 1444
+        },
+        {
+            "word": "consume",
+            "score": 1333
+        },
+        {
+            "word": "posture",
+            "score": 1279
+        },
+        {
+            "word": "costive",
+            "score": 486
+        },
+        {
+            "word": "costumer",
+            "score": 271
+        },
+        {
+            "word": "costage",
+            "score": 187
+        },
+        {
+            "word": "contuse",
+            "score": 161
+        },
+        {
+            "word": "costate",
+            "score": 149
+        },
+        {
+            "word": "costae",
+            "score": 139
+        },
+        {
+            "word": "costumes",
+            "score": 125
+        },
+        {
+            "word": "cosme",
+            "score": 111
+        },
+        {
+            "word": "postum",
+            "score": 85
+        },
+        {
+            "word": "costumed",
+            "score": 72
+        },
+        {
+            "word": "cestum",
+            "score": 68
+        },
+        {
+            "word": "coste",
+            "score": 63
+        },
+        {
+            "word": "costus",
+            "score": 49
+        },
+        {
+            "word": "apostume",
+            "score": 35
+        },
+        {
+            "word": "posthume",
+            "score": 10
+        },
+        {
+            "word": "coassume",
+            "score": 5
+        },
+        {
+            "word": "costumey",
+            "score": 5
+        },
+        {
+            "word": "costumbre",
+            "score": 4
+        },
+        {
+            "word": "costura",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "designer",
+            "score": 1510
+        },
+        {
+            "word": "costumes",
+            "score": 1504
+        },
+        {
+            "word": "wardrobe",
+            "score": 1456
+        },
+        {
+            "word": "jewelry",
+            "score": 1409
+        },
+        {
+            "word": "props",
+            "score": 1404
+        },
+        {
+            "word": "skirt",
+            "score": 1401
+        },
+        {
+            "word": "outfits",
+            "score": 1393
+        },
+        {
+            "word": "halloween",
+            "score": 1383
+        },
+        {
+            "word": "outfit",
+            "score": 1381
+        },
+        {
+            "word": "worn",
+            "score": 1376
+        },
+        {
+            "word": "mask",
+            "score": 1363
+        },
+        {
+            "word": "gloves",
+            "score": 1360
+        },
+        {
+            "word": "wears",
+            "score": 1357
+        },
+        {
+            "word": "dresses",
+            "score": 1353
+        },
+        {
+            "word": "dress",
+            "score": 1352
+        },
+        {
+            "word": "lighting",
+            "score": 1351
+        },
+        {
+            "word": "batman",
+            "score": 1338
+        },
+        {
+            "word": "boots",
+            "score": 1325
+        },
+        {
+            "word": "design",
+            "score": 1322
+        },
+        {
+            "word": "superhero",
+            "score": 1321
+        },
+        {
+            "word": "wore",
+            "score": 1317
+        },
+        {
+            "word": "dressed",
+            "score": 1316
+        },
+        {
+            "word": "pants",
+            "score": 1314
+        },
+        {
+            "word": "jacket",
+            "score": 1310
+        },
+        {
+            "word": "accessories",
+            "score": 1294
+        },
+        {
+            "word": "guild",
+            "score": 1289
+        },
+        {
+            "word": "superman",
+            "score": 1287
+        },
+        {
+            "word": "suit",
+            "score": 1275
+        },
+        {
+            "word": "hat",
+            "score": 1274
+        },
+        {
+            "word": "designs",
+            "score": 1272
+        },
+        {
+            "word": "wearing",
+            "score": 1265
+        },
+        {
+            "word": "shirt",
+            "score": 1262
+        },
+        {
+            "word": "wear",
+            "score": 1257
+        },
+        {
+            "word": "clothes",
+            "score": 1251
+        },
+        {
+            "word": "clothing",
+            "score": 1248
+        },
+        {
+            "word": "scenic",
+            "score": 1247
+        },
+        {
+            "word": "mascot",
+            "score": 1243
+        },
+        {
+            "word": "designing",
+            "score": 1238
+        },
+        {
+            "word": "chest",
+            "score": 1230
+        },
+        {
+            "word": "fabric",
+            "score": 1229
+        },
+        {
+            "word": "leather",
+            "score": 1225
+        },
+        {
+            "word": "fashion",
+            "score": 1223
+        },
+        {
+            "word": "shoes",
+            "score": 1213
+        },
+        {
+            "word": "armor",
+            "score": 1211
+        },
+        {
+            "word": "hair",
+            "score": 1206
+        },
+        {
+            "word": "drama",
+            "score": 1203
+        },
+        {
+            "word": "contest",
+            "score": 1200
+        },
+        {
+            "word": "marvel",
+            "score": 1196
+        },
+        {
+            "word": "makeup",
+            "score": 1178
+        },
+        {
+            "word": "ballet",
+            "score": 1175
+        },
+        {
+            "word": "parade",
+            "score": 1170
+        },
+        {
+            "word": "uniform",
+            "score": 1169
+        },
+        {
+            "word": "theatrical",
+            "score": 1167
+        },
+        {
+            "word": "shop",
+            "score": 1166
+        },
+        {
+            "word": "miss",
+            "score": 1162
+        },
+        {
+            "word": "nominated",
+            "score": 1160
+        },
+        {
+            "word": "robin",
+            "score": 1159
+        },
+        {
+            "word": "filming",
+            "score": 1153
+        },
+        {
+            "word": "character",
+            "score": 1146
+        },
+        {
+            "word": "broadway",
+            "score": 1143
+        },
+        {
+            "word": "productions",
+            "score": 1141
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "costume",
+            "score": 130277
+        },
+        {
+            "word": "costumer",
+            "score": 129589
+        },
+        {
+            "word": "costumes",
+            "score": 129443
+        },
+        {
+            "word": "costumed",
+            "score": 129390
+        },
+        {
+            "word": "costume designer",
+            "score": 129368
+        },
+        {
+            "word": "costume jewelry",
+            "score": 129367
+        },
+        {
+            "word": "costumery",
+            "score": 129361
+        },
+        {
+            "word": "costumers",
+            "score": 129350
+        },
+        {
+            "word": "costume drama",
+            "score": 129343
+        },
+        {
+            "word": "costume jewellery",
+            "score": 129334
+        }
+    ]
+}

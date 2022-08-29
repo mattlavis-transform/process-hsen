@@ -1,0 +1,1685 @@
+{
+    "term": "clothing",
+    "means_like": [
+        {
+            "word": "apparel",
+            "score": 101196,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "wear",
+            "score": 91804,
+            "tags": [
+                "syn",
+                "n",
+                "v",
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "vesture",
+            "score": 85612,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "wearing apparel",
+            "score": 77256,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 73589,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 72615,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 71584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 70976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 70449,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 69645,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 68917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 68823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garment",
+            "score": 68675,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 67430,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 66719,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fashion",
+            "score": 66711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfits",
+            "score": 65767,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costumes",
+            "score": 64828,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen",
+            "score": 64800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "textiles",
+            "score": 64794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gear",
+            "score": 64147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 63815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirt",
+            "score": 63567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabric",
+            "score": 63400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "textile",
+            "score": 63033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressmaking",
+            "score": 63029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uniform",
+            "score": 62615,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "robes",
+            "score": 62580,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "robe",
+            "score": 62159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laundry",
+            "score": 61845,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duds",
+            "score": 61707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 61699,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailoring",
+            "score": 61377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfit",
+            "score": 61156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressing",
+            "score": 60966,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "suits",
+            "score": 60400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wears",
+            "score": 59699,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "children",
+            "score": 58526,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacesuit",
+            "score": 58470,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 57910,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 57256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woodworking",
+            "score": 56831,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confection",
+            "score": 55846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inflatable",
+            "score": 55627,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "manufacture",
+            "score": 55428,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 53747,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "claws",
+            "score": 53495,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plugins",
+            "score": 53217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lap",
+            "score": 51931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "held",
+            "score": 51650,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "add-ins",
+            "score": 50805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "add-ons",
+            "score": 50805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lifejacket",
+            "score": 50805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plug-ins",
+            "score": 50805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 50802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarments",
+            "score": 50800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 50797,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 50796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 50795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 50793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweaters",
+            "score": 50792,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothing",
+            "score": 50790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merchandise",
+            "score": 50789,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casualwear",
+            "score": 50788,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shoes",
+            "score": 50787,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 50786,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothes",
+            "score": 50785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 50782,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedding",
+            "score": 50781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitwear",
+            "score": 50780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 50779,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furniture",
+            "score": 50778,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightgowns",
+            "score": 50777,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 50776,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "activewear",
+            "score": 50775,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandals",
+            "score": 50774,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beachwear",
+            "score": 50773,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "streetwear",
+            "score": 50772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loungewear",
+            "score": 50771,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furnishings",
+            "score": 50770,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headwear",
+            "score": 50769,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intimate apparel",
+            "score": 50768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socks",
+            "score": 50767,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainwear",
+            "score": 50766,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothier",
+            "score": 50765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 50764,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bras",
+            "score": 50762,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coats",
+            "score": 50761,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimsuits",
+            "score": 50760,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woolen",
+            "score": 50759,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toiletry",
+            "score": 50758,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uniforms",
+            "score": 50757,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sneakers",
+            "score": 50756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue jean",
+            "score": 50755,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jewelry",
+            "score": 50754,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fabrics",
+            "score": 50753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hosiery",
+            "score": 50752,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "womenswear",
+            "score": 50751,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undershirts",
+            "score": 50750,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessories",
+            "score": 50749,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "clothing",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "closing",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloning",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothings",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "climbing",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "claiming",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "clouding",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "cladding",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "clamming",
+            "score": 86,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleaning",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clearing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clowning",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clashing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clinging",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clutching",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clawing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clanging",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloying",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "classing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clotho",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clausing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "clueing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "close in",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cluing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "claying",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloaming",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "glowing",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "closen",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clutha",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothes",
+            "score": 81,
+            "numSyllables": 1
+        },
+        {
+            "word": "coding",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "combing",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clued in",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "coaming",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clapping",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cling",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "loathing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothe",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "coaching",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clubbing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clothed",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "clipping",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clogging",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clotting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloaking",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kling",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cleaving",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coning",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "closings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clopping",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "koning",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clarin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clue in",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clouting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clouthier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "koing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chlorin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "coaling",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cleating",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clathrin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cloninger",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "close on",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "koelling",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "unclothing",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gleaming",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "gliding",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "glooming",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "glomming",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "gladding",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "glaring",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gloating",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glazing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gluing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "gleaning",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "clapham",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glitching",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glossing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glueing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glowering",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "sleuthing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemen",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glassing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "clonal",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "clemon",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "kleeman",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "kleiman",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "clayman",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "globing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "allthing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "glairing",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "klayman",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "clyman",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "classen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "clasen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "claassen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "clasm",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauthen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cawthon",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "cathan",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "clachan",
+            "score": 77,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "clothing",
+            "score": 130526
+        },
+        {
+            "word": "clotting",
+            "score": 64769
+        },
+        {
+            "word": "nothing",
+            "score": 1256
+        },
+        {
+            "word": "cloying",
+            "score": 903
+        },
+        {
+            "word": "soothing",
+            "score": 669
+        },
+        {
+            "word": "loathing",
+            "score": 520
+        },
+        {
+            "word": "closing",
+            "score": 424
+        },
+        {
+            "word": "cloning",
+            "score": 293
+        },
+        {
+            "word": "toothing",
+            "score": 259
+        },
+        {
+            "word": "coshing",
+            "score": 246
+        },
+        {
+            "word": "plotting",
+            "score": 236
+        },
+        {
+            "word": "coting",
+            "score": 234
+        },
+        {
+            "word": "bloting",
+            "score": 218
+        },
+        {
+            "word": "clothier",
+            "score": 198
+        },
+        {
+            "word": "clocking",
+            "score": 191
+        },
+        {
+            "word": "clogging",
+            "score": 185
+        },
+        {
+            "word": "frothing",
+            "score": 172
+        },
+        {
+            "word": "clutching",
+            "score": 166
+        },
+        {
+            "word": "blotting",
+            "score": 150
+        },
+        {
+            "word": "trothing",
+            "score": 135
+        },
+        {
+            "word": "crotching",
+            "score": 127
+        },
+        {
+            "word": "althing",
+            "score": 119
+        },
+        {
+            "word": "clouding",
+            "score": 119
+        },
+        {
+            "word": "clowning",
+            "score": 117
+        },
+        {
+            "word": "slotting",
+            "score": 114
+        },
+        {
+            "word": "sloshing",
+            "score": 106
+        },
+        {
+            "word": "lathing",
+            "score": 101
+        },
+        {
+            "word": "cloaking",
+            "score": 97
+        },
+        {
+            "word": "clashing",
+            "score": 94
+        },
+        {
+            "word": "lotting",
+            "score": 77
+        },
+        {
+            "word": "cloturing",
+            "score": 67
+        },
+        {
+            "word": "cotting",
+            "score": 65
+        },
+        {
+            "word": "clouting",
+            "score": 61
+        },
+        {
+            "word": "blotching",
+            "score": 49
+        },
+        {
+            "word": "clopping",
+            "score": 45
+        },
+        {
+            "word": "unclothing",
+            "score": 38
+        },
+        {
+            "word": "clomping",
+            "score": 33
+        },
+        {
+            "word": "clothings",
+            "score": 17
+        },
+        {
+            "word": "allthing",
+            "score": 16
+        },
+        {
+            "word": "clonking",
+            "score": 5
+        },
+        {
+            "word": "mothing",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "footwear",
+            "score": 1514
+        },
+        {
+            "word": "accessories",
+            "score": 1500
+        },
+        {
+            "word": "garments",
+            "score": 1461
+        },
+        {
+            "word": "retailer",
+            "score": 1455
+        },
+        {
+            "word": "apparel",
+            "score": 1448
+        },
+        {
+            "word": "garment",
+            "score": 1429
+        },
+        {
+            "word": "jeans",
+            "score": 1420
+        },
+        {
+            "word": "worn",
+            "score": 1406
+        },
+        {
+            "word": "shirts",
+            "score": 1404
+        },
+        {
+            "word": "dresses",
+            "score": 1401
+        },
+        {
+            "word": "jewelry",
+            "score": 1397
+        },
+        {
+            "word": "attire",
+            "score": 1392
+        },
+        {
+            "word": "shoes",
+            "score": 1385
+        },
+        {
+            "word": "trousers",
+            "score": 1378
+        },
+        {
+            "word": "textiles",
+            "score": 1375
+        },
+        {
+            "word": "hats",
+            "score": 1370
+        },
+        {
+            "word": "jewellery",
+            "score": 1365
+        },
+        {
+            "word": "pants",
+            "score": 1364
+        },
+        {
+            "word": "clothes",
+            "score": 1361
+        },
+        {
+            "word": "wear",
+            "score": 1326
+        },
+        {
+            "word": "stores",
+            "score": 1322
+        },
+        {
+            "word": "fashion",
+            "score": 1318
+        },
+        {
+            "word": "textile",
+            "score": 1316
+        },
+        {
+            "word": "dress",
+            "score": 1314
+        },
+        {
+            "word": "boots",
+            "score": 1312
+        },
+        {
+            "word": "wool",
+            "score": 1305
+        },
+        {
+            "word": "jacket",
+            "score": 1303
+        },
+        {
+            "word": "store",
+            "score": 1301
+        },
+        {
+            "word": "items",
+            "score": 1299
+        },
+        {
+            "word": "suits",
+            "score": 1293
+        },
+        {
+            "word": "leather",
+            "score": 1292
+        },
+        {
+            "word": "toys",
+            "score": 1290
+        },
+        {
+            "word": "merchandise",
+            "score": 1287
+        },
+        {
+            "word": "cloth",
+            "score": 1285
+        },
+        {
+            "word": "shirt",
+            "score": 1283
+        },
+        {
+            "word": "wore",
+            "score": 1282
+        },
+        {
+            "word": "bags",
+            "score": 1280
+        },
+        {
+            "word": "fabric",
+            "score": 1278
+        },
+        {
+            "word": "furniture",
+            "score": 1276
+        },
+        {
+            "word": "brand",
+            "score": 1268
+        },
+        {
+            "word": "wearing",
+            "score": 1259
+        },
+        {
+            "word": "brands",
+            "score": 1252
+        },
+        {
+            "word": "costumes",
+            "score": 1247
+        },
+        {
+            "word": "manufacturer",
+            "score": 1238
+        },
+        {
+            "word": "shelter",
+            "score": 1232
+        },
+        {
+            "word": "designer",
+            "score": 1225
+        },
+        {
+            "word": "silk",
+            "score": 1222
+        },
+        {
+            "word": "fur",
+            "score": 1220
+        },
+        {
+            "word": "hair",
+            "score": 1215
+        },
+        {
+            "word": "costume",
+            "score": 1206
+        },
+        {
+            "word": "supplies",
+            "score": 1204
+        },
+        {
+            "word": "styles",
+            "score": 1201
+        },
+        {
+            "word": "retail",
+            "score": 1194
+        },
+        {
+            "word": "hat",
+            "score": 1188
+        },
+        {
+            "word": "goods",
+            "score": 1182
+        },
+        {
+            "word": "shop",
+            "score": 1178
+        },
+        {
+            "word": "cotton",
+            "score": 1176
+        },
+        {
+            "word": "uniform",
+            "score": 1164
+        },
+        {
+            "word": "skin",
+            "score": 1160
+        },
+        {
+            "word": "equipment",
+            "score": 1156
+        },
+        {
+            "word": "gear",
+            "score": 1154
+        },
+        {
+            "word": "designs",
+            "score": 1146
+        },
+        {
+            "word": "chain",
+            "score": 1145
+        },
+        {
+            "word": "factory",
+            "score": 1143
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "clothing",
+            "score": 130526
+        },
+        {
+            "word": "clothing store",
+            "score": 129354
+        },
+        {
+            "word": "clothings",
+            "score": 129335
+        },
+        {
+            "word": "clothing label",
+            "score": 129327
+        },
+        {
+            "word": "clothing optional",
+            "score": 129326
+        },
+        {
+            "word": "clotting",
+            "score": 64769
+        },
+        {
+            "word": "clotting time",
+            "score": 64701
+        },
+        {
+            "word": "clotting factor",
+            "score": 64677
+        },
+        {
+            "word": "clotting factors",
+            "score": 64667
+        },
+        {
+            "word": "clotting cascade",
+            "score": 64663
+        }
+    ]
+}

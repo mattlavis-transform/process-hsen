@@ -1,0 +1,1102 @@
+{
+    "term": "paperwork",
+    "means_like": [
+        {
+            "word": "documentation",
+            "score": 72291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "documents",
+            "score": 68834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papers",
+            "score": 66179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "file",
+            "score": 64230,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "document",
+            "score": 63796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bureaucratic",
+            "score": 63517,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "records",
+            "score": 62896,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bureaucracy",
+            "score": 62750,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "administrative",
+            "score": 60744,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dossier",
+            "score": 59533,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 59377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burden",
+            "score": 59265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwriting",
+            "score": 58834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clerical",
+            "score": 58073,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "materials",
+            "score": 58004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape",
+            "score": 57045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wallet",
+            "score": 56814,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "material",
+            "score": 56762,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contract",
+            "score": 55907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 55652,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "literature",
+            "score": 55238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "administration",
+            "score": 55051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "writing",
+            "score": 55029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ids",
+            "score": 54810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "record",
+            "score": 54028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scripture",
+            "score": 53785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backgrounder",
+            "score": 52681,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charting",
+            "score": 52034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "theoretical",
+            "score": 51126,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "red-tape",
+            "score": 51087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "red tape",
+            "score": 51085,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legwork",
+            "score": 51084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookkeeping",
+            "score": 51083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notarization",
+            "score": 51082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hassle",
+            "score": 51081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "homework",
+            "score": 51080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "passport",
+            "score": 51079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "correspondence",
+            "score": 51078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legalese",
+            "score": 51077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rigmarole",
+            "score": 51075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deadline",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audit",
+            "score": 51073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "invoices",
+            "score": 51071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalities",
+            "score": 51070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affidavits",
+            "score": 51069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filing",
+            "score": 51067,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "birth certificate",
+            "score": 51066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apostille",
+            "score": 51065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookwork",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petitions",
+            "score": 51063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "logbook",
+            "score": 51062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photocopies",
+            "score": 51061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "probating",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "absentee ballot",
+            "score": 51059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "official document",
+            "score": 51058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reams",
+            "score": 51057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faxes",
+            "score": 51056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "itrs",
+            "score": 51055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "notaries",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "registration",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "requisitions",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "physicals",
+            "score": 51051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spreadsheets",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "certificate",
+            "score": 51049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quitclaim deed",
+            "score": 51048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timecard",
+            "score": 51047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reconveyance",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "initialing",
+            "score": 51045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "procedures",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "triplicate",
+            "score": 51042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "receipts",
+            "score": 51041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sorting",
+            "score": 51040,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "vetting",
+            "score": 51039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formality",
+            "score": 51038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "checks",
+            "score": 51037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ledgers",
+            "score": 51036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "indigency",
+            "score": 51035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "preparer",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paralegal",
+            "score": 51033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "statement of account",
+            "score": 51032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "legalities",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "docketing",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "printouts",
+            "score": 51029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "errands",
+            "score": 51028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "depositions",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countersignature",
+            "score": 51026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "itemization",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signatures",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "busywork",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prescriptions",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "binders",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accountants",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attestations",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worksheet",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naturalization",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "liens",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clerklike",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "applicants",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "escheatment",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "authorizations",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "paperwork",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper work",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "pipework",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "paperer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "paperback",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "papier",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pop rock",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepperer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pipe rack",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pepper tree",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "papery",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papers",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "patchwork",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "paperweight",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "petrarch",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papar",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "paper route",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper weight",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper bag",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paperbag",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper-mache",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pay-per-view",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "piecework",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papeterie",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper trail",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pay per view",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper mache",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper girl",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "paper rush",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "pibroch",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "papergirl",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "papke",
+            "score": 70,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "paperwork",
+            "score": 129791
+        },
+        {
+            "word": "paper work",
+            "score": 64663
+        },
+        {
+            "word": "pipework",
+            "score": 139
+        },
+        {
+            "word": "paperbark",
+            "score": 47
+        },
+        {
+            "word": "waterwork",
+            "score": 45
+        },
+        {
+            "word": "panelwork",
+            "score": 10
+        },
+        {
+            "word": "pokerwork",
+            "score": 7
+        },
+        {
+            "word": "paperworks",
+            "score": 4
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "bureaucracy",
+            "score": 1441
+        },
+        {
+            "word": "filing",
+            "score": 1394
+        },
+        {
+            "word": "deadline",
+            "score": 1384
+        },
+        {
+            "word": "candidacy",
+            "score": 1360
+        },
+        {
+            "word": "reduction",
+            "score": 1352
+        },
+        {
+            "word": "filed",
+            "score": 1349
+        },
+        {
+            "word": "checks",
+            "score": 1335
+        },
+        {
+            "word": "fcc",
+            "score": 1330
+        },
+        {
+            "word": "documentation",
+            "score": 1324
+        },
+        {
+            "word": "processed",
+            "score": 1316
+        },
+        {
+            "word": "visa",
+            "score": 1312
+        },
+        {
+            "word": "ballot",
+            "score": 1310
+        },
+        {
+            "word": "submitted",
+            "score": 1295
+        },
+        {
+            "word": "fees",
+            "score": 1265
+        },
+        {
+            "word": "errors",
+            "score": 1260
+        },
+        {
+            "word": "paying",
+            "score": 1247
+        },
+        {
+            "word": "legally",
+            "score": 1243
+        },
+        {
+            "word": "registration",
+            "score": 1235
+        },
+        {
+            "word": "relating",
+            "score": 1234
+        },
+        {
+            "word": "error",
+            "score": 1233
+        },
+        {
+            "word": "file",
+            "score": 1222
+        },
+        {
+            "word": "fee",
+            "score": 1218
+        },
+        {
+            "word": "citizenship",
+            "score": 1212
+        },
+        {
+            "word": "tax",
+            "score": 1210
+        },
+        {
+            "word": "approval",
+            "score": 1205
+        },
+        {
+            "word": "nomination",
+            "score": 1198
+        },
+        {
+            "word": "requirements",
+            "score": 1193
+        },
+        {
+            "word": "customs",
+            "score": 1192
+        },
+        {
+            "word": "freight",
+            "score": 1191
+        },
+        {
+            "word": "agencies",
+            "score": 1189
+        },
+        {
+            "word": "patient",
+            "score": 1186
+        },
+        {
+            "word": "documents",
+            "score": 1184
+        },
+        {
+            "word": "papers",
+            "score": 1177
+        },
+        {
+            "word": "immigration",
+            "score": 1176
+        },
+        {
+            "word": "transfer",
+            "score": 1171
+        },
+        {
+            "word": "denied",
+            "score": 1168
+        },
+        {
+            "word": "necessary",
+            "score": 1166
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "paperwork",
+            "score": 129791
+        },
+        {
+            "word": "paperworks",
+            "score": 129322
+        },
+        {
+            "word": "paper work",
+            "score": 64663
+        },
+        {
+            "word": "waterworks",
+            "score": 284
+        },
+        {
+            "word": "pipework",
+            "score": 139
+        },
+        {
+            "word": "paperbark",
+            "score": 47
+        },
+        {
+            "word": "waterwork",
+            "score": 45
+        },
+        {
+            "word": "paperbark birch",
+            "score": 23
+        },
+        {
+            "word": "paperbarks",
+            "score": 13
+        },
+        {
+            "word": "panelwork",
+            "score": 10
+        }
+    ]
+}

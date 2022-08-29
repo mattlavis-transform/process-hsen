@@ -1,0 +1,1679 @@
+{
+    "term": "fashion",
+    "means_like": [
+        {
+            "word": "style",
+            "score": 86038,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "manner",
+            "score": 84761,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "way",
+            "score": 80533,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "forge",
+            "score": 77261,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mode",
+            "score": 74833,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 73273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 68118,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 66838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 66571,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 66110,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 65746,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 64637,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moda",
+            "score": 64353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garment",
+            "score": 64180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "styling",
+            "score": 63876,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lifestyle",
+            "score": 63296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "design",
+            "score": 62068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costumes",
+            "score": 61646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fad",
+            "score": 61578,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trend",
+            "score": 61441,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 61370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vogue",
+            "score": 61089,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sewing",
+            "score": 60655,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 59755,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stitching",
+            "score": 59047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modern",
+            "score": 58397,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pattern",
+            "score": 58304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uniforms",
+            "score": 58295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mod",
+            "score": 57842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shaping",
+            "score": 57822,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "event",
+            "score": 57716,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taste",
+            "score": 57635,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kind",
+            "score": 57471,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buzzword",
+            "score": 57419,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "approach",
+            "score": 57207,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sort",
+            "score": 57142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "how",
+            "score": 56932,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "parade",
+            "score": 56850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mood",
+            "score": 56743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "format",
+            "score": 56730,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shape",
+            "score": 56704,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sense",
+            "score": 56663,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 56121,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rage",
+            "score": 55256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 55007,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vein",
+            "score": 55006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "type",
+            "score": 54881,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forma",
+            "score": 54739,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epidemic",
+            "score": 54638,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "extent",
+            "score": 54414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "create",
+            "score": 54361,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pandemic",
+            "score": 54358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courage",
+            "score": 54311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "popularity",
+            "score": 54156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treatment",
+            "score": 54042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modus",
+            "score": 53880,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacesuit",
+            "score": 53831,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "devise",
+            "score": 53752,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "seam",
+            "score": 53752,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acceptable",
+            "score": 53600,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "popular",
+            "score": 53589,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "basis",
+            "score": 53505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "procedure",
+            "score": 53483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "order",
+            "score": 53353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 53338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wind",
+            "score": 53302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "means",
+            "score": 53176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phase",
+            "score": 52774,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modes",
+            "score": 52756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "directions",
+            "score": 52576,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "methods",
+            "score": 52296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tide",
+            "score": 52257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "develop",
+            "score": 52206,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vis",
+            "score": 52141,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "configure",
+            "score": 51988,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "method",
+            "score": 51974,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prevalence",
+            "score": 51860,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pump",
+            "score": 50990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "token",
+            "score": 50965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "instructions",
+            "score": 50931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modality",
+            "score": 50931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 50930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashionista",
+            "score": 50929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "catwalk",
+            "score": 50928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "womenswear",
+            "score": 50927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haute couture",
+            "score": 50926,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "streetwear",
+            "score": 50925,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 50924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 50923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beachwear",
+            "score": 50921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "millinery",
+            "score": 50920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couturier",
+            "score": 50919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glam",
+            "score": 50917,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eveningwear",
+            "score": 50916,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knitwear",
+            "score": 50915,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylist",
+            "score": 50914,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 50913,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 50912,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal",
+            "score": 50911,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail dress",
+            "score": 50909,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "fashion",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "fashin",
+            "score": 97,
+            "numSyllables": 2
+        },
+        {
+            "word": "fission",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "foshan",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "fushun",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "fashing",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasching",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "faction",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasten",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fashioned",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fallon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fashions",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fatten",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fason",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "phalen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fallan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fassen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "farran",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fascine",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "fashioner",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "fasan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "vashon",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "fishing",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fallin",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "phishing",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fatin",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "feagin",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fascin",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "fallen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fiction",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "foreign",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fathom",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "felon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "famine",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "freshen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fellon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fadden",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phelan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fishman",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fitten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fagen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "foran",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phaeton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "farren",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phyton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fitton",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faren",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fion",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "feehan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faron",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "falchion",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "foughten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "farron",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fionn",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faison",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fisson",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "felan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fearon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "faten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fuson",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "furan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fullen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fahren",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "folan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferron",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fanon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "facon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fissions",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fannon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "foison",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "facient",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ferran",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fatum",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fanchon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fascial",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "forren",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "philon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "flash on",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phasm",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pheon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phagun",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasm",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "forerun",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "foulon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fehlen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "phylon",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fagend",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fissioned",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "passion",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cashen",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "paschen",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassion",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "vachon",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "kashan",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "lashon",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cassian",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "taschen",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "jashen",
+            "score": 83,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "fashion",
+            "score": 131709
+        },
+        {
+            "word": "cashion",
+            "score": 64701
+        },
+        {
+            "word": "fushion",
+            "score": 64695
+        },
+        {
+            "word": "-fashion",
+            "score": 64670
+        },
+        {
+            "word": "fashin",
+            "score": 64669
+        },
+        {
+            "word": "passion",
+            "score": 2602
+        },
+        {
+            "word": "fusion",
+            "score": 1594
+        },
+        {
+            "word": "cushion",
+            "score": 1463
+        },
+        {
+            "word": "bastion",
+            "score": 1299
+        },
+        {
+            "word": "faction",
+            "score": 1091
+        },
+        {
+            "word": "fission",
+            "score": 562
+        },
+        {
+            "word": "fashions",
+            "score": 297
+        },
+        {
+            "word": "basion",
+            "score": 263
+        },
+        {
+            "word": "ashton",
+            "score": 252
+        },
+        {
+            "word": "refashion",
+            "score": 226
+        },
+        {
+            "word": "falchion",
+            "score": 200
+        },
+        {
+            "word": "nasion",
+            "score": 152
+        },
+        {
+            "word": "fanion",
+            "score": 129
+        },
+        {
+            "word": "fascio",
+            "score": 104
+        },
+        {
+            "word": "pasion",
+            "score": 93
+        },
+        {
+            "word": "fauchion",
+            "score": 86
+        },
+        {
+            "word": "fashing",
+            "score": 64
+        },
+        {
+            "word": "sashoon",
+            "score": 52
+        },
+        {
+            "word": "cassion",
+            "score": 47
+        },
+        {
+            "word": "cashin",
+            "score": 45
+        },
+        {
+            "word": "vashon",
+            "score": 35
+        },
+        {
+            "word": "kishion",
+            "score": 32
+        },
+        {
+            "word": "lashio",
+            "score": 25
+        },
+        {
+            "word": "lashon",
+            "score": 25
+        },
+        {
+            "word": "washin",
+            "score": 24
+        },
+        {
+            "word": "fascin",
+            "score": 20
+        },
+        {
+            "word": "bash on",
+            "score": 15
+        },
+        {
+            "word": "fashious",
+            "score": 15
+        },
+        {
+            "word": "gassion",
+            "score": 14
+        },
+        {
+            "word": "fastin",
+            "score": 13
+        },
+        {
+            "word": "fa hien",
+            "score": 10
+        },
+        {
+            "word": "ashin",
+            "score": 9
+        },
+        {
+            "word": "fashiony",
+            "score": 8
+        },
+        {
+            "word": "fason",
+            "score": 8
+        },
+        {
+            "word": "shion",
+            "score": 8
+        },
+        {
+            "word": "flash on",
+            "score": 7
+        },
+        {
+            "word": "mashin",
+            "score": 6
+        },
+        {
+            "word": "rasion",
+            "score": 6
+        },
+        {
+            "word": "fassio",
+            "score": 5
+        },
+        {
+            "word": "rashin",
+            "score": 4
+        },
+        {
+            "word": "kashin",
+            "score": 3
+        },
+        {
+            "word": "fa-hien",
+            "score": 2
+        },
+        {
+            "word": "fashawn",
+            "score": 2
+        },
+        {
+            "word": "faktion",
+            "score": 1
+        },
+        {
+            "word": "fashism",
+            "score": 1
+        },
+        {
+            "word": "trashion",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "stylist",
+            "score": 1513
+        },
+        {
+            "word": "couture",
+            "score": 1511
+        },
+        {
+            "word": "dior",
+            "score": 1510
+        },
+        {
+            "word": "vogue",
+            "score": 1484
+        },
+        {
+            "word": "chanel",
+            "score": 1467
+        },
+        {
+            "word": "designer",
+            "score": 1458
+        },
+        {
+            "word": "elle",
+            "score": 1439
+        },
+        {
+            "word": "accessories",
+            "score": 1417
+        },
+        {
+            "word": "boutique",
+            "score": 1414
+        },
+        {
+            "word": "bazaar",
+            "score": 1389
+        },
+        {
+            "word": "apparel",
+            "score": 1378
+        },
+        {
+            "word": "dresses",
+            "score": 1367
+        },
+        {
+            "word": "retailer",
+            "score": 1362
+        },
+        {
+            "word": "photographer",
+            "score": 1352
+        },
+        {
+            "word": "trends",
+            "score": 1339
+        },
+        {
+            "word": "clothing",
+            "score": 1338
+        },
+        {
+            "word": "brands",
+            "score": 1323
+        },
+        {
+            "word": "jewelry",
+            "score": 1310
+        },
+        {
+            "word": "runway",
+            "score": 1304
+        },
+        {
+            "word": "clothes",
+            "score": 1301
+        },
+        {
+            "word": "lifestyle",
+            "score": 1296
+        },
+        {
+            "word": "week",
+            "score": 1285
+        },
+        {
+            "word": "modeling",
+            "score": 1284
+        },
+        {
+            "word": "icon",
+            "score": 1282
+        },
+        {
+            "word": "designing",
+            "score": 1274
+        },
+        {
+            "word": "beauty",
+            "score": 1272
+        },
+        {
+            "word": "dress",
+            "score": 1265
+        },
+        {
+            "word": "celebrities",
+            "score": 1264
+        },
+        {
+            "word": "brand",
+            "score": 1256
+        },
+        {
+            "word": "photography",
+            "score": 1255
+        },
+        {
+            "word": "luxury",
+            "score": 1249
+        },
+        {
+            "word": "walked",
+            "score": 1233
+        },
+        {
+            "word": "shoes",
+            "score": 1232
+        },
+        {
+            "word": "celebrity",
+            "score": 1230
+        },
+        {
+            "word": "costume",
+            "score": 1226
+        },
+        {
+            "word": "trend",
+            "score": 1225
+        },
+        {
+            "word": "milan",
+            "score": 1220
+        },
+        {
+            "word": "model",
+            "score": 1217
+        },
+        {
+            "word": "worn",
+            "score": 1212
+        },
+        {
+            "word": "wear",
+            "score": 1207
+        },
+        {
+            "word": "designs",
+            "score": 1201
+        },
+        {
+            "word": "design",
+            "score": 1195
+        },
+        {
+            "word": "magazine",
+            "score": 1192
+        },
+        {
+            "word": "models",
+            "score": 1183
+        },
+        {
+            "word": "retail",
+            "score": 1180
+        },
+        {
+            "word": "industry",
+            "score": 1179
+        },
+        {
+            "word": "wearing",
+            "score": 1172
+        },
+        {
+            "word": "mall",
+            "score": 1170
+        },
+        {
+            "word": "shows",
+            "score": 1163
+        },
+        {
+            "word": "photo",
+            "score": 1160
+        },
+        {
+            "word": "advertising",
+            "score": 1158
+        },
+        {
+            "word": "stores",
+            "score": 1157
+        },
+        {
+            "word": "creative",
+            "score": 1152
+        },
+        {
+            "word": "styles",
+            "score": 1150
+        },
+        {
+            "word": "shopping",
+            "score": 1147
+        },
+        {
+            "word": "label",
+            "score": 1145
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "fashion",
+            "score": 131709
+        },
+        {
+            "word": "fashionable",
+            "score": 130031
+        },
+        {
+            "word": "fashioned",
+            "score": 129813
+        },
+        {
+            "word": "fashionista",
+            "score": 129773
+        },
+        {
+            "word": "fashions",
+            "score": 129615
+        },
+        {
+            "word": "fashioner",
+            "score": 129456
+        },
+        {
+            "word": "fashionmonger",
+            "score": 129435
+        },
+        {
+            "word": "fashioning",
+            "score": 129433
+        },
+        {
+            "word": "fashion plate",
+            "score": 129406
+        },
+        {
+            "word": "fashionably",
+            "score": 129398
+        }
+    ]
+}

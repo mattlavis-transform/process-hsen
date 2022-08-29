@@ -1,0 +1,1279 @@
+{
+    "term": "sp",
+    "means_like": [
+        {
+            "word": "tch",
+            "score": 41554,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vitis",
+            "score": 38907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cucurbita",
+            "score": 38063,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "opuntia",
+            "score": 37668,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rubus",
+            "score": 36775,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dioscorea",
+            "score": 35649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crataegus",
+            "score": 34696,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "subj",
+            "score": 32962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lepus",
+            "score": 30890,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nostoc",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "odocoileus",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sephadex",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sylvilagus",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aoc",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aocs",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "con",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cws",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "del",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ese",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "por",
+            "score": 26364
+        },
+        {
+            "word": "var",
+            "score": 6424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acto",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agua",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ala",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alba",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alma",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alta",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alto",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amigo",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amigos",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amor",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ananas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ano",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "anorthoclase",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ara",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "argentine",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arpas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atomiser",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "autunite",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awol",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "barilla",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrio",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blow",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bonita",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "breaker",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buena",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "canadas",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "canasta",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capitular",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cara",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "caricature",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casa",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "centre",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chairman",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cottonseed oil",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cruz",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "desde",
+            "score": 6364
+        },
+        {
+            "word": "despond",
+            "score": 6364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dia",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dorado",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dos",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ente",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "era",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "esa",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "esta",
+            "score": 6364
+        },
+        {
+            "word": "estas",
+            "score": 6364
+        },
+        {
+            "word": "este",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ester",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "esto",
+            "score": 6364
+        },
+        {
+            "word": "eur",
+            "score": 6364,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "experiment",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fes",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flor",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gran",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "harpia",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hoy",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lana",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ley",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lino",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loma",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "luz",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "magnifico",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mala",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masa",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mina",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mira",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "moreno",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "motu",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "musico",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "nada",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negro",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nina",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nino",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "novio",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obra",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ojo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ola",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "olla",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oreo",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "see",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sea",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "so",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soup",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "c",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sip",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sew",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "spa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sow",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "si",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "asp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sop",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sci",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "espn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sough",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sope",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ncy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sapp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "isp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "spae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "esp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ciy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cip",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soop",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "psa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sipp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sape",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sepp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sipe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "serp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "saa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "siy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sepe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "serpe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "spai",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ceap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "osp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soupe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "csa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cipe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sopp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cci",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seau",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "espe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cso",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scip",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cirp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "saah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seip",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "fso",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sdsu",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aspe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cerp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sirp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "spah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "snpa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "seipp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sji",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sogh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soip",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cepe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "assp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sippe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sohp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "siep",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cza",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "saap",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "spaa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nsc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scsi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ccy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "g.c",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "soay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "issp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "siue",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "sp",
+            "score": 490
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "spot",
+            "score": 4190
+        },
+        {
+            "word": "space",
+            "score": 4185
+        },
+        {
+            "word": "spring",
+            "score": 3441
+        },
+        {
+            "word": "spirit",
+            "score": 3256
+        },
+        {
+            "word": "sporange",
+            "score": 3157
+        },
+        {
+            "word": "split",
+            "score": 3155
+        },
+        {
+            "word": "spread",
+            "score": 3098
+        },
+        {
+            "word": "spurious",
+            "score": 2971
+        },
+        {
+            "word": "spell",
+            "score": 2835
+        },
+        {
+            "word": "speed",
+            "score": 2570
+        }
+    ]
+}

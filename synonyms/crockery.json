@@ -1,0 +1,1633 @@
+{
+    "term": "crockery",
+    "means_like": [
+        {
+            "word": "dishware",
+            "score": 88534,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "tableware",
+            "score": 70621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwasher",
+            "score": 62968,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dish",
+            "score": 60635,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishwashing",
+            "score": 58452,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twinkle",
+            "score": 54371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cutlery",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glassware",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chinaware",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinnerware",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flatware",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchenware",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earthenware",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porcelain",
+            "score": 51255,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bone china",
+            "score": 51254,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "stemware",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pottery",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ovenware",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverware",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookware",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceramic ware",
+            "score": 51248,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "enamelware",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tureen",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barware",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinware",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeepot",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "china",
+            "score": 51242,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "teacups",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furniture",
+            "score": 51240,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utensils",
+            "score": 51239,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saucepans",
+            "score": 51238,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teapots",
+            "score": 51237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carpets",
+            "score": 51236,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vases",
+            "score": 51235,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tablecloths",
+            "score": 51234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cruet",
+            "score": 51233,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sofas",
+            "score": 51232,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "samovars",
+            "score": 51231,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brassware",
+            "score": 51230,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverplate",
+            "score": 51229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sideboard",
+            "score": 51228,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "settees",
+            "score": 51227,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wineglasses",
+            "score": 51226,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breakables",
+            "score": 51225,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverwork",
+            "score": 51224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napery",
+            "score": 51223,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bangles",
+            "score": 51222,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tea service",
+            "score": 51221,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "utensil",
+            "score": 51220,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupboards",
+            "score": 51219,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pietra dura",
+            "score": 51218,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onyx marble",
+            "score": 51217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hollowware",
+            "score": 51216,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedsteads",
+            "score": 51215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookshop",
+            "score": 51214,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchen utensil",
+            "score": 51213,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chintz",
+            "score": 51212,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creamware",
+            "score": 51211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "faience",
+            "score": 51210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delft",
+            "score": 51209,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tumble drier",
+            "score": 51208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "china cabinet",
+            "score": 51207,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "washbasins",
+            "score": 51206,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rugs",
+            "score": 51205,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parquetry",
+            "score": 51204,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironmongery",
+            "score": 51203,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linens",
+            "score": 51202,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ewers",
+            "score": 51201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chandeliers",
+            "score": 51200,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wickerwork",
+            "score": 51199,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wastepaper basket",
+            "score": 51198,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spode",
+            "score": 51197,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "antimacassars",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bibelots",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ashtrays",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ironware",
+            "score": 51193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holloware",
+            "score": 51192,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goblets",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knickknacks",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "epergne",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedspreads",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windowpanes",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "greenware",
+            "score": 51186,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tins",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagstones",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mantlepiece",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flowerpots",
+            "score": 51182,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rice bowl",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornaments",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiles",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bed linen",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wicker",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresser",
+            "score": 51176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washables",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermos flask",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hutch",
+            "score": 51173,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suet pudding",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candlesticks",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dcor",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mugs",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "crockery",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "crookery",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "crocker",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "crocky",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "groggery",
+            "score": 88,
+            "numSyllables": 3
+        },
+        {
+            "word": "cracker",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "crackers",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "creaky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cookery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "crikey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "craker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "croaker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "krakow",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "croaky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "quackery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "cracky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "croker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "creeky",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "crooker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kraker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "croque",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kukri",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "charactery",
+            "score": 85,
+            "numSyllables": 4
+        },
+        {
+            "word": "kracker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "crary",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "crackie",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "quakery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "croakers",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kroeker",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "kraka",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "karaka",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "croggy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coggery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "karakorum",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "krikor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "gregory",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "gracchi",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "greegree",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "grigri",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocky",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crock",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "croc",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "khaki",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "croquet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crocs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cursory",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "crockett",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crocks",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "chari",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crocket",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "caracas",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "crocked",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "craggy",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaki",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cari",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cockie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crp",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corroboree",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "crackly",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "karri",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cracow",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "craigie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "croco",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "khari",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "carri",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crigger",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cockers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crocking",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crago",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chiari",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "kirkey",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kercher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "craxi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kircher",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kirker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corkery",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "kerker",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "carree",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "karakul",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "croskey",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cregger",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "karai",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "karar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "karakas",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "kereru",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "crico",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "karok",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crar",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "crura",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "khk",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cancri",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crockford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cockered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crakow",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kakar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cakra",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crock up",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "crockery",
+            "score": 129813
+        },
+        {
+            "word": "crocker",
+            "score": 64856
+        },
+        {
+            "word": "rockery",
+            "score": 64802
+        },
+        {
+            "word": "crookery",
+            "score": 64704
+        },
+        {
+            "word": "cracker",
+            "score": 1163
+        },
+        {
+            "word": "grocery",
+            "score": 919
+        },
+        {
+            "word": "mockery",
+            "score": 659
+        },
+        {
+            "word": "rocker",
+            "score": 530
+        },
+        {
+            "word": "cocker",
+            "score": 523
+        },
+        {
+            "word": "crackers",
+            "score": 439
+        },
+        {
+            "word": "trickery",
+            "score": 410
+        },
+        {
+            "word": "rookery",
+            "score": 343
+        },
+        {
+            "word": "cookery",
+            "score": 316
+        },
+        {
+            "word": "croaker",
+            "score": 194
+        },
+        {
+            "word": "rocketry",
+            "score": 177
+        },
+        {
+            "word": "crockett",
+            "score": 176
+        },
+        {
+            "word": "chocker",
+            "score": 169
+        },
+        {
+            "word": "crocked",
+            "score": 163
+        },
+        {
+            "word": "crocket",
+            "score": 159
+        },
+        {
+            "word": "rockers",
+            "score": 120
+        },
+        {
+            "word": "brokery",
+            "score": 110
+        },
+        {
+            "word": "dockery",
+            "score": 104
+        },
+        {
+            "word": "crocky",
+            "score": 86
+        },
+        {
+            "word": "clocker",
+            "score": 79
+        },
+        {
+            "word": "croker",
+            "score": 68
+        },
+        {
+            "word": "croakers",
+            "score": 30
+        },
+        {
+            "word": "crociary",
+            "score": 30
+        },
+        {
+            "word": "crockets",
+            "score": 22
+        },
+        {
+            "word": "brocker",
+            "score": 18
+        },
+        {
+            "word": "chockers",
+            "score": 16
+        },
+        {
+            "word": "clockers",
+            "score": 15
+        },
+        {
+            "word": "rockey",
+            "score": 9
+        },
+        {
+            "word": "hockery",
+            "score": 8
+        },
+        {
+            "word": "cockers",
+            "score": 6
+        },
+        {
+            "word": "crooker",
+            "score": 6
+        },
+        {
+            "word": "corkery",
+            "score": 5
+        },
+        {
+            "word": "crookers",
+            "score": 4
+        },
+        {
+            "word": "croskey",
+            "score": 4
+        },
+        {
+            "word": "cokery",
+            "score": 3
+        },
+        {
+            "word": "crociera",
+            "score": 3
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "cutlery",
+            "score": 1813
+        },
+        {
+            "word": "glassware",
+            "score": 1756
+        },
+        {
+            "word": "dishwasher",
+            "score": 1735
+        },
+        {
+            "word": "bissell",
+            "score": 1683
+        },
+        {
+            "word": "utensils",
+            "score": 1668
+        },
+        {
+            "word": "wares",
+            "score": 1581
+        },
+        {
+            "word": "smashed",
+            "score": 1542
+        },
+        {
+            "word": "pots",
+            "score": 1539
+        },
+        {
+            "word": "piles",
+            "score": 1518
+        },
+        {
+            "word": "ware",
+            "score": 1500
+        },
+        {
+            "word": "porcelain",
+            "score": 1496
+        },
+        {
+            "word": "washing",
+            "score": 1473
+        },
+        {
+            "word": "pottery",
+            "score": 1451
+        },
+        {
+            "word": "ceramic",
+            "score": 1437
+        },
+        {
+            "word": "furniture",
+            "score": 1435
+        },
+        {
+            "word": "cups",
+            "score": 1409
+        },
+        {
+            "word": "shoes",
+            "score": 1390
+        },
+        {
+            "word": "dishes",
+            "score": 1387
+        },
+        {
+            "word": "toys",
+            "score": 1373
+        },
+        {
+            "word": "kitchen",
+            "score": 1370
+        },
+        {
+            "word": "syracuse",
+            "score": 1363
+        },
+        {
+            "word": "items",
+            "score": 1347
+        },
+        {
+            "word": "clothes",
+            "score": 1328
+        },
+        {
+            "word": "tables",
+            "score": 1326
+        },
+        {
+            "word": "tea",
+            "score": 1323
+        },
+        {
+            "word": "ottawa",
+            "score": 1318
+        },
+        {
+            "word": "township",
+            "score": 1315
+        },
+        {
+            "word": "store",
+            "score": 1302
+        },
+        {
+            "word": "goods",
+            "score": 1296
+        },
+        {
+            "word": "window",
+            "score": 1292
+        },
+        {
+            "word": "shop",
+            "score": 1287
+        },
+        {
+            "word": "glass",
+            "score": 1276
+        },
+        {
+            "word": "jerry",
+            "score": 1273
+        },
+        {
+            "word": "etc",
+            "score": 1252
+        },
+        {
+            "word": "broken",
+            "score": 1240
+        },
+        {
+            "word": "creek",
+            "score": 1239
+        },
+        {
+            "word": "equipment",
+            "score": 1236
+        },
+        {
+            "word": "manufacturing",
+            "score": 1233
+        },
+        {
+            "word": "display",
+            "score": 1228
+        },
+        {
+            "word": "wine",
+            "score": 1226
+        },
+        {
+            "word": "pieces",
+            "score": 1219
+        },
+        {
+            "word": "objects",
+            "score": 1216
+        },
+        {
+            "word": "factory",
+            "score": 1204
+        },
+        {
+            "word": "weapons",
+            "score": 1199
+        },
+        {
+            "word": "household",
+            "score": 1192
+        },
+        {
+            "word": "stores",
+            "score": 1191
+        },
+        {
+            "word": "food",
+            "score": 1168
+        },
+        {
+            "word": "firm",
+            "score": 1167
+        },
+        {
+            "word": "table",
+            "score": 1164
+        },
+        {
+            "word": "michigan",
+            "score": 1159
+        },
+        {
+            "word": "products",
+            "score": 1158
+        },
+        {
+            "word": "reduced",
+            "score": 1156
+        },
+        {
+            "word": "business",
+            "score": 1155
+        },
+        {
+            "word": "chinese",
+            "score": 1148
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "crockery",
+            "score": 129813
+        },
+        {
+            "word": "crocker",
+            "score": 64856
+        },
+        {
+            "word": "rockery",
+            "score": 64802
+        },
+        {
+            "word": "crookery",
+            "score": 64704
+        },
+        {
+            "word": "cracker",
+            "score": 1163
+        },
+        {
+            "word": "grocery",
+            "score": 919
+        },
+        {
+            "word": "mockery",
+            "score": 659
+        },
+        {
+            "word": "rocker",
+            "score": 530
+        },
+        {
+            "word": "cocker",
+            "score": 523
+        },
+        {
+            "word": "cockeyed",
+            "score": 489
+        }
+    ]
+}

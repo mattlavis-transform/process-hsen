@@ -1,0 +1,804 @@
+{
+    "term": "stainless stee",
+    "means_like": [
+        {
+            "word": "steel",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alloys",
+            "score": 10255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "forgings",
+            "score": 10255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steels",
+            "score": 10255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mestizo",
+            "score": 5174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stey",
+            "score": 5174,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "iron",
+            "score": 4427,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needle",
+            "score": 4427,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pin",
+            "score": 4427,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pure",
+            "score": 4427,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "silver",
+            "score": 4427,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stainlessly",
+            "score": 4427,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "unsullied",
+            "score": 4427,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "advanced gas-cooled reactor",
+            "score": 4367
+        },
+        {
+            "word": "blameless",
+            "score": 4367,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chaste",
+            "score": 4367,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "chromium",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruit knife",
+            "score": 4367
+        },
+        {
+            "word": "hubcap",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intrauterine device",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jigger",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knight",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knighting",
+            "score": 4367,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "nickel",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rust",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverware",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teaspoon",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tellurium",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "urinal",
+            "score": 4367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aaea",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "abatis",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "abattis",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acrobat",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acupressure",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerial",
+            "score": 4306,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "aerial railway",
+            "score": 4306
+        },
+        {
+            "word": "aerialist",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affenpinscher",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agate",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agraffe",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aiguille",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "airedale",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alloy",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aluminium",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchor",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchoring",
+            "score": 4306,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "and circuit",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antenna",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aphlogistic",
+            "score": 4306
+        },
+        {
+            "word": "armature",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assemble",
+            "score": 4306,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "assembling",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attenuate",
+            "score": 4306,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "attenuated",
+            "score": 4306,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "australian terrier",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "averruncator",
+            "score": 4306
+        },
+        {
+            "word": "baas",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bail",
+            "score": 4306,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "balance",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bale",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baling wire",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baltimore",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bangalore torpedo",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bank wire",
+            "score": 4306
+        },
+        {
+            "word": "barb",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbed",
+            "score": 4306,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "barbed wire",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbwire",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barretter",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basa",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basket",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basket weave",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bass",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bead",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beads",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "berimbau",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "berlin",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bifilar",
+            "score": 4306,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "billy",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bimetallic",
+            "score": 4306,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "binding",
+            "score": 4306,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "birdcage",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birdcage mask",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blue grass",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bluegrass",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bob",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bobbin",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bobby pin",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "boe",
+            "score": 4306,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bond",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bow",
+            "score": 4306,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bow collector",
+            "score": 4306
+        },
+        {
+            "word": "brace",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "braces",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brad",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brads",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brassiere",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridge",
+            "score": 4306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridged",
+            "score": 4306,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "stainless",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "stainless steel",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "stillest",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "staunchest",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stoneless",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stalest",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "stylist",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "stylists",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "sanest",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stemless",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "stingless",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "steamiest",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "stablest",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "stainlessness",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "sinlessly",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "stainless steel",
+            "score": 117
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "stainless steel",
+            "score": 129435
+        },
+        {
+            "word": "stainless steels",
+            "score": 129326
+        },
+        {
+            "word": "stainless steel crown",
+            "score": 129325
+        },
+        {
+            "word": "stainless-steel",
+            "score": 64697
+        }
+    ]
+}

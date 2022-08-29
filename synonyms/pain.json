@@ -1,0 +1,1669 @@
+{
+    "term": "pain",
+    "means_like": [
+        {
+            "word": "anguish",
+            "score": 101285,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "painfulness",
+            "score": 94971,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "hurting",
+            "score": 94753,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "annoyance",
+            "score": 93272,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "hurt",
+            "score": 92761,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "trouble",
+            "score": 92141,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "botheration",
+            "score": 90991,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "afflict",
+            "score": 89694,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "ail",
+            "score": 89440,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bother",
+            "score": 88661,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "nuisance",
+            "score": 87590,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pain in the ass",
+            "score": 82932,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pain in the neck",
+            "score": 82932,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "painful sensation",
+            "score": 82932,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "discomfort",
+            "score": 82931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ache",
+            "score": 80707,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agony",
+            "score": 79742,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soreness",
+            "score": 79286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anxiety",
+            "score": 78571,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heartache",
+            "score": 76887,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trauma",
+            "score": 76541,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grief",
+            "score": 76461,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "painful",
+            "score": 76239,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "headache",
+            "score": 75610,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sore",
+            "score": 75570,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "suffering",
+            "score": 75568,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "nausea",
+            "score": 75191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hardship",
+            "score": 74477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "misery",
+            "score": 74378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torment",
+            "score": 73946,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "distress",
+            "score": 73893,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tenderness",
+            "score": 73869,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heartbreak",
+            "score": 73798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "injury",
+            "score": 73632,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sorrow",
+            "score": 73443,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sadness",
+            "score": 73352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "affliction",
+            "score": 73229,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analgesic",
+            "score": 72924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analgesia",
+            "score": 72259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hurts",
+            "score": 72179,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "painkiller",
+            "score": 72056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bitterness",
+            "score": 71928,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woe",
+            "score": 71569,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "burden",
+            "score": 71483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torments",
+            "score": 71180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inconvenience",
+            "score": 70932,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loss",
+            "score": 70546,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sting",
+            "score": 70445,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harm",
+            "score": 70400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "difficulty",
+            "score": 70343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "balm",
+            "score": 70303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "damage",
+            "score": 70211,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relaxation",
+            "score": 70074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "regret",
+            "score": 69591,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ordeal",
+            "score": 69477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bereavement",
+            "score": 69391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wound",
+            "score": 69303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sympathy",
+            "score": 69126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "misfortune",
+            "score": 67913,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sufferance",
+            "score": 67713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plight",
+            "score": 67548,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacrifice",
+            "score": 67490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prejudice",
+            "score": 67383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "punishment",
+            "score": 67350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pity",
+            "score": 67061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bedside",
+            "score": 66587,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "squirm",
+            "score": 66358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bad",
+            "score": 66278,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "thorn",
+            "score": 66193,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undesirability",
+            "score": 65504,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "time",
+            "score": 65407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aggrieve",
+            "score": 65359,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "wrong",
+            "score": 65259,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "grievance",
+            "score": 65237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sentencing",
+            "score": 65215,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tolerance",
+            "score": 65116,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ill",
+            "score": 65035,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "badly",
+            "score": 64706,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "weak",
+            "score": 64666,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "death",
+            "score": 64390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lot",
+            "score": 64261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touch",
+            "score": 64201,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penalty",
+            "score": 64106,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mother",
+            "score": 64039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "umma",
+            "score": 64028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "worth",
+            "score": 63905,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sentence",
+            "score": 63777,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evil",
+            "score": 63676,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poorly",
+            "score": 63438,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "loaf",
+            "score": 63162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arrears",
+            "score": 63101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mal",
+            "score": 63011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boring",
+            "score": 62793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backlog",
+            "score": 62781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maternal",
+            "score": 62678,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "beard",
+            "score": 62176,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motherland",
+            "score": 61829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "term",
+            "score": 61633,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spite",
+            "score": 61553,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smart",
+            "score": 61375,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "pain",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pane",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "payne",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "paine",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pein",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "payn",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "pen",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pin",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pine",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pawn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pun",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pon",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poon",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "penn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pone",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "peen",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pwn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "penne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "poen",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pean",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pene",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paun",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pinn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "paan",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pyne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pame",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "peine",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "penh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pinne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "panne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pann",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pkin",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "puin",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pqn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "pyn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bane",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bain",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "baine",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "bayne",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "baen",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "beinn",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "pay",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plane",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paint",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "plain",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "palm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pong",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pains",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ping",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "painter",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pom",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pained",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peng",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "panes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pome",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pany",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pim",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paino",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "poam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pei",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pey",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "payee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pomme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paye",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pimm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pime",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peins",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "palme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "piem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paned",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "payan",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paig",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paeon",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pagne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "payen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pay in",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lpe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paio",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pomb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peya",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "parrain",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paum",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pnm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pamm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "paume",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "peyo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "paien",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "pemb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pmb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "pmk",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "pain",
+            "score": 2141
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "numbness",
+            "score": 1584
+        },
+        {
+            "word": "opioids",
+            "score": 1552
+        },
+        {
+            "word": "opioid",
+            "score": 1512
+        },
+        {
+            "word": "swelling",
+            "score": 1509
+        },
+        {
+            "word": "tenderness",
+            "score": 1506
+        },
+        {
+            "word": "nausea",
+            "score": 1505
+        },
+        {
+            "word": "discomfort",
+            "score": 1489
+        },
+        {
+            "word": "headache",
+            "score": 1486
+        },
+        {
+            "word": "vomiting",
+            "score": 1482
+        },
+        {
+            "word": "diarrhea",
+            "score": 1474
+        },
+        {
+            "word": "morphine",
+            "score": 1455
+        },
+        {
+            "word": "inflammation",
+            "score": 1443
+        },
+        {
+            "word": "arthritis",
+            "score": 1431
+        },
+        {
+            "word": "bowel",
+            "score": 1425
+        },
+        {
+            "word": "medication",
+            "score": 1421
+        },
+        {
+            "word": "symptom",
+            "score": 1416
+        },
+        {
+            "word": "chronic",
+            "score": 1401
+        },
+        {
+            "word": "spinal",
+            "score": 1396
+        },
+        {
+            "word": "painful",
+            "score": 1395
+        },
+        {
+            "word": "dysfunction",
+            "score": 1392
+        },
+        {
+            "word": "sensation",
+            "score": 1384
+        },
+        {
+            "word": "abdominal",
+            "score": 1381
+        },
+        {
+            "word": "fatigue",
+            "score": 1371
+        },
+        {
+            "word": "nerves",
+            "score": 1363
+        },
+        {
+            "word": "symptoms",
+            "score": 1356
+        },
+        {
+            "word": "nerve",
+            "score": 1354
+        },
+        {
+            "word": "bleeding",
+            "score": 1353
+        },
+        {
+            "word": "stimuli",
+            "score": 1351
+        },
+        {
+            "word": "pleasure",
+            "score": 1338
+        },
+        {
+            "word": "weakness",
+            "score": 1335
+        },
+        {
+            "word": "stimulation",
+            "score": 1333
+        },
+        {
+            "word": "syndrome",
+            "score": 1331
+        },
+        {
+            "word": "suffering",
+            "score": 1328
+        },
+        {
+            "word": "sensory",
+            "score": 1322
+        },
+        {
+            "word": "acute",
+            "score": 1321
+        },
+        {
+            "word": "joints",
+            "score": 1320
+        },
+        {
+            "word": "distress",
+            "score": 1311
+        },
+        {
+            "word": "spine",
+            "score": 1305
+        },
+        {
+            "word": "anxiety",
+            "score": 1302
+        },
+        {
+            "word": "muscles",
+            "score": 1298
+        },
+        {
+            "word": "muscle",
+            "score": 1296
+        },
+        {
+            "word": "fever",
+            "score": 1290
+        },
+        {
+            "word": "chest",
+            "score": 1280
+        },
+        {
+            "word": "cord",
+            "score": 1277
+        },
+        {
+            "word": "injection",
+            "score": 1275
+        },
+        {
+            "word": "diagnosis",
+            "score": 1274
+        },
+        {
+            "word": "receptors",
+            "score": 1270
+        },
+        {
+            "word": "patients",
+            "score": 1268
+        },
+        {
+            "word": "sensitivity",
+            "score": 1265
+        },
+        {
+            "word": "sar",
+            "score": 1263
+        },
+        {
+            "word": "stomach",
+            "score": 1261
+        },
+        {
+            "word": "trauma",
+            "score": 1256
+        },
+        {
+            "word": "relief",
+            "score": 1255
+        },
+        {
+            "word": "surgical",
+            "score": 1250
+        },
+        {
+            "word": "surgery",
+            "score": 1243
+        },
+        {
+            "word": "infection",
+            "score": 1239
+        },
+        {
+            "word": "nervous",
+            "score": 1237
+        },
+        {
+            "word": "patient",
+            "score": 1230
+        },
+        {
+            "word": "shoulder",
+            "score": 1227
+        },
+        {
+            "word": "knee",
+            "score": 1226
+        },
+        {
+            "word": "severe",
+            "score": 1225
+        },
+        {
+            "word": "complications",
+            "score": 1218
+        },
+        {
+            "word": "therapy",
+            "score": 1216
+        },
+        {
+            "word": "diagnosed",
+            "score": 1213
+        },
+        {
+            "word": "healing",
+            "score": 1212
+        },
+        {
+            "word": "perception",
+            "score": 1211
+        },
+        {
+            "word": "tissue",
+            "score": 1209
+        },
+        {
+            "word": "wound",
+            "score": 1207
+        },
+        {
+            "word": "treatment",
+            "score": 1200
+        },
+        {
+            "word": "neck",
+            "score": 1198
+        },
+        {
+            "word": "dental",
+            "score": 1192
+        },
+        {
+            "word": "disorder",
+            "score": 1186
+        },
+        {
+            "word": "treat",
+            "score": 1182
+        },
+        {
+            "word": "psychological",
+            "score": 1179
+        },
+        {
+            "word": "skin",
+            "score": 1178
+        },
+        {
+            "word": "drugs",
+            "score": 1173
+        },
+        {
+            "word": "emotional",
+            "score": 1172
+        },
+        {
+            "word": "bone",
+            "score": 1170
+        },
+        {
+            "word": "clinical",
+            "score": 1167
+        },
+        {
+            "word": "sleep",
+            "score": 1161
+        },
+        {
+            "word": "intensity",
+            "score": 1158
+        },
+        {
+            "word": "burning",
+            "score": 1155
+        },
+        {
+            "word": "rural",
+            "score": 1151
+        },
+        {
+            "word": "experienced",
+            "score": 1149
+        },
+        {
+            "word": "feeling",
+            "score": 1148
+        },
+        {
+            "word": "injury",
+            "score": 1146
+        },
+        {
+            "word": "disease",
+            "score": 1144
+        },
+        {
+            "word": "stress",
+            "score": 1138
+        },
+        {
+            "word": "caused",
+            "score": 1136
+        },
+        {
+            "word": "doctors",
+            "score": 1134
+        },
+        {
+            "word": "oral",
+            "score": 1131
+        },
+        {
+            "word": "brain",
+            "score": 1129
+        },
+        {
+            "word": "occur",
+            "score": 1127
+        },
+        {
+            "word": "procedure",
+            "score": 1126
+        },
+        {
+            "word": "cause",
+            "score": 1124
+        },
+        {
+            "word": "fear",
+            "score": 1123
+        },
+        {
+            "word": "causes",
+            "score": 1120
+        },
+        {
+            "word": "blood",
+            "score": 1114
+        },
+        {
+            "word": "hip",
+            "score": 1112
+        },
+        {
+            "word": "depression",
+            "score": 1111
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "pain",
+            "score": 2141
+        },
+        {
+            "word": "paint",
+            "score": 1670
+        },
+        {
+            "word": "painting",
+            "score": 993
+        },
+        {
+            "word": "painter",
+            "score": 817
+        },
+        {
+            "word": "painstaking",
+            "score": 751
+        },
+        {
+            "word": "painful",
+            "score": 641
+        },
+        {
+            "word": "pains",
+            "score": 423
+        },
+        {
+            "word": "paine",
+            "score": 356
+        },
+        {
+            "word": "painkiller",
+            "score": 352
+        },
+        {
+            "word": "paintbrush",
+            "score": 334
+        }
+    ]
+}

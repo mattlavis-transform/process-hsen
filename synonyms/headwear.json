@@ -1,0 +1,1445 @@
+{
+    "term": "headwear",
+    "means_like": [
+        {
+            "word": "headgear",
+            "score": 71550,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hats",
+            "score": 66962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "millinery",
+            "score": 65191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyle",
+            "score": 64919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairdo",
+            "score": 64811,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headdress",
+            "score": 64506,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 63568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "helmet",
+            "score": 63371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hat",
+            "score": 63020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hair",
+            "score": 61042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haircut",
+            "score": 60581,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 60027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headset",
+            "score": 59466,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairdressing",
+            "score": 56728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barber",
+            "score": 55829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "profession",
+            "score": 54469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 51418,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 51417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 51416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckwear",
+            "score": 51415,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beanie",
+            "score": 51414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garb",
+            "score": 51412,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sportswear",
+            "score": 51411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snood",
+            "score": 51409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hijab",
+            "score": 51408,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beachwear",
+            "score": 51407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headscarf",
+            "score": 51406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 51403,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footwear",
+            "score": 51402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 51401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 51400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarment",
+            "score": 51399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rainwear",
+            "score": 51398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wear",
+            "score": 51397,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turbans",
+            "score": 51396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scarves",
+            "score": 51395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 51394,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapeaus",
+            "score": 51392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazers",
+            "score": 51391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 51390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 51389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trilbies",
+            "score": 51388,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swimwear",
+            "score": 51387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweaters",
+            "score": 51385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "uniforms",
+            "score": 51384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hajib",
+            "score": 51383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandals",
+            "score": 51382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footgear",
+            "score": 51381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "espadrille",
+            "score": 51380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crewneck",
+            "score": 51379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coverings",
+            "score": 51378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denim",
+            "score": 51377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gowns",
+            "score": 51376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tudung",
+            "score": 51375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "foulard",
+            "score": 51374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underclothing",
+            "score": 51373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visors",
+            "score": 51372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wardrobe",
+            "score": 51371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglass",
+            "score": 51370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "duffel coat",
+            "score": 51369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellington boots",
+            "score": 51368,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kilt",
+            "score": 51367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 51366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headpieces",
+            "score": 51365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 51364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bermuda shorts",
+            "score": 51363,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "trousers",
+            "score": 51362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfits",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wigs",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglasses",
+            "score": 51359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burqini",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puggree",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headband",
+            "score": 51356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skirts",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watch cap",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckties",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workwear",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sport coat",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "waistcoats",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frocks",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sleepwear",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandarin collar",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bootees",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petasus",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "unisex",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoodie",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thongs",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beards",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyles",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyewear",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earflaps",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wearers",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "academic costume",
+            "score": 51333,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "streetwear",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tweeds",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "headwear",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "headway",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "headgear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedwig",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hotwire",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "head gear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot wire",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "hot war",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "headwater",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "headier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "head waiter",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "handwear",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hehir",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardware",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hit with",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "header",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whir",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "haywire",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whirr",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "midyear",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "high wire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "headword",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwire",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "headward",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadwin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hardwar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "head for",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard wire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "headwall",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "head word",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "high-wire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "cdr",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "sudhir",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "kdr",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "houhere",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "where",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "hydr",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedda",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "knitwear",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "head rush",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot air",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hidr",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "houseware",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedera",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "huddler",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hear hear",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot weather",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "hot-air",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hetzer",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "tattooer",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "headed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heading",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heavier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heady",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "harrier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hairier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "headliner",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hader",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "haider",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headwind",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedley",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heidy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headteacher",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hairdryer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hedi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headley",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hair dryer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heidegger",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hedrick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hadder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "head teacher",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headwaters",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bedwetter",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hedin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hellyer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "adware",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "harier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "headpin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heider",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "held dear",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bed wetter",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "heeder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "dead air",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hajjar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headrick",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hayder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headcheese",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hedis",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "headlee",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hair drier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hairdrier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "haughtier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hedvig",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "head sea",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "head cheese",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heidler",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "haridwar",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "headfish",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "headwear",
+            "score": 129527
+        },
+        {
+            "word": "headgear",
+            "score": 64991
+        },
+        {
+            "word": "headway",
+            "score": 712
+        },
+        {
+            "word": "header",
+            "score": 630
+        },
+        {
+            "word": "headier",
+            "score": 83
+        },
+        {
+            "word": "handwear",
+            "score": 47
+        },
+        {
+            "word": "head gear",
+            "score": 23
+        },
+        {
+            "word": "had ear",
+            "score": 6
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "hats",
+            "score": 1677
+        },
+        {
+            "word": "headdress",
+            "score": 1658
+        },
+        {
+            "word": "footwear",
+            "score": 1615
+        },
+        {
+            "word": "flaps",
+            "score": 1613
+        },
+        {
+            "word": "apparel",
+            "score": 1569
+        },
+        {
+            "word": "hat",
+            "score": 1565
+        },
+        {
+            "word": "worn",
+            "score": 1524
+        },
+        {
+            "word": "accessories",
+            "score": 1517
+        },
+        {
+            "word": "caps",
+            "score": 1472
+        },
+        {
+            "word": "insignia",
+            "score": 1452
+        },
+        {
+            "word": "qing",
+            "score": 1442
+        },
+        {
+            "word": "wear",
+            "score": 1440
+        },
+        {
+            "word": "cap",
+            "score": 1433
+        },
+        {
+            "word": "wore",
+            "score": 1396
+        },
+        {
+            "word": "clothing",
+            "score": 1392
+        },
+        {
+            "word": "dress",
+            "score": 1385
+        },
+        {
+            "word": "uniform",
+            "score": 1368
+        },
+        {
+            "word": "varied",
+            "score": 1356
+        },
+        {
+            "word": "wearing",
+            "score": 1348
+        },
+        {
+            "word": "colours",
+            "score": 1345
+        },
+        {
+            "word": "fashion",
+            "score": 1335
+        },
+        {
+            "word": "dynasty",
+            "score": 1333
+        },
+        {
+            "word": "hair",
+            "score": 1314
+        },
+        {
+            "word": "consisted",
+            "score": 1303
+        },
+        {
+            "word": "officials",
+            "score": 1250
+        },
+        {
+            "word": "products",
+            "score": 1245
+        },
+        {
+            "word": "designs",
+            "score": 1242
+        },
+        {
+            "word": "stores",
+            "score": 1231
+        },
+        {
+            "word": "brand",
+            "score": 1217
+        },
+        {
+            "word": "academic",
+            "score": 1208
+        },
+        {
+            "word": "officers",
+            "score": 1203
+        },
+        {
+            "word": "regiment",
+            "score": 1199
+        },
+        {
+            "word": "black",
+            "score": 1189
+        },
+        {
+            "word": "etc",
+            "score": 1186
+        },
+        {
+            "word": "protection",
+            "score": 1179
+        },
+        {
+            "word": "sometimes",
+            "score": 1176
+        },
+        {
+            "word": "usually",
+            "score": 1170
+        },
+        {
+            "word": "sports",
+            "score": 1166
+        },
+        {
+            "word": "label",
+            "score": 1162
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "headwear",
+            "score": 129527
+        },
+        {
+            "word": "headgear",
+            "score": 64991
+        },
+        {
+            "word": "headward",
+            "score": 64686
+        },
+        {
+            "word": "headbeard",
+            "score": 64678
+        },
+        {
+            "word": "eadweard muybridge",
+            "score": 64674
+        },
+        {
+            "word": "headwards",
+            "score": 64667
+        },
+        {
+            "word": "headward erosion",
+            "score": 64664
+        },
+        {
+            "word": "eadweard",
+            "score": 64663
+        },
+        {
+            "word": "headquarters",
+            "score": 749
+        },
+        {
+            "word": "headway",
+            "score": 712
+        }
+    ]
+}

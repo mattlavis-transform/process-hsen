@@ -1,0 +1,861 @@
+{
+    "term": "confectionary",
+    "means_like": [
+        {
+            "word": "confectionery",
+            "score": 78853,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candy",
+            "score": 69120,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confection",
+            "score": 67643,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "factory",
+            "score": 61280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confectioner",
+            "score": 51361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate",
+            "score": 51360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bakery",
+            "score": 51358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biscuit",
+            "score": 51357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolatier",
+            "score": 51356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patisserie",
+            "score": 51355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice cream",
+            "score": 51354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetmeat",
+            "score": 51353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pastry",
+            "score": 51352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nougat",
+            "score": 51351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sugar",
+            "score": 51350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "golden syrup",
+            "score": 51349,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "icecream",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "praline",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweetshop",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snack",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marzipan",
+            "score": 51344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "digestive biscuit",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocoa",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate truffle",
+            "score": 51341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peanut brittle",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocoa bean",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macaroon",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocoa powder",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chiffon cake",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweet shop",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confections",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candymaker",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweets",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soft drink",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rock candy",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beverage",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couverture",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "petfood",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cereals",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malted milk",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fruit juice",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rusk",
+            "score": 51322,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "custard powder",
+            "score": 51321,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dairy",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chewing gum",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caramels",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crisps",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yoghurt",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baked goods",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wholefood",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pulpatoon",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crispbread",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cadbury",
+            "score": 51310,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "baking",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumery",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biscotin",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocs",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cola",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dreamery",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teacake",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gelati",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "toyshop",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "punica",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enrober",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skor",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchenware",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bakeware",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comestible",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lollies",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kvass",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supermarket",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogurt",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emulsifiers",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halvah",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tinplate",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shortbreads",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spice cake",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ovaltine",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frozen custard",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ice milk",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demerara",
+            "score": 51282,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sorghum molasses",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassata",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mycoprotein",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puffed wheat",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potato chip",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheese",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffee liqueur",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candied apple",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "christmas cake",
+            "score": 51273,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "packaging",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chocolate candy",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuck shop",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cakes",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacher torte",
+            "score": 51268,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pinguin",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baba au rhum",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eclairs",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soya milk",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "confectionary",
+            "score": 100,
+            "numSyllables": 5
+        },
+        {
+            "word": "confectionery",
+            "score": 100,
+            "numSyllables": 5
+        },
+        {
+            "word": "confectionaries",
+            "score": 90,
+            "numSyllables": 5
+        },
+        {
+            "word": "confessionary",
+            "score": 90,
+            "numSyllables": 5
+        },
+        {
+            "word": "confectioner",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "confectioners",
+            "score": 80,
+            "numSyllables": 4
+        },
+        {
+            "word": "confectioneries",
+            "score": 80,
+            "numSyllables": 5
+        },
+        {
+            "word": "concessionary",
+            "score": 75,
+            "numSyllables": 5
+        },
+        {
+            "word": "commissionary",
+            "score": 72,
+            "numSyllables": 5
+        },
+        {
+            "word": "confessionally",
+            "score": 72,
+            "numSyllables": 5
+        },
+        {
+            "word": "confection",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "confections",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "contractionary",
+            "score": 70,
+            "numSyllables": 5
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "confectionary",
+            "score": 129987
+        },
+        {
+            "word": "confectionery",
+            "score": 65596
+        },
+        {
+            "word": "confectioner",
+            "score": 248
+        },
+        {
+            "word": "confessionary",
+            "score": 50
+        },
+        {
+            "word": "conventionary",
+            "score": 36
+        },
+        {
+            "word": "confectioners",
+            "score": 29
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "shop",
+            "score": 1498
+        },
+        {
+            "word": "corporation",
+            "score": 1391
+        },
+        {
+            "word": "historic",
+            "score": 1324
+        },
+        {
+            "word": "company",
+            "score": 1260
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "confectionary",
+            "score": 129987
+        },
+        {
+            "word": "confectionery",
+            "score": 65596
+        },
+        {
+            "word": "confectionaries",
+            "score": 64715
+        },
+        {
+            "word": "confectioner",
+            "score": 248
+        },
+        {
+            "word": "confessionary",
+            "score": 50
+        },
+        {
+            "word": "conventionary",
+            "score": 36
+        },
+        {
+            "word": "confectioneries",
+            "score": 34
+        },
+        {
+            "word": "confectioners",
+            "score": 29
+        },
+        {
+            "word": "confectioners sugar",
+            "score": 29
+        }
+    ]
+}

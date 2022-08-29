@@ -1,0 +1,611 @@
+{
+    "term": "keyrings",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "key rings",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kerins",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "keyring",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "key ring",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "clearings",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "karens",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "caroms",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "kerens",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "hearings",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caring",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "coverings",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "cushings",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "colorings",
+            "score": 87,
+            "numSyllables": 3
+        },
+        {
+            "word": "korans",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "carols",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "killings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cowering",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "carvings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "crims",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "kirin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "crs",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "herrings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "coring",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "keirin",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "karels",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "colourings",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "corals",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "gearing",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "corrals",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "chorals",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "gering",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "carrels",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "geering",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "shearings",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "crumbs",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "carries",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kieran",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "karin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cairns",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "kiran",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "caries",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "karis",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kieron",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "carys",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kairos",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "currys",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "keeran",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kerin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuttings",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kyran",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "caras",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "karas",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kerrin",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "carras",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "caros",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kennings",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "karras",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "clarins",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cyran",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "keros",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "krems",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "krenz",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "kuras",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "karris",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "crems",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "keris",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "carinae",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "currans",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaarina",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "kirill",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "clearing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corns",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "carin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clings",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "callings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "casings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corinna",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "caryn",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chromes",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "caris",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "carnes",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "coatings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "chorine",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "catherines",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "careens",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "carms",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "collings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "carns",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "carris",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cornes",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "carros",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "careering",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "coris",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "catchings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "canings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "corms",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "codings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "carlins",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "keyring",
+            "score": 64830
+        },
+        {
+            "word": "key rings",
+            "score": 64669
+        },
+        {
+            "word": "bearings",
+            "score": 522
+        },
+        {
+            "word": "key ring",
+            "score": 145
+        },
+        {
+            "word": "keying",
+            "score": 144
+        },
+        {
+            "word": "keepings",
+            "score": 107
+        },
+        {
+            "word": "hearings",
+            "score": 92
+        },
+        {
+            "word": "earings",
+            "score": 68
+        },
+        {
+            "word": "herrings",
+            "score": 65
+        },
+        {
+            "word": "kennings",
+            "score": 52
+        },
+        {
+            "word": "gearings",
+            "score": 16
+        },
+        {
+            "word": "wearings",
+            "score": 8
+        },
+        {
+            "word": "kering",
+            "score": 4
+        },
+        {
+            "word": "tearings",
+            "score": 4
+        },
+        {
+            "word": "kerins",
+            "score": 2
+        },
+        {
+            "word": "krings",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "keyring",
+            "score": 64830
+        },
+        {
+            "word": "key rings",
+            "score": 64669
+        },
+        {
+            "word": "bearings",
+            "score": 522
+        },
+        {
+            "word": "key ring",
+            "score": 145
+        },
+        {
+            "word": "keying",
+            "score": 144
+        },
+        {
+            "word": "keepings",
+            "score": 107
+        },
+        {
+            "word": "hearings",
+            "score": 92
+        },
+        {
+            "word": "earings",
+            "score": 68
+        },
+        {
+            "word": "herrings",
+            "score": 65
+        },
+        {
+            "word": "kennings",
+            "score": 52
+        }
+    ]
+}

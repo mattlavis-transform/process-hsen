@@ -1,0 +1,1634 @@
+{
+    "term": "jewelry",
+    "means_like": [
+        {
+            "word": "jewellery",
+            "score": 84939,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "jeweler",
+            "score": 71343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklace",
+            "score": 70180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewels",
+            "score": 70111,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gemstone",
+            "score": 68513,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bling",
+            "score": 66084,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ornament",
+            "score": 64890,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gold",
+            "score": 64721,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "diamond",
+            "score": 64586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adornment",
+            "score": 63797,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decoration",
+            "score": 62953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gem",
+            "score": 60452,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewel",
+            "score": 60030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeweller",
+            "score": 59416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gun",
+            "score": 57567,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "junk",
+            "score": 56897,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baby",
+            "score": 55448,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "puppy",
+            "score": 54544,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fork",
+            "score": 51584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaut",
+            "score": 51103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engagement ring",
+            "score": 50851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whistle",
+            "score": 50851,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "semiprecious",
+            "score": 50850,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 50848,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beadwork",
+            "score": 50847,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cufflink",
+            "score": 50846,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tanzanite",
+            "score": 50845,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birthstone",
+            "score": 50844,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume jewelry",
+            "score": 50843,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklaces",
+            "score": 50842,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bijoutry",
+            "score": 50841,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelers",
+            "score": 50840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelery",
+            "score": 50838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendeloque",
+            "score": 50837,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earrings",
+            "score": 50836,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earring",
+            "score": 50834,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "antiques",
+            "score": 50832,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gemstones",
+            "score": 50831,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbags",
+            "score": 50830,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sterling silver",
+            "score": 50829,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bracelet",
+            "score": 50828,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry store",
+            "score": 50827,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baubles",
+            "score": 50826,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "precious stone",
+            "score": 50825,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornaments",
+            "score": 50824,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bangle",
+            "score": 50823,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendant",
+            "score": 50821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooches",
+            "score": 50820,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collectibles",
+            "score": 50818,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendants",
+            "score": 50817,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caracoly",
+            "score": 50816,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry maker",
+            "score": 50815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tableware",
+            "score": 50814,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furniture",
+            "score": 50813,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trinketry",
+            "score": 50812,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bangles",
+            "score": 50811,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furnishings",
+            "score": 50810,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dinnerware",
+            "score": 50809,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bead",
+            "score": 50808,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "holloware",
+            "score": 50807,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessories",
+            "score": 50806,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hollowware",
+            "score": 50805,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gemmeous",
+            "score": 50804,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kitchenware",
+            "score": 50802,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mundil",
+            "score": 50801,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "silverwork",
+            "score": 50800,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 50799,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diamonds",
+            "score": 50798,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "timepieces",
+            "score": 50797,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal",
+            "score": 50796,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ylang",
+            "score": 50795,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lockets",
+            "score": 50794,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amethysts",
+            "score": 50793,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ceramics",
+            "score": 50792,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gemmated",
+            "score": 50790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transparent gem",
+            "score": 50789,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iolite",
+            "score": 50788,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 50787,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "opaque gem",
+            "score": 50786,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumes",
+            "score": 50785,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "furs",
+            "score": 50784,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 50783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bracelets",
+            "score": 50782,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flatware",
+            "score": 50780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookware",
+            "score": 50778,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flat silver",
+            "score": 50777,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jadeite",
+            "score": 50776,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watchband",
+            "score": 50775,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jade",
+            "score": 50774,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "oroide",
+            "score": 50773,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enameling",
+            "score": 50772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aventurine",
+            "score": 50771,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solitaires",
+            "score": 50770,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dactyliology",
+            "score": 50769,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glyptography",
+            "score": 50768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bibelots",
+            "score": 50767,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rhinestone",
+            "score": 50766,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 50765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "judaica",
+            "score": 50764,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "water sapphire",
+            "score": 50763,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "jewelry",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "jewellery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "jeweler",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "jewelery",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "jewelers",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "jewellers",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "jugglery",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "jewish rye",
+            "score": 82,
+            "numSyllables": 3
+        },
+        {
+            "word": "jewel",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jewels",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "julie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jubilee",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "juli",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeweled",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeweller",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "sual",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jewelled",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jewry",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "juul",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "julee",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "juglar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jullie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "jai alai",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "jalee",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "juicily",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "jlr",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gullery",
+            "score": 79,
+            "numSyllables": 3
+        },
+        {
+            "word": "chivalry",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "jelly",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jerry",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gerry",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jilly",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jewell",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jere",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gery",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "geri",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeri",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gelly",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jarry",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jerri",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jelley",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gerri",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gili",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "joella",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "jerrie",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jiri",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "geli",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gerrie",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jeli",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "jewishly",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "guillory",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "jolly",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hillary",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "joel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hilary",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jolie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jittery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jailer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jiggly",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "joly",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jailor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "giulia",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jaggery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jolley",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "joinery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "joli",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hillery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jori",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jolee",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jailers",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gial",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jari",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "johal",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jorie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jongleur",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "giulio",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jangly",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jailors",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jiggery",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "gibler",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "gigli",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jollily",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "geoffroy",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jalea",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "giclee",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaggary",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "javari",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jazzily",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "joller",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gengler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "joggler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jokily",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "giuffre",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "jlu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gemmary",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "johore",
+            "score": 75,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "jewelry",
+            "score": 130718
+        },
+        {
+            "word": "jewelery",
+            "score": 64661
+        },
+        {
+            "word": "jewellery",
+            "score": 963
+        },
+        {
+            "word": "jewel",
+            "score": 926
+        },
+        {
+            "word": "revelry",
+            "score": 672
+        },
+        {
+            "word": "jewels",
+            "score": 369
+        },
+        {
+            "word": "jeweler",
+            "score": 357
+        },
+        {
+            "word": "jeweled",
+            "score": 161
+        },
+        {
+            "word": "jewry",
+            "score": 138
+        },
+        {
+            "word": "ewery",
+            "score": 66
+        },
+        {
+            "word": "jewelers",
+            "score": 51
+        },
+        {
+            "word": "jewell",
+            "score": 40
+        },
+        {
+            "word": "meselry",
+            "score": 22
+        },
+        {
+            "word": "bedelry",
+            "score": 16
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "earrings",
+            "score": 1620
+        },
+        {
+            "word": "jeweler",
+            "score": 1594
+        },
+        {
+            "word": "piercing",
+            "score": 1543
+        },
+        {
+            "word": "silverware",
+            "score": 1490
+        },
+        {
+            "word": "accessories",
+            "score": 1473
+        },
+        {
+            "word": "necklace",
+            "score": 1460
+        },
+        {
+            "word": "beads",
+            "score": 1459
+        },
+        {
+            "word": "pearls",
+            "score": 1440
+        },
+        {
+            "word": "tiffany",
+            "score": 1434
+        },
+        {
+            "word": "diamonds",
+            "score": 1428
+        },
+        {
+            "word": "watches",
+            "score": 1419
+        },
+        {
+            "word": "jewels",
+            "score": 1408
+        },
+        {
+            "word": "gems",
+            "score": 1405
+        },
+        {
+            "word": "precious",
+            "score": 1396
+        },
+        {
+            "word": "boutique",
+            "score": 1384
+        },
+        {
+            "word": "designer",
+            "score": 1378
+        },
+        {
+            "word": "jewellery",
+            "score": 1371
+        },
+        {
+            "word": "rings",
+            "score": 1363
+        },
+        {
+            "word": "retailer",
+            "score": 1360
+        },
+        {
+            "word": "ceramics",
+            "score": 1354
+        },
+        {
+            "word": "pottery",
+            "score": 1353
+        },
+        {
+            "word": "textiles",
+            "score": 1348
+        },
+        {
+            "word": "gem",
+            "score": 1341
+        },
+        {
+            "word": "clothing",
+            "score": 1336
+        },
+        {
+            "word": "store",
+            "score": 1334
+        },
+        {
+            "word": "metals",
+            "score": 1327
+        },
+        {
+            "word": "worn",
+            "score": 1324
+        },
+        {
+            "word": "diamond",
+            "score": 1321
+        },
+        {
+            "word": "robbery",
+            "score": 1310
+        },
+        {
+            "word": "antique",
+            "score": 1309
+        },
+        {
+            "word": "furniture",
+            "score": 1307
+        },
+        {
+            "word": "items",
+            "score": 1303
+        },
+        {
+            "word": "crafts",
+            "score": 1301
+        },
+        {
+            "word": "toys",
+            "score": 1299
+        },
+        {
+            "word": "stores",
+            "score": 1289
+        },
+        {
+            "word": "decorative",
+            "score": 1286
+        },
+        {
+            "word": "gifts",
+            "score": 1284
+        },
+        {
+            "word": "luxury",
+            "score": 1279
+        },
+        {
+            "word": "leather",
+            "score": 1277
+        },
+        {
+            "word": "wire",
+            "score": 1265
+        },
+        {
+            "word": "coins",
+            "score": 1264
+        },
+        {
+            "word": "stones",
+            "score": 1257
+        },
+        {
+            "word": "costume",
+            "score": 1255
+        },
+        {
+            "word": "designs",
+            "score": 1253
+        },
+        {
+            "word": "fashion",
+            "score": 1249
+        },
+        {
+            "word": "shells",
+            "score": 1248
+        },
+        {
+            "word": "shoes",
+            "score": 1246
+        },
+        {
+            "word": "clothes",
+            "score": 1245
+        },
+        {
+            "word": "shop",
+            "score": 1244
+        },
+        {
+            "word": "sterling",
+            "score": 1239
+        },
+        {
+            "word": "stolen",
+            "score": 1236
+        },
+        {
+            "word": "pieces",
+            "score": 1230
+        },
+        {
+            "word": "boxes",
+            "score": 1218
+        },
+        {
+            "word": "artifacts",
+            "score": 1213
+        },
+        {
+            "word": "silver",
+            "score": 1206
+        },
+        {
+            "word": "objects",
+            "score": 1203
+        },
+        {
+            "word": "brands",
+            "score": 1201
+        },
+        {
+            "word": "sculpture",
+            "score": 1196
+        },
+        {
+            "word": "glass",
+            "score": 1195
+        },
+        {
+            "word": "goods",
+            "score": 1193
+        },
+        {
+            "word": "gold",
+            "score": 1191
+        },
+        {
+            "word": "wear",
+            "score": 1185
+        },
+        {
+            "word": "hair",
+            "score": 1180
+        },
+        {
+            "word": "brand",
+            "score": 1178
+        },
+        {
+            "word": "wedding",
+            "score": 1177
+        },
+        {
+            "word": "wore",
+            "score": 1174
+        },
+        {
+            "word": "craft",
+            "score": 1168
+        },
+        {
+            "word": "retail",
+            "score": 1167
+        },
+        {
+            "word": "collection",
+            "score": 1165
+        },
+        {
+            "word": "workshop",
+            "score": 1161
+        },
+        {
+            "word": "copper",
+            "score": 1158
+        },
+        {
+            "word": "tools",
+            "score": 1156
+        },
+        {
+            "word": "dress",
+            "score": 1154
+        },
+        {
+            "word": "fine",
+            "score": 1152
+        },
+        {
+            "word": "wearing",
+            "score": 1150
+        },
+        {
+            "word": "electronics",
+            "score": 1146
+        },
+        {
+            "word": "manufacturing",
+            "score": 1141
+        },
+        {
+            "word": "metal",
+            "score": 1139
+        },
+        {
+            "word": "manufacturer",
+            "score": 1138
+        },
+        {
+            "word": "shopping",
+            "score": 1136
+        },
+        {
+            "word": "gift",
+            "score": 1129
+        },
+        {
+            "word": "ring",
+            "score": 1127
+        },
+        {
+            "word": "photography",
+            "score": 1125
+        },
+        {
+            "word": "watch",
+            "score": 1122
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "jewelry",
+            "score": 130718
+        },
+        {
+            "word": "jewelry maker",
+            "score": 129407
+        },
+        {
+            "word": "jewelry store",
+            "score": 129348
+        },
+        {
+            "word": "jewelry dealer",
+            "score": 129331
+        },
+        {
+            "word": "jewelries",
+            "score": 64668
+        },
+        {
+            "word": "jewelery",
+            "score": 64661
+        },
+        {
+            "word": "jewellery",
+            "score": 963
+        },
+        {
+            "word": "jewel",
+            "score": 926
+        },
+        {
+            "word": "revelry",
+            "score": 672
+        },
+        {
+            "word": "jewels",
+            "score": 369
+        }
+    ]
+}

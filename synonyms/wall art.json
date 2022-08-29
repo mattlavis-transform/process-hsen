@@ -1,0 +1,1250 @@
+{
+    "term": "wall art",
+    "means_like": [
+        {
+            "word": "mural",
+            "score": 148449,
+            "tags": [
+                "n",
+                "syn"
+            ]
+        },
+        {
+            "word": "hanging",
+            "score": 48433,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "ground",
+            "score": 28449,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graffiti",
+            "score": 28049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grounded",
+            "score": 28049,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sgraffito",
+            "score": 28049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tapestry",
+            "score": 28049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "window",
+            "score": 28049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oils",
+            "score": 27973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "training",
+            "score": 27973,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "build",
+            "score": 11649,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cartoon",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clip",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "court",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courting",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daub",
+            "score": 11649,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drapery",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drill",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fence",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "figured",
+            "score": 11649,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "finish",
+            "score": 11649,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fresco",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallery",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glazing",
+            "score": 11649,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "gothic",
+            "score": 11649,
+            "tags": [
+                "adj",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "graffito",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hang",
+            "score": 11649,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "line",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lunette",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masonry",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mola",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "molding",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mosaic",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paint",
+            "score": 11649,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "paper",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pointing",
+            "score": 11649,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "poster",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pouncing",
+            "score": 11649,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pull",
+            "score": 11649,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "pulling",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raise",
+            "score": 11649,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sec",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "secco",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sink",
+            "score": 11649,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "solid",
+            "score": 11649,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stonework",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "table",
+            "score": 11649,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "train",
+            "score": 11649,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "trained",
+            "score": 11649,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 11649,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "turned",
+            "score": 11649,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bell",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bole",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabinet",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cave",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earthwork",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 11584,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "fortification",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "great",
+            "score": 11584,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "high",
+            "score": 11584,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "inscription",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muse",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piecing",
+            "score": 11584,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "plugged",
+            "score": 11584,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "render",
+            "score": 11584,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rendering",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rule",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruled",
+            "score": 11584,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11584,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "siena",
+            "score": 11584,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "take",
+            "score": 11584,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "writing",
+            "score": 11584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "expression",
+            "score": 11573,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "building",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cistern",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "key",
+            "score": 11568,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "keying",
+            "score": 11568,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "keys",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "move",
+            "score": 11568,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "paste",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pediment",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ray",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "recast",
+            "score": 11568,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "recasting",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "runner",
+            "score": 11568,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "runs",
+            "score": 11568,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "axiom",
+            "score": 11508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazon",
+            "score": 11508,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "blazoned",
+            "score": 11508,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "glyph",
+            "score": 11508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "graphic",
+            "score": 11508,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "graphics",
+            "score": 11508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "story",
+            "score": 11508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "woodwork",
+            "score": 11508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bricklaying",
+            "score": 11492,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intarsia",
+            "score": 11492,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "walmart",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "willaert",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wahlert",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "wallet",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "wallower",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "walford",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wishart",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "willert",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wolpert",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "walbert",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wallowers",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "warlord",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "war lord",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "wallboard",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "wollard",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "walther",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "wart",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "walter",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walt",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "walnut",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walters",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "waller",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "willard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walcott",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "waltzer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wilbert",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "willet",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wildered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "willett",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "waler",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wallaroo",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "wilford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "welford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walzer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walcot",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "whort",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "wolford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walser",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "willette",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "woolard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "couillard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weltered",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walmer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wellard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walworth",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walers",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wall-eyed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "williard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wallner",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "woolford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "woollard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wall rue",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wilier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "rouillard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "willford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walleyed",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "willyard",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wolbert",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walr",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wohlford",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "maillard",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "goulart",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "uart",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "slart",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "wallowed",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "waleed",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "walid",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "woller",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wahler",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wahlers",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "halpert",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "haltered",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "hollier",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "weingart",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "wengert",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "wingert",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "high art",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "wailer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wailers",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "the lord",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "salar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "valar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "malara",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "swihart",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waard",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "-ward",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "my lord",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "swallet",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waarde",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "talara",
+            "score": 75,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "wall wart",
+            "score": 64676
+        },
+        {
+            "word": "walmart",
+            "score": 136
+        },
+        {
+            "word": "call at",
+            "score": 75
+        },
+        {
+            "word": "wallwort",
+            "score": 42
+        },
+        {
+            "word": "wall chart",
+            "score": 8
+        },
+        {
+            "word": "wall st",
+            "score": 4
+        },
+        {
+            "word": "wall bars",
+            "score": 2
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "wall wart",
+            "score": 64676
+        },
+        {
+            "word": "wallaroo",
+            "score": 365
+        },
+        {
+            "word": "all at once",
+            "score": 151
+        },
+        {
+            "word": "walmart",
+            "score": 136
+        },
+        {
+            "word": "walk around",
+            "score": 126
+        },
+        {
+            "word": "wall street",
+            "score": 124
+        },
+        {
+            "word": "all around",
+            "score": 99
+        },
+        {
+            "word": "call at",
+            "score": 75
+        },
+        {
+            "word": "vallarta",
+            "score": 43
+        },
+        {
+            "word": "wallwort",
+            "score": 42
+        }
+    ]
+}

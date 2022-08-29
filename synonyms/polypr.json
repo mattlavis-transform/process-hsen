@@ -1,0 +1,553 @@
+{
+    "term": "polypr",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "polyp",
+            "score": 581,
+            "numSyllables": 2
+        },
+        {
+            "word": "polyps",
+            "score": 201,
+            "numSyllables": 2
+        },
+        {
+            "word": "polypi",
+            "score": 8,
+            "numSyllables": 3
+        },
+        {
+            "word": "palapa",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "politer",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "pulper",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "polypore",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "bleeper",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "polly",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "palmer",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "popper",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "poly",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeper",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "p.e",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "pull-up",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pali",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pull up",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pullup",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "polisher",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "pileup",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pollie",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "palabra",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "polley",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pollies",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pieper",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pile up",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pollio",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "pomper",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walloper",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "pill popper",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "parlier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "policer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "pile-up",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "polip",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pearlier",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "ppr",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "pal up",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "polaire",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "polare",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "blooper",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "belabor",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "belper",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "belabour",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "boulier",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "belpre",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "pauper",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pauly",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "paulie",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pauli",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pauley",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "paoli",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "palter",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pawley",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "powley",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "poulpe",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "pulver",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "pilcher",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "pulcher",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "pallier",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "paper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pamper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "papper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "paly",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pallor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "peeler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "paleo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pally",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "paler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "paola",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pala",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "papr",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "paley",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pealer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palp",
+            "score": 75,
+            "numSyllables": 1
+        },
+        {
+            "word": "pbr",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palely",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "papar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palos",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "peli",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "papir",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palio",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pelee",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palmar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "paylor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ball up",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palli",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hollier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "ballup",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "pelea",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "haulier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "paleo-",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "peachier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "palpa",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palpi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "palapas",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "pelar",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "polyp",
+            "score": 798
+        },
+        {
+            "word": "polyps",
+            "score": 365
+        },
+        {
+            "word": "polypi",
+            "score": 47
+        },
+        {
+            "word": "polype",
+            "score": 31
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "polypropylene",
+            "score": 64884
+        },
+        {
+            "word": "polyprotodonta",
+            "score": 64723
+        },
+        {
+            "word": "polypragmatist",
+            "score": 64684
+        },
+        {
+            "word": "polypragmasy",
+            "score": 64681
+        },
+        {
+            "word": "polypropene",
+            "score": 64681
+        },
+        {
+            "word": "polypropenonitrile",
+            "score": 64681
+        },
+        {
+            "word": "polyprion americanus",
+            "score": 64680
+        },
+        {
+            "word": "polyprotodont",
+            "score": 64678
+        },
+        {
+            "word": "polyprotein",
+            "score": 64675
+        },
+        {
+            "word": "polypro",
+            "score": 64674
+        }
+    ]
+}

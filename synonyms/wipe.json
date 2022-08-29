@@ -1,0 +1,1503 @@
+{
+    "term": "wipe",
+    "means_like": [
+        {
+            "word": "obliterate",
+            "score": 95481,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "rub",
+            "score": 89289,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "efface",
+            "score": 87569,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "pass over",
+            "score": 76820,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "erase",
+            "score": 70129,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "destroy",
+            "score": 67685,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "eradicate",
+            "score": 67534,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "eliminate",
+            "score": 67313,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "wash",
+            "score": 66560,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "undo",
+            "score": 66219,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "scrub",
+            "score": 66123,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "blot",
+            "score": 65664,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "annihilate",
+            "score": 65610,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "flush",
+            "score": 65501,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "remove",
+            "score": 64844,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cleanse",
+            "score": 64791,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "kill",
+            "score": 63833,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sweep",
+            "score": 63459,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "clean",
+            "score": 62546,
+            "tags": [
+                "v",
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "eliminating",
+            "score": 62009,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "comb",
+            "score": 61699,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cancel",
+            "score": 60211,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "brush",
+            "score": 60023,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "delete",
+            "score": 60014,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "clearing",
+            "score": 59599,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "elimination",
+            "score": 59556,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deleting",
+            "score": 59554,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cleaning",
+            "score": 59546,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drop",
+            "score": 59481,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "abolish",
+            "score": 59467,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cleanses",
+            "score": 59249,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "reset",
+            "score": 59231,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "swab",
+            "score": 59149,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dropping",
+            "score": 58623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dry",
+            "score": 58524,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "suffer",
+            "score": 58448,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shine",
+            "score": 58376,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "erasure",
+            "score": 58343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blur",
+            "score": 57661,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "empty",
+            "score": 57477,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "scan",
+            "score": 57423,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rag",
+            "score": 57210,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pass",
+            "score": 57133,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "clear",
+            "score": 56366,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "deletion",
+            "score": 56294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deleted",
+            "score": 55789,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "towel",
+            "score": 55508,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scavenge",
+            "score": 55227,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "blanche",
+            "score": 55173,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "exit",
+            "score": 55163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cloth",
+            "score": 54570,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buff",
+            "score": 54517,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "steps",
+            "score": 54456,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "survey",
+            "score": 54045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scavenging",
+            "score": 53718,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "blanca",
+            "score": 52504,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "weather",
+            "score": 52093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raster",
+            "score": 51678,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mop-up",
+            "score": 51074,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "phase-out",
+            "score": 51074,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sanitize",
+            "score": 51067,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rinse",
+            "score": 51066,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "scrape",
+            "score": 51065,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "wipe up",
+            "score": 51063,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "absterse",
+            "score": 51060,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "banish",
+            "score": 51058,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "wring",
+            "score": 51057,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shake",
+            "score": 51056,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shave",
+            "score": 51055,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pull",
+            "score": 51054,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "disappear",
+            "score": 51053,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "exterminate",
+            "score": 51051,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "deterge",
+            "score": 51050,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "decimate",
+            "score": 51049,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "detersion",
+            "score": 51048,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rid",
+            "score": 51047,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ruin",
+            "score": 51045,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rip",
+            "score": 51043,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lop",
+            "score": 51042,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "expunge",
+            "score": 51041,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vanish",
+            "score": 51040,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cripple",
+            "score": 51039,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vanquish",
+            "score": 51038,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "sponge down",
+            "score": 51037,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "rub in",
+            "score": 51036,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "suck",
+            "score": 51035,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "scuttle",
+            "score": 51033,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fend",
+            "score": 51032,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "wean",
+            "score": 51031,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "smutch",
+            "score": 51029,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "face cloth",
+            "score": 51028,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "snuffed",
+            "score": 51027,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ravage",
+            "score": 51026,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "knock",
+            "score": 51025,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "devastate",
+            "score": 51024,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "blacken",
+            "score": 51023,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "peel",
+            "score": 51022,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "carve",
+            "score": 51021,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "straighten",
+            "score": 51020,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ablutomania",
+            "score": 51019,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "wipe",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "wype",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "whip",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whoop",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weap",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wop",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wap",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wip",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "woop",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wep",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "whipp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wup",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wipp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wape",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wope",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wepp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wtop",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wapp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wopp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "weib",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "waap",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "wupe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "yipe",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "ytp",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "hype",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "hipe",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "hyp",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "why",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "web",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "y",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "swipe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wipes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "webb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wiper",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiped",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wai",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "weeb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wub",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wabe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wye",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "worp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wab",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wib",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wiebe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "werp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wwii",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "woob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wayo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wny",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wbe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wobbe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wte",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "webe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "yws",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wurp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "y o",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wgi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wfy",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "type",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "pipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ripe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yup",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yep",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yap",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yip",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yop",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "r.i.p",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "typ",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yawp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "lipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "sipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "shipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "upe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yapp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "vipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yopp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yeap",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "syp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "knipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "nipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yoop",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "myp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yeep",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yepp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "mipe",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "lyp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yape",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ryp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ewp",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "yaup",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "happ",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "hap",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "hape",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "haap",
+            "score": 86,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "wipe",
+            "score": 838
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "handkerchief",
+            "score": 1554
+        },
+        {
+            "word": "brow",
+            "score": 1534
+        },
+        {
+            "word": "towel",
+            "score": 1533
+        },
+        {
+            "word": "sweat",
+            "score": 1520
+        },
+        {
+            "word": "tears",
+            "score": 1476
+        },
+        {
+            "word": "dissolve",
+            "score": 1460
+        },
+        {
+            "word": "humanity",
+            "score": 1445
+        },
+        {
+            "word": "memories",
+            "score": 1408
+        },
+        {
+            "word": "forehead",
+            "score": 1395
+        },
+        {
+            "word": "slate",
+            "score": 1393
+        },
+        {
+            "word": "clean",
+            "score": 1387
+        },
+        {
+            "word": "haitian",
+            "score": 1374
+        },
+        {
+            "word": "mankind",
+            "score": 1365
+        },
+        {
+            "word": "gloves",
+            "score": 1353
+        },
+        {
+            "word": "smile",
+            "score": 1325
+        },
+        {
+            "word": "wash",
+            "score": 1319
+        },
+        {
+            "word": "debt",
+            "score": 1303
+        },
+        {
+            "word": "noah",
+            "score": 1300
+        },
+        {
+            "word": "traces",
+            "score": 1293
+        },
+        {
+            "word": "remnants",
+            "score": 1288
+        },
+        {
+            "word": "cloth",
+            "score": 1287
+        },
+        {
+            "word": "ink",
+            "score": 1275
+        },
+        {
+            "word": "face",
+            "score": 1273
+        },
+        {
+            "word": "destroy",
+            "score": 1270
+        },
+        {
+            "word": "map",
+            "score": 1267
+        },
+        {
+            "word": "planet",
+            "score": 1265
+        },
+        {
+            "word": "lens",
+            "score": 1263
+        },
+        {
+            "word": "memory",
+            "score": 1259
+        },
+        {
+            "word": "earth",
+            "score": 1257
+        },
+        {
+            "word": "civilization",
+            "score": 1256
+        },
+        {
+            "word": "your",
+            "score": 1246
+        },
+        {
+            "word": "nose",
+            "score": 1245
+        },
+        {
+            "word": "entire",
+            "score": 1241
+        },
+        {
+            "word": "eyes",
+            "score": 1233
+        },
+        {
+            "word": "disk",
+            "score": 1231
+        },
+        {
+            "word": "enemies",
+            "score": 1220
+        },
+        {
+            "word": "device",
+            "score": 1218
+        },
+        {
+            "word": "dust",
+            "score": 1216
+        },
+        {
+            "word": "away",
+            "score": 1211
+        },
+        {
+            "word": "destroying",
+            "score": 1206
+        },
+        {
+            "word": "off",
+            "score": 1205
+        },
+        {
+            "word": "faces",
+            "score": 1204
+        },
+        {
+            "word": "kill",
+            "score": 1203
+        },
+        {
+            "word": "humans",
+            "score": 1201
+        },
+        {
+            "word": "rebels",
+            "score": 1197
+        },
+        {
+            "word": "wet",
+            "score": 1190
+        },
+        {
+            "word": "mind",
+            "score": 1188
+        },
+        {
+            "word": "virus",
+            "score": 1183
+        },
+        {
+            "word": "gang",
+            "score": 1182
+        },
+        {
+            "word": "remove",
+            "score": 1174
+        },
+        {
+            "word": "everyone",
+            "score": 1173
+        },
+        {
+            "word": "flood",
+            "score": 1171
+        },
+        {
+            "word": "hands",
+            "score": 1159
+        },
+        {
+            "word": "universe",
+            "score": 1157
+        },
+        {
+            "word": "blood",
+            "score": 1155
+        },
+        {
+            "word": "heroes",
+            "score": 1152
+        },
+        {
+            "word": "weapon",
+            "score": 1150
+        },
+        {
+            "word": "doctor",
+            "score": 1143
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "wipe",
+            "score": 838
+        },
+        {
+            "word": "wiper",
+            "score": 326
+        },
+        {
+            "word": "wipe out",
+            "score": 269
+        },
+        {
+            "word": "wipeout",
+            "score": 252
+        },
+        {
+            "word": "wiped",
+            "score": 112
+        },
+        {
+            "word": "wipes",
+            "score": 108
+        },
+        {
+            "word": "wiped out",
+            "score": 85
+        },
+        {
+            "word": "wipers",
+            "score": 82
+        },
+        {
+            "word": "wipe off",
+            "score": 63
+        },
+        {
+            "word": "wipe up",
+            "score": 39
+        }
+    ]
+}

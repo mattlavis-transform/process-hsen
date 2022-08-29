@@ -1,0 +1,975 @@
+{
+    "term": "smart phone",
+    "means_like": [
+        {
+            "word": "smartphone",
+            "score": 148414,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "shoe",
+            "score": 48414,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "send",
+            "score": 28034,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "text",
+            "score": 28034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flash",
+            "score": 11634,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flip",
+            "score": 11614,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "alert",
+            "score": 11554,
+            "tags": [
+                "adj",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "ace",
+            "score": 11534,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cyon",
+            "score": 11484,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beat",
+            "score": 10594,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "clink",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "clinking",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "clipper",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crack",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "genius",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gnostic",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "hep",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "jdam",
+            "score": 10594,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "joint direct attack munition",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "poo",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pop",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "quip",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "repartee",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sharp",
+            "score": 10594,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slick",
+            "score": 10594,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "smarting",
+            "score": 10594,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "smarts",
+            "score": 10594,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spy",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "swish",
+            "score": 10594,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "trim",
+            "score": 10594,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "maxis",
+            "score": 10524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "simputer",
+            "score": 10524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tear gas",
+            "score": 10524,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cards",
+            "score": 10514,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "get",
+            "score": 10514,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "alarm",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beep",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beeper",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bell",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buzz",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "call",
+            "score": 10493,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "calling",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contact",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dial",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dime",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "home",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "horn",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "interrupt",
+            "score": 10493,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "mike",
+            "score": 10493,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "name",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oboe",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pager",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phoneme",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ring",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rings",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ringtone",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "signal",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "talk",
+            "score": 10493,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "taps",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telephone",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telephony",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tone",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trace",
+            "score": 10493,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "transmit",
+            "score": 10493,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "trio",
+            "score": 10493,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vibrate",
+            "score": 10493,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "yeah",
+            "score": 10493,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "-phone",
+            "score": 10454
+        },
+        {
+            "word": "abuse",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acanthosis",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accent",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accordion",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acid",
+            "score": 10454,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "acoustic delay line",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acoustic device",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adenoidal",
+            "score": 10454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "against",
+            "score": 10454
+        },
+        {
+            "word": "aldebaran",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "algebraic",
+            "score": 10454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "algebraic number",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "algebraical",
+            "score": 10454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "algerine",
+            "score": 10454,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "alliteration",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "along",
+            "score": 10454,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "alphorn",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amia",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "amp",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amplifier",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anacharis",
+            "score": 10454,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ancylostomiasis",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ane",
+            "score": 10454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aniline",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "answerable",
+            "score": 10454,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "aphorism",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apprentice",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apprenticeship",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "approach",
+            "score": 10454,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arc",
+            "score": 10454,
+            "tags": [
+                "n",
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "smartphone",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart phone",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartphones",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarten",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart home",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarting",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarty",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartie",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sartain",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarta",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartened",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "snarfing",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sartan",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "sarton",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartens",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "snorting",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "smitten",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarts",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "sardine",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smarties",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartly",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartt",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "smartass",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "serafin",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "starten",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "seraphin",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "smurfing",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sardin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sarafin",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "start in",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sutphin",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart-ass",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smartish",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sarto",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "start on",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "smart ass",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sarafan",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "smartle",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sutphen",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "sardan",
+            "score": 70,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "smart phone",
+            "score": 129611
+        },
+        {
+            "word": "smartphone",
+            "score": 65824
+        },
+        {
+            "word": "smart home",
+            "score": 34
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "smart phone",
+            "score": 129611
+        },
+        {
+            "word": "smartphone",
+            "score": 65824
+        },
+        {
+            "word": "smartphones",
+            "score": 64690
+        },
+        {
+            "word": "smart money",
+            "score": 66
+        },
+        {
+            "word": "smart home",
+            "score": 34
+        }
+    ]
+}

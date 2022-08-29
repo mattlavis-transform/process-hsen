@@ -1,0 +1,1272 @@
+{
+    "term": "cable tie",
+    "means_like": [
+        {
+            "word": "nip",
+            "score": 28039,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "rope",
+            "score": 28039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchor",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anchoring",
+            "score": 11639,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bend",
+            "score": 11639,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bended",
+            "score": 11639,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bends",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bens",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chain",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clip",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connection",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cord",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "knit",
+            "score": 11639,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "knot",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moor",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "snub",
+            "score": 11639,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "snubbing",
+            "score": 11639,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "splice",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stop",
+            "score": 11639,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "string",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stud",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yoke",
+            "score": 11639,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerial",
+            "score": 10604,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "anode",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bitt",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boom",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "box",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridle",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridled",
+            "score": 10604,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "bungee",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chaining",
+            "score": 10604,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "coaxial cable",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "communication",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "core",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crown",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crowning",
+            "score": 10604,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dof",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dog",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dogs",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drag",
+            "score": 10604,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "earth",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earthed",
+            "score": 10604,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "earthing",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrical cable",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fleet",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "funicular",
+            "score": 10604,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "grapnel",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grip",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gripping",
+            "score": 10604,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "grommet",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guy",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guyed",
+            "score": 10604,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "guys",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hawse",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hawsehole",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hawsepipe",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "heave",
+            "score": 10604,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "huy",
+            "score": 10604,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jack",
+            "score": 10604,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "joint",
+            "score": 10604,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "jumper",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "junk",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keckle",
+            "score": 10604
+        },
+        {
+            "word": "keckling",
+            "score": 10604
+        },
+        {
+            "word": "kedge",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lay",
+            "score": 10604,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 10604,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "marlinespike",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marlingspike",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marlinspike",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "martingale",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mat",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mooring",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nippers",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nox",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pigtail",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "port",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "range",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ranged",
+            "score": 10604,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ranging",
+            "score": 10604,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "reeve",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "register",
+            "score": 10604,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "registered",
+            "score": 10604,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "serve",
+            "score": 10604,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "shroud",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slide",
+            "score": 10604,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "span",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spanning",
+            "score": 10604,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "splicing",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spring",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stay",
+            "score": 10604,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "staying",
+            "score": 10604,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "stays",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stitch",
+            "score": 10604,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stopper",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stoppered",
+            "score": 10604,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "support",
+            "score": 10604,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "telpherage",
+            "score": 10604,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terminal",
+            "score": 10604,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cabled",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "cable guy",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "cobaltite",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "cable",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobalt",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cables",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobbled",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kable",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "kabal",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabler",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "kobalt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabul",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabals",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabbalah",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "gabled",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabello",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "kabila",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "cabelo",
+            "score": 77,
+            "numSyllables": 3
+        },
+        {
+            "word": "casualty",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "kibble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabot",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "coupled",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobbles",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kabbalah",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kibbles",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobler",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "keeble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kabala",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kobold",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "coble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kubota",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "capel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "capaldi",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "caballo",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "caple",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabala",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cabling",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kaballah",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cabbala",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kabel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "keble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kabat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kapler",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kabbala",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "caples",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabl",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kabalah",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kubala",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "kibutz",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kapot",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "koble",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kubat",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kobel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kobolds",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabots",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabale",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cable tv",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "caballa",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "casebolt",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "kulta",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobles",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cbl",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cubeta",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cubito",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "cabaletta",
+            "score": 75,
+            "numSyllables": 4
+        },
+        {
+            "word": "gable",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "gables",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "gobbled",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "gabler",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "gabbled",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "capella",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "capita",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "quilty",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappella",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cowbell",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappelletti",
+            "score": 72,
+            "numSyllables": 4
+        },
+        {
+            "word": "capello",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cow bell",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "kibitz",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "kilty",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cabell",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "kelty",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "klu",
+            "score": 72,
+            "numSyllables": 1
+        },
+        {
+            "word": "kibbitz",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappello",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cowbells",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "capelli",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "keltie",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiltie",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappelli",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cabet",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cobbett",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "cappetta",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "caban",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "capelan",
+            "score": 71,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "cable tv",
+            "score": 17
+        },
+        {
+            "word": "cable tier",
+            "score": 8
+        },
+        {
+            "word": "bale tie",
+            "score": 7
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "cable tier",
+            "score": 129326
+        },
+        {
+            "word": "cable television",
+            "score": 64718
+        },
+        {
+            "word": "cable television service",
+            "score": 64678
+        },
+        {
+            "word": "table ties",
+            "score": 64663
+        },
+        {
+            "word": "table tennis",
+            "score": 59
+        },
+        {
+            "word": "cable length",
+            "score": 43
+        },
+        {
+            "word": "cable tramway",
+            "score": 38
+        },
+        {
+            "word": "cable stitch",
+            "score": 20
+        },
+        {
+            "word": "cable tv",
+            "score": 17
+        },
+        {
+            "word": "table tipping",
+            "score": 17
+        }
+    ]
+}

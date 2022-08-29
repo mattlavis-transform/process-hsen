@@ -1,0 +1,805 @@
+{
+    "term": "leather jacket",
+    "means_like": [
+        {
+            "word": "jerkin",
+            "score": 30026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rip",
+            "score": 28090,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "suede",
+            "score": 28090,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deerskin",
+            "score": 28056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ripped",
+            "score": 28026,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ripping",
+            "score": 28026,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stud",
+            "score": 28026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skipjack",
+            "score": 27992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belt",
+            "score": 11690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buff",
+            "score": 11690,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 11690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hood",
+            "score": 11690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skin",
+            "score": 11690,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acton",
+            "score": 11626,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "armor",
+            "score": 11626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collar",
+            "score": 11626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dack",
+            "score": 11626,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hardback",
+            "score": 11626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sack",
+            "score": 11626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sacked",
+            "score": 11626,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "frog",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "front",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kangaroo",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "processed",
+            "score": 11555,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "processing",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slicker",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "button",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fit",
+            "score": 11490,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "martingale",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oink",
+            "score": 11490,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "pink",
+            "score": 11490,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "plastron",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "seam",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skirt",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slit",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slop",
+            "score": 11490,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "slopped",
+            "score": 11490,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "slops",
+            "score": 11490,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apron",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 10622,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cao",
+            "score": 10622,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cap",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capped",
+            "score": 10622,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "capping",
+            "score": 10622,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "caps",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cushion",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enamel",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fox",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hell",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lambskin",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "layer",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mocha",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pelt",
+            "score": 10622,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "plaster",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plastered",
+            "score": 10622,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pouch",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "purse",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rind",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rocker",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ruff",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "russet",
+            "score": 10622,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "russia leather",
+            "score": 10622,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "seal",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheepskin",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sporran",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuffing",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tan",
+            "score": 10622,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "tanned",
+            "score": 10622,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "tannery",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tans",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tsn",
+            "score": 10622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anorak",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bloomer",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "color",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cover",
+            "score": 10562,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "dicky",
+            "score": 10562,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flap",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flaps",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parka",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealskin",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "surcoat",
+            "score": 10562,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 10562,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "bikers",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billfold",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "biot",
+            "score": 10558,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blackjack",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bound",
+            "score": 10558,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "brigandine",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "budget",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clear",
+            "score": 10558,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cleared",
+            "score": 10558,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "clout",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cot",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dock",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doublure",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filk",
+            "score": 10558,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fill",
+            "score": 10558,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fills",
+            "score": 10558,
+            "tags": [
+                "v"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "leather jacket",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "leatherjacket",
+            "score": 100,
+            "numSyllables": 4
+        },
+        {
+            "word": "lumber jacket",
+            "score": 78,
+            "numSyllables": 4
+        },
+        {
+            "word": "lifejacket",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "life jacket",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "leather coat",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "air jacket",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "dinner jacket",
+            "score": 67,
+            "numSyllables": 4
+        },
+        {
+            "word": "bomber jacket",
+            "score": 66,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "leather jacket",
+            "score": 129334
+        },
+        {
+            "word": "leatherjacket",
+            "score": 64766
+        },
+        {
+            "word": "leather jack",
+            "score": 9
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "leather jacket",
+            "score": 129334
+        },
+        {
+            "word": "leatherjacket",
+            "score": 64766
+        },
+        {
+            "word": "leatherjackets",
+            "score": 64722
+        },
+        {
+            "word": "leather jack",
+            "score": 9
+        }
+    ]
+}

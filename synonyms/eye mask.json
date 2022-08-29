@@ -1,0 +1,1262 @@
+{
+    "term": "eye mask",
+    "means_like": [
+        {
+            "word": "domino",
+            "score": 55140,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "half mask",
+            "score": 53088,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "eyehole",
+            "score": 28519,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bag",
+            "score": 12234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blind",
+            "score": 12234,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "face",
+            "score": 12234,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "veil",
+            "score": 12234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visor",
+            "score": 12234,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "front",
+            "score": 11990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shell",
+            "score": 11990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "show",
+            "score": 11875,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "slit",
+            "score": 11875,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barefaced",
+            "score": 11112,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bib",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "block out",
+            "score": 11112,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "camouflage",
+            "score": 11112,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "conceal",
+            "score": 11112,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "concealing",
+            "score": 11112,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "deodorant",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deodourant",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "disguise",
+            "score": 11112,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "facade",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "face mask",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "false face",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "football helmet",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gas helmet",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gas mask",
+            "score": 11112
+        },
+        {
+            "word": "gasmask",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harlequin",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hide",
+            "score": 11112,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "hood",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loup",
+            "score": 11112,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "masking",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "persona",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "respirator",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screen",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ski mask",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "traverse",
+            "score": 11112,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "unmask",
+            "score": 11112,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "unmasked",
+            "score": 11112,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "unmasking",
+            "score": 11112,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atropine",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ball",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "black",
+            "score": 11004,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "blear",
+            "score": 11004,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "blindfold",
+            "score": 11004,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "blinds",
+            "score": 11004,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "blinker",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bruise",
+            "score": 11004,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "case",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chameleon",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cheek",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coat",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "color",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contact",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cope",
+            "score": 11004,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cornea",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "descry",
+            "score": 11004,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dim",
+            "score": 11004,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dimmed",
+            "score": 11004,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dimming",
+            "score": 11004,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "drop",
+            "score": 11004,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eclipse",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electrooculogram",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "enucleation",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evil",
+            "score": 11004,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "exposure",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyebrow",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeful",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyelash",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyelid",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyeshade",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frontispiece",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garish",
+            "score": 11004,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "glamour",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glass",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goggle",
+            "score": 11004,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "goggles",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gray",
+            "score": 11004,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "kohl",
+            "score": 11004,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "laser",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leer",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lens",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lid",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lift",
+            "score": 11004,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "luft",
+            "score": 11004,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lunette",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mace",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mark",
+            "score": 11004,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "mars",
+            "score": 11004,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mongolism",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neomycin",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nictitating membrane",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "occult",
+            "score": 11004,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 11004,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "orbit",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "organ",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outside",
+            "score": 11004,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "palpebra",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patch",
+            "score": 11004,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "eye mask",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "i mac",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "imus",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "imos",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "imis",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "amass",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "unmask",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "msk",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "omsk",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "emac",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "emass",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "mask",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "imax",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "masque",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "iac",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "masc",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "iak",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "eisk",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "high mass",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "iack",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ice mass",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "iron mask",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "life mask",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hask",
+            "score": 79,
+            "numSyllables": 1
+        },
+        {
+            "word": "nask",
+            "score": 79,
+            "numSyllables": 1
+        },
+        {
+            "word": "task",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "smack",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amiss",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amok",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amuck",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amos",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amassed",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amis",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "rask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "casque",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amock",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "emus",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amus",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "damask",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "smak",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "imac",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "emmaus",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "lask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "unasked",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amuk",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "emic",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "sask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amick",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "dask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "smac",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "lms",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amic",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "smas",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "omic",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amess",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "emis",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ammos",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "emick",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amoss",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "omis",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "vask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "emmis",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "omak",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amice",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "anac",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cmac",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amac",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "on task",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amoc",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "-mas",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mdc",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "fasc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "kask",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amasa",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "ohmic",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ahmose",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amyss",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "cmas",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "immac",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "wasc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amec",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "amik",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "imake",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "m s",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "tasc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "vasc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "attask",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "casc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "mqp",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "rasc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "enac",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "vasque",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "amasi",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "amasser",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "gmac",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "mzc",
+            "score": 78,
+            "numSyllables": 1
+        },
+        {
+            "word": "omag",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "ratc",
+            "score": 78,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "eye mask",
+            "score": 129361
+        },
+        {
+            "word": "eye bank",
+            "score": 28
+        },
+        {
+            "word": "eye wash",
+            "score": 11
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "eye mask",
+            "score": 129361
+        },
+        {
+            "word": "eye bank",
+            "score": 28
+        },
+        {
+            "word": "eye muscle",
+            "score": 21
+        },
+        {
+            "word": "eye wash",
+            "score": 11
+        }
+    ]
+}

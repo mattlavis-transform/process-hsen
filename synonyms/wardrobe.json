@@ -1,0 +1,1454 @@
+{
+    "term": "wardrobe",
+    "means_like": [
+        {
+            "word": "closet",
+            "score": 87655,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 72397,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "dress",
+            "score": 70996,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "costume",
+            "score": 69395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothing",
+            "score": 69196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfits",
+            "score": 69101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresser",
+            "score": 65815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outfit",
+            "score": 64728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "apparel",
+            "score": 64592,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armoire",
+            "score": 63621,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dressing",
+            "score": 63545,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupboard",
+            "score": 62600,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "regalia",
+            "score": 61750,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shelving",
+            "score": 58475,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "locker",
+            "score": 58243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crib",
+            "score": 57710,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 57352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabinet",
+            "score": 56868,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chest",
+            "score": 55371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "problem",
+            "score": 51083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 51082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attire",
+            "score": 51081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "menswear",
+            "score": 51080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trouser",
+            "score": 51079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "womenswear",
+            "score": 51078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nightwear",
+            "score": 51077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 51076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothes",
+            "score": 51075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashions",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 51073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "formalwear",
+            "score": 51072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playsuit",
+            "score": 51071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "couture",
+            "score": 51069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairdo",
+            "score": 51068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyle",
+            "score": 51067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardigans",
+            "score": 51065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessorizing",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 51063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 51062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 51061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding dress",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 51059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "updo",
+            "score": 51058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stylist",
+            "score": 51057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "denims",
+            "score": 51056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trousseau",
+            "score": 51055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fashionista",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tights",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gladrags",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underthings",
+            "score": 51051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pant",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skort",
+            "score": 51049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairstyles",
+            "score": 51048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedding gown",
+            "score": 51047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wig",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 51045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chemise",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 51043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "undergarments",
+            "score": 51042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sheepskin coat",
+            "score": 51041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eveningwear",
+            "score": 51040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bathing suit",
+            "score": 51039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "getup",
+            "score": 51038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maquillage",
+            "score": 51037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drapey",
+            "score": 51036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail dress",
+            "score": 51035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gilet",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridal gown",
+            "score": 51033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underwear",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outerwear",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "togs",
+            "score": 51029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 51028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muumuu",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tux",
+            "score": 51026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peacoat",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capris",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garments",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blazer",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clotheshorse",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linen closet",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuxedo",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gowns",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "negligees",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 51015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decor",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sweater",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slingbacks",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "redecorating",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plaid",
+            "score": 51009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boudoir",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sequin",
+            "score": 51007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peignoir",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loungewear",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bra",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume designer",
+            "score": 51003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clothespress",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coiffure",
+            "score": 51001,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbag",
+            "score": 51000,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daisy duke",
+            "score": 50999,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shirtdress",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "wardrobe",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "wordrobe",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "wardrobes",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wardrop",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "warder",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "garderobe",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "warders",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "war hero",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "wardship",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard roe",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "weirdo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "weirder",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "woodrow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "warda",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wired up",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "war drum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waldrop",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wardroom",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wardlow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "teardrop",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "tear drop",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "hard rubber",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "hoarder",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "horder",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoarders",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "hordern",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "warrior",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "ward",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "warriors",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "wards",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "withdraw",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warden",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "watery",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "wizardry",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "withdrew",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "weirdos",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warship",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warty",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "word up",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "yarder",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warred",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "worder",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "power trip",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "whored",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "wiretap",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "wardle",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warde",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "latrobe",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "whoredom",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "weirdy",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warier",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "weirdoes",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "wardell",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "weirdie",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warb",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "wydra",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "wadder",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "weintraub",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "waro",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "order up",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "wardley",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "awarder",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "waard",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "warta",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "chartreux",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "waltrip",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "wardlaw",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "-ward",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "war whoop",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "one drop",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "warmed up",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "wadr",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "wateree",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "wild rape",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "waarde",
+            "score": 70,
+            "numSyllables": 1
+        },
+        {
+            "word": "war horse",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "waterie",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "wardrobe",
+            "score": 130153
+        },
+        {
+            "word": "wordrobe",
+            "score": 64805
+        },
+        {
+            "word": "garderobe",
+            "score": 207
+        },
+        {
+            "word": "wardroom",
+            "score": 150
+        },
+        {
+            "word": "wardmote",
+            "score": 44
+        },
+        {
+            "word": "wardrobes",
+            "score": 24
+        },
+        {
+            "word": "wardrop",
+            "score": 16
+        },
+        {
+            "word": "arrobe",
+            "score": 4
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "malfunction",
+            "score": 1682
+        },
+        {
+            "word": "stylist",
+            "score": 1633
+        },
+        {
+            "word": "aslan",
+            "score": 1539
+        },
+        {
+            "word": "outfits",
+            "score": 1515
+        },
+        {
+            "word": "caspian",
+            "score": 1492
+        },
+        {
+            "word": "dresses",
+            "score": 1456
+        },
+        {
+            "word": "props",
+            "score": 1446
+        },
+        {
+            "word": "closet",
+            "score": 1442
+        },
+        {
+            "word": "jeans",
+            "score": 1441
+        },
+        {
+            "word": "mistress",
+            "score": 1433
+        },
+        {
+            "word": "costume",
+            "score": 1419
+        },
+        {
+            "word": "costumes",
+            "score": 1415
+        },
+        {
+            "word": "exchequer",
+            "score": 1405
+        },
+        {
+            "word": "clothes",
+            "score": 1398
+        },
+        {
+            "word": "witch",
+            "score": 1396
+        },
+        {
+            "word": "supervisor",
+            "score": 1394
+        },
+        {
+            "word": "dressing",
+            "score": 1384
+        },
+        {
+            "word": "privy",
+            "score": 1378
+        },
+        {
+            "word": "keeper",
+            "score": 1374
+        },
+        {
+            "word": "hats",
+            "score": 1369
+        },
+        {
+            "word": "jewels",
+            "score": 1364
+        },
+        {
+            "word": "pants",
+            "score": 1360
+        },
+        {
+            "word": "shirts",
+            "score": 1354
+        },
+        {
+            "word": "jacket",
+            "score": 1352
+        },
+        {
+            "word": "suits",
+            "score": 1349
+        },
+        {
+            "word": "dress",
+            "score": 1347
+        },
+        {
+            "word": "boots",
+            "score": 1345
+        },
+        {
+            "word": "lucy",
+            "score": 1325
+        },
+        {
+            "word": "halftime",
+            "score": 1323
+        },
+        {
+            "word": "outfit",
+            "score": 1320
+        },
+        {
+            "word": "shoes",
+            "score": 1315
+        },
+        {
+            "word": "designer",
+            "score": 1310
+        },
+        {
+            "word": "clothing",
+            "score": 1309
+        },
+        {
+            "word": "lion",
+            "score": 1306
+        },
+        {
+            "word": "chronicles",
+            "score": 1298
+        },
+        {
+            "word": "choices",
+            "score": 1293
+        },
+        {
+            "word": "desk",
+            "score": 1283
+        },
+        {
+            "word": "wore",
+            "score": 1280
+        },
+        {
+            "word": "fashion",
+            "score": 1266
+        },
+        {
+            "word": "shirt",
+            "score": 1260
+        },
+        {
+            "word": "janet",
+            "score": 1256
+        },
+        {
+            "word": "treasurer",
+            "score": 1249
+        },
+        {
+            "word": "hair",
+            "score": 1244
+        },
+        {
+            "word": "dressed",
+            "score": 1239
+        },
+        {
+            "word": "wear",
+            "score": 1238
+        },
+        {
+            "word": "leather",
+            "score": 1228
+        },
+        {
+            "word": "worn",
+            "score": 1223
+        },
+        {
+            "word": "seal",
+            "score": 1215
+        },
+        {
+            "word": "chest",
+            "score": 1207
+        },
+        {
+            "word": "makeup",
+            "score": 1204
+        },
+        {
+            "word": "items",
+            "score": 1202
+        },
+        {
+            "word": "wearing",
+            "score": 1199
+        },
+        {
+            "word": "look",
+            "score": 1198
+        },
+        {
+            "word": "voyage",
+            "score": 1192
+        },
+        {
+            "word": "hat",
+            "score": 1189
+        },
+        {
+            "word": "lighting",
+            "score": 1185
+        },
+        {
+            "word": "mirror",
+            "score": 1182
+        },
+        {
+            "word": "susan",
+            "score": 1179
+        },
+        {
+            "word": "filming",
+            "score": 1177
+        },
+        {
+            "word": "lewis",
+            "score": 1173
+        },
+        {
+            "word": "suit",
+            "score": 1167
+        },
+        {
+            "word": "rooms",
+            "score": 1164
+        },
+        {
+            "word": "accounts",
+            "score": 1158
+        },
+        {
+            "word": "room",
+            "score": 1152
+        },
+        {
+            "word": "mtv",
+            "score": 1150
+        },
+        {
+            "word": "household",
+            "score": 1148
+        },
+        {
+            "word": "doors",
+            "score": 1146
+        },
+        {
+            "word": "pairs",
+            "score": 1142
+        },
+        {
+            "word": "storage",
+            "score": 1140
+        },
+        {
+            "word": "expensive",
+            "score": 1135
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "wardrobe",
+            "score": 130153
+        },
+        {
+            "word": "wardrobe malfunction",
+            "score": 129344
+        },
+        {
+            "word": "wardrobes",
+            "score": 129342
+        },
+        {
+            "word": "wardrobe mistress",
+            "score": 129333
+        },
+        {
+            "word": "wardrobe trunk",
+            "score": 129325
+        },
+        {
+            "word": "wordrobe",
+            "score": 64805
+        },
+        {
+            "word": "garderobe",
+            "score": 207
+        },
+        {
+            "word": "wardroom",
+            "score": 150
+        },
+        {
+            "word": "wardress",
+            "score": 114
+        },
+        {
+            "word": "wardmote",
+            "score": 44
+        }
+    ]
+}

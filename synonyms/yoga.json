@@ -1,0 +1,1669 @@
+{
+    "term": "yoga",
+    "means_like": [
+        {
+            "word": "tantra",
+            "score": 47918,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kundalini",
+            "score": 46708,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "jnana",
+            "score": 45147,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bhakti",
+            "score": 44915,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "sutra",
+            "score": 42224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sastra",
+            "score": 42150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sutras",
+            "score": 41679,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shastra",
+            "score": 41569,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karma",
+            "score": 39387,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "mantra",
+            "score": 37522,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "raja",
+            "score": 36449,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "vedanta",
+            "score": 33165,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "exactly",
+            "score": 32786,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "man",
+            "score": 32250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buddhi",
+            "score": 31114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dhyana",
+            "score": 31114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kriya",
+            "score": 31114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laya",
+            "score": 31114,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mimamsa",
+            "score": 31114,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "meditation",
+            "score": 31113,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tai chi",
+            "score": 31112,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "yogi",
+            "score": 31111,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerobics",
+            "score": 31110,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "qigong",
+            "score": 31109,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tai chi chuan",
+            "score": 31108,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "reiki",
+            "score": 31107,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "zumba",
+            "score": 31106,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jazzercise",
+            "score": 31105,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reflexology",
+            "score": 31104,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aerobic exercise",
+            "score": 31103,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardio",
+            "score": 31101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mindfulness",
+            "score": 31100,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yogini",
+            "score": 31098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fitness",
+            "score": 31097,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aromatherapy",
+            "score": 31096,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "massage",
+            "score": 31095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "naturopathy",
+            "score": 31094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "transcendental meditation",
+            "score": 31093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shiatsu",
+            "score": 31092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workout",
+            "score": 31091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acupuncture",
+            "score": 31090,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zen buddhist",
+            "score": 31089,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aikido",
+            "score": 31088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickboxing",
+            "score": 31087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plyometrics",
+            "score": 31086,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ayurveda",
+            "score": 31085,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydrotherapy",
+            "score": 31084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "relaxation",
+            "score": 31083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gym",
+            "score": 31082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballroom dance",
+            "score": 31081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spirituality",
+            "score": 31080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hypnotherapy",
+            "score": 31079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mudra",
+            "score": 31078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calisthenics",
+            "score": 31077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "karate",
+            "score": 31076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macrobiotics",
+            "score": 31075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acupressure",
+            "score": 31074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meditator",
+            "score": 31073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wellness",
+            "score": 31072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zen buddhism",
+            "score": 31071,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chiropractic",
+            "score": 31070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pilates",
+            "score": 31067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hatha yoga",
+            "score": 31066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bikram",
+            "score": 31065,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "asanas",
+            "score": 31064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "belly dancing",
+            "score": 31063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotus position",
+            "score": 31062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asana",
+            "score": 31061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meditational",
+            "score": 31060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pranayama",
+            "score": 31059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pilate",
+            "score": 31058,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ballroom dancing",
+            "score": 31057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rolfing",
+            "score": 31056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hooping",
+            "score": 31055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barre",
+            "score": 31053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exercisers",
+            "score": 31052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "callisthenics",
+            "score": 31051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "physical therapy",
+            "score": 31050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "destress",
+            "score": 31049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "macrobiotic diet",
+            "score": 31048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vinyasa",
+            "score": 31047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exercises",
+            "score": 31046,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "postures",
+            "score": 31045,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "headstands",
+            "score": 31044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dance",
+            "score": 31043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backbends",
+            "score": 31042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meditativeness",
+            "score": 31041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kathak",
+            "score": 31040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reflexologist",
+            "score": 31039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "physical therapist",
+            "score": 31038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hypnotism",
+            "score": 31037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plie",
+            "score": 31036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treadmills",
+            "score": 31035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kabbala",
+            "score": 31034,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "stairmaster",
+            "score": 31033,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "biking",
+            "score": 31032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbells",
+            "score": 31031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardiopulmonary exercise",
+            "score": 31030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feng shui",
+            "score": 31029,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "toning",
+            "score": 31028,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "yoga",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "uga",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "yaga",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "yuga",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "yegua",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "woga",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "hugo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoko",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yucca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yugo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yagi",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "jago",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yuka",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yakka",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yuca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yago",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogas",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogur",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoki",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yacca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ywca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gko",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "iuka",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "jagow",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "yego",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hoga",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "joga",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "toga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wigga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wagga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "waga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "noga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "loga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "koga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "moga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "roga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "soga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "goga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "voga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "wega",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "gogga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "shoga",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogin",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoke",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "yo-yo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaeger",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yaya",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaco",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yeager",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yog",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "yaki",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "buga",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yok",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "yahya",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ewa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yag",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "uki",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ucy",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "aiya",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "puga",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yogis",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "muga",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "uah",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yo yo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yo ho",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yocum",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yeg",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "jaki",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yegg",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "yig",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "eugen",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yockey",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "uco",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yo ho ho",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "eoh",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoakum",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yegor",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ooc",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "usia",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "uea",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jwa",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "hyogo",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yocom",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "qoq",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "yaku",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "ygg",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "yoakam",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iug",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "uygur",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yaco",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "yags",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "u a",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eua",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "jtag",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "uug",
+            "score": 85,
+            "numSyllables": 1
+        },
+        {
+            "word": "ukko",
+            "score": 85,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "yoga",
+            "score": 995
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "asana",
+            "score": 1732
+        },
+        {
+            "word": "kundalini",
+            "score": 1727
+        },
+        {
+            "word": "naturopathy",
+            "score": 1724
+        },
+        {
+            "word": "yogic",
+            "score": 1716
+        },
+        {
+            "word": "jnana",
+            "score": 1707
+        },
+        {
+            "word": "pilates",
+            "score": 1696
+        },
+        {
+            "word": "tantra",
+            "score": 1654
+        },
+        {
+            "word": "bhakti",
+            "score": 1630
+        },
+        {
+            "word": "vedanta",
+            "score": 1629
+        },
+        {
+            "word": "ayurveda",
+            "score": 1610
+        },
+        {
+            "word": "samadhi",
+            "score": 1600
+        },
+        {
+            "word": "yogi",
+            "score": 1589
+        },
+        {
+            "word": "upanishad",
+            "score": 1579
+        },
+        {
+            "word": "meditation",
+            "score": 1577
+        },
+        {
+            "word": "gita",
+            "score": 1571
+        },
+        {
+            "word": "ashram",
+            "score": 1552
+        },
+        {
+            "word": "swami",
+            "score": 1525
+        },
+        {
+            "word": "tantric",
+            "score": 1522
+        },
+        {
+            "word": "mindfulness",
+            "score": 1515
+        },
+        {
+            "word": "sutra",
+            "score": 1498
+        },
+        {
+            "word": "mantra",
+            "score": 1493
+        },
+        {
+            "word": "hinduism",
+            "score": 1481
+        },
+        {
+            "word": "karma",
+            "score": 1474
+        },
+        {
+            "word": "poses",
+            "score": 1470
+        },
+        {
+            "word": "massage",
+            "score": 1447
+        },
+        {
+            "word": "brahman",
+            "score": 1438
+        },
+        {
+            "word": "sanskrit",
+            "score": 1428
+        },
+        {
+            "word": "vedic",
+            "score": 1418
+        },
+        {
+            "word": "guru",
+            "score": 1412
+        },
+        {
+            "word": "relaxation",
+            "score": 1409
+        },
+        {
+            "word": "yin",
+            "score": 1406
+        },
+        {
+            "word": "chanting",
+            "score": 1403
+        },
+        {
+            "word": "raja",
+            "score": 1398
+        },
+        {
+            "word": "practitioner",
+            "score": 1393
+        },
+        {
+            "word": "breathing",
+            "score": 1389
+        },
+        {
+            "word": "astrology",
+            "score": 1386
+        },
+        {
+            "word": "posture",
+            "score": 1380
+        },
+        {
+            "word": "instructor",
+            "score": 1371
+        },
+        {
+            "word": "baba",
+            "score": 1363
+        },
+        {
+            "word": "disciple",
+            "score": 1359
+        },
+        {
+            "word": "shiva",
+            "score": 1348
+        },
+        {
+            "word": "wellness",
+            "score": 1345
+        },
+        {
+            "word": "breath",
+            "score": 1343
+        },
+        {
+            "word": "limbs",
+            "score": 1339
+        },
+        {
+            "word": "spiritual",
+            "score": 1331
+        },
+        {
+            "word": "pants",
+            "score": 1328
+        },
+        {
+            "word": "verses",
+            "score": 1326
+        },
+        {
+            "word": "hindu",
+            "score": 1321
+        },
+        {
+            "word": "tablet",
+            "score": 1319
+        },
+        {
+            "word": "spirituality",
+            "score": 1317
+        },
+        {
+            "word": "exercises",
+            "score": 1315
+        },
+        {
+            "word": "fitness",
+            "score": 1312
+        },
+        {
+            "word": "shri",
+            "score": 1307
+        },
+        {
+            "word": "krishna",
+            "score": 1302
+        },
+        {
+            "word": "pose",
+            "score": 1295
+        },
+        {
+            "word": "devotion",
+            "score": 1292
+        },
+        {
+            "word": "buddhism",
+            "score": 1289
+        },
+        {
+            "word": "mat",
+            "score": 1284
+        },
+        {
+            "word": "planets",
+            "score": 1274
+        },
+        {
+            "word": "tibetan",
+            "score": 1272
+        },
+        {
+            "word": "healing",
+            "score": 1265
+        },
+        {
+            "word": "consciousness",
+            "score": 1261
+        },
+        {
+            "word": "teacher",
+            "score": 1259
+        },
+        {
+            "word": "self",
+            "score": 1258
+        },
+        {
+            "word": "practices",
+            "score": 1256
+        },
+        {
+            "word": "practiced",
+            "score": 1249
+        },
+        {
+            "word": "chi",
+            "score": 1245
+        },
+        {
+            "word": "philosophy",
+            "score": 1238
+        },
+        {
+            "word": "classes",
+            "score": 1227
+        },
+        {
+            "word": "practice",
+            "score": 1225
+        },
+        {
+            "word": "therapy",
+            "score": 1221
+        },
+        {
+            "word": "buddhist",
+            "score": 1219
+        },
+        {
+            "word": "mind",
+            "score": 1209
+        },
+        {
+            "word": "exercise",
+            "score": 1207
+        },
+        {
+            "word": "wisdom",
+            "score": 1206
+        },
+        {
+            "word": "traditions",
+            "score": 1204
+        },
+        {
+            "word": "path",
+            "score": 1199
+        },
+        {
+            "word": "text",
+            "score": 1195
+        },
+        {
+            "word": "divine",
+            "score": 1193
+        },
+        {
+            "word": "techniques",
+            "score": 1183
+        },
+        {
+            "word": "philosophical",
+            "score": 1182
+        },
+        {
+            "word": "martial",
+            "score": 1180
+        },
+        {
+            "word": "verse",
+            "score": 1177
+        },
+        {
+            "word": "discipline",
+            "score": 1172
+        },
+        {
+            "word": "bce",
+            "score": 1170
+        },
+        {
+            "word": "taught",
+            "score": 1168
+        },
+        {
+            "word": "centres",
+            "score": 1164
+        },
+        {
+            "word": "sri",
+            "score": 1162
+        },
+        {
+            "word": "liberation",
+            "score": 1158
+        },
+        {
+            "word": "integral",
+            "score": 1156
+        },
+        {
+            "word": "teaching",
+            "score": 1153
+        },
+        {
+            "word": "awareness",
+            "score": 1150
+        },
+        {
+            "word": "healthy",
+            "score": 1148
+        },
+        {
+            "word": "tradition",
+            "score": 1144
+        },
+        {
+            "word": "chapter",
+            "score": 1137
+        },
+        {
+            "word": "inner",
+            "score": 1136
+        },
+        {
+            "word": "stress",
+            "score": 1128
+        },
+        {
+            "word": "centers",
+            "score": 1126
+        },
+        {
+            "word": "retreat",
+            "score": 1124
+        },
+        {
+            "word": "soul",
+            "score": 1122
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "yoga",
+            "score": 995
+        },
+        {
+            "word": "yogacara",
+            "score": 37
+        },
+        {
+            "word": "yogas",
+            "score": 16
+        },
+        {
+            "word": "yoga mat",
+            "score": 9
+        },
+        {
+            "word": "yogasana",
+            "score": 3
+        },
+        {
+            "word": "yogaoil",
+            "score": 2
+        },
+        {
+            "word": "yogacaras",
+            "score": 1
+        },
+        {
+            "word": "yogananda",
+            "score": 1
+        }
+    ]
+}

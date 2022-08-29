@@ -1,0 +1,1618 @@
+{
+    "term": "shim",
+    "means_like": [
+        {
+            "word": "washer",
+            "score": 61753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "attachment",
+            "score": 60675,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wedge",
+            "score": 59591,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rectifier",
+            "score": 59376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cs",
+            "score": 59066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shen",
+            "score": 58985,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shin",
+            "score": 58407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bilge",
+            "score": 57461,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piece",
+            "score": 57136,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accessory",
+            "score": 56646,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "correction",
+            "score": 56183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "addenda",
+            "score": 56094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taco",
+            "score": 55672,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sim",
+            "score": 55429,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sham",
+            "score": 55249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "addendum",
+            "score": 53724,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shimon",
+            "score": 53451,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "thrust",
+            "score": 52894,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonus",
+            "score": 52725,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corrigendum",
+            "score": 52177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplementation",
+            "score": 51956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shum",
+            "score": 51316,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "top-up",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacers",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplement",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supplements",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spacer",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flange",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "allen wrench",
+            "score": 51312,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cotter pin",
+            "score": 51311,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dowel",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pushrods",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tappet",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torque wrench",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gasket",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caliper",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ferrule",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fastener",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clevis",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spline",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "feeler gauge",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coil",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pushrod",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sprocket",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "propeller shaft",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "countersink",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stiffeners",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piston rod",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pintle",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jamb",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keyways",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "socket wrench",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nosepiece",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screws",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "idler pulley",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bushing",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plier",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandrel",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "microswitch",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pawl",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awl",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baseplate",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solenoid",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mortice",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "workpiece",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stator",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chamfer",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "platen",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "detent",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aileron",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sealant",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailstock",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hex nut",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bevel",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adjustable wrench",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handwheel",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spile",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reamer",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hasp",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiper motor",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "torsion bar",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "retractor",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "underlayment",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mortise",
+            "score": 51257,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deflector",
+            "score": 51256,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stiction",
+            "score": 51255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frustum",
+            "score": 51254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "backplate",
+            "score": 51253,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obturator",
+            "score": 51252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spackling compound",
+            "score": 51251,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rollbar",
+            "score": 51250,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acetabulum",
+            "score": 51249,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "connector",
+            "score": 51248,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "subfloor",
+            "score": 51247,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "putty knife",
+            "score": 51246,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obturation",
+            "score": 51245,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spindle",
+            "score": 51244,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doubler",
+            "score": 51243,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "embroidery hoop",
+            "score": 51242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "needlenose pliers",
+            "score": 51241,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "shim",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "shem",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "shum",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "schem",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "swm",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "schum",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "schemm",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "siom",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "shame",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "shin",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "sham",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "shing",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "shime",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "xing",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "shinn",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "shom",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "schaum",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "scham",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "schin",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsin",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "shalm",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsam",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "sjam",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gym",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jim",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gim",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "chim",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jym",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jimm",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "chimb",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "wsim",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "shun",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "shen",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheng",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "sien",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "shine",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "tion",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shown",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sean",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheen",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shone",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shimmer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shane",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chum",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shawn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shaun",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shimmy",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shan",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shon",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "xan",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cian",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sherm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shayne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jum",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shyne",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shean",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shema",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schene",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shain",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shoun",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shoon",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shimp",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "wme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schon",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schoen",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shaine",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jdm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shoen",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "psion",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schein",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shims",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shein",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gemme",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scheen",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schone",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schirm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gemm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cmb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheene",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shewn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "siang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shahn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shimmed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shuang",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schlimm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shonn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chem-",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scherm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jumbe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "srim",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chin",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chime",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "ching",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cham",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheme",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chame",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheam",
+            "score": 88,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "shim",
+            "score": 805
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "shims",
+            "score": 1882
+        },
+        {
+            "word": "shimmy",
+            "score": 1767
+        },
+        {
+            "word": "sham",
+            "score": 1741
+        },
+        {
+            "word": "yah",
+            "score": 1705
+        },
+        {
+            "word": "spacer",
+            "score": 1616
+        },
+        {
+            "word": "gum",
+            "score": 1612
+        },
+        {
+            "word": "shogunate",
+            "score": 1573
+        },
+        {
+            "word": "yer",
+            "score": 1553
+        },
+        {
+            "word": "sulu",
+            "score": 1545
+        },
+        {
+            "word": "seo",
+            "score": 1539
+        },
+        {
+            "word": "hangul",
+            "score": 1534
+        },
+        {
+            "word": "bucket",
+            "score": 1508
+        },
+        {
+            "word": "thorns",
+            "score": 1501
+        },
+        {
+            "word": "jung",
+            "score": 1494
+        },
+        {
+            "word": "plateau",
+            "score": 1486
+        },
+        {
+            "word": "chung",
+            "score": 1470
+        },
+        {
+            "word": "meiji",
+            "score": 1468
+        },
+        {
+            "word": "shin",
+            "score": 1461
+        },
+        {
+            "word": "mina",
+            "score": 1453
+        },
+        {
+            "word": "choi",
+            "score": 1452
+        },
+        {
+            "word": "kim",
+            "score": 1450
+        },
+        {
+            "word": "kant",
+            "score": 1440
+        },
+        {
+            "word": "kan",
+            "score": 1420
+        },
+        {
+            "word": "edo",
+            "score": 1417
+        },
+        {
+            "word": "korean",
+            "score": 1416
+        },
+        {
+            "word": "sim",
+            "score": 1415
+        },
+        {
+            "word": "choreography",
+            "score": 1411
+        },
+        {
+            "word": "seoul",
+            "score": 1406
+        },
+        {
+            "word": "purge",
+            "score": 1405
+        },
+        {
+            "word": "gong",
+            "score": 1400
+        },
+        {
+            "word": "adjust",
+            "score": 1398
+        },
+        {
+            "word": "zen",
+            "score": 1387
+        },
+        {
+            "word": "mecca",
+            "score": 1385
+        },
+        {
+            "word": "chang",
+            "score": 1383
+        },
+        {
+            "word": "api",
+            "score": 1378
+        },
+        {
+            "word": "clan",
+            "score": 1371
+        },
+        {
+            "word": "prefecture",
+            "score": 1369
+        },
+        {
+            "word": "cpu",
+            "score": 1361
+        },
+        {
+            "word": "rods",
+            "score": 1358
+        },
+        {
+            "word": "tap",
+            "score": 1357
+        },
+        {
+            "word": "enlightenment",
+            "score": 1341
+        },
+        {
+            "word": "jin",
+            "score": 1334
+        },
+        {
+            "word": "inserted",
+            "score": 1332
+        },
+        {
+            "word": "installment",
+            "score": 1327
+        },
+        {
+            "word": "consort",
+            "score": 1322
+        },
+        {
+            "word": "valve",
+            "score": 1316
+        },
+        {
+            "word": "ibn",
+            "score": 1312
+        },
+        {
+            "word": "korea",
+            "score": 1309
+        },
+        {
+            "word": "valves",
+            "score": 1306
+        },
+        {
+            "word": "min",
+            "score": 1304
+        },
+        {
+            "word": "province",
+            "score": 1300
+        },
+        {
+            "word": "dancer",
+            "score": 1295
+        },
+        {
+            "word": "domain",
+            "score": 1285
+        },
+        {
+            "word": "relay",
+            "score": 1279
+        },
+        {
+            "word": "buddhist",
+            "score": 1274
+        },
+        {
+            "word": "descendants",
+            "score": 1267
+        },
+        {
+            "word": "swing",
+            "score": 1265
+        },
+        {
+            "word": "manning",
+            "score": 1262
+        },
+        {
+            "word": "freestyle",
+            "score": 1243
+        },
+        {
+            "word": "chi",
+            "score": 1238
+        },
+        {
+            "word": "martial",
+            "score": 1236
+        },
+        {
+            "word": "routine",
+            "score": 1234
+        },
+        {
+            "word": "kingston",
+            "score": 1230
+        },
+        {
+            "word": "reunited",
+            "score": 1227
+        },
+        {
+            "word": "han",
+            "score": 1226
+        },
+        {
+            "word": "sword",
+            "score": 1225
+        },
+        {
+            "word": "actress",
+            "score": 1223
+        },
+        {
+            "word": "lee",
+            "score": 1220
+        },
+        {
+            "word": "metres",
+            "score": 1202
+        },
+        {
+            "word": "memories",
+            "score": 1197
+        },
+        {
+            "word": "abu",
+            "score": 1194
+        },
+        {
+            "word": "pitcher",
+            "score": 1193
+        },
+        {
+            "word": "ben",
+            "score": 1177
+        },
+        {
+            "word": "surname",
+            "score": 1172
+        },
+        {
+            "word": "stem",
+            "score": 1160
+        },
+        {
+            "word": "sung",
+            "score": 1159
+        },
+        {
+            "word": "transmission",
+            "score": 1156
+        },
+        {
+            "word": "starred",
+            "score": 1155
+        },
+        {
+            "word": "executed",
+            "score": 1141
+        },
+        {
+            "word": "arrangement",
+            "score": 1139
+        },
+        {
+            "word": "aired",
+            "score": 1138
+        },
+        {
+            "word": "tokyo",
+            "score": 1132
+        },
+        {
+            "word": "filming",
+            "score": 1130
+        },
+        {
+            "word": "scholar",
+            "score": 1124
+        },
+        {
+            "word": "accused",
+            "score": 1122
+        },
+        {
+            "word": "portland",
+            "score": 1121
+        },
+        {
+            "word": "reign",
+            "score": 1117
+        },
+        {
+            "word": "footballer",
+            "score": 1116
+        },
+        {
+            "word": "tribe",
+            "score": 1114
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "shim",
+            "score": 805
+        },
+        {
+            "word": "shimmer",
+            "score": 731
+        },
+        {
+            "word": "shimmy",
+            "score": 657
+        },
+        {
+            "word": "shimmering",
+            "score": 300
+        },
+        {
+            "word": "shime",
+            "score": 132
+        },
+        {
+            "word": "shimmies",
+            "score": 122
+        },
+        {
+            "word": "shimmied",
+            "score": 120
+        },
+        {
+            "word": "shimmery",
+            "score": 117
+        },
+        {
+            "word": "shimmed",
+            "score": 107
+        },
+        {
+            "word": "shimming",
+            "score": 106
+        }
+    ]
+}

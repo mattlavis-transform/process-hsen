@@ -1,0 +1,813 @@
+{
+    "term": "business cards",
+    "means_like": [
+        {
+            "word": "card",
+            "score": 48983,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "dealing",
+            "score": 28535,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cardholder",
+            "score": 28183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deal",
+            "score": 28183,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cardcase",
+            "score": 28135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dealt",
+            "score": 28072,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "vcard",
+            "score": 28072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "book",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booking",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "books",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "commerce",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dealer",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "documentation",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "game",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lead",
+            "score": 11783,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "make",
+            "score": 11783,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "map",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pack",
+            "score": 11783,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "perform",
+            "score": 11783,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "play",
+            "score": 11783,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "squeeze",
+            "score": 11783,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "stock",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stocked",
+            "score": 11783,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "stocks",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tarot",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trailer",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trick",
+            "score": 11783,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turn",
+            "score": 11783,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "turned",
+            "score": 11783,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "job",
+            "score": 11735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leader",
+            "score": 11735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "packer",
+            "score": 11735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 11735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressed",
+            "score": 11735,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pasteboard",
+            "score": 11721,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visiting card",
+            "score": 11721,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "build",
+            "score": 11588,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "credit",
+            "score": 11588,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "follow",
+            "score": 11588,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "roll",
+            "score": 11588,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "suit",
+            "score": 11588,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "suited",
+            "score": 11588,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bust",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carry",
+            "score": 11539,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cater",
+            "score": 11539,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "close",
+            "score": 11539,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "doing",
+            "score": 11539,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "dummy",
+            "score": 11539,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "establish",
+            "score": 11539,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "fold",
+            "score": 11539,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "king",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mark",
+            "score": 11539,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "open",
+            "score": 11539,
+            "tags": [
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "over",
+            "score": 11539,
+            "tags": [
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "picket",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "point",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pool",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "return",
+            "score": 11539,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "round",
+            "score": 11539,
+            "tags": [
+                "adj",
+                "n",
+                "adv"
+            ]
+        },
+        {
+            "word": "rounds",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "run",
+            "score": 11539,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "see",
+            "score": 11539,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "show",
+            "score": 11539,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "smart",
+            "score": 11539,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "speculation",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spot",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spots",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stand",
+            "score": 11539,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "straight",
+            "score": 11539,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "trade",
+            "score": 11539,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "casino",
+            "score": 11525,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "papers",
+            "score": 11525,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "records",
+            "score": 11525,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "estimates",
+            "score": 11477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mogul",
+            "score": 11477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stick",
+            "score": 11477,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sticks",
+            "score": 11477,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "account",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accountancy",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "accounting",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acts",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "advice",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analyst",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arbitrage",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auctioneer",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audit",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auditor",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aut",
+            "score": 10686
+        },
+        {
+            "word": "bar",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barred",
+            "score": 10686,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "bars",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "batch",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bibliopolism",
+            "score": 10686
+        },
+        {
+            "word": "bloom",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "book value",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookbinder",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookkeeper",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookkeeping",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bookstore",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boom",
+            "score": 10686,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "business cards",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "business card",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "business case",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "biscardi",
+            "score": 62,
+            "numSyllables": 3
+        },
+        {
+            "word": "barricades",
+            "score": 54,
+            "numSyllables": 3
+        },
+        {
+            "word": "bisectors",
+            "score": 52,
+            "numSyllables": 3
+        },
+        {
+            "word": "benniseed",
+            "score": 49,
+            "numSyllables": 3
+        },
+        {
+            "word": "unscarred",
+            "score": 49,
+            "numSyllables": 2
+        },
+        {
+            "word": "benefactors",
+            "score": 49,
+            "numSyllables": 4
+        },
+        {
+            "word": "benazir",
+            "score": 47,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "business cards",
+            "score": 129334
+        },
+        {
+            "word": "business card",
+            "score": 64724
+        },
+        {
+            "word": "business parks",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "business cards",
+            "score": 129334
+        },
+        {
+            "word": "business card",
+            "score": 64724
+        },
+        {
+            "word": "business case",
+            "score": 155
+        },
+        {
+            "word": "business casual",
+            "score": 18
+        },
+        {
+            "word": "business parks",
+            "score": 1
+        }
+    ]
+}

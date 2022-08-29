@@ -1,0 +1,1724 @@
+{
+    "term": "cpu",
+    "means_like": [
+        {
+            "word": "processor",
+            "score": 87320,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "mainframe",
+            "score": 83841,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "central processing unit",
+            "score": 71987,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "central processor",
+            "score": 71987,
+            "tags": [
+                "syn",
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "processors",
+            "score": 64180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cus",
+            "score": 62821,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "upc",
+            "score": 57506,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "utilization",
+            "score": 57224,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eeprom",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pcu",
+            "score": 51054,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ucp",
+            "score": 51054,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "uct",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "z80",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pentium",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motherboard",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scsi",
+            "score": 51051,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "linux",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "risc",
+            "score": 51049,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "msi",
+            "score": 51048,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ddr",
+            "score": 51047,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shader",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "usb",
+            "score": 51045,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "unix",
+            "score": 51044,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "solaris",
+            "score": 51043,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "microsoft",
+            "score": 51042,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "powerbook",
+            "score": 51041,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "photoshop",
+            "score": 51040,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "api",
+            "score": 51039,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mac",
+            "score": 51038,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ghz",
+            "score": 51037,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gui",
+            "score": 51036,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "netscape",
+            "score": 51035,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mips",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drm",
+            "score": 51033,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "macintosh",
+            "score": 51032,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lightroom",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ibm",
+            "score": 51030,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lenovo",
+            "score": 51029,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gpu",
+            "score": 51028,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pascal",
+            "score": 51027,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ascii",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firefox",
+            "score": 51024,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "apis",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cdrom",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "novell",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "efi",
+            "score": 51020,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aol",
+            "score": 51019,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sony",
+            "score": 51018,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dvr",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xbox",
+            "score": 51016,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "wysiwyg",
+            "score": 51015,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "compaq",
+            "score": 51014,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cli",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "obj",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thinkpad",
+            "score": 51011,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "roms",
+            "score": 51010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "motorola",
+            "score": 51009,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "microprocessor",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "australia",
+            "score": 51007,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "xen",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "operands",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emacs",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dell",
+            "score": 51003,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ajax",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tivo",
+            "score": 51001,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dreamweaver",
+            "score": 51000,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "toshiba",
+            "score": 50999,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gnu",
+            "score": 50998,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hdtv",
+            "score": 50997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intel",
+            "score": 50996,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gamecube",
+            "score": 50995,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "von neumann machine",
+            "score": 50994,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "rcb",
+            "score": 50993,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nokia",
+            "score": 50992,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sherlock",
+            "score": 50991,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vlc",
+            "score": 50990,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nintendo",
+            "score": 50989,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sega",
+            "score": 50988,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lenny",
+            "score": 50987,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ireland",
+            "score": 50986,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ctrl",
+            "score": 50985,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "integer",
+            "score": 50984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amiga",
+            "score": 50983,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lcd",
+            "score": 50982,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "proc",
+            "score": 50981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "philips",
+            "score": 50980,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mcafee",
+            "score": 50979,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mhz",
+            "score": 50978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canada",
+            "score": 50977,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "init",
+            "score": 50976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "adobe",
+            "score": 50975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garmin",
+            "score": 50974,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "malaysia",
+            "score": 50973,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "samsung",
+            "score": 50972,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "quicktime",
+            "score": 50971,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "asm",
+            "score": 50970,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "april",
+            "score": 50969,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "south africa",
+            "score": 50968,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lisa",
+            "score": 50967,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gif",
+            "score": 50966,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "cow",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "kow",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "cpu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "cao",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "kao",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "cau",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "kau",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "coue",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ccow",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ctu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "khou",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "kpu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "qow",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ca",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "ka",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "caw",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kah",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cah",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cta",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cka",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaw",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kha",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "caa",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaa",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cto",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cfa",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "lka",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "caah",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cbo",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cva",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "cawe",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "kca",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "qaw",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "lqa",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "key",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kay",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "k",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "co",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coup",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ki",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cay",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ke",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cous",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cky",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cty",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coups",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coq",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cco",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "khoo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kaj",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cooie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "khai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "keye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "khoi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "khe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kkg",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cko",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "khi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "caye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kho",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kii",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ccg",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cfy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kki",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ctie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cooh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cti",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "co-",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kci",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "caie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ccu",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kde",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kko",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "coie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kke",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kfe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cqa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kkr",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "cuyp",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kgc",
+            "score": 95,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "cpu",
+            "score": 469
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "chipset",
+            "score": 1631
+        },
+        {
+            "word": "xeon",
+            "score": 1629
+        },
+        {
+            "word": "motherboard",
+            "score": 1625
+        },
+        {
+            "word": "mips",
+            "score": 1618
+        },
+        {
+            "word": "dma",
+            "score": 1593
+        },
+        {
+            "word": "cores",
+            "score": 1586
+        },
+        {
+            "word": "socket",
+            "score": 1584
+        },
+        {
+            "word": "cache",
+            "score": 1575
+        },
+        {
+            "word": "clocked",
+            "score": 1573
+        },
+        {
+            "word": "microprocessor",
+            "score": 1568
+        },
+        {
+            "word": "ghz",
+            "score": 1563
+        },
+        {
+            "word": "risc",
+            "score": 1547
+        },
+        {
+            "word": "processor",
+            "score": 1541
+        },
+        {
+            "word": "intel",
+            "score": 1539
+        },
+        {
+            "word": "interrupt",
+            "score": 1533
+        },
+        {
+            "word": "dram",
+            "score": 1518
+        },
+        {
+            "word": "accesses",
+            "score": 1509
+        },
+        {
+            "word": "bios",
+            "score": 1500
+        },
+        {
+            "word": "ddr",
+            "score": 1492
+        },
+        {
+            "word": "multiplier",
+            "score": 1483
+        },
+        {
+            "word": "ram",
+            "score": 1473
+        },
+        {
+            "word": "dsp",
+            "score": 1471
+        },
+        {
+            "word": "soc",
+            "score": 1466
+        },
+        {
+            "word": "emulation",
+            "score": 1460
+        },
+        {
+            "word": "utilization",
+            "score": 1450
+        },
+        {
+            "word": "chip",
+            "score": 1448
+        },
+        {
+            "word": "memory",
+            "score": 1430
+        },
+        {
+            "word": "chips",
+            "score": 1429
+        },
+        {
+            "word": "instructions",
+            "score": 1428
+        },
+        {
+            "word": "floppy",
+            "score": 1421
+        },
+        {
+            "word": "rom",
+            "score": 1418
+        },
+        {
+            "word": "idle",
+            "score": 1411
+        },
+        {
+            "word": "ethernet",
+            "score": 1403
+        },
+        {
+            "word": "controller",
+            "score": 1402
+        },
+        {
+            "word": "hardware",
+            "score": 1401
+        },
+        {
+            "word": "threads",
+            "score": 1394
+        },
+        {
+            "word": "graphics",
+            "score": 1393
+        },
+        {
+            "word": "instruction",
+            "score": 1391
+        },
+        {
+            "word": "cycles",
+            "score": 1388
+        },
+        {
+            "word": "clock",
+            "score": 1387
+        },
+        {
+            "word": "queue",
+            "score": 1382
+        },
+        {
+            "word": "disk",
+            "score": 1381
+        },
+        {
+            "word": "accelerator",
+            "score": 1379
+        },
+        {
+            "word": "compiler",
+            "score": 1376
+        },
+        {
+            "word": "kernel",
+            "score": 1375
+        },
+        {
+            "word": "module",
+            "score": 1374
+        },
+        {
+            "word": "macintosh",
+            "score": 1371
+        },
+        {
+            "word": "amiga",
+            "score": 1369
+        },
+        {
+            "word": "scheduling",
+            "score": 1368
+        },
+        {
+            "word": "execute",
+            "score": 1366
+        },
+        {
+            "word": "peripheral",
+            "score": 1360
+        },
+        {
+            "word": "bandwidth",
+            "score": 1357
+        },
+        {
+            "word": "desktop",
+            "score": 1346
+        },
+        {
+            "word": "compatibility",
+            "score": 1334
+        },
+        {
+            "word": "slots",
+            "score": 1331
+        },
+        {
+            "word": "buffer",
+            "score": 1314
+        },
+        {
+            "word": "ibm",
+            "score": 1310
+        },
+        {
+            "word": "core",
+            "score": 1307
+        },
+        {
+            "word": "processing",
+            "score": 1306
+        },
+        {
+            "word": "linux",
+            "score": 1303
+        },
+        {
+            "word": "usb",
+            "score": 1301
+        },
+        {
+            "word": "slower",
+            "score": 1298
+        },
+        {
+            "word": "usage",
+            "score": 1295
+        },
+        {
+            "word": "compatible",
+            "score": 1290
+        },
+        {
+            "word": "mode",
+            "score": 1289
+        },
+        {
+            "word": "faster",
+            "score": 1285
+        },
+        {
+            "word": "logic",
+            "score": 1284
+        },
+        {
+            "word": "computers",
+            "score": 1279
+        },
+        {
+            "word": "thread",
+            "score": 1277
+        },
+        {
+            "word": "slot",
+            "score": 1273
+        },
+        {
+            "word": "rendering",
+            "score": 1271
+        },
+        {
+            "word": "interface",
+            "score": 1267
+        },
+        {
+            "word": "embedded",
+            "score": 1264
+        },
+        {
+            "word": "bits",
+            "score": 1260
+        },
+        {
+            "word": "server",
+            "score": 1258
+        },
+        {
+            "word": "overhead",
+            "score": 1253
+        },
+        {
+            "word": "modes",
+            "score": 1252
+        },
+        {
+            "word": "cooling",
+            "score": 1249
+        },
+        {
+            "word": "load",
+            "score": 1247
+        },
+        {
+            "word": "tasks",
+            "score": 1245
+        },
+        {
+            "word": "keyboard",
+            "score": 1242
+        },
+        {
+            "word": "integrated",
+            "score": 1238
+        },
+        {
+            "word": "floating",
+            "score": 1232
+        },
+        {
+            "word": "boards",
+            "score": 1228
+        },
+        {
+            "word": "execution",
+            "score": 1226
+        },
+        {
+            "word": "bus",
+            "score": 1221
+        },
+        {
+            "word": "voltage",
+            "score": 1219
+        },
+        {
+            "word": "architecture",
+            "score": 1218
+        },
+        {
+            "word": "devices",
+            "score": 1217
+        },
+        {
+            "word": "vector",
+            "score": 1211
+        },
+        {
+            "word": "computing",
+            "score": 1208
+        },
+        {
+            "word": "arm",
+            "score": 1207
+        },
+        {
+            "word": "address",
+            "score": 1204
+        },
+        {
+            "word": "commodore",
+            "score": 1202
+        },
+        {
+            "word": "flash",
+            "score": 1200
+        },
+        {
+            "word": "upgrade",
+            "score": 1198
+        },
+        {
+            "word": "apple",
+            "score": 1197
+        },
+        {
+            "word": "storage",
+            "score": 1196
+        },
+        {
+            "word": "cards",
+            "score": 1193
+        },
+        {
+            "word": "virtual",
+            "score": 1191
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "cpu",
+            "score": 469
+        },
+        {
+            "word": "cpus",
+            "score": 56
+        },
+        {
+            "word": "cpu board",
+            "score": 55
+        },
+        {
+            "word": "cpu wars",
+            "score": 11
+        },
+        {
+            "word": "cpu time",
+            "score": 10
+        },
+        {
+            "word": "cpue",
+            "score": 10
+        },
+        {
+            "word": "cpuid",
+            "score": 10
+        },
+        {
+            "word": "cpusa",
+            "score": 8
+        },
+        {
+            "word": "cpu info center",
+            "score": 2
+        },
+        {
+            "word": "cput",
+            "score": 1
+        }
+    ]
+}

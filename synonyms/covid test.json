@@ -1,0 +1,798 @@
+{
+    "term": "covid test",
+    "means_like": [
+        {
+            "word": "analyses",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analysing",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "analysis",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "analyzing",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "ascertain",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "assay",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assays",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assessment",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audit",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audition",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beta",
+            "score": 26424,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "binet-simon scale",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blood",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 26424,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 26424,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checks",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "consideration",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "control",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "criteria",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "criterion",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "discussion",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dna",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essays",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evaluation",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "event",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "evidence",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "exam",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examination",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examinations",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "examine",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "examining",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "exams",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "experience",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "experiences",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "experiment",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "experimentation",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "experiments",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "form",
+            "score": 26424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "gauge",
+            "score": 26424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "inspect",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "inspection",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "litmus",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "method",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monitoring",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "one",
+            "score": 26424,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "oral",
+            "score": 26424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "oversight",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pilot",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "piloting",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "probation",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "probe",
+            "score": 26424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "proof",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prov",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prove",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "quiz",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "report",
+            "score": 26424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "results",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "review",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reviewing",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "reviews",
+            "score": 26424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "sample",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screening",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stake",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "standard",
+            "score": 26424,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "strain",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stress",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "survey",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tested",
+            "score": 26424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "testimony",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "testing",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tests",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "texts",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trial",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trials",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "try",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "tryout",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "verification",
+            "score": 26424,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "verify",
+            "score": 26424,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "verifying",
+            "score": 26424,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "witness",
+            "score": 26424,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "acceptance",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acid",
+            "score": 26364,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "ban",
+            "score": 26364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "blast",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "considering",
+            "score": 26364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "cow",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drive",
+            "score": 26364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "eeg",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "equipment",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "force",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "methods",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mri",
+            "score": 26364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "objective",
+            "score": 26364,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "pattern",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pieces",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prep",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "procedure",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "secondment",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "serious",
+            "score": 26364,
+            "tags": [
+                "adj"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "covetous",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "cavitate",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "kovats",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "contest",
+            "score": 67,
+            "numSyllables": 2
+        },
+        {
+            "word": "cutest",
+            "score": 65,
+            "numSyllables": 2
+        },
+        {
+            "word": "caveats",
+            "score": 60,
+            "numSyllables": 3
+        },
+        {
+            "word": "blood test",
+            "score": 60,
+            "numSyllables": 2
+        },
+        {
+            "word": "skin test",
+            "score": 55,
+            "numSyllables": 2
+        },
+        {
+            "word": "seediest",
+            "score": 45,
+            "numSyllables": 3
+        },
+        {
+            "word": "civitas",
+            "score": 45,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "acid test",
+            "score": 94
+        },
+        {
+            "word": "road test",
+            "score": 68
+        },
+        {
+            "word": "old test",
+            "score": 3
+        },
+        {
+            "word": "oil test",
+            "score": 2
+        },
+        {
+            "word": "load test",
+            "score": 1
+        }
+    ]
+}

@@ -1,0 +1,1693 @@
+{
+    "term": "shir",
+    "means_like": [
+        {
+            "word": "cher",
+            "score": 40237,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jesus",
+            "score": 39960,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shite",
+            "score": 34901,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goddamn",
+            "score": 34360,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "jeez",
+            "score": 33812,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dammit",
+            "score": 33552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crap",
+            "score": 33002,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hell",
+            "score": 32417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "damn",
+            "score": 32334,
+            "tags": [
+                "adj",
+                "v",
+                "adv"
+            ]
+        },
+        {
+            "word": "whorehouse",
+            "score": 32016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cathouse",
+            "score": 28028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mess",
+            "score": 27796,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shire",
+            "score": 27101,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bordello",
+            "score": 26279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frak",
+            "score": 24997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goddammit",
+            "score": 24997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goddamnit",
+            "score": 24997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "merde",
+            "score": 24997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scher",
+            "score": 24997,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sher",
+            "score": 24997,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ayin",
+            "score": 24996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brothel",
+            "score": 24996,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aar",
+            "score": 24995,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bahar",
+            "score": 24994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nao",
+            "score": 24993,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pok",
+            "score": 24992,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laa",
+            "score": 24991,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reng",
+            "score": 24990,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuo",
+            "score": 24989,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luk",
+            "score": 24988,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "isu",
+            "score": 24987,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iska",
+            "score": 24986,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pha",
+            "score": 24985,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dawk",
+            "score": 24984,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kho",
+            "score": 24983,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sinn",
+            "score": 24982,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hara",
+            "score": 24981,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chet",
+            "score": 24980,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nair",
+            "score": 24979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laila",
+            "score": 24978,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dilo",
+            "score": 24977,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "illa",
+            "score": 24976,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maro",
+            "score": 24975,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "asi",
+            "score": 24974,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "roz",
+            "score": 24973,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "koro",
+            "score": 24972,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wae",
+            "score": 24971,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hawn",
+            "score": 24970,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "zara",
+            "score": 24969,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aja",
+            "score": 24968,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eeee",
+            "score": 24967,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baya",
+            "score": 24966,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oni",
+            "score": 24965,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mona",
+            "score": 24964,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nim",
+            "score": 24963,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fren",
+            "score": 24962,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tena",
+            "score": 24961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shel",
+            "score": 24960,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kom",
+            "score": 24959,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chua",
+            "score": 24958,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shal",
+            "score": 24957,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "daro",
+            "score": 24956,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quam",
+            "score": 24955,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kab",
+            "score": 24954,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rab",
+            "score": 24953,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yow",
+            "score": 24952,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nai",
+            "score": 24951,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "jana",
+            "score": 24950,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pung",
+            "score": 24949,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "omo",
+            "score": 24948,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kana",
+            "score": 24947,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desh",
+            "score": 24946,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "alam",
+            "score": 24945,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "guna",
+            "score": 24944,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "esto",
+            "score": 24943,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bou",
+            "score": 24942,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "babi",
+            "score": 24941,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eso",
+            "score": 24940,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mala",
+            "score": 24939,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vai",
+            "score": 24938,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fum",
+            "score": 24937,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tara",
+            "score": 24936,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "taw",
+            "score": 24935,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sisi",
+            "score": 24934,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mina",
+            "score": 24933,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "malo",
+            "score": 24932,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "salaam",
+            "score": 24931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meu",
+            "score": 24930,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suf",
+            "score": 24929,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ela",
+            "score": 24928,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chim",
+            "score": 24927,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kain",
+            "score": 24926,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kaa",
+            "score": 24925,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aya",
+            "score": 24924,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bol",
+            "score": 24923,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shem",
+            "score": 24922,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hov",
+            "score": 24921,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bara",
+            "score": 24920,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sori",
+            "score": 24919,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nus",
+            "score": 24918,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "sher",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "shir",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "shur",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "shirr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "shr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "scher",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "schurr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "schur",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "swr",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "ger",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "jer",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "chir",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jur",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jerr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "churr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "chirr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jir",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gwr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "cierre",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "jrr",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "sjw",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "shq",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "share",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "she",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shaw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sha",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shire",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cher",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shear",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "asher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shae",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shar",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shere",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shee",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sherm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "escher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shai",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sherk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shair",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheree",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sharee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shier",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "esher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "osher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sherd",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scheer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shih",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ashur",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "sche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shern",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schwer",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gsa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shieh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "chro",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schor",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schorr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsia",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schar",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ashar",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schirm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schnur",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shawe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schaar",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scherff",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "sheh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scha",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scherf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schi",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ashir",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schauer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schnurr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ascher",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schier",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scherr",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scherz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scheuer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schurz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "hcf",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schah",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schrei",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scherm",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ntia",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schaer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "schei",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shewer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "gfci",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "schere",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "scheurer",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "asshur",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hsb",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "shir",
+            "score": 142
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "mard",
+            "score": 1881
+        },
+        {
+            "word": "chay",
+            "score": 1737
+        },
+        {
+            "word": "kola",
+            "score": 1701
+        },
+        {
+            "word": "aqa",
+            "score": 1692
+        },
+        {
+            "word": "midrash",
+            "score": 1661
+        },
+        {
+            "word": "rud",
+            "score": 1659
+        },
+        {
+            "word": "hajji",
+            "score": 1649
+        },
+        {
+            "word": "shiraz",
+            "score": 1648
+        },
+        {
+            "word": "shul",
+            "score": 1644
+        },
+        {
+            "word": "neh",
+            "score": 1627
+        },
+        {
+            "word": "saber",
+            "score": 1625
+        },
+        {
+            "word": "bazar",
+            "score": 1621
+        },
+        {
+            "word": "shirk",
+            "score": 1619
+        },
+        {
+            "word": "kabuki",
+            "score": 1613
+        },
+        {
+            "word": "kol",
+            "score": 1607
+        },
+        {
+            "word": "gol",
+            "score": 1604
+        },
+        {
+            "word": "psalm",
+            "score": 1578
+        },
+        {
+            "word": "bala",
+            "score": 1574
+        },
+        {
+            "word": "chak",
+            "score": 1550
+        },
+        {
+            "word": "grail",
+            "score": 1543
+        },
+        {
+            "word": "bleach",
+            "score": 1533
+        },
+        {
+            "word": "kal",
+            "score": 1529
+        },
+        {
+            "word": "lancer",
+            "score": 1511
+        },
+        {
+            "word": "yom",
+            "score": 1507
+        },
+        {
+            "word": "herat",
+            "score": 1505
+        },
+        {
+            "word": "rin",
+            "score": 1485
+        },
+        {
+            "word": "shabbat",
+            "score": 1483
+        },
+        {
+            "word": "psalms",
+            "score": 1480
+        },
+        {
+            "word": "azerbaijan",
+            "score": 1473
+        },
+        {
+            "word": "nur",
+            "score": 1455
+        },
+        {
+            "word": "cappella",
+            "score": 1451
+        },
+        {
+            "word": "sakura",
+            "score": 1448
+        },
+        {
+            "word": "shogunate",
+            "score": 1436
+        },
+        {
+            "word": "khan",
+            "score": 1433
+        },
+        {
+            "word": "alam",
+            "score": 1430
+        },
+        {
+            "word": "ali",
+            "score": 1422
+        },
+        {
+            "word": "cantor",
+            "score": 1410
+        },
+        {
+            "word": "kan",
+            "score": 1408
+        },
+        {
+            "word": "uri",
+            "score": 1405
+        },
+        {
+            "word": "moshe",
+            "score": 1399
+        },
+        {
+            "word": "rural",
+            "score": 1397
+        },
+        {
+            "word": "recited",
+            "score": 1393
+        },
+        {
+            "word": "refinery",
+            "score": 1385
+        },
+        {
+            "word": "amir",
+            "score": 1384
+        },
+        {
+            "word": "judah",
+            "score": 1374
+        },
+        {
+            "word": "mir",
+            "score": 1369
+        },
+        {
+            "word": "avalon",
+            "score": 1364
+        },
+        {
+            "word": "tufts",
+            "score": 1362
+        },
+        {
+            "word": "allah",
+            "score": 1359
+        },
+        {
+            "word": "iran",
+            "score": 1357
+        },
+        {
+            "word": "dar",
+            "score": 1342
+        },
+        {
+            "word": "tar",
+            "score": 1335
+        },
+        {
+            "word": "hebrew",
+            "score": 1334
+        },
+        {
+            "word": "abbas",
+            "score": 1330
+        },
+        {
+            "word": "jurassic",
+            "score": 1324
+        },
+        {
+            "word": "viii",
+            "score": 1323
+        },
+        {
+            "word": "sar",
+            "score": 1321
+        },
+        {
+            "word": "neolithic",
+            "score": 1320
+        },
+        {
+            "word": "sabbath",
+            "score": 1315
+        },
+        {
+            "word": "synagogue",
+            "score": 1301
+        },
+        {
+            "word": "anime",
+            "score": 1298
+        },
+        {
+            "word": "mat",
+            "score": 1293
+        },
+        {
+            "word": "baba",
+            "score": 1291
+        },
+        {
+            "word": "israeli",
+            "score": 1289
+        },
+        {
+            "word": "vii",
+            "score": 1280
+        },
+        {
+            "word": "shah",
+            "score": 1277
+        },
+        {
+            "word": "lion",
+            "score": 1274
+        },
+        {
+            "word": "muhammad",
+            "score": 1269
+        },
+        {
+            "word": "translates",
+            "score": 1267
+        },
+        {
+            "word": "par",
+            "score": 1264
+        },
+        {
+            "word": "province",
+            "score": 1261
+        },
+        {
+            "word": "mel",
+            "score": 1252
+        },
+        {
+            "word": "tokyo",
+            "score": 1251
+        },
+        {
+            "word": "archer",
+            "score": 1249
+        },
+        {
+            "word": "village",
+            "score": 1248
+        },
+        {
+            "word": "district",
+            "score": 1239
+        },
+        {
+            "word": "pain",
+            "score": 1232
+        },
+        {
+            "word": "afghan",
+            "score": 1224
+        },
+        {
+            "word": "persian",
+            "score": 1223
+        },
+        {
+            "word": "afghanistan",
+            "score": 1219
+        },
+        {
+            "word": "abdul",
+            "score": 1217
+        },
+        {
+            "word": "servant",
+            "score": 1215
+        },
+        {
+            "word": "sacrifice",
+            "score": 1211
+        },
+        {
+            "word": "families",
+            "score": 1209
+        },
+        {
+            "word": "appeal",
+            "score": 1207
+        },
+        {
+            "word": "commentary",
+            "score": 1206
+        },
+        {
+            "word": "anthem",
+            "score": 1204
+        },
+        {
+            "word": "manga",
+            "score": 1201
+        },
+        {
+            "word": "prefecture",
+            "score": 1198
+        },
+        {
+            "word": "census",
+            "score": 1196
+        },
+        {
+            "word": "refer",
+            "score": 1195
+        },
+        {
+            "word": "rabbi",
+            "score": 1193
+        },
+        {
+            "word": "congregation",
+            "score": 1190
+        },
+        {
+            "word": "sung",
+            "score": 1185
+        },
+        {
+            "word": "biological",
+            "score": 1180
+        },
+        {
+            "word": "hell",
+            "score": 1179
+        },
+        {
+            "word": "quoted",
+            "score": 1174
+        },
+        {
+            "word": "tel",
+            "score": 1173
+        },
+        {
+            "word": "jewish",
+            "score": 1170
+        },
+        {
+            "word": "granite",
+            "score": 1164
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "shirt",
+            "score": 1276
+        },
+        {
+            "word": "shirk",
+            "score": 869
+        },
+        {
+            "word": "shire",
+            "score": 838
+        },
+        {
+            "word": "shirr",
+            "score": 335
+        },
+        {
+            "word": "shiraz",
+            "score": 318
+        },
+        {
+            "word": "shirty",
+            "score": 226
+        },
+        {
+            "word": "shirking",
+            "score": 178
+        },
+        {
+            "word": "shirts",
+            "score": 171
+        },
+        {
+            "word": "shirker",
+            "score": 165
+        },
+        {
+            "word": "shirley",
+            "score": 159
+        }
+    ]
+}

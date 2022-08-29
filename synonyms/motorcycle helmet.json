@@ -1,0 +1,782 @@
+{
+    "term": "motorcycle helmet",
+    "means_like": [
+        {
+            "word": "bicycle",
+            "score": 10645,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "derby",
+            "score": 10645,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hof",
+            "score": 10645,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "scooter",
+            "score": 10645,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crate",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gun",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harley",
+            "score": 10586,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hog",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monkey",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pannier",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pillion",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "press",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pressed",
+            "score": 10586,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "ride",
+            "score": 10586,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "rider",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saddle",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spider",
+            "score": 10586,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crash helmet",
+            "score": 10512,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lid",
+            "score": 10512,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "visor",
+            "score": 10512,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chief",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ramp",
+            "score": 10505,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "strap",
+            "score": 10498,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "artillery",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astaire",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandanna",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beam",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beck",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "biot",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "blind",
+            "score": 10483,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "blinds",
+            "score": 10483,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "block",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bob",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bolt",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bonnet",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boot",
+            "score": 10483,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bridle",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bridled",
+            "score": 10483,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "buck",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bumper",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carrier",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cast",
+            "score": 10483,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "casted",
+            "score": 10483,
+            "tags": [
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "caterpillar",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "center",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chassis",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clock",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cog",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cogs",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "contortion",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counterclockwise",
+            "score": 10483,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cowl",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cowling",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cpg",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cradle",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crane",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cropper",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cross-slide",
+            "score": 10483
+        },
+        {
+            "word": "crosshead",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crown",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crowning",
+            "score": 10483,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "csm",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "differential gear",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dip switch",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "distortion",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "double",
+            "score": 10483,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "dresser",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dual inline package switch",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electric toothbrush",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "equatorial",
+            "score": 10483,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "equestrian",
+            "score": 10483,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "equitant",
+            "score": 10483,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "fifth cranial nerve",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "film",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flathead",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "float",
+            "score": 10483,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "folder",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "four-tailed bandage",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gesture",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gesturing",
+            "score": 10483,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "glazer",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "greg",
+            "score": 10483,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "guillotine",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gyroscope",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gyrostabilizer",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammer",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammered",
+            "score": 10483,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "hammering",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hammers",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headcheese",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "header",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headfirst",
+            "score": 10483,
+            "tags": [
+                "adv"
+            ]
+        },
+        {
+            "word": "headlamp",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headlight",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headrest",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headroom",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hobby",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hobbyhorse",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hogshead",
+            "score": 10483,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "motorcyclist",
+            "score": 67,
+            "numSyllables": 5
+        },
+        {
+            "word": "motorcycling",
+            "score": 62,
+            "numSyllables": 5
+        },
+        {
+            "word": "motorcycle",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "motorcycles",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "motor cycle",
+            "score": 50,
+            "numSyllables": 4
+        },
+        {
+            "word": "motorcycle cop",
+            "score": 50,
+            "numSyllables": 5
+        },
+        {
+            "word": "matriculate",
+            "score": 45,
+            "numSyllables": 4
+        },
+        {
+            "word": "metacomet",
+            "score": 40,
+            "numSyllables": 4
+        },
+        {
+            "word": "water cycle",
+            "score": 35,
+            "numSyllables": 4
+        },
+        {
+            "word": "sarcolemma",
+            "score": 23,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bicycle helmet",
+            "score": 5
+        }
+    ]
+}

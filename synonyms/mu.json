@@ -1,0 +1,879 @@
+{
+    "term": "mu",
+    "means_like": [
+        {
+            "word": "genus mus",
+            "score": 21185,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "wang",
+            "score": 21184,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tuan",
+            "score": 19318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "triode",
+            "score": 13622,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pentode",
+            "score": 6365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "triodes",
+            "score": 6365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aisha",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lambda",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "muon",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shu",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ac",
+            "score": 5304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "a",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ap",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chang",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chi",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chih",
+            "score": 5060,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "cos",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "di",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "e",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "f",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fa",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "g",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "h",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hui",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "j",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "k",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ko",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ku",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kung",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "li",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nan",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ns",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pi",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "po",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pre",
+            "score": 5060,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pu",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "s",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "shang",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "su",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "t",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ta",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "te",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ts",
+            "score": 5060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wu",
+            "score": 5060,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "moo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooo",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooi",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "muu",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooie",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "me",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "may",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "my",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "ma",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mo",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mow",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "meh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mae",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mao",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mea",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mie",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "muh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mne",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mey",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mei",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mau",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mwe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mou",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mii",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mowe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "moye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "meaux",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mye",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "miy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "myh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "msr",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "bma",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "meeh",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "myy",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "miw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mauw",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mawe",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maah",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maih",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mis-",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maaa",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "maai",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mhi",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mhr",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "miee",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "new",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "knew",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gnu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nue",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "noo",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nou",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "neww",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "niue",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "neuk",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nnu",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nuw",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "moon",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mood",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moose",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mew",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moot",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moom",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moos",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moog",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moob",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moop",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooed",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moof",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mool",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moone",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "meu",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mayu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "meru",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "imu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "miyu",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "moong",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mooz",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "moote",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "amou",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "moock",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mieu",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mnu",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mdw",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "meute",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mbu",
+            "score": 90,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "mu",
+            "score": 370
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "music",
+            "score": 3614
+        },
+        {
+            "word": "muscle",
+            "score": 2589
+        },
+        {
+            "word": "muse",
+            "score": 2366
+        },
+        {
+            "word": "mundane",
+            "score": 2241
+        },
+        {
+            "word": "mull",
+            "score": 1731
+        },
+        {
+            "word": "multiple",
+            "score": 1686
+        },
+        {
+            "word": "much",
+            "score": 1684
+        },
+        {
+            "word": "murmur",
+            "score": 1664
+        },
+        {
+            "word": "muster",
+            "score": 1551
+        },
+        {
+            "word": "murder",
+            "score": 1549
+        }
+    ]
+}

@@ -1,0 +1,1595 @@
+{
+    "term": "jug",
+    "means_like": [
+        {
+            "word": "gaol",
+            "score": 87148,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "incarcerate",
+            "score": 86549,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "jail",
+            "score": 86440,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "put away",
+            "score": 86389,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "remand",
+            "score": 84598,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "imprison",
+            "score": 84520,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "immure",
+            "score": 83497,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "jugful",
+            "score": 83497,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "put behind bars",
+            "score": 83497,
+            "tags": [
+                "syn",
+                "v"
+            ]
+        },
+        {
+            "word": "lag",
+            "score": 83496,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "jar",
+            "score": 72500,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagon",
+            "score": 69552,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ewer",
+            "score": 64620,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pot",
+            "score": 63642,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gallon",
+            "score": 63121,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bowl",
+            "score": 61659,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tank",
+            "score": 60907,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canteen",
+            "score": 59156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tummy",
+            "score": 57961,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baloney",
+            "score": 56774,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sap",
+            "score": 56584,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fake",
+            "score": 56183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pitcher",
+            "score": 55541,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dork",
+            "score": 54254,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phoney",
+            "score": 54189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "assassin",
+            "score": 53351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "south",
+            "score": 53318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "can",
+            "score": 51581,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bottle",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sham",
+            "score": 51074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mason jar",
+            "score": 51073,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flask",
+            "score": 51072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pail",
+            "score": 51070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vacuum flask",
+            "score": 51069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teapot",
+            "score": 51067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goblet",
+            "score": 51066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quart",
+            "score": 51065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carafe",
+            "score": 51064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carboy",
+            "score": 51063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beaker",
+            "score": 51062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "decanter",
+            "score": 51061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pint",
+            "score": 51060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vase",
+            "score": 51059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tankard",
+            "score": 51058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thermos",
+            "score": 51057,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "tumbler",
+            "score": 51056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mug",
+            "score": 51055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coffeepot",
+            "score": 51054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spoon",
+            "score": 51053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cruet",
+            "score": 51052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keg",
+            "score": 51051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hip flask",
+            "score": 51050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "container",
+            "score": 51049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bucket",
+            "score": 51048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wineglass",
+            "score": 51047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphora",
+            "score": 51046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "champagne flute",
+            "score": 51045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ladle",
+            "score": 51044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "saucer",
+            "score": 51043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canister",
+            "score": 51042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "water jug",
+            "score": 51041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brandy snifter",
+            "score": 51040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gargoulette",
+            "score": 51039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cans",
+            "score": 51038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "highball glass",
+            "score": 51037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tub",
+            "score": 51036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dishpan",
+            "score": 51035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washtub",
+            "score": 51034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soda bottle",
+            "score": 51033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flacket",
+            "score": 51032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candleholder",
+            "score": 51031,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wine cask",
+            "score": 51030,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cup",
+            "score": 51029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wineglasses",
+            "score": 51028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail shaker",
+            "score": 51027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "demitasse",
+            "score": 51026,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pourer",
+            "score": 51025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupfuls",
+            "score": 51024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jerrycan",
+            "score": 51023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ketchup bottle",
+            "score": 51022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sour mash",
+            "score": 51021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "longneck",
+            "score": 51020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eye dropper",
+            "score": 51019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "washstand",
+            "score": 51018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swig",
+            "score": 51017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "glassful",
+            "score": 51016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tins",
+            "score": 51015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spiles",
+            "score": 51014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firkin",
+            "score": 51013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teakettle",
+            "score": 51012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stein",
+            "score": 51011,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "coffee mug",
+            "score": 51010,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vial",
+            "score": 51009,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oilcan",
+            "score": 51008,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cistern",
+            "score": 51007,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stockpot",
+            "score": 51006,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "triple sec",
+            "score": 51005,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carton",
+            "score": 51004,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tray",
+            "score": 51003,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "iced tea",
+            "score": 51002,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "jug",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "jig",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "jigg",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeg",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "jog",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "jag",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "juk",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "jagg",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "geog",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "gigue",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "juc",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "jjg",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "joug",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeeg",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "chug",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "shug",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "cug",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "schug",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "gic",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "gick",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "geck",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "jik",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "jic",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "jec",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "jech",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "gec",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeq",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "jwc",
+            "score": 92,
+            "numSyllables": 1
+        },
+        {
+            "word": "judge",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "joke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jack",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jake",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jock",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "juke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jugs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jacques",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jac",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jok",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jak",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "joc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "juh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jook",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jugger",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "jacke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "judg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "juggs",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "shig",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jaque",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jugged",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jaq",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jmac",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "joch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jmc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jurg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jauk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jpa",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jacc",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jlg",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "jouk",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "gug",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "yug",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "hug",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuck",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "shag",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "shuck",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "dge",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hugg",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuk",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chag",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "schuck",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "shog",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chuc",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "chog",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "schuch",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "hsg",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "jigga",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jiggy",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jigger",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jaeger",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jigs",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jpeg",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jigged",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "giga-",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jiggs",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "geh",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jeh",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jih",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "gsg",
+            "score": 87,
+            "numSyllables": 1
+        },
+        {
+            "word": "jtg",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "jego",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "gig",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "juge",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "jjj",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "joj",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "geg",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "jij",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "dhy",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "gij",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "jgh",
+            "score": 86,
+            "numSyllables": 1
+        },
+        {
+            "word": "gheg",
+            "score": 86,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "jug",
+            "score": 894
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "washboard",
+            "score": 1735
+        },
+        {
+            "word": "kazoo",
+            "score": 1730
+        },
+        {
+            "word": "spout",
+            "score": 1601
+        },
+        {
+            "word": "dixieland",
+            "score": 1578
+        },
+        {
+            "word": "yost",
+            "score": 1570
+        },
+        {
+            "word": "chopper",
+            "score": 1490
+        },
+        {
+            "word": "harmonica",
+            "score": 1471
+        },
+        {
+            "word": "harness",
+            "score": 1456
+        },
+        {
+            "word": "banjo",
+            "score": 1442
+        },
+        {
+            "word": "whiskey",
+            "score": 1436
+        },
+        {
+            "word": "memphis",
+            "score": 1424
+        },
+        {
+            "word": "wines",
+            "score": 1400
+        },
+        {
+            "word": "tavern",
+            "score": 1397
+        },
+        {
+            "word": "jar",
+            "score": 1392
+        },
+        {
+            "word": "ale",
+            "score": 1390
+        },
+        {
+            "word": "lid",
+            "score": 1388
+        },
+        {
+            "word": "shade",
+            "score": 1384
+        },
+        {
+            "word": "grateful",
+            "score": 1370
+        },
+        {
+            "word": "rivalry",
+            "score": 1369
+        },
+        {
+            "word": "len",
+            "score": 1367
+        },
+        {
+            "word": "wine",
+            "score": 1363
+        },
+        {
+            "word": "pour",
+            "score": 1353
+        },
+        {
+            "word": "appalachian",
+            "score": 1349
+        },
+        {
+            "word": "gus",
+            "score": 1345
+        },
+        {
+            "word": "bottle",
+            "score": 1341
+        },
+        {
+            "word": "puzzle",
+            "score": 1333
+        },
+        {
+            "word": "milk",
+            "score": 1328
+        },
+        {
+            "word": "handle",
+            "score": 1326
+        },
+        {
+            "word": "blues",
+            "score": 1322
+        },
+        {
+            "word": "fritz",
+            "score": 1319
+        },
+        {
+            "word": "minnesota",
+            "score": 1317
+        },
+        {
+            "word": "hanover",
+            "score": 1311
+        },
+        {
+            "word": "bands",
+            "score": 1308
+        },
+        {
+            "word": "sonny",
+            "score": 1302
+        },
+        {
+            "word": "container",
+            "score": 1299
+        },
+        {
+            "word": "band",
+            "score": 1296
+        },
+        {
+            "word": "pottery",
+            "score": 1294
+        },
+        {
+            "word": "grape",
+            "score": 1289
+        },
+        {
+            "word": "messenger",
+            "score": 1286
+        },
+        {
+            "word": "michigan",
+            "score": 1279
+        },
+        {
+            "word": "humorous",
+            "score": 1276
+        },
+        {
+            "word": "zagreb",
+            "score": 1275
+        },
+        {
+            "word": "croatian",
+            "score": 1266
+        },
+        {
+            "word": "trophy",
+            "score": 1262
+        },
+        {
+            "word": "sebastian",
+            "score": 1247
+        },
+        {
+            "word": "oscar",
+            "score": 1242
+        },
+        {
+            "word": "folk",
+            "score": 1237
+        },
+        {
+            "word": "minneapolis",
+            "score": 1234
+        },
+        {
+            "word": "beer",
+            "score": 1223
+        },
+        {
+            "word": "drink",
+            "score": 1220
+        },
+        {
+            "word": "pitcher",
+            "score": 1212
+        },
+        {
+            "word": "string",
+            "score": 1208
+        },
+        {
+            "word": "dozen",
+            "score": 1206
+        },
+        {
+            "word": "croatia",
+            "score": 1202
+        },
+        {
+            "word": "liquid",
+            "score": 1198
+        },
+        {
+            "word": "decorated",
+            "score": 1197
+        },
+        {
+            "word": "delaware",
+            "score": 1192
+        },
+        {
+            "word": "triple",
+            "score": 1190
+        },
+        {
+            "word": "fishing",
+            "score": 1187
+        },
+        {
+            "word": "sanctuary",
+            "score": 1185
+        },
+        {
+            "word": "instrument",
+            "score": 1183
+        },
+        {
+            "word": "pace",
+            "score": 1174
+        },
+        {
+            "word": "guitar",
+            "score": 1168
+        },
+        {
+            "word": "stakes",
+            "score": 1164
+        },
+        {
+            "word": "painted",
+            "score": 1162
+        },
+        {
+            "word": "clay",
+            "score": 1159
+        },
+        {
+            "word": "glass",
+            "score": 1158
+        },
+        {
+            "word": "instruments",
+            "score": 1155
+        },
+        {
+            "word": "drinking",
+            "score": 1149
+        },
+        {
+            "word": "champions",
+            "score": 1144
+        },
+        {
+            "word": "serbian",
+            "score": 1142
+        },
+        {
+            "word": "richmond",
+            "score": 1138
+        },
+        {
+            "word": "bass",
+            "score": 1136
+        },
+        {
+            "word": "recorded",
+            "score": 1134
+        },
+        {
+            "word": "gene",
+            "score": 1132
+        },
+        {
+            "word": "brown",
+            "score": 1130
+        },
+        {
+            "word": "winner",
+            "score": 1129
+        },
+        {
+            "word": "guitarist",
+            "score": 1127
+        },
+        {
+            "word": "mouth",
+            "score": 1126
+        },
+        {
+            "word": "jerry",
+            "score": 1123
+        },
+        {
+            "word": "crowd",
+            "score": 1121
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "jug",
+            "score": 894
+        },
+        {
+            "word": "juggernaut",
+            "score": 1470
+        },
+        {
+            "word": "juggle",
+            "score": 923
+        },
+        {
+            "word": "jugular",
+            "score": 403
+        },
+        {
+            "word": "jugum",
+            "score": 283
+        },
+        {
+            "word": "jugal",
+            "score": 248
+        },
+        {
+            "word": "juggling",
+            "score": 226
+        },
+        {
+            "word": "jugging",
+            "score": 212
+        },
+        {
+            "word": "juggler",
+            "score": 196
+        },
+        {
+            "word": "jugger",
+            "score": 193
+        }
+    ]
+}

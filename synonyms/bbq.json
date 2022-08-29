@@ -1,0 +1,1511 @@
+{
+    "term": "bbq",
+    "means_like": [
+        {
+            "word": "barbeque",
+            "score": 55719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbecue",
+            "score": 54384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grill",
+            "score": 48388,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookout",
+            "score": 48020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barbie",
+            "score": 46717,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "backyard",
+            "score": 42098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garden",
+            "score": 40460,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yard",
+            "score": 35994,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiener roast",
+            "score": 31419,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "picnic",
+            "score": 31418,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burger",
+            "score": 31417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "steak",
+            "score": 31416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hibachi",
+            "score": 31415,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "supper",
+            "score": 31414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kabob",
+            "score": 31413,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sloppy joe",
+            "score": 31412,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bulgogi",
+            "score": 31411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fajita",
+            "score": 31410,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brunch",
+            "score": 31409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grillroom",
+            "score": 31408,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smores",
+            "score": 31407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "weenie roast",
+            "score": 31406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frys",
+            "score": 31405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cajun",
+            "score": 31404,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lamb roast",
+            "score": 31403,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "burgers",
+            "score": 31402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imu",
+            "score": 31401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "buffett",
+            "score": 31400,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sammie",
+            "score": 31399,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "knackwurst",
+            "score": 31398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dutch oven",
+            "score": 31397,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "malibu",
+            "score": 31396,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fondue",
+            "score": 31395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "johnny cake",
+            "score": 31394,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hotdogs",
+            "score": 31393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fish fry",
+            "score": 31392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souvlaki",
+            "score": 31391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "braciola",
+            "score": 31390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beef wellington",
+            "score": 31389,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nacho",
+            "score": 31388,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ossobuco",
+            "score": 31387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "riblet",
+            "score": 31386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luau",
+            "score": 31385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cobb",
+            "score": 31384,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sammy",
+            "score": 31383,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tucker",
+            "score": 31382,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "vittles",
+            "score": 31381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reuben",
+            "score": 31380,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lrg",
+            "score": 31379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halloween",
+            "score": 31378,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mcdonalds",
+            "score": 31376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "souvlakia",
+            "score": 31375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bowwow",
+            "score": 31374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booyah",
+            "score": 31373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "twinkies",
+            "score": 31372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "front burner",
+            "score": 31371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidz",
+            "score": 31370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pattie",
+            "score": 31369,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "woodstock",
+            "score": 31368,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "caesar salad",
+            "score": 31367,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "buttermilk biscuit",
+            "score": 31366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entr",
+            "score": 31365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brunswick",
+            "score": 31364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "grub",
+            "score": 31363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chicken casserole",
+            "score": 31362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delish",
+            "score": 31361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pupu",
+            "score": 31360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "goff",
+            "score": 31359,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "linguica",
+            "score": 31358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "billy",
+            "score": 31357,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nicky",
+            "score": 31356,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beef bourguignonne",
+            "score": 31355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickin",
+            "score": 31354,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fixin",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "croquette",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "yummies",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bronx",
+            "score": 31350,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "saut",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sterno",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cochon de lait",
+            "score": 31347,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hhh",
+            "score": 31346,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kebob",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chicken stew",
+            "score": 31344,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hush puppy",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "salisbury steak",
+            "score": 31342,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "spatchcock",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tailgate",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hor",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bap",
+            "score": 31338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mardi gras",
+            "score": 31337,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chili dog",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chargrill",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuscan",
+            "score": 31334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flauta",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jennings",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hamburg",
+            "score": 31331,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tamale pie",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "delicioso",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stix",
+            "score": 31328,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "canadian bacon",
+            "score": 31327,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "bbq",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "bar b que",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "bar b q",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "pkg",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "barbeque",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "barbecue",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "bbc",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bar-b-que",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "be back",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bcbg",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby shoe",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "black-eyed",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "biblia",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "bocu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "babygro",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "big q",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "bnw",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "picu",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "pcu",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "pcw",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "byu",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "bibical",
+            "score": 71,
+            "numSyllables": 3
+        },
+        {
+            "word": "bbg",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbk",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbh",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bgb",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbj",
+            "score": 71,
+            "numSyllables": 2
+        },
+        {
+            "word": "bebe",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "baby girl",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bibi",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barbeques",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "barbecues",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "beebe",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barbecued",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "babka",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbs",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbb",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "barbequed",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "buyback",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "boback",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "beeby",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bsf",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babak",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bedew",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobak",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobina",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bvb",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobek",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babic",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bibiana",
+            "score": 70,
+            "numSyllables": 4
+        },
+        {
+            "word": "bbf",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbz",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "b b",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babita",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bohica",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bubka",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bebek",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "babesia",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "boobook",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bibiru",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "babassu",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "baby care",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bbp",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bbv",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobeck",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobino",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "bibcock",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bml",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "buy back",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "buybacks",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "bobbio",
+            "score": 70,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "bbq",
+            "score": 358
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "barbeque",
+            "score": 1766
+        },
+        {
+            "word": "brisket",
+            "score": 1756
+        },
+        {
+            "word": "cheeseburger",
+            "score": 1726
+        },
+        {
+            "word": "flay",
+            "score": 1696
+        },
+        {
+            "word": "barbecue",
+            "score": 1686
+        },
+        {
+            "word": "sauce",
+            "score": 1639
+        },
+        {
+            "word": "ketchup",
+            "score": 1584
+        },
+        {
+            "word": "cheddar",
+            "score": 1574
+        },
+        {
+            "word": "burgers",
+            "score": 1562
+        },
+        {
+            "word": "grill",
+            "score": 1558
+        },
+        {
+            "word": "sandwiches",
+            "score": 1556
+        },
+        {
+            "word": "smoker",
+            "score": 1549
+        },
+        {
+            "word": "pork",
+            "score": 1519
+        },
+        {
+            "word": "fries",
+            "score": 1515
+        },
+        {
+            "word": "myron",
+            "score": 1501
+        },
+        {
+            "word": "yee",
+            "score": 1498
+        },
+        {
+            "word": "rib",
+            "score": 1492
+        },
+        {
+            "word": "grilled",
+            "score": 1491
+        },
+        {
+            "word": "cajun",
+            "score": 1487
+        },
+        {
+            "word": "smoked",
+            "score": 1479
+        },
+        {
+            "word": "burger",
+            "score": 1476
+        },
+        {
+            "word": "roast",
+            "score": 1471
+        },
+        {
+            "word": "onion",
+            "score": 1470
+        },
+        {
+            "word": "shack",
+            "score": 1467
+        },
+        {
+            "word": "spicy",
+            "score": 1465
+        },
+        {
+            "word": "chicken",
+            "score": 1459
+        },
+        {
+            "word": "sandwich",
+            "score": 1454
+        },
+        {
+            "word": "roasted",
+            "score": 1452
+        },
+        {
+            "word": "ribs",
+            "score": 1445
+        },
+        {
+            "word": "steak",
+            "score": 1444
+        },
+        {
+            "word": "chickens",
+            "score": 1436
+        },
+        {
+            "word": "vinegar",
+            "score": 1427
+        },
+        {
+            "word": "restaurant",
+            "score": 1415
+        },
+        {
+            "word": "chips",
+            "score": 1413
+        },
+        {
+            "word": "salad",
+            "score": 1407
+        },
+        {
+            "word": "champ",
+            "score": 1401
+        },
+        {
+            "word": "bacon",
+            "score": 1382
+        },
+        {
+            "word": "fireworks",
+            "score": 1379
+        },
+        {
+            "word": "pepper",
+            "score": 1374
+        },
+        {
+            "word": "recipe",
+            "score": 1370
+        },
+        {
+            "word": "pizza",
+            "score": 1368
+        },
+        {
+            "word": "shower",
+            "score": 1367
+        },
+        {
+            "word": "blitz",
+            "score": 1365
+        },
+        {
+            "word": "potato",
+            "score": 1364
+        },
+        {
+            "word": "beef",
+            "score": 1361
+        },
+        {
+            "word": "cooking",
+            "score": 1360
+        },
+        {
+            "word": "culinary",
+            "score": 1354
+        },
+        {
+            "word": "pits",
+            "score": 1352
+        },
+        {
+            "word": "menu",
+            "score": 1349
+        },
+        {
+            "word": "pavilion",
+            "score": 1343
+        },
+        {
+            "word": "chung",
+            "score": 1330
+        },
+        {
+            "word": "cooked",
+            "score": 1329
+        },
+        {
+            "word": "cheese",
+            "score": 1323
+        },
+        {
+            "word": "recipes",
+            "score": 1322
+        },
+        {
+            "word": "fest",
+            "score": 1319
+        },
+        {
+            "word": "rancho",
+            "score": 1318
+        },
+        {
+            "word": "catering",
+            "score": 1313
+        },
+        {
+            "word": "chef",
+            "score": 1301
+        },
+        {
+            "word": "beans",
+            "score": 1295
+        },
+        {
+            "word": "memphis",
+            "score": 1294
+        },
+        {
+            "word": "playground",
+            "score": 1291
+        },
+        {
+            "word": "sells",
+            "score": 1284
+        },
+        {
+            "word": "picnic",
+            "score": 1278
+        },
+        {
+            "word": "honey",
+            "score": 1276
+        },
+        {
+            "word": "cafe",
+            "score": 1273
+        },
+        {
+            "word": "cream",
+            "score": 1269
+        },
+        {
+            "word": "lounge",
+            "score": 1266
+        },
+        {
+            "word": "sultan",
+            "score": 1261
+        },
+        {
+            "word": "beer",
+            "score": 1259
+        },
+        {
+            "word": "meat",
+            "score": 1251
+        },
+        {
+            "word": "dishes",
+            "score": 1245
+        },
+        {
+            "word": "cuisine",
+            "score": 1244
+        },
+        {
+            "word": "dinner",
+            "score": 1238
+        },
+        {
+            "word": "rally",
+            "score": 1236
+        },
+        {
+            "word": "khan",
+            "score": 1232
+        },
+        {
+            "word": "lunch",
+            "score": 1227
+        },
+        {
+            "word": "truck",
+            "score": 1226
+        },
+        {
+            "word": "pit",
+            "score": 1223
+        },
+        {
+            "word": "caf",
+            "score": 1220
+        },
+        {
+            "word": "dish",
+            "score": 1216
+        },
+        {
+            "word": "sweet",
+            "score": 1214
+        },
+        {
+            "word": "sponsorship",
+            "score": 1209
+        },
+        {
+            "word": "blues",
+            "score": 1206
+        },
+        {
+            "word": "prizes",
+            "score": 1199
+        },
+        {
+            "word": "dining",
+            "score": 1197
+        },
+        {
+            "word": "motorcycle",
+            "score": 1191
+        },
+        {
+            "word": "trails",
+            "score": 1189
+        },
+        {
+            "word": "chain",
+            "score": 1187
+        },
+        {
+            "word": "corn",
+            "score": 1185
+        },
+        {
+            "word": "breakfast",
+            "score": 1182
+        },
+        {
+            "word": "bobby",
+            "score": 1181
+        },
+        {
+            "word": "foods",
+            "score": 1180
+        },
+        {
+            "word": "parade",
+            "score": 1176
+        },
+        {
+            "word": "food",
+            "score": 1175
+        },
+        {
+            "word": "austin",
+            "score": 1167
+        },
+        {
+            "word": "oklahoma",
+            "score": 1165
+        },
+        {
+            "word": "pulled",
+            "score": 1160
+        },
+        {
+            "word": "ranch",
+            "score": 1159
+        },
+        {
+            "word": "facilities",
+            "score": 1156
+        },
+        {
+            "word": "ben",
+            "score": 1155
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "bbq",
+            "score": 358
+        },
+        {
+            "word": "bbqs",
+            "score": 4
+        }
+    ]
+}

@@ -1,0 +1,1651 @@
+{
+    "term": "webcam",
+    "means_like": [
+        {
+            "word": "camera",
+            "score": 50790,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 48291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "house",
+            "score": 35145,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "video",
+            "score": 31417,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camcorder",
+            "score": 31416,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "voyeur",
+            "score": 31415,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop",
+            "score": 31414,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "videoconferencing",
+            "score": 31413,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "projector",
+            "score": 31412,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chatroom",
+            "score": 31411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pinhole camera",
+            "score": 31410,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skype",
+            "score": 31409,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cameraphone",
+            "score": 31408,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cybersex",
+            "score": 31407,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porn",
+            "score": 31406,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chat",
+            "score": 31405,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bluetooth",
+            "score": 31404,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "microphone",
+            "score": 31403,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "megapixel",
+            "score": 31402,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flasher",
+            "score": 31401,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camera lens",
+            "score": 31400,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viewfinder",
+            "score": 31399,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laptop computer",
+            "score": 31398,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peephole",
+            "score": 31397,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "videophone",
+            "score": 31396,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skyping",
+            "score": 31395,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "computer",
+            "score": 31394,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zoom lens",
+            "score": 31393,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flatscreen",
+            "score": 31392,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telephoto lens",
+            "score": 31391,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screen saver",
+            "score": 31390,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "speakerphone",
+            "score": 31389,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kickstand",
+            "score": 31388,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teleconferencing",
+            "score": 31387,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dongle",
+            "score": 31386,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eyepiece",
+            "score": 31385,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hydrophone",
+            "score": 31384,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchscreen",
+            "score": 31383,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screensaver",
+            "score": 31382,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scart",
+            "score": 31381,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pictures",
+            "score": 31380,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "videotaping",
+            "score": 31379,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "photos",
+            "score": 31378,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "magnifier",
+            "score": 31377,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tripod",
+            "score": 31376,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lcd",
+            "score": 31375,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flashgun",
+            "score": 31374,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "screen",
+            "score": 31373,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headphones",
+            "score": 31372,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "penlight",
+            "score": 31371,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lens",
+            "score": 31370,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "internet",
+            "score": 31369,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "webpage",
+            "score": 31368,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "doohickey",
+            "score": 31367,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keyboard",
+            "score": 31366,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carabineer",
+            "score": 31365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astrophotography",
+            "score": 31364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "whiteboard",
+            "score": 31363,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audio",
+            "score": 31362,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "somniloquy",
+            "score": 31361,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headset",
+            "score": 31360,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "desktop",
+            "score": 31359,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "touchpad",
+            "score": 31358,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "images",
+            "score": 31357,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "porno",
+            "score": 31356,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "youtube",
+            "score": 31355,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peeping tom",
+            "score": 31354,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "strobe light",
+            "score": 31353,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "footage",
+            "score": 31352,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "soundboard",
+            "score": 31351,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "swivel",
+            "score": 31350,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tape recorder",
+            "score": 31349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vid",
+            "score": 31348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "laparoscope",
+            "score": 31347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display adapter",
+            "score": 31346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filmstrip",
+            "score": 31345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wifi",
+            "score": 31344,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "facial recognition",
+            "score": 31343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trackpad",
+            "score": 31342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "web browser",
+            "score": 31341,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overhead projector",
+            "score": 31340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "zoom",
+            "score": 31339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clementi",
+            "score": 31338,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lavaliere",
+            "score": 31337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keypad",
+            "score": 31336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "netbook",
+            "score": 31335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "powerbook",
+            "score": 31334,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "amateur",
+            "score": 31333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "reflex camera",
+            "score": 31332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keystroke",
+            "score": 31331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ethernet cable",
+            "score": 31330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phototheodolite",
+            "score": 31329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camera obscura",
+            "score": 31328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "modem",
+            "score": 31327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "imac",
+            "score": 31326,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "whiteboards",
+            "score": 31325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pixels",
+            "score": 31324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "joystick",
+            "score": 31323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "masturbation",
+            "score": 31322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "telescope",
+            "score": 31321,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "webcam",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "web cam",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "web-cam",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "webcams",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "wickham",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "wakeham",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wecan",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wykeham",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiccan",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "webbing",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "wicken",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "whigham",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "weapon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "welcome",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weaken",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "woken",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "waken",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walken",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weka",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "joachim",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "wolken",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "joaquim",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "walkon",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wepen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "welkom",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "weba",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wiebke",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wegen",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "wakame",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "webcomic",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "wicking",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "knm",
+            "score": 79,
+            "numSyllables": 3
+        },
+        {
+            "word": "peckham",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "yocum",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "hickam",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mecum",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoakum",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "yocom",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "yokum",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "recom",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "yoakam",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "yochum",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "tecum",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "mecom",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "recomb",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "walking",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "waking",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "walkin",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wicca",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "whacking",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wigan",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "woking",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wakin",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "walk-in",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "witham",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "walk in",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wixom",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitcomb",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "whitham",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "wippen",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "whipkey",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hokum",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "how come",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "heben",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "wagon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "succumb",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waka",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waggon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "webby",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "joaquin",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wagen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ripken",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "walk-on",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waca",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "webcast",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "webo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "shechem",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "schweben",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "waba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wepa",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wica",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "walk on",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wapen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "mechem",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "niccum",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "werken",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "rybka",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "webel",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "webern",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "shibam",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wahhabism",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "werbung",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "chibcha",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "wakayama",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "waskom",
+            "score": 75,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "webcam",
+            "score": 65119
+        },
+        {
+            "word": "webcgm",
+            "score": 17
+        },
+        {
+            "word": "web cam",
+            "score": 14
+        },
+        {
+            "word": "web-cam",
+            "score": 4
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "shopper",
+            "score": 1793
+        },
+        {
+            "word": "ecommerce",
+            "score": 1618
+        },
+        {
+            "word": "hdmi",
+            "score": 1579
+        },
+        {
+            "word": "microphone",
+            "score": 1560
+        },
+        {
+            "word": "skype",
+            "score": 1551
+        },
+        {
+            "word": "chat",
+            "score": 1541
+        },
+        {
+            "word": "laptop",
+            "score": 1519
+        },
+        {
+            "word": "usb",
+            "score": 1512
+        },
+        {
+            "word": "bluetooth",
+            "score": 1507
+        },
+        {
+            "word": "portmanteau",
+            "score": 1489
+        },
+        {
+            "word": "ravi",
+            "score": 1479
+        },
+        {
+            "word": "pornographic",
+            "score": 1452
+        },
+        {
+            "word": "messaging",
+            "score": 1449
+        },
+        {
+            "word": "yahoo",
+            "score": 1440
+        },
+        {
+            "word": "cam",
+            "score": 1437
+        },
+        {
+            "word": "hacker",
+            "score": 1436
+        },
+        {
+            "word": "nudity",
+            "score": 1432
+        },
+        {
+            "word": "porn",
+            "score": 1423
+        },
+        {
+            "word": "remotely",
+            "score": 1418
+        },
+        {
+            "word": "augmented",
+            "score": 1408
+        },
+        {
+            "word": "camera",
+            "score": 1406
+        },
+        {
+            "word": "ethernet",
+            "score": 1387
+        },
+        {
+            "word": "messenger",
+            "score": 1370
+        },
+        {
+            "word": "tablet",
+            "score": 1366
+        },
+        {
+            "word": "instant",
+            "score": 1363
+        },
+        {
+            "word": "virtual",
+            "score": 1351
+        },
+        {
+            "word": "feeds",
+            "score": 1346
+        },
+        {
+            "word": "pornography",
+            "score": 1337
+        },
+        {
+            "word": "photos",
+            "score": 1332
+        },
+        {
+            "word": "dressing",
+            "score": 1330
+        },
+        {
+            "word": "viewer",
+            "score": 1325
+        },
+        {
+            "word": "sensor",
+            "score": 1323
+        },
+        {
+            "word": "viewing",
+            "score": 1316
+        },
+        {
+            "word": "footage",
+            "score": 1311
+        },
+        {
+            "word": "proprietary",
+            "score": 1307
+        },
+        {
+            "word": "testified",
+            "score": 1304
+        },
+        {
+            "word": "nest",
+            "score": 1300
+        },
+        {
+            "word": "bedroom",
+            "score": 1294
+        },
+        {
+            "word": "software",
+            "score": 1293
+        },
+        {
+            "word": "audio",
+            "score": 1291
+        },
+        {
+            "word": "twitter",
+            "score": 1290
+        },
+        {
+            "word": "online",
+            "score": 1286
+        },
+        {
+            "word": "shots",
+            "score": 1283
+        },
+        {
+            "word": "module",
+            "score": 1280
+        },
+        {
+            "word": "reader",
+            "score": 1276
+        },
+        {
+            "word": "images",
+            "score": 1274
+        },
+        {
+            "word": "watch",
+            "score": 1271
+        },
+        {
+            "word": "observe",
+            "score": 1267
+        },
+        {
+            "word": "surveillance",
+            "score": 1266
+        },
+        {
+            "word": "embedded",
+            "score": 1264
+        },
+        {
+            "word": "feed",
+            "score": 1261
+        },
+        {
+            "word": "installed",
+            "score": 1259
+        },
+        {
+            "word": "internet",
+            "score": 1256
+        },
+        {
+            "word": "linux",
+            "score": 1253
+        },
+        {
+            "word": "video",
+            "score": 1248
+        },
+        {
+            "word": "optional",
+            "score": 1246
+        },
+        {
+            "word": "computer",
+            "score": 1243
+        },
+        {
+            "word": "activated",
+            "score": 1241
+        },
+        {
+            "word": "user",
+            "score": 1236
+        },
+        {
+            "word": "flash",
+            "score": 1234
+        },
+        {
+            "word": "monitoring",
+            "score": 1232
+        },
+        {
+            "word": "messages",
+            "score": 1229
+        },
+        {
+            "word": "streams",
+            "score": 1228
+        },
+        {
+            "word": "bed",
+            "score": 1225
+        },
+        {
+            "word": "web",
+            "score": 1221
+        },
+        {
+            "word": "brands",
+            "score": 1220
+        },
+        {
+            "word": "sex",
+            "score": 1218
+        },
+        {
+            "word": "enables",
+            "score": 1214
+        },
+        {
+            "word": "windows",
+            "score": 1211
+        },
+        {
+            "word": "xbox",
+            "score": 1209
+        },
+        {
+            "word": "allows",
+            "score": 1206
+        },
+        {
+            "word": "screen",
+            "score": 1204
+        },
+        {
+            "word": "modeling",
+            "score": 1203
+        },
+        {
+            "word": "website",
+            "score": 1201
+        },
+        {
+            "word": "adult",
+            "score": 1197
+        },
+        {
+            "word": "youtube",
+            "score": 1193
+        },
+        {
+            "word": "interface",
+            "score": 1191
+        },
+        {
+            "word": "talking",
+            "score": 1190
+        },
+        {
+            "word": "capture",
+            "score": 1188
+        },
+        {
+            "word": "photo",
+            "score": 1186
+        },
+        {
+            "word": "stream",
+            "score": 1184
+        },
+        {
+            "word": "pictures",
+            "score": 1183
+        },
+        {
+            "word": "videos",
+            "score": 1182
+        },
+        {
+            "word": "keyboard",
+            "score": 1180
+        },
+        {
+            "word": "pointed",
+            "score": 1179
+        },
+        {
+            "word": "phone",
+            "score": 1172
+        },
+        {
+            "word": "image",
+            "score": 1170
+        },
+        {
+            "word": "microsoft",
+            "score": 1166
+        },
+        {
+            "word": "send",
+            "score": 1165
+        },
+        {
+            "word": "fans",
+            "score": 1163
+        },
+        {
+            "word": "application",
+            "score": 1161
+        },
+        {
+            "word": "applications",
+            "score": 1159
+        },
+        {
+            "word": "files",
+            "score": 1158
+        },
+        {
+            "word": "computers",
+            "score": 1150
+        },
+        {
+            "word": "input",
+            "score": 1148
+        },
+        {
+            "word": "victim",
+            "score": 1146
+        },
+        {
+            "word": "view",
+            "score": 1143
+        },
+        {
+            "word": "hardware",
+            "score": 1141
+        },
+        {
+            "word": "apple",
+            "score": 1139
+        },
+        {
+            "word": "reality",
+            "score": 1138
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "webcam",
+            "score": 65119
+        },
+        {
+            "word": "webcams",
+            "score": 64669
+        },
+        {
+            "word": "webcamera",
+            "score": 64662
+        },
+        {
+            "word": "webcast",
+            "score": 198
+        },
+        {
+            "word": "webcasting",
+            "score": 38
+        },
+        {
+            "word": "webcomic",
+            "score": 26
+        },
+        {
+            "word": "webcaster",
+            "score": 22
+        },
+        {
+            "word": "webcasts",
+            "score": 20
+        },
+        {
+            "word": "webcgm",
+            "score": 17
+        },
+        {
+            "word": "web cam",
+            "score": 14
+        }
+    ]
+}

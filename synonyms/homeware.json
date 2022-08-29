@@ -1,0 +1,601 @@
+{
+    "term": "homeware",
+    "means_like": [],
+    "sounds_like": [
+        {
+            "word": "homeware",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "home care",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "homier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "homeyer",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "homelier",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "somewhere",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "where",
+            "score": 82,
+            "numSyllables": 1
+        },
+        {
+            "word": "homework",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "homer",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "hampshire",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "haywire",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "homeward",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "homewrecker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "homeowner",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "memoire",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "home wrecker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "homewood",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "homeworker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "high wire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hamar",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "home maker",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "houseware",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "home owner",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "highmore",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "home buyer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hmg",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "homebuyer",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "high-wire",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "hot-air",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "tinware",
+            "score": 79,
+            "numSyllables": 2
+        },
+        {
+            "word": "nowhere",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "memoir",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "limewire",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "vmware",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "rainwear",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "benware",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "whir",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "whirr",
+            "score": 77,
+            "numSyllables": 1
+        },
+        {
+            "word": "homa",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "hang with",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "homish",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "handwear",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "swimwear",
+            "score": 76,
+            "numSyllables": 2
+        },
+        {
+            "word": "homeo",
+            "score": 76,
+            "numSyllables": 3
+        },
+        {
+            "word": "hammer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamster",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homey",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamper",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homely",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "honer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homos",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "haymaker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "holier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "himmler",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "heimer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homemaker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "homeys",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hammar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "high chair",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hemmer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hosier",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hot air",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "home ec",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homo-",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "holy war",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "honu",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamshire",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot wire",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hamor",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamsher",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hajjar",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hammerer",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hilaire",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamre",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hongi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hanway",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hot war",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "haymer",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hohner",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "home row",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hamler",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hilare",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "homard",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "honecker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hamaker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "homeport",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hinweis",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "holour",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "home port",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "hammaker",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "hehir",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "himera",
+            "score": 75,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "homeware",
+            "score": 129421
+        },
+        {
+            "word": "homeward",
+            "score": 64816
+        },
+        {
+            "word": "homework",
+            "score": 602
+        },
+        {
+            "word": "homemade",
+            "score": 542
+        },
+        {
+            "word": "homepage",
+            "score": 483
+        },
+        {
+            "word": "homebase",
+            "score": 213
+        },
+        {
+            "word": "houseware",
+            "score": 137
+        },
+        {
+            "word": "home care",
+            "score": 90
+        },
+        {
+            "word": "homewards",
+            "score": 74
+        },
+        {
+            "word": "home-care",
+            "score": 49
+        },
+        {
+            "word": "romeward",
+            "score": 27
+        },
+        {
+            "word": "toleware",
+            "score": 22
+        },
+        {
+            "word": "homenaje",
+            "score": 11
+        },
+        {
+            "word": "homewares",
+            "score": 3
+        },
+        {
+            "word": "honeyware",
+            "score": 3
+        },
+        {
+            "word": "homebake",
+            "score": 1
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "homeware",
+            "score": 129421
+        },
+        {
+            "word": "homewares",
+            "score": 129321
+        },
+        {
+            "word": "homewrecker",
+            "score": 64859
+        },
+        {
+            "word": "homeward",
+            "score": 64816
+        },
+        {
+            "word": "homewards",
+            "score": 64733
+        },
+        {
+            "word": "homeward-bound",
+            "score": 64686
+        },
+        {
+            "word": "homeward bound",
+            "score": 64686
+        },
+        {
+            "word": "homework",
+            "score": 602
+        },
+        {
+            "word": "homemade",
+            "score": 542
+        },
+        {
+            "word": "homepage",
+            "score": 483
+        }
+    ]
+}

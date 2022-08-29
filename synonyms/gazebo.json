@@ -1,0 +1,1656 @@
+{
+    "term": "gazebo",
+    "means_like": [
+        {
+            "word": "summerhouse",
+            "score": 82003,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "pavilion",
+            "score": 68617,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kiosk",
+            "score": 61138,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "booth",
+            "score": 60147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stand",
+            "score": 57146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "display",
+            "score": 55053,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lookout",
+            "score": 54593,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "newsstand",
+            "score": 54411,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "viewpoint",
+            "score": 53775,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pergola",
+            "score": 51349,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patio",
+            "score": 51348,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandstand",
+            "score": 51347,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picnic",
+            "score": 51346,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "courtyard",
+            "score": 51345,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arbor",
+            "score": 51344,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "porch",
+            "score": 51343,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "walkway",
+            "score": 51342,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "awning",
+            "score": 51340,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphitheater",
+            "score": 51339,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "garden",
+            "score": 51338,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "trellis",
+            "score": 51337,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunroom",
+            "score": 51336,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carport",
+            "score": 51335,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tent",
+            "score": 51334,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lawn",
+            "score": 51333,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "terrace",
+            "score": 51332,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boathouse",
+            "score": 51331,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "minipark",
+            "score": 51330,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playground",
+            "score": 51329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flowerbed",
+            "score": 51328,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cupola",
+            "score": 51327,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fireplace",
+            "score": 51326,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cookout",
+            "score": 51325,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bandshell",
+            "score": 51324,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ramada",
+            "score": 51323,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boardwalk",
+            "score": 51322,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wiener roast",
+            "score": 51321,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "flagpole",
+            "score": 51320,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "plaza",
+            "score": 51319,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dogwood tree",
+            "score": 51318,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entryway",
+            "score": 51317,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fountain",
+            "score": 51316,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ramadas",
+            "score": 51315,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "springhouse",
+            "score": 51314,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "front porch",
+            "score": 51313,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "archway",
+            "score": 51312,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grape arbor",
+            "score": 51311,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "landscaping",
+            "score": 51310,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "playhouse",
+            "score": 51309,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "entranceway",
+            "score": 51308,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "breezeway",
+            "score": 51307,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canopies",
+            "score": 51306,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bleachers",
+            "score": 51305,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "picket fence",
+            "score": 51304,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birdhouse",
+            "score": 51303,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "log cabin",
+            "score": 51302,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cafetorium",
+            "score": 51301,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bocce ball",
+            "score": 51300,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "willow oak",
+            "score": 51299,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sawhorses",
+            "score": 51298,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sidewalk",
+            "score": 51297,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pavers",
+            "score": 51296,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gymnasium",
+            "score": 51295,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chainlink fence",
+            "score": 51294,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bell tower",
+            "score": 51293,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "portico",
+            "score": 51292,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rockwork",
+            "score": 51291,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "candlelight",
+            "score": 51290,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arboretum",
+            "score": 51289,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "narthex",
+            "score": 51288,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "luminaria",
+            "score": 51287,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "quonset",
+            "score": 51286,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "copper beech",
+            "score": 51285,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baptistry",
+            "score": 51284,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wading pool",
+            "score": 51283,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chapel",
+            "score": 51282,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "firepit",
+            "score": 51281,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fieldstone",
+            "score": 51280,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "veranda",
+            "score": 51279,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fairgrounds",
+            "score": 51278,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fernery",
+            "score": 51277,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "treehouse",
+            "score": 51276,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hayride",
+            "score": 51275,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunken garden",
+            "score": 51274,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corncrib",
+            "score": 51273,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "herb garden",
+            "score": 51272,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fieldhouse",
+            "score": 51271,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wigwam",
+            "score": 51270,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "refreshments",
+            "score": 51269,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barn",
+            "score": 51268,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "promenade",
+            "score": 51267,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nature trail",
+            "score": 51266,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "potluck dinner",
+            "score": 51265,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "driftway",
+            "score": 51264,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auditorium",
+            "score": 51263,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pier",
+            "score": 51262,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pedestrian bridge",
+            "score": 51261,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "meadow",
+            "score": 51260,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "windbreak",
+            "score": 51259,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "boccie",
+            "score": 51258,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "gazebo",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "gazeebo",
+            "score": 100,
+            "numSyllables": 3
+        },
+        {
+            "word": "gazabo",
+            "score": 95,
+            "numSyllables": 3
+        },
+        {
+            "word": "garbo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gossipy",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "goes by",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghazi",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gabo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gobbo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gazebos",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "grebo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gombo",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "gossib",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "cariboo",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "casaba",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "cozby",
+            "score": 78,
+            "numSyllables": 2
+        },
+        {
+            "word": "kazuo",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "kariba",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "sasebo",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "cassaba",
+            "score": 78,
+            "numSyllables": 3
+        },
+        {
+            "word": "gauzy",
+            "score": 77,
+            "numSyllables": 2
+        },
+        {
+            "word": "gossip",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosby",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gizmo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaza",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gumbo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gabi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gossips",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gosip",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gobby",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goosy",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ghazal",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "garba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gozo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "globo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gazoo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gobo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "grazia",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "goes up",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gaso",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guzzo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gambo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "godby",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "godbey",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gleba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gomba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "galba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gobbi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "galbo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "garibay",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "grabow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gabii",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gce",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "gazan",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gapo",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guzi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gmb",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "guilbault",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "garia",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "guilbeau",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gezi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "garbi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "goosby",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "guilbeault",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gasi",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "go-slow",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gobba",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "gossypium",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "jsb",
+            "score": 74,
+            "numSyllables": 3
+        },
+        {
+            "word": "combo",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "casio",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "haribo",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "carbo",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohiba",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "kazi",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "kasi",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "keziah",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "kezia",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "kasbah",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "cario",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "cozzie",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "fazio",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "carabao",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "kazee",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "khazi",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "busy bee",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "kibo",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "cascio",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "casia",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "karibu",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "cazo",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "cozzies",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosio",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "cazi",
+            "score": 73,
+            "numSyllables": 2
+        },
+        {
+            "word": "katipo",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "cacioppo",
+            "score": 73,
+            "numSyllables": 3
+        },
+        {
+            "word": "acebo",
+            "score": 73,
+            "numSyllables": 3
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "gazebo",
+            "score": 65333
+        },
+        {
+            "word": "gazabo",
+            "score": 31
+        },
+        {
+            "word": "gazeebo",
+            "score": 22
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "olla",
+            "score": 1686
+        },
+        {
+            "word": "bandstand",
+            "score": 1596
+        },
+        {
+            "word": "picnic",
+            "score": 1533
+        },
+        {
+            "word": "playground",
+            "score": 1527
+        },
+        {
+            "word": "footbridge",
+            "score": 1465
+        },
+        {
+            "word": "fountain",
+            "score": 1461
+        },
+        {
+            "word": "barbecue",
+            "score": 1458
+        },
+        {
+            "word": "pavilion",
+            "score": 1452
+        },
+        {
+            "word": "octagonal",
+            "score": 1441
+        },
+        {
+            "word": "walkway",
+            "score": 1417
+        },
+        {
+            "word": "overlooking",
+            "score": 1395
+        },
+        {
+            "word": "pond",
+            "score": 1394
+        },
+        {
+            "word": "barn",
+            "score": 1376
+        },
+        {
+            "word": "lawn",
+            "score": 1353
+        },
+        {
+            "word": "elm",
+            "score": 1348
+        },
+        {
+            "word": "greenhouse",
+            "score": 1344
+        },
+        {
+            "word": "garden",
+            "score": 1342
+        },
+        {
+            "word": "courthouse",
+            "score": 1339
+        },
+        {
+            "word": "trails",
+            "score": 1337
+        },
+        {
+            "word": "planted",
+            "score": 1336
+        },
+        {
+            "word": "tables",
+            "score": 1334
+        },
+        {
+            "word": "shed",
+            "score": 1330
+        },
+        {
+            "word": "pier",
+            "score": 1320
+        },
+        {
+            "word": "focal",
+            "score": 1310
+        },
+        {
+            "word": "softball",
+            "score": 1303
+        },
+        {
+            "word": "gardens",
+            "score": 1298
+        },
+        {
+            "word": "park",
+            "score": 1297
+        },
+        {
+            "word": "plaza",
+            "score": 1294
+        },
+        {
+            "word": "recreation",
+            "score": 1289
+        },
+        {
+            "word": "scenic",
+            "score": 1282
+        },
+        {
+            "word": "carriage",
+            "score": 1280
+        },
+        {
+            "word": "plaque",
+            "score": 1279
+        },
+        {
+            "word": "terrace",
+            "score": 1277
+        },
+        {
+            "word": "register",
+            "score": 1272
+        },
+        {
+            "word": "dock",
+            "score": 1271
+        },
+        {
+            "word": "cafe",
+            "score": 1267
+        },
+        {
+            "word": "commemorate",
+            "score": 1265
+        },
+        {
+            "word": "brick",
+            "score": 1264
+        },
+        {
+            "word": "cottage",
+            "score": 1262
+        },
+        {
+            "word": "renovated",
+            "score": 1258
+        },
+        {
+            "word": "pool",
+            "score": 1254
+        },
+        {
+            "word": "seating",
+            "score": 1246
+        },
+        {
+            "word": "trees",
+            "score": 1245
+        },
+        {
+            "word": "garage",
+            "score": 1242
+        },
+        {
+            "word": "historic",
+            "score": 1241
+        },
+        {
+            "word": "tornado",
+            "score": 1236
+        },
+        {
+            "word": "pocket",
+            "score": 1235
+        },
+        {
+            "word": "stands",
+            "score": 1234
+        },
+        {
+            "word": "listed",
+            "score": 1232
+        },
+        {
+            "word": "trail",
+            "score": 1228
+        },
+        {
+            "word": "shelter",
+            "score": 1225
+        },
+        {
+            "word": "grounds",
+            "score": 1220
+        },
+        {
+            "word": "restored",
+            "score": 1218
+        },
+        {
+            "word": "constructed",
+            "score": 1215
+        },
+        {
+            "word": "ruins",
+            "score": 1214
+        },
+        {
+            "word": "erected",
+            "score": 1210
+        },
+        {
+            "word": "downtown",
+            "score": 1208
+        },
+        {
+            "word": "gathering",
+            "score": 1206
+        },
+        {
+            "word": "lucas",
+            "score": 1201
+        },
+        {
+            "word": "outdoor",
+            "score": 1200
+        },
+        {
+            "word": "statue",
+            "score": 1198
+        },
+        {
+            "word": "decorated",
+            "score": 1196
+        },
+        {
+            "word": "inn",
+            "score": 1194
+        },
+        {
+            "word": "hosts",
+            "score": 1192
+        },
+        {
+            "word": "corner",
+            "score": 1189
+        },
+        {
+            "word": "kitchen",
+            "score": 1185
+        },
+        {
+            "word": "roof",
+            "score": 1180
+        },
+        {
+            "word": "sculpture",
+            "score": 1176
+        },
+        {
+            "word": "enjoy",
+            "score": 1175
+        },
+        {
+            "word": "memorial",
+            "score": 1174
+        },
+        {
+            "word": "wooden",
+            "score": 1172
+        },
+        {
+            "word": "walking",
+            "score": 1170
+        },
+        {
+            "word": "landmark",
+            "score": 1167
+        },
+        {
+            "word": "swimming",
+            "score": 1165
+        },
+        {
+            "word": "fishing",
+            "score": 1164
+        },
+        {
+            "word": "house",
+            "score": 1163
+        },
+        {
+            "word": "places",
+            "score": 1162
+        },
+        {
+            "word": "tennis",
+            "score": 1161
+        },
+        {
+            "word": "surrounded",
+            "score": 1157
+        },
+        {
+            "word": "demolished",
+            "score": 1153
+        },
+        {
+            "word": "mansion",
+            "score": 1151
+        },
+        {
+            "word": "built",
+            "score": 1148
+        },
+        {
+            "word": "property",
+            "score": 1147
+        },
+        {
+            "word": "visitors",
+            "score": 1146
+        },
+        {
+            "word": "golf",
+            "score": 1139
+        },
+        {
+            "word": "lights",
+            "score": 1136
+        },
+        {
+            "word": "courts",
+            "score": 1135
+        },
+        {
+            "word": "dedicated",
+            "score": 1134
+        },
+        {
+            "word": "lodge",
+            "score": 1133
+        },
+        {
+            "word": "flower",
+            "score": 1131
+        },
+        {
+            "word": "square",
+            "score": 1129
+        },
+        {
+            "word": "gift",
+            "score": 1126
+        },
+        {
+            "word": "structure",
+            "score": 1125
+        },
+        {
+            "word": "tea",
+            "score": 1122
+        },
+        {
+            "word": "entrance",
+            "score": 1121
+        },
+        {
+            "word": "preserved",
+            "score": 1120
+        },
+        {
+            "word": "manor",
+            "score": 1115
+        },
+        {
+            "word": "added",
+            "score": 1111
+        },
+        {
+            "word": "stone",
+            "score": 1110
+        },
+        {
+            "word": "woods",
+            "score": 1108
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "gazebo",
+            "score": 65333
+        },
+        {
+            "word": "gazebos",
+            "score": 64706
+        },
+        {
+            "word": "gazeboes",
+            "score": 64678
+        },
+        {
+            "word": "gameboard",
+            "score": 214
+        },
+        {
+            "word": "gazehound",
+            "score": 41
+        },
+        {
+            "word": "gazabo",
+            "score": 31
+        },
+        {
+            "word": "gameboy",
+            "score": 27
+        },
+        {
+            "word": "gazeebo",
+            "score": 22
+        },
+        {
+            "word": "gameboys",
+            "score": 3
+        }
+    ]
+}

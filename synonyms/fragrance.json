@@ -1,0 +1,1462 @@
+{
+    "term": "fragrance",
+    "means_like": [
+        {
+            "word": "perfume",
+            "score": 105522,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "scent",
+            "score": 99601,
+            "tags": [
+                "syn",
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "aroma",
+            "score": 95111,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "sweetness",
+            "score": 89232,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "redolence",
+            "score": 88991,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "bouquet",
+            "score": 88731,
+            "tags": [
+                "syn",
+                "n"
+            ]
+        },
+        {
+            "word": "perfumes",
+            "score": 74261,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cologne",
+            "score": 71684,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fragrant",
+            "score": 66848,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "attar",
+            "score": 65931,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aromatic",
+            "score": 65825,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "smell",
+            "score": 63362,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "odor",
+            "score": 63052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flavor",
+            "score": 62178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "incense",
+            "score": 62072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spice",
+            "score": 60715,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flavour",
+            "score": 57217,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carton",
+            "score": 56840,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "xiang",
+            "score": 55828,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cartridge",
+            "score": 54438,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stuff",
+            "score": 53815,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hsiang",
+            "score": 52685,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thimble",
+            "score": 51997,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flavouring",
+            "score": 50788,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "huong",
+            "score": 50788,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shangri-la",
+            "score": 50788,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eau de toilette",
+            "score": 50786,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "perfumery",
+            "score": 50784,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chypre",
+            "score": 50782,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aftershave",
+            "score": 50781,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "skincare",
+            "score": 50780,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "deodorant",
+            "score": 50779,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neroli",
+            "score": 50778,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aftershave lotion",
+            "score": 50777,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aromatherapy",
+            "score": 50776,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail enamel",
+            "score": 50775,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tuberose",
+            "score": 50774,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "body lotion",
+            "score": 50773,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bergamot",
+            "score": 50772,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gardenia",
+            "score": 50771,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lavender",
+            "score": 50770,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "jasmine",
+            "score": 50769,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tonka bean",
+            "score": 50768,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scents",
+            "score": 50766,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "toilet water",
+            "score": 50765,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmetics",
+            "score": 50763,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumers",
+            "score": 50762,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "parfum",
+            "score": 50761,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rose oil",
+            "score": 50760,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ambrein",
+            "score": 50759,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "overscented",
+            "score": 50758,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scentful",
+            "score": 50757,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "olfactory property",
+            "score": 50756,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lingerie",
+            "score": 50755,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "musks",
+            "score": 50754,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumer",
+            "score": 50753,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "haircare",
+            "score": 50752,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pulvil",
+            "score": 50751,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pulvillio",
+            "score": 50750,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "napha water",
+            "score": 50749,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "elemis",
+            "score": 50748,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beauty",
+            "score": 50747,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "perfumy",
+            "score": 50746,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sephora",
+            "score": 50745,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nivea",
+            "score": 50744,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "freesia",
+            "score": 50743,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "teint",
+            "score": 50742,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "phytomer",
+            "score": 50741,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dkny",
+            "score": 50740,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "shampoo",
+            "score": 50739,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "oil of wintergreen",
+            "score": 50738,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moisturizing",
+            "score": 50737,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eau de cologne",
+            "score": 50736,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "orange blossom",
+            "score": 50735,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lotions",
+            "score": 50734,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outscent",
+            "score": 50733,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ghd",
+            "score": 50732,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "myrrhic",
+            "score": 50731,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hand cream",
+            "score": 50730,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patchouli",
+            "score": 50729,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nephria",
+            "score": 50728,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rosewater",
+            "score": 50727,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bay rum",
+            "score": 50726,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "empasm",
+            "score": 50725,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "creams",
+            "score": 50723,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "essences",
+            "score": 50722,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nail polish",
+            "score": 50721,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "spritzer",
+            "score": 50720,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lip gloss",
+            "score": 50719,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aromatics",
+            "score": 50718,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pret",
+            "score": 50717,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maybelline",
+            "score": 50716,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "feminine",
+            "score": 50715,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "fresheners",
+            "score": 50714,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loreal",
+            "score": 50713,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "maccaboy",
+            "score": 50712,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vetiver",
+            "score": 50711,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "botanicals",
+            "score": 50710,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mascaras",
+            "score": 50709,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cedarwood",
+            "score": 50708,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "fragrance",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "fragrant",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fragrancy",
+            "score": 85,
+            "numSyllables": 3
+        },
+        {
+            "word": "fragranced",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fragrances",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "frequence",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "flagrance",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "fractions",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fracas",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "ference",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "frictions",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "furtherance",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "frigon",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "freegan",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fragen",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fraken",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "frag grenade",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "freight trains",
+            "score": 75,
+            "numSyllables": 2
+        },
+        {
+            "word": "fragrancies",
+            "score": 75,
+            "numSyllables": 3
+        },
+        {
+            "word": "ferraris",
+            "score": 72,
+            "numSyllables": 3
+        },
+        {
+            "word": "frequenz",
+            "score": 72,
+            "numSyllables": 2
+        },
+        {
+            "word": "farraginous",
+            "score": 71,
+            "numSyllables": 4
+        },
+        {
+            "word": "fraction",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "friction",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "frequency",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "florence",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "flagrant",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fergus",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fractious",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "recurrence",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fagan",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "frequents",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "faience",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "free rein",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "freakiness",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "freshens",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "foie gras",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fagus",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "frigates",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fragrantly",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "feagan",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fervence",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "feracious",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fergerson",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "furgerson",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "flagrancy",
+            "score": 70,
+            "numSyllables": 3
+        },
+        {
+            "word": "fergon",
+            "score": 70,
+            "numSyllables": 2
+        },
+        {
+            "word": "fronce",
+            "score": 70,
+            "numSyllables": 1
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "fragrance",
+            "score": 130011
+        },
+        {
+            "word": "flagrance",
+            "score": 64740
+        },
+        {
+            "word": "fragrancy",
+            "score": 64681
+        },
+        {
+            "word": "fragrante",
+            "score": 64665
+        },
+        {
+            "word": "fragrant",
+            "score": 555
+        },
+        {
+            "word": "flagrante",
+            "score": 127
+        },
+        {
+            "word": "fragrances",
+            "score": 82
+        },
+        {
+            "word": "flagrancy",
+            "score": 79
+        },
+        {
+            "word": "vagrance",
+            "score": 71
+        },
+        {
+            "word": "fragrans",
+            "score": 37
+        },
+        {
+            "word": "fragranced",
+            "score": 18
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "perfumer",
+            "score": 1767
+        },
+        {
+            "word": "bergamot",
+            "score": 1744
+        },
+        {
+            "word": "perfumery",
+            "score": 1710
+        },
+        {
+            "word": "perfume",
+            "score": 1708
+        },
+        {
+            "word": "scents",
+            "score": 1704
+        },
+        {
+            "word": "scent",
+            "score": 1623
+        },
+        {
+            "word": "eau",
+            "score": 1593
+        },
+        {
+            "word": "radiance",
+            "score": 1582
+        },
+        {
+            "word": "musk",
+            "score": 1577
+        },
+        {
+            "word": "sandalwood",
+            "score": 1572
+        },
+        {
+            "word": "chanel",
+            "score": 1556
+        },
+        {
+            "word": "arden",
+            "score": 1544
+        },
+        {
+            "word": "incense",
+            "score": 1537
+        },
+        {
+            "word": "fragrant",
+            "score": 1535
+        },
+        {
+            "word": "jasmine",
+            "score": 1531
+        },
+        {
+            "word": "dior",
+            "score": 1530
+        },
+        {
+            "word": "aroma",
+            "score": 1528
+        },
+        {
+            "word": "dolce",
+            "score": 1526
+        },
+        {
+            "word": "fleur",
+            "score": 1518
+        },
+        {
+            "word": "homme",
+            "score": 1513
+        },
+        {
+            "word": "cosmetics",
+            "score": 1509
+        },
+        {
+            "word": "juicy",
+            "score": 1491
+        },
+        {
+            "word": "lauder",
+            "score": 1485
+        },
+        {
+            "word": "vanilla",
+            "score": 1480
+        },
+        {
+            "word": "glow",
+            "score": 1478
+        },
+        {
+            "word": "couture",
+            "score": 1468
+        },
+        {
+            "word": "aromatic",
+            "score": 1466
+        },
+        {
+            "word": "floral",
+            "score": 1459
+        },
+        {
+            "word": "odor",
+            "score": 1457
+        },
+        {
+            "word": "oils",
+            "score": 1450
+        },
+        {
+            "word": "smell",
+            "score": 1436
+        },
+        {
+            "word": "lavender",
+            "score": 1430
+        },
+        {
+            "word": "spears",
+            "score": 1429
+        },
+        {
+            "word": "bottle",
+            "score": 1423
+        },
+        {
+            "word": "flavor",
+            "score": 1413
+        },
+        {
+            "word": "cosmetic",
+            "score": 1407
+        },
+        {
+            "word": "orchid",
+            "score": 1396
+        },
+        {
+            "word": "blossom",
+            "score": 1393
+        },
+        {
+            "word": "plum",
+            "score": 1390
+        },
+        {
+            "word": "ingredient",
+            "score": 1382
+        },
+        {
+            "word": "gaga",
+            "score": 1369
+        },
+        {
+            "word": "petals",
+            "score": 1355
+        },
+        {
+            "word": "cologne",
+            "score": 1346
+        },
+        {
+            "word": "ingredients",
+            "score": 1344
+        },
+        {
+            "word": "flower",
+            "score": 1342
+        },
+        {
+            "word": "sexy",
+            "score": 1340
+        },
+        {
+            "word": "vogue",
+            "score": 1326
+        },
+        {
+            "word": "flowers",
+            "score": 1323
+        },
+        {
+            "word": "accessories",
+            "score": 1320
+        },
+        {
+            "word": "endorsed",
+            "score": 1303
+        },
+        {
+            "word": "roses",
+            "score": 1296
+        },
+        {
+            "word": "calvin",
+            "score": 1293
+        },
+        {
+            "word": "klein",
+            "score": 1292
+        },
+        {
+            "word": "mandarin",
+            "score": 1291
+        },
+        {
+            "word": "pink",
+            "score": 1285
+        },
+        {
+            "word": "amber",
+            "score": 1281
+        },
+        {
+            "word": "beauty",
+            "score": 1279
+        },
+        {
+            "word": "blend",
+            "score": 1278
+        },
+        {
+            "word": "brands",
+            "score": 1276
+        },
+        {
+            "word": "feminine",
+            "score": 1273
+        },
+        {
+            "word": "flowering",
+            "score": 1265
+        },
+        {
+            "word": "woody",
+            "score": 1257
+        },
+        {
+            "word": "packaging",
+            "score": 1252
+        },
+        {
+            "word": "taste",
+            "score": 1251
+        },
+        {
+            "word": "ads",
+            "score": 1250
+        },
+        {
+            "word": "reminiscent",
+            "score": 1246
+        },
+        {
+            "word": "notes",
+            "score": 1239
+        },
+        {
+            "word": "synthetic",
+            "score": 1237
+        },
+        {
+            "word": "chemicals",
+            "score": 1235
+        },
+        {
+            "word": "oriental",
+            "score": 1231
+        },
+        {
+            "word": "carey",
+            "score": 1229
+        },
+        {
+            "word": "compounds",
+            "score": 1226
+        },
+        {
+            "word": "fruits",
+            "score": 1225
+        },
+        {
+            "word": "sweet",
+            "score": 1223
+        },
+        {
+            "word": "tea",
+            "score": 1222
+        },
+        {
+            "word": "brand",
+            "score": 1217
+        },
+        {
+            "word": "fashion",
+            "score": 1209
+        },
+        {
+            "word": "promotional",
+            "score": 1208
+        },
+        {
+            "word": "stores",
+            "score": 1201
+        },
+        {
+            "word": "signature",
+            "score": 1190
+        },
+        {
+            "word": "fruit",
+            "score": 1187
+        },
+        {
+            "word": "essential",
+            "score": 1184
+        },
+        {
+            "word": "garden",
+            "score": 1182
+        },
+        {
+            "word": "launched",
+            "score": 1180
+        },
+        {
+            "word": "soap",
+            "score": 1177
+        },
+        {
+            "word": "celebrity",
+            "score": 1175
+        },
+        {
+            "word": "products",
+            "score": 1174
+        },
+        {
+            "word": "fantasy",
+            "score": 1169
+        },
+        {
+            "word": "bath",
+            "score": 1161
+        },
+        {
+            "word": "fresh",
+            "score": 1160
+        },
+        {
+            "word": "achievements",
+            "score": 1155
+        },
+        {
+            "word": "designer",
+            "score": 1154
+        },
+        {
+            "word": "skin",
+            "score": 1151
+        },
+        {
+            "word": "compound",
+            "score": 1149
+        },
+        {
+            "word": "tommy",
+            "score": 1146
+        },
+        {
+            "word": "clothing",
+            "score": 1144
+        },
+        {
+            "word": "rose",
+            "score": 1143
+        },
+        {
+            "word": "elizabeth",
+            "score": 1141
+        },
+        {
+            "word": "exclusively",
+            "score": 1135
+        },
+        {
+            "word": "advertising",
+            "score": 1131
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "fragrance",
+            "score": 130011
+        },
+        {
+            "word": "fragrances",
+            "score": 129400
+        },
+        {
+            "word": "fragranced",
+            "score": 129336
+        },
+        {
+            "word": "fragrance-free",
+            "score": 129323
+        },
+        {
+            "word": "fragrance oil",
+            "score": 129321
+        },
+        {
+            "word": "fragrance free",
+            "score": 129319
+        },
+        {
+            "word": "flagrance",
+            "score": 64740
+        },
+        {
+            "word": "fragrancy",
+            "score": 64681
+        },
+        {
+            "word": "fragrancies",
+            "score": 64669
+        },
+        {
+            "word": "fragrante",
+            "score": 64665
+        }
+    ]
+}

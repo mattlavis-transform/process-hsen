@@ -1,0 +1,1289 @@
+{
+    "term": "coa",
+    "means_like": [
+        {
+            "word": "eto",
+            "score": 64589,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sh",
+            "score": 61329,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "acyl",
+            "score": 59718,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "acetyl",
+            "score": 59412,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "pcs",
+            "score": 59208,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hmg",
+            "score": 57210,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "soa",
+            "score": 57055,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "dehydrogenases",
+            "score": 56252,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eco",
+            "score": 53448,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agreement",
+            "score": 53242,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cop",
+            "score": 52865,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aoc",
+            "score": 52109,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "acetoacetyl",
+            "score": 51196,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "aco",
+            "score": 51196,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "acrylyl",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "butyryl",
+            "score": 51196,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cco",
+            "score": 51196,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "crotonyl",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ecas",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "malonyl",
+            "score": 51196,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "oac",
+            "score": 51196,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "oce",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "propionyl",
+            "score": 51196,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "stearyl",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "succinyl",
+            "score": 51196,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "synthetases",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "thioesters",
+            "score": 51196,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fac",
+            "score": 51195,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rca",
+            "score": 51195,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nar",
+            "score": 51194,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nis",
+            "score": 51193,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ted",
+            "score": 51192,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ral",
+            "score": 51191,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gan",
+            "score": 51190,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ters",
+            "score": 51189,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tion",
+            "score": 51188,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ser",
+            "score": 51187,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ide",
+            "score": 51186,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ture",
+            "score": 51185,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cre",
+            "score": 51184,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ble",
+            "score": 51183,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pha",
+            "score": 51182,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ent",
+            "score": 51181,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vir",
+            "score": 51180,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ene",
+            "score": 51179,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tes",
+            "score": 51178,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ting",
+            "score": 51177,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "milton",
+            "score": 51176,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "nies",
+            "score": 51175,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ges",
+            "score": 51174,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "benjamin",
+            "score": 51173,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "lum",
+            "score": 51172,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "qed",
+            "score": 51171,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tas",
+            "score": 51170,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ria",
+            "score": 51169,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cri",
+            "score": 51168,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mang",
+            "score": 51167,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sion",
+            "score": 51166,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dol",
+            "score": 51165,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kes",
+            "score": 51164,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ngu",
+            "score": 51163,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tors",
+            "score": 51162,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "han",
+            "score": 51161,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "choi",
+            "score": 51160,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "pai",
+            "score": 51159,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nts",
+            "score": 51158,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ple",
+            "score": 51157,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ver",
+            "score": 51156,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rou",
+            "score": 51155,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tant",
+            "score": 51154,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pul",
+            "score": 51153,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kan",
+            "score": 51152,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "sinn",
+            "score": 51151,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "fis",
+            "score": 51150,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ely",
+            "score": 51149,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kif",
+            "score": 51148,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hin",
+            "score": 51147,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "vers",
+            "score": 51146,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "afta",
+            "score": 51145,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "bine",
+            "score": 51144,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "taa",
+            "score": 51143,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ero",
+            "score": 51142,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hoa",
+            "score": 51141,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ber",
+            "score": 51140,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "prin",
+            "score": 51139,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coe",
+            "score": 51138,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "ora",
+            "score": 51137,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ron",
+            "score": 51136,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "chua",
+            "score": 51135,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crea",
+            "score": 51134,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gue",
+            "score": 51133,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dilo",
+            "score": 51132,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ded",
+            "score": 51131,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nus",
+            "score": 51130,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bou",
+            "score": 51129,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ents",
+            "score": 51128,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ved",
+            "score": 51127,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "tain",
+            "score": 51126,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atkins",
+            "score": 51125,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ves",
+            "score": 51124,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "coa",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "koa",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "cowa",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kowa",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "ccoa",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaia",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "chua",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kiah",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "caya",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cua",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kua",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "coey",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "khaya",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "koya",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "cuya",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "qia",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "k a",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kaaa",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "koei",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kowai",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "kowi",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "goa",
+            "score": 93,
+            "numSyllables": 2
+        },
+        {
+            "word": "chui",
+            "score": 92,
+            "numSyllables": 2
+        },
+        {
+            "word": "coat",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "code",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coach",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coal",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cone",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coma",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "comb",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cole",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cola",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "co",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cove",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "ca",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohen",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coda",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cose",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cote",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coed",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coul",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "colla",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "colle",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coem",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "copa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cosa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "combe",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cona",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "chio",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cota",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coppa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coas",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coad",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coka",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coq",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coes",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coak",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cocke",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "caio",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cova",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coche",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cco",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coba",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cocca",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cau",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coac",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coala",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coan",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coel",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cayo",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coam",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cko",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coale",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cooee",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cooey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "couey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "caughey",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coag",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cofa",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "co-",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coeus",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coia",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "coroa",
+            "score": 90,
+            "numSyllables": 3
+        },
+        {
+            "word": "coccia",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "co-owner",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cohl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coj",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coie",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "copha",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cauma",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ccos",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "cohse",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "coja",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "cogue",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "comah",
+            "score": 90,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "coa",
+            "score": 176
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "coat",
+            "score": 2331
+        },
+        {
+            "word": "coach",
+            "score": 2124
+        },
+        {
+            "word": "coalesce",
+            "score": 1913
+        },
+        {
+            "word": "coast",
+            "score": 1757
+        },
+        {
+            "word": "coarse",
+            "score": 1466
+        },
+        {
+            "word": "coal",
+            "score": 1342
+        },
+        {
+            "word": "coax",
+            "score": 1322
+        },
+        {
+            "word": "coaster",
+            "score": 1167
+        },
+        {
+            "word": "coalition",
+            "score": 1030
+        },
+        {
+            "word": "coati",
+            "score": 744
+        }
+    ]
+}

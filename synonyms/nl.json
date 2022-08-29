@@ -1,0 +1,1274 @@
+{
+    "term": "nl",
+    "means_like": [
+        {
+            "word": "nh",
+            "score": 37789,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "browse",
+            "score": 31979,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bibl",
+            "score": 26365,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rhodus",
+            "score": 26365,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "soar",
+            "score": 26364,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "justification",
+            "score": 26364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ad hominem",
+            "score": 6364,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "alligator",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphisbaena",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amphora",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ananas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "andromeda",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "anemone",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "angelica",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "anhinga",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anoa",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aphrodite",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "arca",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astarte",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "aster",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astraea",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astragalus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "astros",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "athene",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "atlas",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atrium",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aula",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auricula",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auriga",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "axis",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ballista",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basiliscus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "basis",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bellona",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "beluga",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caecum",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "calendula",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "caligula",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "calliope",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cancer",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "canna",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capreolus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "card",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cassiopeia",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "catalpa",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chorea",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chroma",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chrysanthemum",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clemente",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "clepsydra",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clio",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "cloaca",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "clypeus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "col",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "colophon",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "comma",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "convolvulus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cornucopia",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corvus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cosmos",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cotyledon",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cuniculus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dialysis",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diana",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "drongo",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "echinus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "echo",
+            "score": 6364,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "egeria",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "electra",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eos",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ephemera",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "era",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "erato",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "erebus",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "eros",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eruca",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "euterpe",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "filipendulous",
+            "score": 6364
+        },
+        {
+            "word": "fimbria",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fistula",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "flagellum",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fomes",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "galago",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gecko",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gena",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "gingko",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gondola",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "grampus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "halcyon",
+            "score": 6364,
+            "tags": [
+                "adj",
+                "n"
+            ]
+        },
+        {
+            "word": "hecate",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "helix",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "herpes",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hesperus",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "hippopotamus",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ibis",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "inca",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "iter",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jacana",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "janus",
+            "score": 6364,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "kermes",
+            "score": 6364,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "null",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "nul",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "nulle",
+            "score": 100,
+            "numSyllables": 1
+        },
+        {
+            "word": "nil",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "nell",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "knell",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "nel",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "nill",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "nelle",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "knel",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "knill",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "nyl",
+            "score": 97,
+            "numSyllables": 1
+        },
+        {
+            "word": "nail",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nile",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kneel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neil",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "niall",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "knoll",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nole",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nol",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "niel",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nall",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "noll",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neill",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nool",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nale",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "knowl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neale",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nowl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nyle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "noell",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "knol",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nawl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "noil",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "kneale",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "knole",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neele",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "naal",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nael",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nolle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "knall",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neall",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nahl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nihl",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "nalle",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "neul",
+            "score": 95,
+            "numSyllables": 1
+        },
+        {
+            "word": "mull",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "mul",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "muhl",
+            "score": 93,
+            "numSyllables": 1
+        },
+        {
+            "word": "nung",
+            "score": 91,
+            "numSyllables": 1
+        },
+        {
+            "word": "mill",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "anal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "mel",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mil",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mell",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "annul",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nuh",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mille",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nial",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "annal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "newell",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "anel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "anul",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "anil",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "onal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nuch",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "melle",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nush",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "urnal",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nowell",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "mael",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nulled",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "newel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nulls",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "inl",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "anile",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "onel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "anele",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nerl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "mehl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nulph",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nowel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "enel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "knawel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nullah",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "onell",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "nurl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "inel",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "myl",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "nuller",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "lmn",
+            "score": 90,
+            "numSyllables": 1
+        },
+        {
+            "word": "aisle",
+            "score": 89,
+            "numSyllables": 1
+        },
+        {
+            "word": "ial",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "eyal",
+            "score": 89,
+            "numSyllables": 2
+        },
+        {
+            "word": "iall",
+            "score": 89,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "nl",
+            "score": 83
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "nl",
+            "score": 83
+        },
+        {
+            "word": "nlp",
+            "score": 277
+        },
+        {
+            "word": "nla",
+            "score": 79
+        },
+        {
+            "word": "nlm",
+            "score": 72
+        },
+        {
+            "word": "nlrb",
+            "score": 72
+        },
+        {
+            "word": "nlr",
+            "score": 57
+        },
+        {
+            "word": "nle",
+            "score": 56
+        },
+        {
+            "word": "nlf",
+            "score": 47
+        },
+        {
+            "word": "nls",
+            "score": 39
+        },
+        {
+            "word": "nlc",
+            "score": 36
+        }
+    ]
+}

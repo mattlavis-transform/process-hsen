@@ -1,0 +1,800 @@
+{
+    "term": "security camera",
+    "means_like": [
+        {
+            "word": "action",
+            "score": 11691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cam",
+            "score": 11691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cover",
+            "score": 11691,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "scan",
+            "score": 11691,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "screen",
+            "score": 11691,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sensor",
+            "score": 11626,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "house",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "load",
+            "score": 11555,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aaa",
+            "score": 11521,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "leak",
+            "score": 11521,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "adjudication",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "agency security",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "alarm",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "arm",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "armed",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "assurance",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "atm",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "audit",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "auditing",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v",
+                "adj"
+            ]
+        },
+        {
+            "word": "aviation",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bail",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "bed",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bef",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "board",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bond",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brd",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "break",
+            "score": 10623,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "building",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "call",
+            "score": 10623,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "censor",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "censoring",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charge",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charged",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "charging",
+            "score": 10623,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "chattel",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "check",
+            "score": 10623,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "checking",
+            "score": 10623,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "cheka",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "classified",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "cocooning",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "collective security",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "compromise",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "compromised",
+            "score": 10623,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "compromising",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "confidence",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "confidential",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "confiscate",
+            "score": 10623,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "continuity",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "control",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "controlled",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "controlling",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "corral",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "crack",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "cross",
+            "score": 10623,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "custody",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dam",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "debenture",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "derivative",
+            "score": 10623,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "document",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "eavesdropping",
+            "score": 10623,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "fence",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fica",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "firewall",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gateway",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gestapo",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "government security",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "guard",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hack",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "hacking",
+            "score": 10623,
+            "tags": [
+                "v",
+                "n"
+            ]
+        },
+        {
+            "word": "hasp",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "huddle",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "huddled",
+            "score": 10623,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "impound",
+            "score": 10623,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "impounding",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ins",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "insurance",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "intelligence",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ipsec",
+            "score": 10623,
+            "tags": [
+                "n",
+                "adj",
+                "prop"
+            ]
+        },
+        {
+            "word": "issue",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "janitor",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "keypad",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kgb",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "latch",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "levee",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "linchpin",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lock",
+            "score": 10623,
+            "tags": [
+                "n",
+                "v"
+            ]
+        },
+        {
+            "word": "lynchpin",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "market",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "marshals",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "medicare",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "microdot",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "moat",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "monetize",
+            "score": 10623,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "monitoring",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mortgage",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mortgaging",
+            "score": 10623,
+            "tags": [
+                "v"
+            ]
+        },
+        {
+            "word": "mps",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ne exeat",
+            "score": 10623
+        },
+        {
+            "word": "network",
+            "score": 10623,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "nsa",
+            "score": 10623,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "security guard",
+            "score": 70,
+            "numSyllables": 5
+        },
+        {
+            "word": "security force",
+            "score": 60,
+            "numSyllables": 5
+        },
+        {
+            "word": "security",
+            "score": 52,
+            "numSyllables": 4
+        },
+        {
+            "word": "securitization",
+            "score": 45,
+            "numSyllables": 6
+        },
+        {
+            "word": "securitas",
+            "score": 45,
+            "numSyllables": 4
+        },
+        {
+            "word": "securite",
+            "score": 40,
+            "numSyllables": 3
+        },
+        {
+            "word": "secretary",
+            "score": 39,
+            "numSyllables": 4
+        },
+        {
+            "word": "secretory",
+            "score": 37,
+            "numSyllables": 4
+        },
+        {
+            "word": "secret santa",
+            "score": 37,
+            "numSyllables": 4
+        },
+        {
+            "word": "secretarie",
+            "score": 32,
+            "numSyllables": 4
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "security camera",
+            "score": 129330
+        }
+    ],
+    "triggered_by": [],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "security camera",
+            "score": 129330
+        }
+    ]
+}

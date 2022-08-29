@@ -1,0 +1,1838 @@
+{
+    "term": "earrings",
+    "means_like": [
+        {
+            "word": "dangly",
+            "score": 46994,
+            "tags": [
+                "adv",
+                "adj"
+            ]
+        },
+        {
+            "word": "rings",
+            "score": 45547,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "chandelier",
+            "score": 45440,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "buckles",
+            "score": 42838,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "curls",
+            "score": 42469,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ears",
+            "score": 38463,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "loops",
+            "score": 37255,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "counterparts",
+            "score": 32808,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "necklace",
+            "score": 31099,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "outstanding",
+            "score": 31099,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "pending",
+            "score": 31099,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "remaining",
+            "score": 31099,
+            "tags": [
+                "adj"
+            ]
+        },
+        {
+            "word": "brooches",
+            "score": 31098,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "brooch",
+            "score": 31097,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pendant",
+            "score": 31096,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "bangles",
+            "score": 31095,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewelry",
+            "score": 31094,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "rhinestones",
+            "score": 31093,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "wristlet",
+            "score": 31092,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "headpiece",
+            "score": 31091,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dresses",
+            "score": 31090,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jewels",
+            "score": 31089,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "neckpiece",
+            "score": 31088,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "solitaires",
+            "score": 31087,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "diamante",
+            "score": 31086,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sterling silver",
+            "score": 31085,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sequin",
+            "score": 31084,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "citrine",
+            "score": 31083,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "barrette",
+            "score": 31082,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cabochon",
+            "score": 31081,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "capelet",
+            "score": 31080,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bracelet",
+            "score": 31079,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "hairband",
+            "score": 31078,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "blouse",
+            "score": 31077,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "baubles",
+            "score": 31076,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "costume jewelry",
+            "score": 31075,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "pearls",
+            "score": 31074,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "peridot",
+            "score": 31073,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cufflink",
+            "score": 31072,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "charmeuse",
+            "score": 31071,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "handbag",
+            "score": 31070,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "watchband",
+            "score": 31069,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "leggings",
+            "score": 31068,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lockets",
+            "score": 31067,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "briolette",
+            "score": 31066,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fascinator",
+            "score": 31065,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "topaz",
+            "score": 31064,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "beads",
+            "score": 31063,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillettes",
+            "score": 31062,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "tiaras",
+            "score": 31061,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "engagement ring",
+            "score": 31060,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "smoky quartz",
+            "score": 31059,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "earings",
+            "score": 31058,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "amethysts",
+            "score": 31057,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "updo",
+            "score": 31056,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "coral necklace",
+            "score": 31055,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "cocktail dress",
+            "score": 31054,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "turquoise",
+            "score": 31053,
+            "tags": [
+                "n",
+                "adj",
+                "v"
+            ]
+        },
+        {
+            "word": "grosgrain",
+            "score": 31052,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "satin",
+            "score": 31051,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "ornaments",
+            "score": 31050,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "suspender belt",
+            "score": 31049,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aventurine",
+            "score": 31048,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "anklets",
+            "score": 31047,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bling",
+            "score": 31046,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "jeans",
+            "score": 31045,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mink coat",
+            "score": 31044,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lucite",
+            "score": 31043,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "drapey",
+            "score": 31042,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sunglasses",
+            "score": 31041,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bustier",
+            "score": 31040,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "slingbacks",
+            "score": 31039,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "dolman sleeve",
+            "score": 31038,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "harem pants",
+            "score": 31037,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "lurex",
+            "score": 31036,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "paillette",
+            "score": 31035,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "organdy",
+            "score": 31034,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "fuchsia",
+            "score": 31033,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "camisole",
+            "score": 31032,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "bob wig",
+            "score": 31031,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "mary janes",
+            "score": 31030,
+            "tags": [
+                "n",
+                "prop"
+            ]
+        },
+        {
+            "word": "snuffbox",
+            "score": 31029,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "scrunchie",
+            "score": 31028,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "kidskin",
+            "score": 31027,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "aquamarine",
+            "score": 31026,
+            "tags": [
+                "n",
+                "adj"
+            ]
+        },
+        {
+            "word": "underskirt",
+            "score": 31025,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "mandarin collar",
+            "score": 31024,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "carnelian",
+            "score": 31023,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "patent leather",
+            "score": 31022,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corsage",
+            "score": 31021,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "sandals",
+            "score": 31020,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "emeralds",
+            "score": 31019,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "gemstones",
+            "score": 31018,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "frock",
+            "score": 31017,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "broderie anglaise",
+            "score": 31016,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "stickpin",
+            "score": 31015,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "birthstones",
+            "score": 31014,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "onyx",
+            "score": 31013,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "corset",
+            "score": 31012,
+            "tags": [
+                "n"
+            ]
+        },
+        {
+            "word": "semiprecious",
+            "score": 31011,
+            "tags": [
+                "n"
+            ]
+        }
+    ],
+    "sounds_like": [
+        {
+            "word": "earrings",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "earings",
+            "score": 100,
+            "numSyllables": 2
+        },
+        {
+            "word": "airings",
+            "score": 95,
+            "numSyllables": 2
+        },
+        {
+            "word": "earring",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "earing",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "hearings",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "orangs",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ear ring",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "key rings",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ear-ring",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "shearings",
+            "score": 90,
+            "numSyllables": 2
+        },
+        {
+            "word": "ahrens",
+            "score": 88,
+            "numSyllables": 2
+        },
+        {
+            "word": "frings",
+            "score": 88,
+            "numSyllables": 1
+        },
+        {
+            "word": "eras",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "eres",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "aarons",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "arens",
+            "score": 87,
+            "numSyllables": 2
+        },
+        {
+            "word": "bearings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "innings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "airing",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "erring",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eryn",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "pairings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "herrings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "eries",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "erose",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "barings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "orans",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "parings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "erim",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "iddings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "fairings",
+            "score": 85,
+            "numSyllables": 2
+        },
+        {
+            "word": "harangues",
+            "score": 84,
+            "numSyllables": 2
+        },
+        {
+            "word": "brings",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "grins",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "offerings",
+            "score": 83,
+            "numSyllables": 3
+        },
+        {
+            "word": "oring",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "trims",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "throngs",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "aring",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "grims",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "crims",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "moorings",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "oaring",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "owings",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "firings",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "o ring",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "sarongs",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "grimms",
+            "score": 83,
+            "numSyllables": 1
+        },
+        {
+            "word": "borings",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "o-ring",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "arils",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "arenz",
+            "score": 83,
+            "numSyllables": 2
+        },
+        {
+            "word": "reruns",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "isms",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "aras",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "serums",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "berens",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "erum",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "ihram",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "irun",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "isns",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "erunt",
+            "score": 82,
+            "numSyllables": 2
+        },
+        {
+            "word": "orals",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "ariels",
+            "score": 81,
+            "numSyllables": 2
+        },
+        {
+            "word": "ears",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "drums",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "cheering",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arrows",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crumbs",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "areas",
+            "score": 80,
+            "numSyllables": 3
+        },
+        {
+            "word": "aries",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "drams",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "aires",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "earphones",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "auras",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dearing",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arras",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "eers",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "dering",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "deering",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aeries",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aeris",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "clearings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "aerin",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "eddings",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "drms",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "aeros",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "ariss",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "dirhams",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arim",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "arendt",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "crems",
+            "score": 80,
+            "numSyllables": 1
+        },
+        {
+            "word": "currans",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "air hose",
+            "score": 80,
+            "numSyllables": 2
+        },
+        {
+            "word": "edgings",
+            "score": 80,
+            "numSyllables": 2
+        }
+    ],
+    "spelled_like": [
+        {
+            "word": "earrings",
+            "score": 129480
+        },
+        {
+            "word": "earnings",
+            "score": 65199
+        },
+        {
+            "word": "earring",
+            "score": 64973
+        },
+        {
+            "word": "earings",
+            "score": 64727
+        },
+        {
+            "word": "jarring",
+            "score": 1045
+        },
+        {
+            "word": "barring",
+            "score": 800
+        },
+        {
+            "word": "bearings",
+            "score": 522
+        },
+        {
+            "word": "erring",
+            "score": 354
+        },
+        {
+            "word": "earing",
+            "score": 316
+        },
+        {
+            "word": "warring",
+            "score": 284
+        },
+        {
+            "word": "earning",
+            "score": 238
+        },
+        {
+            "word": "learnings",
+            "score": 189
+        },
+        {
+            "word": "marring",
+            "score": 147
+        },
+        {
+            "word": "tarring",
+            "score": 100
+        },
+        {
+            "word": "hearings",
+            "score": 92
+        },
+        {
+            "word": "armings",
+            "score": 82
+        },
+        {
+            "word": "barings",
+            "score": 77
+        },
+        {
+            "word": "parring",
+            "score": 75
+        },
+        {
+            "word": "herrings",
+            "score": 65
+        },
+        {
+            "word": "darlings",
+            "score": 64
+        },
+        {
+            "word": "pearlings",
+            "score": 63
+        },
+        {
+            "word": "carvings",
+            "score": 60
+        },
+        {
+            "word": "markings",
+            "score": 60
+        },
+        {
+            "word": "airings",
+            "score": 58
+        },
+        {
+            "word": "garring",
+            "score": 57
+        },
+        {
+            "word": "warnings",
+            "score": 55
+        },
+        {
+            "word": "fairings",
+            "score": 45
+        },
+        {
+            "word": "carlings",
+            "score": 44
+        },
+        {
+            "word": "yearnings",
+            "score": 42
+        },
+        {
+            "word": "parings",
+            "score": 41
+        },
+        {
+            "word": "pairings",
+            "score": 35
+        },
+        {
+            "word": "earwigs",
+            "score": 33
+        },
+        {
+            "word": "yearlings",
+            "score": 30
+        },
+        {
+            "word": "ear-ring",
+            "score": 18
+        },
+        {
+            "word": "eastings",
+            "score": 18
+        },
+        {
+            "word": "harpings",
+            "score": 18
+        },
+        {
+            "word": "gearings",
+            "score": 16
+        },
+        {
+            "word": "partings",
+            "score": 16
+        },
+        {
+            "word": "harring",
+            "score": 15
+        },
+        {
+            "word": "ear ring",
+            "score": 9
+        },
+        {
+            "word": "wearings",
+            "score": 8
+        },
+        {
+            "word": "furrings",
+            "score": 7
+        },
+        {
+            "word": "parkings",
+            "score": 6
+        },
+        {
+            "word": "tearings",
+            "score": 4
+        },
+        {
+            "word": "eatings",
+            "score": 3
+        },
+        {
+            "word": "easings",
+            "score": 2
+        },
+        {
+            "word": "warmings",
+            "score": 2
+        },
+        {
+            "word": "darings",
+            "score": 1
+        },
+        {
+            "word": "warpings",
+            "score": 1
+        }
+    ],
+    "triggered_by": [
+        {
+            "word": "earlobe",
+            "score": 1808
+        },
+        {
+            "word": "earring",
+            "score": 1723
+        },
+        {
+            "word": "dangle",
+            "score": 1705
+        },
+        {
+            "word": "filigree",
+            "score": 1667
+        },
+        {
+            "word": "necklace",
+            "score": 1635
+        },
+        {
+            "word": "brooch",
+            "score": 1632
+        },
+        {
+            "word": "beads",
+            "score": 1583
+        },
+        {
+            "word": "scarves",
+            "score": 1577
+        },
+        {
+            "word": "hyacinth",
+            "score": 1572
+        },
+        {
+            "word": "pendant",
+            "score": 1567
+        },
+        {
+            "word": "bracelet",
+            "score": 1560
+        },
+        {
+            "word": "piercing",
+            "score": 1555
+        },
+        {
+            "word": "tattoos",
+            "score": 1533
+        },
+        {
+            "word": "tiara",
+            "score": 1527
+        },
+        {
+            "word": "studs",
+            "score": 1519
+        },
+        {
+            "word": "rings",
+            "score": 1511
+        },
+        {
+            "word": "lipstick",
+            "score": 1509
+        },
+        {
+            "word": "jewelry",
+            "score": 1507
+        },
+        {
+            "word": "jewellery",
+            "score": 1502
+        },
+        {
+            "word": "bead",
+            "score": 1490
+        },
+        {
+            "word": "pierced",
+            "score": 1480
+        },
+        {
+            "word": "pearls",
+            "score": 1469
+        },
+        {
+            "word": "pins",
+            "score": 1462
+        },
+        {
+            "word": "sapphire",
+            "score": 1457
+        },
+        {
+            "word": "ears",
+            "score": 1454
+        },
+        {
+            "word": "ornament",
+            "score": 1448
+        },
+        {
+            "word": "indra",
+            "score": 1444
+        },
+        {
+            "word": "wears",
+            "score": 1438
+        },
+        {
+            "word": "ear",
+            "score": 1433
+        },
+        {
+            "word": "diamonds",
+            "score": 1422
+        },
+        {
+            "word": "worn",
+            "score": 1414
+        },
+        {
+            "word": "belts",
+            "score": 1402
+        },
+        {
+            "word": "wore",
+            "score": 1395
+        },
+        {
+            "word": "madame",
+            "score": 1389
+        },
+        {
+            "word": "hats",
+            "score": 1380
+        },
+        {
+            "word": "accessories",
+            "score": 1377
+        },
+        {
+            "word": "jewels",
+            "score": 1375
+        },
+        {
+            "word": "garments",
+            "score": 1367
+        },
+        {
+            "word": "hair",
+            "score": 1362
+        },
+        {
+            "word": "trousers",
+            "score": 1358
+        },
+        {
+            "word": "nose",
+            "score": 1354
+        },
+        {
+            "word": "wear",
+            "score": 1349
+        },
+        {
+            "word": "fashionable",
+            "score": 1348
+        },
+        {
+            "word": "toe",
+            "score": 1344
+        },
+        {
+            "word": "gloves",
+            "score": 1336
+        },
+        {
+            "word": "dresses",
+            "score": 1333
+        },
+        {
+            "word": "shoes",
+            "score": 1323
+        },
+        {
+            "word": "glasses",
+            "score": 1318
+        },
+        {
+            "word": "buttons",
+            "score": 1307
+        },
+        {
+            "word": "pants",
+            "score": 1304
+        },
+        {
+            "word": "finger",
+            "score": 1297
+        },
+        {
+            "word": "precious",
+            "score": 1296
+        },
+        {
+            "word": "diamond",
+            "score": 1294
+        },
+        {
+            "word": "clothes",
+            "score": 1293
+        },
+        {
+            "word": "nickel",
+            "score": 1292
+        },
+        {
+            "word": "dress",
+            "score": 1288
+        },
+        {
+            "word": "shells",
+            "score": 1285
+        },
+        {
+            "word": "watches",
+            "score": 1280
+        },
+        {
+            "word": "wearing",
+            "score": 1278
+        },
+        {
+            "word": "clothing",
+            "score": 1270
+        },
+        {
+            "word": "pearl",
+            "score": 1267
+        },
+        {
+            "word": "jessica",
+            "score": 1258
+        },
+        {
+            "word": "elaborate",
+            "score": 1255
+        },
+        {
+            "word": "neck",
+            "score": 1253
+        },
+        {
+            "word": "coins",
+            "score": 1252
+        },
+        {
+            "word": "chains",
+            "score": 1251
+        },
+        {
+            "word": "feathers",
+            "score": 1249
+        },
+        {
+            "word": "dishes",
+            "score": 1247
+        },
+        {
+            "word": "goddess",
+            "score": 1239
+        },
+        {
+            "word": "silver",
+            "score": 1236
+        },
+        {
+            "word": "gift",
+            "score": 1231
+        },
+        {
+            "word": "shiva",
+            "score": 1230
+        },
+        {
+            "word": "cloth",
+            "score": 1228
+        },
+        {
+            "word": "gold",
+            "score": 1225
+        },
+        {
+            "word": "coral",
+            "score": 1222
+        },
+        {
+            "word": "decorated",
+            "score": 1220
+        },
+        {
+            "word": "copper",
+            "score": 1218
+        },
+        {
+            "word": "matching",
+            "score": 1217
+        },
+        {
+            "word": "belt",
+            "score": 1214
+        },
+        {
+            "word": "costume",
+            "score": 1208
+        },
+        {
+            "word": "shirt",
+            "score": 1205
+        },
+        {
+            "word": "wedding",
+            "score": 1201
+        },
+        {
+            "word": "metals",
+            "score": 1194
+        },
+        {
+            "word": "items",
+            "score": 1192
+        },
+        {
+            "word": "stones",
+            "score": 1191
+        },
+        {
+            "word": "shaped",
+            "score": 1189
+        },
+        {
+            "word": "symbols",
+            "score": 1185
+        },
+        {
+            "word": "gods",
+            "score": 1184
+        },
+        {
+            "word": "pink",
+            "score": 1182
+        },
+        {
+            "word": "ring",
+            "score": 1177
+        },
+        {
+            "word": "bce",
+            "score": 1175
+        },
+        {
+            "word": "louise",
+            "score": 1170
+        },
+        {
+            "word": "bronze",
+            "score": 1168
+        },
+        {
+            "word": "colored",
+            "score": 1164
+        },
+        {
+            "word": "tomb",
+            "score": 1160
+        },
+        {
+            "word": "burial",
+            "score": 1156
+        },
+        {
+            "word": "depicted",
+            "score": 1154
+        },
+        {
+            "word": "shoulder",
+            "score": 1152
+        },
+        {
+            "word": "carved",
+            "score": 1150
+        },
+        {
+            "word": "grave",
+            "score": 1147
+        }
+    ],
+    "suggestions": [],
+    "uri_template_suggestions": [
+        {
+            "word": "earrings",
+            "score": 129480
+        },
+        {
+            "word": "earnings",
+            "score": 65199
+        },
+        {
+            "word": "earring",
+            "score": 64973
+        },
+        {
+            "word": "earings",
+            "score": 64727
+        },
+        {
+            "word": "earnings report",
+            "score": 64691
+        },
+        {
+            "word": "earnings per share",
+            "score": 64690
+        },
+        {
+            "word": "earnings before taxes",
+            "score": 64680
+        },
+        {
+            "word": "earnings retention ratio",
+            "score": 64678
+        },
+        {
+            "word": "earnings before interest after taxes",
+            "score": 64667
+        },
+        {
+            "word": "earnings growth",
+            "score": 64667
+        }
+    ]
+}
